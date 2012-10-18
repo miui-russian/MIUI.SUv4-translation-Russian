@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="app_about_1">v4.0.15</string>
+    <string name="app_about_2">Copyright © 2012 miui.com, All Rights Reserved</string>
+    <string name="weather_notification">Оповещения о погоде</string>
+    <string name="location_notification">Оповещение о местонахождении</string>
+    <string name="enable_notification">Включить оповещение о местонахождении</string>
+    <string name="enable_notification_summary">Посылать системные уведомления при изменении погоды</string>
+    <string name="enable_notification_city">Будет открыто %s погодное уведомление, системное оповещение уведомления при изменении погоды</string>
+    <string name="sms_notification">SMS уведомление</string>
+    <string name="send_sms_notification">Отправка погоды</string>
+    <string name="send_sms_notification_summary">Отправить сегодняшний\'s прогноз погоды друзьям по СМС</string>
+    <string name="location_management">Местонахождение</string>
+    <string name="enable_gps">GPS</string>
+    <string name="add_city">Добавить город</string>
+    <string name="cancel">Закрыть</string>
+    <string name="menu_send_sms">Отправить</string>
+    <string name="app_love_sms_title">СМС</string>
+    <string name="app_love_view_title">Предпросмотр</string>
+    <string name="app_love_font_lng">%s</string>
+    <string name="app_nohave_net">Нет соединения с сетью</string>
+    <string name="app_unquiet_net">Соединение нестабильно. Попробуйте позже</string>
+    <string name="widget_loading">Нет данных о погоде</string>
+    <string name="act_find_city_hot_title">Популярные города</string>
+    <string name="act_find_city_title">Добавить город</string>
+    <string name="act_find_city_null_data">данный город отсутствует</string>
+    <string name="act_find_city_hint">Поиск по 2,400 горордам Китая</string>
+    <string name="act_set_city_find_side_on">Открыть определение местонахождения</string>
+    <string name="act_set_city_find_side">Обнаружение местонахождения...</string>
+    <string name="local_city">Местные города</string>
+    <string name="act_set_city_re_find_side">Relocating...</string>
+    <string name="act_set_city_find_side_error">Определить местонахождение не удалось</string>
+    <string name="act_city_find_gps_error">Ошибка. Выберите вручную</string>
+    <string name="act_weather_main_data_null">Нет данных о погоде, обновите</string>
+    <string name="act_weather_cycle_update">Обновление...</string>
+    <string name="act_weather_update_time">%s Опубликовано</string>
+    <string name="act_weather_range_title">Surrounding Weather Forecast</string>
+    <string name="act_weather_range_select">Выберите город</string>
+    <string name="menu_reload">Обновить</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_chart">Диаграмма</string>
+	<string name="menu_settings">Настройки</string>
+    <string name="menu_about">О программе</string>
+    <string name="share_weather_title">Поделиться данными о погоде</string>
+    <string name="share_sina">Share it via Sina Weibo</string>
+    <string name="share_qq">Share it via Tencent Weibo</string>
+    <string name="install_sina">Click to install Sina Weibo</string>
+    <string name="install_tencent">Click to install Tencent Weibo</string>
+    <string name="share_content">#MIUI weather#\nToday %1$s\'s weather is %2$s, %3$s, %4$s。%5$s published.</string>
+    <string name="save_screen_shot_failed">Failed to save screenshot</string>
+    <string name="chart_weather_title">Диаграмма погоды</string>
+	<string name="settings_weather_title">Настройки</string>
+    <string name="settings_weather_animation">Анимация погоды</string>
+    <string name="settings_weather_play_ani_title">Воспроизвести анимацию</string>	
+    <string name="settings_weather_play_ani_summary">Play animation in the main interface</string>	
+    <string name="settings_weather_about">About</string>
+    <string name="settings_weather_pre_title">Погода</string>
+    <string name="settings_weather_preview">Preview weather animation</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="selected_format">Выбран город %d</string>
+    <string name="alert_title_delete">Удалить</string>
+    <string name="alert_message_delete">Подтвердите удаление города %d</string>
+    <string name="send_weather_sms_cycle">%1$s прогноз погоды：%2$s</string>
+    <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
+    <string name="send_weather_sms_error">Нет данных о погоде</string>
+    <string name="tip_weather">Уведомления MIUI погоды</string>
+    <string name="tip_weather_info_title_1">%1$s expected temperature difference of %2$d degrees</string>
+    <string name="tip_weather_info_content_1">When going outdoors, please wear appropiate clothing.</string>
+    <string name="tip_weather_info_title_2">%1$s temperature today is estimated to be %2$s</string>
+    <string name="alert_provider_title">Location Notification</string>
+    <string name="alert_provider_message">In order to detect your position, you will need to enable wireless network locating function. Agreeing will bring you to the Location Services interface. Please open Network Based Location Services.</string>
+    <string name="button_allow">Согласен</string>
+    <string name="button_not_allow">Не согласен</string>
+    <string name="location_allow_err">Открытие определения местонахождение не удалось</string>
+    <string name="format_date_wmd">M/d EEE</string>
+    <string name="format_date_md">M/d kk:mm</string>
+    <array name="send_item">
+        <item>СМС</item>
+        <item>E-mail</item>
+    </array>
+    <array name="weather_image">
+        <item>Sunny</item>0  晴
+        <item>Cloudy</item>1  多云
+        <item>Overcast</item>2  阴
+        <item>Fog</item>3  雾
+        <item>Strong Rainstorm</item>4  特大暴雨
+        <item>Heavy Rainstorm</item>5  大暴雨
+        <item>Rainstorm</item>6  暴雨
+        <item>T-Storms</item>7  雷阵雨
+        <item>Rain Showers</item>8  阵雨
+        <item>Heavy Rain</item>9  大雨
+        <item>Moderate Rain</item>0  中雨
+        <item>Light Rain</item>1  小雨
+        <item>Sleet</item>2  雨夹雪
+        <item>Blizzard</item>3   暴雨
+        <item>Snow Showers</item>4  阵雪
+        <item>Heavy Snow</item>5  大雪
+        <item>Moderate Snow</item>6  中雪
+        <item>Light Snow</item>7  小雪
+        <item>Strong Duststorm</item>8  强沙尘暴
+        <item>Duststorm</item>9  沙尘暴
+        <item>Dust</item>0  沙尘
+        <item>Blowing Sand</item>1  扬沙
+        <item>Hailstone</item>2  冰雹
+        <item>Floating Dust</item>3  浮尘
+    </array>
+</resources>

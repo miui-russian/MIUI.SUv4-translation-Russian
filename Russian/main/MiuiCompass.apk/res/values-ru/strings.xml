@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Компас</string>
+    <string name="getting_location">Определение местоположения...</string>
+    <string name="cannot_get_location">Не удалось получить местонахождение</string>
+    <string name="location_north">%s С</string>
+    <string name="location_south">%s Ю</string>
+    <string name="location_east">%s З</string>
+    <string name="location_west">%s В</string>
+    <string name="calibrate_success">Калибровка завершена</string>
+    <string name="pressure">Давление %.1fhPa</string>
+    <string name="altitude">Высота %.1fm</string>
+</resources>

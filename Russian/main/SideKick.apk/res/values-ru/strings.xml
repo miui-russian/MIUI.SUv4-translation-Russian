@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Голосовой помошник</string>
+    <string name="setting">Настройки</string>
+    <string name="about">О программе</string>
+    <string name="quit">Выход</string>
+    <string name="in_calling">Calling in</string>
+    <string name="unknown_num">Неизвестный номер</string>
+    <string name="in_sms">В сообщение</string>
+    <string name="sms_sender">Отправитель</string>
+    <string name="sms_content">Содержание</string>
+</resources>
