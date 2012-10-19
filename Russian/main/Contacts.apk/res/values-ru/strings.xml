@@ -364,7 +364,7 @@
 	<string name="aggregation_suggestion_edit_dialog_title">Редактировать выбранные контакты</string>
 	<string name="aggregation_suggestion_edit_dialog_message">Переключиться на редактирование выбранного контакта? Введенная информация будет скопирована.</string>
 	<string name="menu_copyContact">Копировать в контакты</string>
-	<string name="add_to_my_contacts">Добавить в группу \Мои контакты\</string>
+	<string name="add_to_my_contacts">Добавить в \"Мои контакты\"</string>
 	<string name="contact_directory_description">Каталог %1$s</string>
 	<string name="directory_search_label">Каталог</string>
 	<string name="local_search_label">Все контакты</string>
@@ -561,7 +561,7 @@
 	<string name="dirty_contacts_notification_message">(Вы можете изменить напоминание в настройках контакта)</string>
 	<string name="remind_btn_sync_now">Синхронизировать сейчас</string>
 	<string name="remind_btn_ignore">Игнорировать</string>
-	<string name="display_only_phones">Показывать только контакты с номерами</string>
+	<string name="display_only_phones">Только контакты с номерами</string>
 	<string name="display_sim_contacts">Показывать контакты SIM</string>
 	<string name="preference_remove_duplicate">Объединить повторяющиеся</string>
 	<string name="scan_duplicate">Поиск одинаковых данных, подождите</string>
