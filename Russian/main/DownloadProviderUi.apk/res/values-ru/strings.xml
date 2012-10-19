@@ -5,7 +5,7 @@
     <string name="download_title_sorted_by_date">Сортировать по дате</string>
     <string name="download_title_sorted_by_size">Сортировать по размеру</string>
     <string name="no_downloads">Загрузки отсутствуют</string>
-    <string name="missing_title"><Неизвестно></string>
+    <string name="missing_title">Неизвестно</string>
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_sort_by_date">Сортировать по дате</string>
     <string name="download_queued">В очереди</string>

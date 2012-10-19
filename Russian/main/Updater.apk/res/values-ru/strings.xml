@@ -44,7 +44,7 @@
 	<string name="verify_and_apply_dialog_message">Проверка суммы MD5</string>
 	<string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает</string>
 	<string name="file_not_found_error_message">Запрошенный файл не найден</string>
-	<string name="apply_upload_info_message_manually">После перезагрузки, вы можете вручную зайти в 'Recovery' для применения обновления с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
+	<string name="apply_upload_info_message_manually">После перезагрузки, вы можете вручную зайти в Recovery для применения обновления с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
 	<string name="apply_upload_info_message">Нажатие Обновить Сейчас автоматичеки перезагружает аппарат после применения обновления</string>
 	<string name="apply_buddy_update_info_message">Нажмите Обновить Сейчас для обновления</string>
 	<string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
