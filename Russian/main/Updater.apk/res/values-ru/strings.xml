@@ -31,8 +31,8 @@
 	<string name="sdcard_is_not_present_dialog_title">SD карта не найдена</string>
 	<string name="sdcard_has_no_space_dialog_body">Заканчивается место на SD карте. Очистите</string>
 	<string name="sdcard_has_no_space_dialog_title">Заканчивается место на SD карте</string>
-	<string name="current_version_text">&quot;Текущая версия&quot;</string>
-	<string name="current_version_update_monthly_build">Текущая версия(Ежемесячное обновление)</string>
+	<string name="current_version_text">Текущая версия</string>
+	<string name="current_version_update_monthly_build">Текущая версия (Ежемесячное обновление)</string>
 	<string name="apply_update_dialog_update_button">Обновить</string>
 	<string name="apply_update_dialog_cancel_button">Отмена</string>
 	<string name="cancel_download_buton_text">Отмена</string>
@@ -44,7 +44,7 @@
 	<string name="verify_and_apply_dialog_message">Проверка суммы MD5</string>
 	<string name="apply_existing_update_md5error_title">Сумма MD5 не совпадает</string>
 	<string name="file_not_found_error_message">Запрошенный файл не найден</string>
-	<string name="apply_upload_info_message_manually">&quot;После перезагрузки, вы можете вручную зайти в 'Recovery' для применения обновления с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
+	<string name="apply_upload_info_message_manually">После перезагрузки, вы можете вручную зайти в 'Recovery' для применения обновления с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
 	<string name="apply_upload_info_message">Нажатие Обновить Сейчас автоматичеки перезагружает аппарат после применения обновления</string>
 	<string name="apply_buddy_update_info_message">Нажмите Обновить Сейчас для обновления</string>
 	<string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
@@ -82,11 +82,11 @@
 	<string name="no_proper_updates">Для текущей версии обновления не найдены</string>
 	<string name="emegency_update_helper">После установки необходима перезагрузка</string>
 	<string name="emegency_update_size">Размер:</string>
-	<string name="sign_in_info">&quot;Рейтинг \n пользователи, выбравшие MIUI &quot;</string>
-	<string name="sign_in_info_total_more">&quot;Рейтинг \nБолее пользователей выбрали MIUI &quot;</string>
-	<string name="sign_in_info_rank_more">&quot;Your update ranking is after \nБолее пользователей выбрали MIUI &quot;</string>
+	<string name="sign_in_info">Рейтинг \n пользователи, выбравшие MIUI </string>
+	<string name="sign_in_info_total_more">Рейтинг \nБолее пользователей выбрали MIUI </string>
+	<string name="sign_in_info_rank_more">Your update ranking is after \nБолее пользователей выбрали MIUI </string>
 	<string name="sign_in_add_account_helper">Ваш телефон не активирован в базе MIUI.</string>
-	<string name="my_rank">&quot;Рейтинг:&quot;</string>
+	<string name="my_rank">Рейтинг:</string>
 	<string name="move_data_to_sdcard_title">Перенос данных на SD карту</string>
 	<string name="move_data_to_sdcard_not_enough_space_message">Не хватает места, чтобы перенести выбранное MB данных</string>
 	<string name="moving_data_to_sdcard_message">Перенос данных. Не вынимайте SD карту и не переключайтесь в режим USB накопителя</string>
@@ -98,14 +98,14 @@
 	<string name="update_monthly_build_only">Обновлять только до ежемесячных сборок</string>
 	<string name="install_file_explorer">Установите файловый менеджер</string>
 	<string name="share_update">Поделиться информацией об обновлении системы</string>
-	<string name="share_update_content_unsign">Я обновил MIUI до ! Более полная информация &quot; &quot;</string>
-	<string name="share_update_content_sign">Я обновил MIUI до ! Мой рейтинг . Более полная информация &quot; &quot;</string>
+	<string name="share_update_content_unsign">Я обновил MIUI до ! Более полная информация  </string>
+	<string name="share_update_content_sign">Я обновил MIUI до ! Мой рейтинг . Более полная информация  </string>
 	<string name="share_sina">Отправить через Sina Weibo</string>
 	<string name="install_sina">Установить Sina Weibo</string>
 	<string name="share_qq">Отправить через Tencent Weibo</string>
 	<string name="install_qq">Установить Tencent Weibo</string>
 	<string name="upgrade_kernel">Текущая версия ядра требует обновления</string>
-	<string name="upgrade_kernel_msg">&quot;Текущая версия ядра не совместима с MIUI. Обновите ядро вручную. Подробнее:\r\n&quot;</string>
+	<string name="upgrade_kernel_msg">Текущая версия ядра не совместима с MIUI. Обновите ядро вручную. Подробнее:\r\n</string>
 	<string name="view_upgrade_tutorial">Показать описание</string>
 	<string name="upgrade_close">Закрыть</string>
 	<string name="recommend_vote_title">Голосование MIUI Beta Team</string>
@@ -133,11 +133,11 @@
 	<string name="my_expect_update">То, что я ожидал</string>
 	<string name="get_update_error">Ошибка получения информации обновления</string>
 	<string name="active_xiaomi_account_title">Активация аккаунт Xiaomi</string>
-	<string name="active_xiaomi_account_msg">&quot;Посетите форум MIUI, для активации аккаунта Xiaomi:\n&quot;</string>
+	<string name="active_xiaomi_account_msg">Посетите форум MIUI, для активации аккаунта Xiaomi:\n</string>
 	<string name="active_xiaomi_account">Активный</string>
 	<string name="update_comment_title">У меня есть, что сказать</string>
 	<string name="update_comment_hint">(не обязательно)</string>
 	<string name="next">Далее</string>
 	<string name="previous">Назад</string>
 	<string name="finish">Готово</string>
-</resources><!--Parsed with BurgerZ.pro XML Parser-->
+</resources>
