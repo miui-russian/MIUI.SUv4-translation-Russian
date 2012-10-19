@@ -2,21 +2,17 @@
 <resources>
     <string name="app_name">Темы</string>
     <string name="theme_activity_lable">Темы</string>
-
     <string name="theme_changing_dialog_title">Тема применяется. Подождите...</string>
     <string name="theme_changed_message">Успешно установлена %1$s.</string>
     <string name="theme_changed_failed_message">Ошибка применения темы %1$s</string>
-
     <string name="backup_preference_title">Резервное копирование темы</string>
     <string name="backup_theme_dialog_ok">Резервное копирование</string>
     <string name="backup_theme_dialog_message">Резервное копирование текущей темы в\n%1$s</string>
     <string name="backup_theme_progress_message">Резервное копирование файлов темы. Подождите...</string>
     <string name="backup_theme_success_message">Резервное копирование темы завершено</string>
     <string name="backup_theme_name">Мои резервные копии</string>
-
     <string name="theme_description_title_default">По умолчанию</string>
     <string name="theme_description_title_customized">Обычный</string>
-
     <string name="component_category_title">Настроить</string>
     <string name="component_category_finest_title">Популярные</string>
     <string name="component_category_more_title">Больше</string>
@@ -40,56 +36,44 @@
     <string name="theme_component_title_photo_frame">Фоторамка</string>
     <string name="theme_component_title_others">Прочее</string>
     <string name="theme_component_title_all">Темы</string>
-
     <string name="apply_theme_no_select_message">Выберите компоненты</string>
     <string name="apply_lockscreen_paper_tips">Тема экрана блокировки применена. Новые обои экрана блокировки могут быть не видны.</string>
-
     <string name="play_all_audio_effect">Воспроизведение аудио эффектов (Всего: %1$s)</string>
-
     <string name="theme_import">Импорт с SD карты</string>
     <string name="theme_select_others">Другие</string>
     <string name="third_party_pickers_activity_title">Установить %1$s</string>
     <string name="lockstyle_personal_settings">Изменение</string>
     <string name="component_lockstyle_personal_title">Настройки</string>
-
     <string name="wallpaper_settings">Настройки обоев</string>
     <string name="desktop_wallpaper">Рабочий стол</string>
     <string name="live_wallpaper">Живые обои</string>
     <string name="lockscreen_wallpaper">Экран блокировки</string>
     <string name="change_wallpaper">Обои</string>
-
     <string name="component_settings_title">Настройка тем</string>
     <string name="component_select_title">Выбрано %1$s компонентов</string>
     <string name="component_include_title">Содержит %1$s компонентов</string>
     <string name="component_screen_title">Обои</string>
     <string name="resource_fail_to_show">В теме отсутствуют требуемые ресурсы</string>
-
     <string name="wrong_title">Ошибка</string>
     <string name="theme_format_wrong_content">Неверный формат темы</string>
-
     <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка</string>
     <string name="apply_font_btn_reboot">Применить и перезагрузить</string>
     <string name="apply_font_btn_exclude">Применить без шрифтов</string>
-
     <string name="title_local">Локальные</string>
     <string name="title_online">Онлайн</string>
     <string name="title_component">Совмещенные</string>
-
     <string name="title_system_resource">Системные ресурсы</string>
     <string name="title_download_resource">Загруженные ресурсы</string>
-
     <string name="long_ringtone_resource">Длинный(>5сек)</string>
     <string name="short_ringtone_resource">Короткие(&lt;5сек)</string>
     <string name="all_ringtone_resource">Все</string>
-
-    <string name="resource_preview">Предпросмотр</string>
+    <string name="resource_preview">Предпоказ</string>
     <string name="wallpaper_set_as_both">Применить обои и локскрин</string>
     <string name="wallpaper_set_as_destop">Применить как обои</string>
     <string name="wallpaper_set_as_lockscreen">Применить как экран блокировки</string>
     <string name="wallpaper_crop">Обрезать</string>
     <string name="wallpaper_loading_text">Загрузка...</string>
     <string name="wallpaper_decoded_error">Ошибка расшифровки</string>
-
     <string name="close">Закрыть</string>
     <string name="download_success">Загрузка завершена!</string>
 </resources>

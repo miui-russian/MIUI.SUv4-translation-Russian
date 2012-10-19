@@ -364,11 +364,11 @@
     <string name="global_action_silent_mode_off_status">Звук включён</string>
     <string name="global_action_silent_mode_on_status_confirm">Будет включён беззвучный режим</string>
     <string name="global_action_silent_mode_off_status_confirm">Беззвучный режим будет отключён</string>
-    <string name="global_actions_toggle_airplane_mode">Режим "В самолёте"</string>
-    <string name="global_actions_airplane_mode_on_status">Режим "В самолёте" включён</string>
-    <string name="global_actions_airplane_mode_off_status">Режим "В самолёте" отключён</string>
-    <string name="global_actions_airplane_mode_on_status_confirm">Будет включён режим "В самолёте"</string>
-    <string name="global_actions_airplane_mode_off_status_confirm">Режим "В самолёте" будет отключён</string>
+    <string name="global_actions_toggle_airplane_mode">Режим Самолет</string>
+    <string name="global_actions_airplane_mode_on_status">Режим Самолет включён</string>
+    <string name="global_actions_airplane_mode_off_status">Режим Самолет отключён</string>
+    <string name="global_actions_airplane_mode_on_status_confirm">Будет включён режим Самолет</string>
+    <string name="global_actions_airplane_mode_off_status_confirm">Режим Самолет будет отключён</string>
     <string name="global_action_toggle_data_mode">Режим передачи данных</string>
     <string name="global_action_data_mode_on_status">Режим передачи данных включён</string>
     <string name="global_action_data_mode_off_status">Режим передачи данных отключён</string>
@@ -1484,7 +1484,7 @@ for account %s"</string>
     <string name="glasslock_music_widget_unkown">unkown</string>
     <string name="clipboard_copied_to_clipboard">Copied to clipboard</string>
     <string name="clipboard_no_valid_data">no valid data</string>
-    <string name="zzzzz_tw_cursor_handle_clipboard">Clipboard</string>
+    <string name="zzzzz_tw_cursor_handle_clipboard">Буфер обмена</string>
     <string name="dlg_brightness_title">Brightness</string>
     <string name="dlg_how_to_chang_IME_msg">If you change input method from Samsung QWERTY, keyboard dock may not work correctly</string>
     <string name="dlg_change_IME_to_samsung_msg">To use keyboard dock, change input method to Samsung QWERTY</string>

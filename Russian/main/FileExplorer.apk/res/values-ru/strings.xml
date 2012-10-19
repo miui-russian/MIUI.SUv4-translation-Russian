@@ -91,7 +91,7 @@
     <string name="favorite_ringtone">Рингтоны</string>
     <string name="file_loading">Загрузка...</string>
     <string name="remote_management">FTP</string>
-    <string name="multi_select_title">%1$sвыбрано</string>
+    <string name="multi_select_title">%1$s выбрано</string>
     <string name="tab_networkdisk">MiDrive</string>
     <string name="operation_download_link">Сгенерировать ссылку</string>
     <string name="ui_main_menu_option_setting">Настройки</string>

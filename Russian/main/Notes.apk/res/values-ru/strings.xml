@@ -109,8 +109,6 @@
     <string name="image_edit_action_replace">Заменить</string>
     <string name="image_edit_action_delete">Удалить</string>
     <string name="image_edit_action_replace_menu_title">Заменить</string>
-    <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
-    <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
     <string name="alert_edit_action_update">Изменить</string>
     <string name="alert_edit_action_delete">Удалить</string>
     <string name="time_picker_dialog_title">Время напоминания</string>
