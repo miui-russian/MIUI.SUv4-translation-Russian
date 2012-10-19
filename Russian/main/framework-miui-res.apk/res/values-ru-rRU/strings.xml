@@ -2,7 +2,7 @@
 <resources>
     <string name="reboot_confirm">Телефон будет перезагружен</string>
     <string name="reboot_progress">Перезагрузка...</string>
-    <string name="resourcebrowser_lable">Resources</string>
+    <string name="resourcebrowser_lable">Ресурсы</string>
     <string name="sdcard_status_changed_dialog_title">Статус SD карты изменен</string>
     <string name="sdcard_status_changed_dialog_message">"Выход.
 Пожалуйста, откройте это приложение снова для обновления ресурсов."</string>
