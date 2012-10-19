@@ -947,21 +947,21 @@ Please try again in %d seconds."</string>
  Please try again in %d seconds."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
     <string name="lockscreen_failed_attempts_now_wiping">You have incorrectly attempted to unlock the phone %d times. The phone will now be reset to factory default.</string>
-    <string name="lockscreen_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="lockscreen_forgot_pattern_button_text">Forgot pattern?</string>
-    <string name="lockscreen_glogin_forgot_pattern">Account unlock</string>
-    <string name="lockscreen_glogin_too_many_attempts">Too many pattern attempts!</string>
-    <string name="lockscreen_glogin_instructions">To unlock, sign in with your Google account</string>
-    <string name="lockscreen_glogin_username_hint">Username (email)</string>
-    <string name="lockscreen_glogin_password_hint">Password</string>
-    <string name="lockscreen_glogin_submit_button">Sign in</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Повторите через %d сек.</string>
+    <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
+    <string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
+    <string name="lockscreen_glogin_too_many_attempts">Слишком много попыток ввода!</string>
+    <string name="lockscreen_glogin_instructions">Для разблокировки войдите в ваш аккаунт Google</string>
+    <string name="lockscreen_glogin_username_hint">Логин (e-mail)</string>
+    <string name="lockscreen_glogin_password_hint">Пароль</string>
+    <string name="lockscreen_glogin_submit_button">Вход</string>
     <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Forgot your username or password?
 Visit "<b>google.com/accounts/recovery</b></string>
-    <string name="lockscreen_glogin_checking_password">Checking...</string>
-    <string name="lockscreen_unlock_label">Unlock</string>
-    <string name="lockscreen_sound_on_label">Sound on</string>
-    <string name="lockscreen_sound_off_label">Sound off</string>
+    <string name="lockscreen_glogin_checking_password">Проверка...</string>
+    <string name="lockscreen_unlock_label">Разблокировать</string>
+    <string name="lockscreen_sound_on_label">Звук вкл.</string>
+    <string name="lockscreen_sound_off_label">Звук выкл.</string>
     <string name="lockscreen_access_pattern_start">Pattern started</string>
     <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
     <string name="lockscreen_access_pattern_cell_added">Cell added</string>
@@ -1085,11 +1085,11 @@ Select OK to continue, or Cancel to stay on the current page."</string>
     <string name="beforeOneMonthDurationPast">Before 1 month ago</string>
     <string name="last_month">Last month</string>
     <string name="older">Older</string>
-    <string name="preposition_for_date">on %s</string>
-    <string name="preposition_for_time">at %s</string>
-    <string name="preposition_for_year">in %s</string>
-    <string name="day">day</string>
-    <string name="days">days</string>
+    <string name="preposition_for_date">%s</string>
+    <string name="preposition_for_time">в %s</string>
+    <string name="preposition_for_year">в %s г.</string>
+    <string name="day">дн.</string>
+    <string name="days">дн.</string>
     <string name="hour">час.</string>
     <string name="hours">час.</string>
     <string name="minute">мин.</string>
