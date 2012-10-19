@@ -42,7 +42,7 @@
 	<string name="redeye_tooltip">Нажмите для удаления красных глаз</string>
 	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
-	<string name="app_name">Галлерея</string>
+	<string name="app_name">Галерея</string>
 	<string name="gadget_title">Рамка фотографии</string>
 	<string name="details_ms">%1$02d:%2$02d</string>
 	<string name="details_hms">%1$d:%2$02d:%3$02d</string>
