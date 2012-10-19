@@ -974,7 +974,7 @@ Visit "<b>google.com/accounts/recovery</b></string>
     <string name="factorytest_failed">Factory test failed</string>
     <string name="factorytest_not_system">The FACTORY_TEST action is only supported for packages installed in /system/app.</string>
     <string name="factorytest_no_action">No package was found that provides the FACTORY_TEST action.</string>
-    <string name="factorytest_reboot">Reboot</string>
+    <string name="factorytest_reboot">Перезагрузка</string>
     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
     <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="js_dialog_title">"The page at '%s' says:"</string>
