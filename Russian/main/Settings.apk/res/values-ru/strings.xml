@@ -1079,7 +1079,7 @@
 	<string name="auto_punctuate_summary">Нажмите дважды клавишу \Пробел\ для ввода точки</string>
 	<string name="show_password">Показывать пароль</string>
 	<string name="show_password_summary"></string>
-	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \%1$s\. Использовать этот способ ввода?</string>
+	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
 	<string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
 	<string name="spellchecker_quick_settings">Настройки</string>
 	<string name="spellchecker_language">Язык</string>
@@ -1688,7 +1688,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="debug_log">Программа развития</string>
 	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
 	<string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, послав данные диагностики и данных</string>
-	<string name="device_miui_version">MIUI version:</string>
+	<string name="device_miui_version">Версия MIUI:</string>
 	<string name="device_cpu">CPU:</string>
 	<string name="device_memory">RAM:</string>
 	<string name="device_internal_memory">Внутренняя память:</string>
