@@ -231,15 +231,15 @@
     <string name="download_all_album">Загрузка обложек альбомов</string>
     <string name="lrc_progress_modify">Отрегулируйте показ текста</string>
     <string name="lrc_progress_modify_helper">Отрегулируйте показ текста потянув вверх или вниз</string>
-    <string name="equalizer">Equalizer</string>
-    <string name="no_effect">No Effect</string>
-    <string name="equalizer_delete">Delete</string>
-    <string name="equalizer_delete_success">Equalizer profile removed</string>
-    <string name="equalizer_enable">Equalizer Settings</string>
-    <string name="equalizer_save_success">Equalizer profile saved</string>
-    <string name="create_equalzier_create_text_prompt">Equalizer effect name</string>
-    <string name="new_equalizer_name_template">"New EQ profile %d"</string>
-    <string name="custom">Customize</string>
+    <string name="equalizer">Эквалайзер</string>
+    <string name="no_effect">Отключен</string>
+    <string name="equalizer_delete">Удалить</string>
+    <string name="equalizer_delete_success">Профиль удален</string>
+    <string name="equalizer_enable">Эквалайзер</string>
+    <string name="equalizer_save_success">Профиль сохранен</string>
+    <string name="create_equalzier_create_text_prompt">Название профиля</string>
+    <string name="new_equalizer_name_template">Профиль %d</string>
+    <string name="custom">Настроить</string>
     <string-array name="equalizer_presents">
         <item>Стандартный</item>
         <item>Классика</item>

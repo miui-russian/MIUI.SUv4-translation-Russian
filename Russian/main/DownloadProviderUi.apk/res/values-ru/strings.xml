@@ -67,7 +67,7 @@
     <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="might_lead_to_mobile_charge">После отмены, будут отключены уведомления, что может привести к дополнительным затратам</string>
     <string name="download_in_process">Загрузка</string>
-    <string name="download_complete">Загрузка завершена</string>
+    <string name="download_complete">Завершенные</string>
     <string name="retry_after_network_available">Попробуйте еще раз при наличии соединения</string>
     <string name="editmode_menu_share">Поделиться</string>
     <string name="editmode_menu_delete">Удалить</string>
