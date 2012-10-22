@@ -1689,9 +1689,9 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
 	<string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, послав данные диагностики и данных</string>
 	<string name="device_miui_version">Версия MIUI:</string>
-	<string name="device_cpu">CPU:</string>
+	<string name="device_cpu">Процессор:</string>
 	<string name="device_memory">RAM:</string>
-	<string name="device_internal_memory">Внутренняя память:</string>
+	<string name="device_internal_memory">Накопитель:</string>
 	<string name="device_sd_memory">SD карта:</string>
 	<string name="device_cpu2_info">Dual-Core</string>
 	<string name="device_cpu4_info">Quad-Core</string>
@@ -1845,7 +1845,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="search_label">Настройки</string>
 	<string name="search_hint">Настройки поиска</string>
 	<string name="search_description">Настройки поиска</string>
-	<string name="remove_from_frequently_fragment">Удалить \&quot;%s\&quot; из Общих Настроек?</string>
+	<string name="remove_from_frequently_fragment">Удалить %s\ из Общих Настроек?</string>
 	<string name="frequently_fragment_tempty">Здесь отображаются часто используемые элементы</string>
 	<string name="frequently_fragment_delete">Удалить</string>
 	<string name="show_fc">Показывать критические ошибки</string>

@@ -134,7 +134,7 @@
 	<string name="preferences_use_home_tz_title">Фикс. часовой пояс</string>
 	<string name="preferences_use_home_tz_descrip">Всегда показывать в календаре время в заданном часовом поясе</string>
 	<string name="preferences_home_tz_title">Мой часовой пояс</string>
-	<string name="preferences_home_tz_default">America/Los_Angeles</string>
+	<string name="preferences_home_tz_default">Europe/Moscow</string>
 	<string name="preferences_show_week_num_title">Показать номер недели</string>
 	<string name="preferences_about_title">О программе</string>
 	<string name="preferences_build_version">Версия сборки</string>
@@ -184,5 +184,5 @@
 	<string name="more_string">%1$s больше...</string>
 	<string name="copy_email">Копировать адрес e-mail</string>
 	<string name="copy_number">Копировать номер телефона</string>
-	<string name="done">Return</string>
-</resources><!--Parsed with BurgerZ.pro XML Parser-->
+	<string name="done">Готово</string>
+</resources>

@@ -15,7 +15,7 @@
     <string name="permdesc_downloadWithoutNotification">Разрешает приложению загружать файлы через диспетчер загрузки без согласия пользователя</string>
     <string name="permlab_accessAllDownloads">Доступ ко всем загрузкам</string>
     <string name="permdesc_accessAllDownloads">Позволяет приложению загружать и изменять все загрузки, запущенные любым приложением в системе</string>
-    <string name="download_unknown_title">&lt;Без имени></string>
+    <string name="download_unknown_title">&lt;Без имени&gt;</string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" и еще %d"</string>
     <string name="notification_download_complete">Загрузка завершена</string>
