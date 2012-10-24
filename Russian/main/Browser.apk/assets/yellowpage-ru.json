@@ -4,18 +4,17 @@
             "cat":"Tech",
             "sites":[
                 {
-                    "title":"MIUI.SU",
-                    "url":"http://miui.su/"
+                    "title":"BurgerZ.pro",
+                    "url":"http://burgerz.pro/"
                 },
-                },
-                {
-                    "title":"4PDA",
-                    "url":"http://4pda.ru/"
-                },				
                 {
                     "title":"Engadget",
                     "url":"http://engadget.com/"
-
+                },
+                {
+                    "title":"4pda",
+                    "url":"http://4pda.ru/"
+                },
                 {
                     "title":"XDA",
                     "url":"http://xda-developers.com/"
@@ -26,16 +25,16 @@
             "cat":"Cool Sites",
             "sites":[
                 {
-                    "title":"VKontakte",
-                    "url":"http://vk.com/"
-                },			
-                {
                     "title":"Facebook",
                     "url":"http://facebook.com"
                 },
                 {
                     "title":"Twitter",
                     "url":"http://twitter.com/"
+                },
+                {
+                    "title":"Flickr",
+                    "url":"http://flickr.com/"
                 },
                 {
                     "title":"Google",
@@ -50,6 +49,10 @@
                     "url":"http://www.yandex.ru/?clid=1788326"
                 },
                 {
+                    "title":"VKontakte",
+                    "url":"http://vk.com/"
+                },
+                {
                     "title":"Ebay",
                     "url":"http://ebay.com"
                 },
@@ -57,10 +60,6 @@
                     "title":"Youtube",
                     "url":"http://youtube.com/"
                 }
-                {
-                    "title":"Flickr",
-                    "url":"http://flickr.com/"
-                },				
             ]
         },
         {
