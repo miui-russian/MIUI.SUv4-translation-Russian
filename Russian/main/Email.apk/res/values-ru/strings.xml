@@ -441,8 +441,7 @@
 	<string name="toast_failed_auth">Не удалось войти в аккаунт</string>
 	<string name="upload_state_queued"></string>
 	<string name="upload_state_waiting_retry">Ожидание повторной попытки</string>
-	<string name="upload_state_waiting_wifi">
-Ожидание Wi-Fi</string>
+	<string name="upload_state_waiting_wifi">Ожидание Wi-Fi</string>
 	<string name="upload_state_uploading">Загрузка</string>
 	<string name="upload_state_failed">Ошибка</string>
 	<string name="upload_state_completed">Завершено</string>
@@ -464,8 +463,8 @@
 	<string name="failed_bad_response">Сервисная ошибка</string>
 	<string name="failed_network_error">Сетевая ошибка</string>
 	<string name="failed_server_auth">Ошибка авторизации</string>
-	<string name="manager_list_switcher_pending_format">Незавершенные загрузки [%d]</string>
-	<string name="manager_list_switcher_completed_format">Завершенные загрузки [%d]</string>
+	<string name="manager_list_switcher_pending_format">Незавершенные загрузки (%d)</string>
+	<string name="manager_list_switcher_completed_format">Завершенные загрузки (%d)</string>
 	<string name="manager_pause">Приостановить загрузки</string>
 	<string name="manager_resume">Возобновить загрузки</string>
 	<string name="manager_upload_now">Загрузить сейчас</string>
@@ -499,12 +498,12 @@
 	<string name="preference_summary_need_power">Upload only when the phone is being charged.</string>
 	<string name="preference_title_need_wifi">Wi-Fi</string>
 	<string name="preference_summary_need_wifi">Upload only when Wi-Fi is available.</string>
-	<string name="preference_category_title_photos">Photos</string>
-	<string name="preference_title_photos_account">Account</string>
+	<string name="preference_category_title_photos">Фото</string>
+	<string name="preference_title_photos_account">Аккаунт</string>
 	<string name="preference_title_photos_upload_connectivity">Upload conditions</string>
 	<string name="preference_title_photo_size">Photo size</string>
-	<string name="preference_category_title_videos">Videos</string>
-	<string name="preference_title_videos_account">Account</string>
+	<string name="preference_category_title_videos">Видео</string>
+	<string name="preference_title_videos_account">Аккаунт</string>
 	<string name="preference_title_videos_account_summary">The photos account will be used video uploads.</string>
 	<string name="preference_title_videos_upload_connectivity">Upload conditions</string>
 	<string name="preference_title_videos_upload_connectivity_summary">Photos connectivity settings are used for now.</string>
@@ -538,8 +537,8 @@
 	<string name="preference_plus_sync_all_prompt_text">Uploading photos and videos that have not already been uploaded from your phone to a private album on the web can take a while, but will be done in the background. Are you sure you want to continue?</string>
 	<string name="preference_plus_sync_all_prompt_yes">Да</string>
 	<string name="preference_plus_sync_all_prompt_no">Нет</string>
-	<string name="multiple_new_message_notification_item">  %2$s</string>
-	<string name="single_new_message_notification_big_text">%1$s
+	<string formatted="false" name="multiple_new_message_notification_item">  %2$s</string>
+	<string formatted="false" name="single_new_message_notification_big_text">%1$s
 %2$s</string>
 	<string name="choosertitle_sharevia">Отправить через</string>
 	<string name="contextmenu_openlink">Открыть в браузере</string>
