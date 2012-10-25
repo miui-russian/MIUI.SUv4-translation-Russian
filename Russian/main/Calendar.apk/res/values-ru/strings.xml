@@ -69,7 +69,7 @@
 	<string name="response_no">Нет</string>
 	<string name="email_guests_label">E-mail</string>
 	<string name="email_picker_label">E-mail</string>
-	<string name="email_subject_prefix">Re: </string>
+	<string name="email_subject_prefix">"Re: "</string>
 	<string name="quick_response_settings">Бастрый ответ</string>
 	<string name="quick_response_settings_summary">Редактировать быстрые ответы e-mail</string>
 	<string name="quick_response_settings_title">Редактировать быстрые ответы</string>
@@ -185,4 +185,5 @@
 	<string name="copy_email">Копировать адрес e-mail</string>
 	<string name="copy_number">Копировать номер телефона</string>
 	<string name="done">Готово</string>
+	<string name="birthday_event_title">@string/birthday_notification_title_today</string>
 </resources>
