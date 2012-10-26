@@ -52,7 +52,7 @@
 	<string name="cannot_move_multiple_accounts_toast">Не удалось переместить сообщения, так как они находятся в разных аккаунтах.</string>
 	<string name="cannot_move_special_mailboxes_toast">Нельзя перемещать сообщения из папок Черновики, Исходящие и Отправленные.</string>
 	<string name="notification_to_account">Кому: %1$s</string>
-	<string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
+	<string name="notification_multiple_new_messages_fmt">"Новых сообщений: %1$d"</string>
 	<string name="account_name_display_all">Все аккаунты</string>
 	<string name="mailbox_name_server_inbox">Launcher</string>
 	<string name="mailbox_name_server_outbox">Внешний вид</string>

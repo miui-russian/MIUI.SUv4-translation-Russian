@@ -914,6 +914,10 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="dial_pad_touch_tone_default_miui">По умолчанию</string>
 	<string name="dial_pad_touch_tone_piano_miui">Пианино</string>
 	<string name="dial_pad_touch_tone_human_miui">Голос человека</string>
+	<string name="t9_indexing_method_title_miui">Настройки поиска T9</string>
+    <string name="t9_indexing_rebuilding_message">Переиндексация T9…</string>
+    <string name="t9_indexing_method_pinyin">Алфавитный</string>
+    <string name="t9_indexing_method_zhuyin">Китайский</string>
 	<string name="label_rn1dp">UIM network1 unlock PIN</string>
 	<string name="label_rn2dp">UIM network2 unlock PIN</string>
 	<string name="label_rhrpd">UIM hrpd unlock PIN</string>
