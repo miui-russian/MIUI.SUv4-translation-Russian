@@ -44,18 +44,18 @@
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
 	<string name="app_name">Галерея</string>
 	<string name="gadget_title">Рамка фотографии</string>
-	<string name="details_ms">%1$02d:%2$02d</string>
-	<string name="details_hms">%1$d:%2$02d:%3$02d</string>
+	<string formatted="false" name="details_ms">%1$02d:%2$02d</string>
+	<string formatted="false" name="details_hms">%1$d:%2$02d:%3$02d</string>
 	<string name="movie_view_label">Видео плеер</string>
 	<string name="loading_video">Загрузка видео</string>
 	<string name="loading_image">Загрузка изображения</string>
-	<string name="loading_account">Загрузка аккаунта\u2026</string>
+	<string name="loading_account">Загрузка аккаунта</string>
 	<string name="resume_playing_title">Возобновить видео</string>
 	<string name="resume_playing_message">Продолжить просмотр видео с %s ?</string>
 	<string name="resume_playing_resume">Возобновить проигрывание</string>
 	<string name="loading">Загрузка</string>
 	<string name="loading_thumbnail">Загрузка миниатюр</string>
-	<string name="loading_will_cost">Загрузка миниатюр (About %1$dK)</string>
+	<string name="loading_will_cost">Загрузка миниатюр (Около %1$dK)</string>
 	<string name="fail_to_load">Невозможно загрузить</string>
 	<string name="no_thumbnail">Нет миниатюры</string>
 	<string name="resume_playing_restart">Начать сначала</string>
@@ -79,7 +79,7 @@
 	<string name="deselect_all">Отменить все</string>
 	<string name="slideshow">Слайдшоу</string>
 	<string name="details">Детали</string>
-	<string name="details_title">%1$d из %2$d:</string>
+	<string formatted="false" name="details_title">%1$d из %2$d:</string>
 	<string name="close">Закрыть</string>
 	<string name="switch_to_camera">Переключиться на камеру</string>
 	<string name="show_on_map">Показать на карте</string>
@@ -122,7 +122,7 @@
 	<string name="home_my_captured_items">Мои фотографии</string>
 	<string name="all_media">&quot;Все фотографии&quot;</string>
 	<string name="done">Завершено</string>
-	<string name="sequence_in_set">%1$d из %2$d ппозиций:</string>
+	<string formatted="false" name="sequence_in_set">%1$d из %2$d ппозиций:</string>
 	<string name="title">Заголовок</string>
 	<string name="description">Описание</string>
 	<string name="time">Время</string>
@@ -156,7 +156,7 @@
 	<string name="free_space_format">%s свободно</string>
 	<string name="size_below">%1$s или меньше</string>
 	<string name="size_above">%1$s или больше</string>
-	<string name="size_between">%1$s до %2$s</string>
+	<string formatted="false" name="size_between">%1$s до %2$s</string>
 	<string name="Import">Импорт</string>
 	<string name="import_complete">Импорт завершен</string>
 	<string name="import_fail">Не удалось выполнить импорт</string>
@@ -323,4 +323,4 @@
 	<string name="error_should_not_select_image">Внимание: не выбирайте файл изображения.</string>
 	<string name="error_should_not_select_video">Внимание: не выбирайте файл видео.</string>
 	<string name="storage_all_volumes">Все устройства хранения</string>
-</resources><!--Parsed with BurgerZ.pro XML Parser-->
+</resources>
