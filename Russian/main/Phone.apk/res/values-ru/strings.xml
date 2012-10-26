@@ -935,4 +935,4 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="description_direction_right">Вправо для %s.</string>
 	<string name="description_direction_left">Влево для %s.</string>
 	<string name="description_direction_up">Up for %s.</string>
-</resources><!--Parsed with BurgerZ.pro XML Parser-->
+</resources>
