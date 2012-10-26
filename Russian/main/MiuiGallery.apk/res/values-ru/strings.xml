@@ -254,8 +254,8 @@
 	<string name="bigscrren_slide_exit">Отменить слайд-шоу на ТВ</string>
 	<string name="defalt_local_mobile">Мобильный</string>
 	<string name="other_category">Другие настройки</string>
-	<string name="show_hidden_album">Показать скрытый(е) альбом(ы)</string>
-	<string name="auto_create_recent_album">Автоматическое создание Избранных альбомов</string>
+	<string name="show_hidden_album">Показывать скрытые альбомы</string>
+	<string name="auto_create_recent_album">Автосоздание Избранных альбомов</string>
 	<string name="auto_create_recent_album_over_ten_times">Автоматическое создание Избранного альбома, если он открыт более 10 раз</string>
 	<string name="not_auto_create_recent_album">Отменить автоматическое создание Избранных альбомов</string>
 	<string name="auto_create_recent_album_confirm">После отключения этой функции, Галерея очистит накопленные данные. Избранные альбомы назначенные пользователем затронуты не будут. Вы можете добавить в альбом в Избранное нажав и удерживая палец на нем.</string>
