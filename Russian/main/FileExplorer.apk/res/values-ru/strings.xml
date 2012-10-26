@@ -204,4 +204,21 @@
     <string name="copy_success">Успешно скопировано</string>
     <string name="copy_failed">Ошибка копирования</string>
     <string name="toast_file_not_can_read">Невозможно прочитать файл</string>
+    <string name="server_control_advanced_settings">Расширенные настройки</string>
+    <string name="server_control_charset">Кодирование передачи</string>
+    <string name="utf8_title">UTF-8</string>
+    <string name="utf8_summary">Тип кодировки FTP по умолчанию</string>
+    <string name="gbk_title">GBK</string>
+    <string name="gbk_summary">Если вы используете кодировку GBK, например, в Windows Explorer, выберите этот тип кодирования, во избежание на китайском языке</string>
+    <string name="stay_awake_title">Не засыпать</string>
+    <string name="stay_awake_summary">Не засыпать, при использовании FTP</string>
+    <string name="ftp_transfer_secure">Защита передачи</string>
+    <string name="ftp_port_number">Номер порта</string>
+    <string name="ftp_account_req_notice">Логин и пароль, 4~16 симв., включая цифры, буквы, чувствительны к регистру</string>
+    <string name="ftp_open_port_error">Ошибка, при открытии порта, проверьте соединение.</string>
+    <string name="ftp_anonymous_login">Анонимный</string>
+    <string name="ftp_username_and_passworld">Логин и пароль</string>
+    <string name="ftp_username_hint">Логин</string>
+    <string name="ftp_password_hint">Пароль</string>
+    <string name="ftp_invalid_username_or_password">Неверный логин или пароль</string>
 </resources>

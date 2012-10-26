@@ -121,4 +121,17 @@
     <string name="status_downloading">Загружено: %1$s%%</string>
     <string name="header_processing">Очередь загрузок</string>
     <string name="header_waiting">Очередь</string>
+    <string name="no_comment">Нет комментариев</string>
+    <string name="comment_sending">Отправка комментария...</string>
+    <string name="comment_upload_failed">Ошибка отправки комментария</string>
+    <string name="comment_upload_success">Комментарий отправлен! It will be displayed after the audit</string>
+    <string name="comment_upload_data_invalid">Sorry, the comment is invalid</string>
+    <string name="comment_upload_not_logined">Сначала войдите</string>
+    <string name="comment_upload_need_login">Вы хотите войти, для отправки комментария?</string>
+    <string name="comment_upload_login_ok">OK</string>
+    <string name="comment_upload_login_cancel">Отмена</string>
+    <string name="comment_upload_account_need_activitied">Ваш аккаунт не активирован. Активировать?</string>
+    <string name="comment_upload_account_not_activitied">Ваш аккаунт не активирован. Активируйте и попробуйте еще раз</string>
+    <string name="comment_invalid">Please touch the stars to give a score</string>
+    <string name="comment_version_name">(%1$s версия)</string>
 </resources>
