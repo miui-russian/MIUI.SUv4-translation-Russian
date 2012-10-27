@@ -14,6 +14,9 @@
     <string name="theme_description_title_default">По умолчанию</string>
     <string name="theme_description_title_customized">Обычный</string>
     <string name="component_category_title">Настроить</string>
+	<string name="component_category_style_title">Стили</string>
+    <string name="component_category_wallpaper_title">Обои</string>
+    <string name="component_category_ringtone_title">Рингтоны</string>
     <string name="component_category_finest_title">Популярные</string>
     <string name="component_category_more_title">Больше</string>
     <string name="theme_component_title_framework">Стили</string>
@@ -21,7 +24,7 @@
     <string name="theme_component_title_wallpaper">Обои</string>
     <string name="theme_component_title_lockwallpaper">Обои блокировки</string>
     <string name="theme_component_title_icon">Иконки</string>
-    <string name="theme_component_title_boot_animation">Загрузочная анимация</string>
+    <string name="theme_component_title_boot_animation">Анимация загрузки</string>
     <string name="theme_component_title_boot_audio">Звук загрузки</string>
     <string name="theme_component_title_font">Шрифт</string>
     <string name="theme_component_title_ringtone">Рингтон</string>
@@ -36,6 +39,7 @@
     <string name="theme_component_title_photo_frame">Фоторамка</string>
     <string name="theme_component_title_others">Прочее</string>
     <string name="theme_component_title_all">Темы</string>
+	<string name="customized_current_theme_title">Текущие настройки экрана блокировки</string>
     <string name="apply_theme_no_select_message">Выберите компоненты</string>
     <string name="apply_lockscreen_paper_tips">Тема экрана блокировки применена. Новые обои экрана блокировки могут быть не видны.</string>
     <string name="play_all_audio_effect">Воспроизведение аудио эффектов (Всего: %1$s)</string>
@@ -54,6 +58,11 @@
     <string name="component_include_title">Содержит %1$s компонентов</string>
     <string name="component_screen_title">Обои</string>
     <string name="resource_fail_to_show">В теме отсутствуют требуемые ресурсы</string>
+	<string name="new_format_convert">Конвертирование %1$s в новый формат, подождите...</string>
+    <string name="old_format_title">Старый формат</string>
+    <string name="old_format_fail">Ошибка конвертирования, для повтора нажмите применить.</string>
+    <string name="old_format_convert_tip1">Тема не в новом формате, конвертирование займет время. Продолжить?</string>
+    <string name="old_format_convert_tip2">Или удалите и загрузите новую версию.</string>
     <string name="wrong_title">Ошибка</string>
     <string name="theme_format_wrong_content">Неверный формат темы</string>
     <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка</string>
