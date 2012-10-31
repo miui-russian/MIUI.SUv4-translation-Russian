@@ -246,6 +246,18 @@
     <item msgid="4042143101664725090">"Время ожидания истекло"</item>
     <item msgid="7664124146786465092">"Сбой"</item>
   </string-array>
+  <string-array name="user_content_ratings_entries">
+        <item>Высший разум</item>
+        <item>Человек</item>
+        <item>Неандерталец</item>
+        <item>Шимпанзе</item>
+        <item>Обезьяна</item>
+  </string-array>
+  <string-array name="haptic_feedback_level_entries">
+        <item>Слабый</item>
+        <item>Средний</item>
+        <item>Сильный</item>
+  </string-array>
   <string-array name="battery_indicator_style_entries">
         <item>Графический</item>
         <item>Проценты</item>
@@ -267,12 +279,36 @@
         <item>9 сек.</item>
   </string-array>
   <string-array name="led_color_entries">
+        <item>Зеленый</item>
+        <item>Красный</item>
+        <item>Синий</item>
+        <item>Желтый</item>
+        <item>Голубой</item>
+        <item>Фиолетовый</item>
+        <item>Розовый</item>
+        <item>Оранжевый</item>
+  </string-array>
+  <string-array name="led_color_values_for_mione">
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
+        <item>\#FF00FF55</item>
+        <item>\#FF00AAAA</item>
+        <item>\#FF0033FF</item>
+  </string-array>
+  <string-array name="led_color_entries_for_mione">
         <item>Синий</item>
         <item>Красный</item>
         <item>Зеленый</item>
         <item>Розовый</item>
-        <item>Лиловый</item>
         <item>Фиолетовый</item>
+        <item>Пурпурный</item>
+        <item>Изумрудный</item>
+        <item>Голубой</item>
+        <item>Сапфир</item>
   </string-array>
   <string-array name="back_long_press_timeout">
         <item>0.5 сек.</item>
@@ -288,4 +324,22 @@
         <item>20 сек.</item>
         <item>Всегда</item>
   </string-array>
+  <string-array name="entries_dolby_control">
+        <item>Нет</item>
+        <item>Музыка</item>
+        <item>Кино</item>
+  </string-array>
+  <string-array name="wfd_status">
+        <item>Устройство подключено, создание сессии...</item>
+        <item>Сессия создана</item>
+        <item>Сессия сорвана...</item>
+        <item>Сессия не создана</item>
+        <item>Истекло время ожидания, повтор...</item>
+        <item>Устройство подключено</item>
+  </string-array>
+  <string-array name="power_mode_entries">
+        <item>Производительность</item>
+        <item>Нормальный</item>
+        <item>Энергосбережение</item>
+  </string-array>		
 </resources>
