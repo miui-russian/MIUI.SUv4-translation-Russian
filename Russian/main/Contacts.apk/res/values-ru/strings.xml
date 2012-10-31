@@ -240,7 +240,7 @@
 	<string name="display_more_groups">Другие группы...</string>
 	<string name="display_ungrouped">Остальные контакты</string>
 	<string name="display_all_contacts">Все контакты</string>
-	<string name="display_warn_remove_ungrouped">Удаление группы \%s\ из синхронизации приведет к удалению любых несгруппированных контактов из синхронизации.</string>
+	<string name="display_warn_remove_ungrouped">Удаление группы \"%s\" из синхронизации приведет к удалению любых несгруппированных контактов из синхронизации.</string>
 	<string name="account_phone">Только телефон, без синхронизации</string>
 	<string name="call_custom">Позвонить (%s)</string>
 	<string name="call_home">Домашний тел.</string>

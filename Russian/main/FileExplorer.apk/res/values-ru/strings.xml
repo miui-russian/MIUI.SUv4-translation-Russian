@@ -74,7 +74,7 @@
     <string name="notif_title">FTP сервер работает</string>
     <string name="storage_warning">Внешний носитель не доступен</string>
     <string name="wifi_state">Настройки Wi-Fi</string>
-    <string name="instruction_pre">Нажмите \'Старт\' для включения FTP сервера</string>
+    <string name="instruction_pre">Нажмите \"Старт\" для включения FTP сервера</string>
     <string name="instruction">Введите адрес: </string>
     <string name="no_wifi">Wi-Fi отключен</string>
     <string name="no_wifi_hint">Не найдено Wi-Fi подключения. Нажмите для проверки настроек</string>
@@ -153,7 +153,7 @@
     <string name="slide_left_text">Сдвиньте влево</string>
     <string name="guide_copy_to_sdcard">Копирование файлов из SD карты в MiDrive</string>
     <string name="guide_access_files_through_web">Ваш файл можно посмотреть \n на любом компьютере через интернет</string>
-    <string name="guide_access_files_through_phone">Вы можете загружать файлы через интернет, \n и они будут отображаться в телефоне\'s в MiDrive</string>
+    <string name="guide_access_files_through_phone">Вы можете загружать файлы через интернет, \n и они будут отображаться в MiDrive в телефоне</string>
     <string name="guide_advance_tech">Дополнительные методы</string>
     <string name="guide_manage_files_through_computer">Вы можете использовать менеджер файлов \n в MiDrive на своем ПК</string>
     <string name="guide_senior_tech">Обмен между компьютерами</string>
@@ -196,7 +196,7 @@
     <string name="decompress_to_here">Распаковка в папку</string>
     <string name="decompress_to">Распаковка в...</string>
     <string name="decompress_confirm">РаспаковАТЬ</string>
-    <string name="decompress_cancel">оТМЕНА</string>
+    <string name="decompress_cancel">Отмена</string>
     <string name="kuaipan_prompt">MiDrive СОВЕТЫ</string>
     <string name="kuaipan_prompt_message">\n Сервер закрыт на техническое обслуживание, повторите позже...\n</string>
     <string name="move_success">Успешно вырезано</string>

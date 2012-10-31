@@ -38,5 +38,5 @@
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Не хзватает памяти на съемном диске</string>
     <string name="dialog_insufficient_space_on_cache">Не хватает места во внутренней памяти</string>
-    <string name="auto_restart_under_wifi">WLAN автоматически загрузит данный файл</string>
+    <string name="auto_restart_under_wifi">Wi-Fi автоматически загрузит данный файл</string>
 </resources>

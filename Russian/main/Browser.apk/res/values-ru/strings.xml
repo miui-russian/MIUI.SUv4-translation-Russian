@@ -12,7 +12,7 @@
 	<string name="tab_snapshots">Сохраненные страницы</string>
 	<string name="added_to_bookmarks">Добавлено в закладки</string>
 	<string name="removed_from_bookmarks">Удалено из закладок</string>
-	<string name="sign_in_to">Войти в  \%s2\</string>
+	<string name="sign_in_to">Войти в \"%s2\"</string>
 	<string name="username">Имя</string>
 	<string name="password">Пароль</string>
 	<string name="action">Вход</string>
@@ -75,7 +75,7 @@
 	<string name="bookmark_thumbnail_view">Изображения</string>
 	<string name="bookmark_list_view">Список</string>
 	<string name="current_page">на </string>
-	<string name="delete_bookmark_warning">Удалить закладку \%s\?</string>
+	<string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
 	<string name="open_all_in_new_window">Открыть все в новых вкладках</string>
 	<string name="goto_dot">Поиск</string>
 	<string name="select_dot">Выбрать текст</string>
@@ -240,17 +240,9 @@
 	<string name="pref_lab_fullscreen_summary">Чтобы скрыть строку состояния, используйте полноэкранный режим</string>
 	<string name="pref_data_title">Настройки контента</string>
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
-	<string name="pref_data_preload_value_never">NEVER</string>
-	<string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-	<string name="pref_data_preload_value_always">ALWAYS</string>
-	<string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
 	<string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
 	<string name="pref_link_prefetch_title">Предзагрузка страницы</string>
-	<string name="pref_link_prefetch_value_never">NEVER</string>
-	<string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
-	<string name="pref_link_prefetch_value_always">ALWAYS</string>
-	<string name="pref_link_prefetch_default_value">@string/pref_link_prefetch_value_wifi_only</string>
 	<string name="pref_link_prefetch_summary">Разрешить браузеру предзагрузку страниц в фоне</string>
 	<string name="pref_link_prefetch_dialogtitle">Предзагрузка страницы</string>
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
@@ -279,8 +271,8 @@
 	<string name="download_no_sdcard_dlg_title">SD-карта отсутствует</string>
 	<string name="download_no_sdcard_dlg_msg">Для загрузки %s необходима SD-карта.</string>
 	<string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
-	<string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выберите \Отключить USB-накопитель\ в уведомлении.</string>
-	<string name="cannot_download">Загрузка возможна только с URL, начинающихся с \http\ или \https\.</string>
+	<string name="download_sdcard_busy_dlg_msg">SD-карта занята. Чтобы разрешить загрузки, выберите \"Отключить USB-накопитель\" в уведомлении.</string>
+	<string name="cannot_download">Загрузка возможна только с URL, начинающихся с \"http\" или \"https\".</string>
 	<string name="download_pending">Начинается загрузка…</string>
 	<string name="dump_nav">Сбросить кэш навигации</string>
 	<string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
@@ -298,8 +290,8 @@
 	<string name="geolocation_permissions_prompt_share">Разрешить</string>
 	<string name="geolocation_permissions_prompt_dont_share">Отклонить</string>
 	<string name="geolocation_permissions_prompt_remember">Запомнить настройки</string>
-	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\.</string>
-	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\.</string>
+	<string name="geolocation_permissions_prompt_toast_allowed">У этого сайта есть доступ к данным о вашем местоположении. Чтобы запретить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
+	<string name="geolocation_permissions_prompt_toast_disallowed">У этого сайта нет доступа к данным о вашем местоположении. Чтобы предоставить его, выберите \"Настройки -&gt; Расширенные -&gt; Настройки веб-сайтов\".</string>
 	<string name="geolocation_settings_page_title">Закрыть геоданные</string>
 	<string name="geolocation_settings_page_summary_allowed">Этот сайт сейчас имеет доступ к вашему местоположению</string>
 	<string name="geolocation_settings_page_summary_not_allowed">У этого сайта сейчас нет доступа к данным о вашем местоположении</string>

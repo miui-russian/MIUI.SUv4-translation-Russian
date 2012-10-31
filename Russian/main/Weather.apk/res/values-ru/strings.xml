@@ -45,10 +45,10 @@
     <string name="share_weather_title">Поделиться данными о погоде</string>
     <string name="share_sina">Share it via Sina Weibo</string>
     <string name="share_qq">Share it via Tencent Weibo</string>
-    <string name="install_sina">Click to install Sina Weibo</string>
-    <string name="install_tencent">Click to install Tencent Weibo</string>
+    <string name="install_sina">Нажмите для установки Sina Weibo</string>
+    <string name="install_tencent">Нажмите для установки Tencent Weibo</string>
     <string name="share_content">#MIUI weather#\nToday %1$s\'s weather is %2$s, %3$s, %4$s。%5$s published.</string>
-    <string name="save_screen_shot_failed">Failed to save screenshot</string>
+    <string name="save_screen_shot_failed">Ошибка сохранения скриншота</string>
     <string name="chart_weather_title">Диаграмма погоды</string>
 	<string name="settings_weather_title">Настройки</string>
     <string name="settings_weather_animation">Анимация погоды</string>
@@ -56,7 +56,7 @@
     <string name="settings_weather_play_ani_summary">Play animation in the main interface</string>	
     <string name="settings_weather_about">About</string>
     <string name="settings_weather_pre_title">Погода</string>
-    <string name="settings_weather_preview">Preview weather animation</string>
+    <string name="settings_weather_preview">Просмотр анимации погоды</string>
     <string name="menu_delete">Удалить</string>
     <string name="selected_format">Выбран город %d</string>
     <string name="alert_title_delete">Удалить</string>
