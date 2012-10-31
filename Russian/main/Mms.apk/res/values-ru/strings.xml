@@ -397,7 +397,7 @@
 	<string name="messaging_intent_label">SMS</string>
 	<string name="multi_select_title_conversation_init">Выберите цепочку</string>
 	<string name="multi_select_title_message_init">Выберите сообщение(я)</string>
-	<string name="multi_select_title_conversation">Выбрано %1$s чепочка(ки)</string>
+	<string name="multi_select_title_conversation">Выбрано: %1$s</string>
 	<string name="multi_select_title_message">Выбрано %1$s сообщение(й)</string>
 	<string name="flatshow_page_no">%1$d</string>
 	<string name="loading_contacts">Загрузка контактов...</string>

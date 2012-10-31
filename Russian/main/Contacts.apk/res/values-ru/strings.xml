@@ -56,7 +56,7 @@
 	<string name="separatorJoinAggregateAll">Все контакты</string>
 	<string name="contactsJoinedMessage">Контакты присоединились</string>
 	<string name="deleteConfirmation_title">Удалить</string>
-	<string name="delete">Добавить напоминание</string>
+	<string name="delete">Удалить</string>
 	<string name="menu_set_ring_tone">Задать рингтон</string>
 	<string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
 	<string name="readOnlyContactWarning">Невозможно удалить контакты из аккаунта, доступного только для чтения, однако можно скрыть их в списках контактов.</string>
@@ -525,7 +525,7 @@
 	<string name="deselect_all">Удалить все</string>
 	<string name="select_none">Ничего не выбрано, операция невозможна</string>
 	<string name="toast_finish_delete_call_log">История сообщений удалена</string>
-	<string name="confirm_delete_selected_call_log">Вы уверены, что хотите удалить из журнала %1d?</string>
+	<string name="confirm_delete_selected_call_log">Вы уверены, что хотите удалить выбранное из журнала?</string>
 	<string name="calllog_menu_blacklist">Добавить в черный список</string>
 	<string name="calllog_menu_edit_before_call">Редактировать перед звонком</string>
 	<string name="calllog_menu_send_sms">Послать сообщение</string>
