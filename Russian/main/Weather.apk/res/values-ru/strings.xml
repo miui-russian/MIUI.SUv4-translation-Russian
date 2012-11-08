@@ -75,12 +75,22 @@
     <string name="location_allow_err">Открытие определения местонахождение не удалось</string>
     <string name="format_date_wmd">M/d EEE</string>
     <string name="format_date_md">M/d kk:mm</string>
+    <array name="act_weather_main_listview_key">
+        <item>Wind speed:　　</item>
+        <item>UV index:　</item>
+        <item>Clothing index:</item>
+        <item>Comfort index:</item>
+        <item>Car wash index:</item>
+        <item>Drying index:</item>
+        <item>Morning excerise index:</item>
+        <item>Leisure index:</item>
+     </array>
     <array name="send_item">
         <item>СМС</item>
         <item>E-mail</item>
     </array>
     <array name="weather_image">
-        <item>Sunny</item>0  晴
+        <item>Clear</item>0  晴
         <item>Cloudy</item>1  多云
         <item>Overcast</item>2  阴
         <item>Fog</item>3  雾

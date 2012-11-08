@@ -73,6 +73,13 @@
 	<string name="camera_setas_wallpaper">Фон рабочего стола</string>
 	<string name="delete">Удалить</string>
 	<string name="confirm_delete">Вы уверены, что хотите удалить %s фото?</string>
+	<string formatted="false" name="confirm_delete_album">Вы уверены, что хотите удалить %s альбомов (включая %s штук)?</string>
+	<string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
+	<string name="confirm_delete_folders_and_pictures">Удалить %s?</string>
+    <string name="confirm_delete_pictures"> %s изображений</string>
+    <string formatted="false" name="confirm_delete_folders_including"> %s папок (включая %s)</string>
+    <string name="confirm_delete_videos"> %s видео</string>
+    <string name="confirm_delete_including_null">0 штук</string>
 	<string name="cancel">Отмена</string>
 	<string name="share">Отправить</string>
 	<string name="select_all">Выбрать все</string>

@@ -86,4 +86,5 @@
     <string name="close">Закрыть</string>
     <string name="download_success">Загрузка завершена!</string>
 	<string name="theme_importing">Импорт тем</string>
+	<string name="theme_import_success">Импорт завершен</string>
 </resources>
