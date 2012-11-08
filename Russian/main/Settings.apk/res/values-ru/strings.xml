@@ -1895,7 +1895,6 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="virus_scan_app_scan_finish">Сканирование завершено</string>
 	<string name="virus_scan_app_no_risk">Угроз не найдено</string>
 	<string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
-	<string name="password_guard">Защита паролем</string>
 	<string name="title_dolby_control">Dolby Mobile Control</string>
 	<string name="dialog_title_entryvalues_dolby_control">Dolby Mobile Control</string>
 	<string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
