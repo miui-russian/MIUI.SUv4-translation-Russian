@@ -460,8 +460,7 @@
     <string name="wake_alarm_message">Следующее срабатывание будильника в %s</string>
     <string name="description_downloadtime">Загрузка:</string>
 	<string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all your notes.</string>
-    <string name="memory_clear_result">"Successfully freed %1$s memory,
-Current available memory is %2$s"</string>
+    <string name="memory_clear_result">"Освобождено пямяти %1$s, доступно %2$s"</string>
     <string name="memory_clear_nothing_result">No freeable memory currently</string>
     <string name="perm_send_push_lab">Send push message</string>
     <string name="perm_send_push_dspt">Allow to send Xiaomi push message</string>
@@ -493,7 +492,7 @@ Current available memory is %2$s"</string>
     <string name="incoming_call_vibrate_hint">Incoming call</string>
     <string name="notification_vibrate_hint">Notification</string>
     <string name="mms_vibrate_hint">Message</string>
-    <string name="not_all_vibrate_hint">According to your settings, %1$s V ibrates, %2$s does not vibrate, you can change it through Settings > Sound > Vibrate</string>
+    <string name="not_all_vibrate_hint">"According to your settings, %1$s V ibrates, %2$s does not vibrate, you can change it through Settings > Sound > Vibrate"</string>
     <string name="screen_button_notification_title">Screen buttons are disabled</string>
     <string name="screen_button_notification_text">"Pressing 'Home'+'Power' to enable"</string>
     <string name="resource_get_auth">You do not have authorization of the resource.</string>
