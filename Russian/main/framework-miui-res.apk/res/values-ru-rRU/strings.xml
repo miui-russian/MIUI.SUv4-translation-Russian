@@ -3,7 +3,7 @@
     <string name="reboot_confirm">Телефон будет перезагружен</string>
     <string name="reboot_progress">Перезагрузка...</string>
 	<string name="resource_price_free">Бесплатно</string>
-    <string name="resource_price_unit">MI доллар/string>
+    <string name="resource_price_unit">MI доллар</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resourcebrowser_lable">Ресурсы</string>
     <string name="sdcard_status_changed_dialog_title">Статус SD карты изменен</string>
