@@ -501,6 +501,7 @@
 	<string name="callrecordview_menu_paste">Вставить</string>
 	<string name="openDialKeyboard">Номеронабиратель</string>
 	<string name="t9_search_guide">Введите номер телефона или найдите его с помощью T9</string>
+	<string name="t9_search_guide_zhuyin">Введите номер телефона или найдите контакт с помощью T9</string>
 	<string name="date_time_set">Установить</string>
 	<string name="sim_no_contact">На SIM карте нет контактов</string>
 	<string name="sim_indexed_contact_not_exist">Позиция %1$d на SIM карте не допустима, должно быть между %2$d м %3$d</string>

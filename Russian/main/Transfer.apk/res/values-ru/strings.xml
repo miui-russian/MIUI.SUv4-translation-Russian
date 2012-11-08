@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <!-- 蓝牙从其它手机导入联系人 -->
+<resources>
     <string name="app_name">Передача</string>
     <string name="device_brand_title">Выберите марку телефона</string>
     <string name="device_version_title">Выберите модель телефона</string>
@@ -12,8 +10,6 @@
     <string name="device_bluetooth_title">Подготовительные работы</string>
     <string name="device_version_header_no_bluetooth">С помощью вашей SIN</string>
     <string name="device_version_header_bluetooth">Открыть bluetooth</string>
-
-    <!-- DeviceListActivity -->
     <string name="scanning">Поиск устройств...</string>
     <string name="select_device">Выберите устройство</string>
     <string name="none_paired">Нет сопряженных устройств</string>
@@ -51,4 +47,5 @@
     <string name="bluetooth_connection_failed_toast">Связь по bluetooth прервана</string>
     <string name="device_import_done_toast">%1$d контактов импортировано</string>
     <string name="device_import_progress_toast">%1$d контактов импортировано только что</string>
+	<string name="no_contact_in_other_phone">Нет контактов в телефоне</string>
 </resources>

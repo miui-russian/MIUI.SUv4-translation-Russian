@@ -472,4 +472,6 @@
 	<string name="mx_online">В сети</string>
 	<string name="mx_offline">Не в сети</string>
 	<string name="mx_enable_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между MIUI. За обычные сообщения взымается плата. Включить облачные сообщения?</string>
-</resources><!--Parsed with BurgerZ.pro XML Parser-->
+	<string name="loading_mms">Загрузка...</string>
+    <string name="add_number_to_sender">Добавить номер в %s</string>
+</resources>

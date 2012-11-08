@@ -1909,4 +1909,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="wfd_disconnect_multiple_diag_message">Если вы разъедините сессию Дисплея Wi-Fi, ваше соединение с %1$s и %2$s другими устройствами будет потеряно.</string>
 	<string name="power_mode">Режим питания</string>
 	<string name="skip_step">Пропустить этот шаг</string>
+	<string name="password_guard">Защита паролем</string>
+    <string name="vpn_settings_password">Защита паролем VPN</string>
+    <string name="vpn_safe">Защита</string>
+    <string name="vpn_configure">Настройка</string>
+    <string name="sync_wifi_label">Настройка Wi-Fi</string>
+    <string name="milicenter_settings">Центр Xiaomi Dollar</string>
 </resources>

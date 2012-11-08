@@ -24,9 +24,11 @@
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="privacy_protect_title">Конфиденциальность</string>
     <string name="privacy_mode_enable_title">Включить режим охраны</string>
+	<string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и т.д. для защиты данных.</string>
     <string name="ac_enable_title">Включить контроль доступа</string>
     <string name="ac_set_apps_title">Защита приложений</string>
-    <string name="ac_privacy_mode_title">Защитить режим охраны</string>
+    <string name="ac_privacy_mode_title">Включить пароль</string>
+	<string name="ac_privacy_mode_sum">Введите пароль доступа для отключения режима защиты</string>
     <string name="access_control_password_title">Включить пароль</string>
     <string name="access_control_need_to_unlock">Требуется пароль</string>
     <string name="access_control_need_password">%s защищен\n</string>
@@ -253,7 +255,13 @@ including personal data (i.e. passwords and credit card numbers). Use this input
     <string name="virus_scanner_select_single">Рекомендовано выбрать доверенную базу данных </string>
     <string name="virus_scanner_select_OK">Принять</string>
     <string name="virus_scanner_select_Cancel"> Отмена</string>
-    <string name="virus_scanner_kinsoft_provider">Безопасность обеспечивается Kingsoft Phone Guardian</string>
+	<string name="virus_scanner_provider">Безопасность обеспечивается %s</string>
+    <string name="virus_scanner_auto_update"> Автообновление </string>
+    <string name="virus_scanner_manual_update"> Обновление вручную </string>
+    <string name="virus_scanner_lib_update"> Есть обновление базы вирусов </string>
+    <string name="virus_scanner_lib_updating"> Обновление ... </string>
+    <string name="virus_scanner_lib_already_latest"> Вирусная база обновлена</string>
+    <string name="virus_scanner_lib_update_failed"> Ошибка обновления вирусных баз </string>
     <string name="virus_scan_app_safe_scanning"> Сканирование...</string>
     <string name="virus_scan_app_multi_engines">Вы вЂ™ выбрали несколько баз, сканирование может длиться дольше.</string>
     <string name="virus_scan_app_scanning">Сканирование... </string>
@@ -273,5 +281,6 @@ including personal data (i.e. passwords and credit card numbers). Use this input
     <string name="vpn_settings_password">VPN password protection</string>
     <string name="vpn_safe">Защита</string>
     <string name="vpn_configure">Конфигурация</string>
+	<string name="sync_wifi_label">Настройки Wi-Fi</string>
 </resources>
 
