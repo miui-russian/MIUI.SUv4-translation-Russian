@@ -1646,7 +1646,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="search_wallpaper">Обои</string>
 	<string name="search_launcher">Лаунчер</string>
 	<string name="search_accelerometer">Акселерометр</string>
-	<string name="search_screen_timeout">screen timeout</string>
+	<string name="search_screen_timeout">Выкл. экрана</string>
 	<string name="search_ring_volume">Громкость звонка</string>
 	<string name="search_ringtone">Рингтон</string>
 	<string name="search_sms_received">Получение SMS</string>
