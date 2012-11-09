@@ -466,7 +466,7 @@
     <string name="perm_send_push_dspt">Allow to send Xiaomi push message</string>
     <string name="status_bar_toggle_ac">Управление доступом</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-    <string name="status_bar_toggle_brightness">Подсветка</string>
+    <string name="status_bar_toggle_brightness">Яркость</string>
     <string name="status_bar_toggle_data">Интернет</string>
     <string name="status_bar_toggle_divider">Настроить</string>
     <string name="status_bar_toggle_flight_mode">Режим полета</string>
