@@ -500,14 +500,4 @@
     <string name="resource_get_auth_retrieving">Retrieving authorization...</string>
     <string name="resource_get_auth_failed">Retrive authorization failed.</string>
 	<string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
-    <string name="theme_update_request_title">Theme upgrade</string>
-    <string name="theme_update_request_content">The new format of theme package is needed, the upgrade process may take longe time. And theme packages which is not downloaded from theme market is no longer usable, please click OK to upgrade now.</string>
-    <string name="theme_update_request_continue_content">The last upgrade process for theme packages was not completed, whether to continue now?</string>
-    <string name="theme_updating_title">Upgrading themes</string>
-    <string name="theme_updating_precontent">Prepareing, please wait...</string>
-    <string name="theme_updating_content">Upgrading %1$d/%2$d, please be patient</string>
-    <string name="theme_update_complete_title">Upgrade Finished</string>
-    <string name="theme_update_complete_content_success">%1$d successed</string>
-    <string name="theme_update_complete_content_fail">, %1$d failed</string>
-    <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
 </resources>
