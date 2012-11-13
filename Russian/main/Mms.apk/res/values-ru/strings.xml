@@ -354,7 +354,7 @@
 	<string name="pref_title_notification_body_enabled">Предпросмотр</string>
 	<string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в статус баре</string>
 	<string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
-	<string name="pref_title_new_message_popup">Всплывающие окна новых сообщений</string>
+	<string name="pref_title_new_message_popup">Всплывающие окна</string>
 	<string name="pref_summary_new_message_popup">Показывать всплывающее окно доставки сообщений</string>
 	<string name="pref_summary_new_message_popup_when_secure">Запрет всплывающих сообщений в режиме гостя</string>
 	<string name="pref_title_wake_up_screen">Включение экрана</string>
@@ -450,7 +450,9 @@
 	<string name="mx_dspt">Отправлять сообщения через Интернет через MIUI. Выключите для отправки через оператора при ошибке (%s)</string>
 	<string name="mx_count_dspt">После включения, MIUI отправило %1$d облачных сообщений для (%2$s)</string>
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
-	<string name="mx_auto_resend_sms_summary">Отправить как SMS когда облачные сообщения недоступны. </string>
+	<string name="mx_auto_resend_sms_summary">Отправить как SMS когда облачные сообщения недоступны.</string>
+	 <string name="mx_auto_resend_mms">Отправить как MMS</string>
+    <string name="mx_auto_resend_mms_summary">Отправить как MMS когда облачные сообщения недоступны.</string>
 	<string name="msg_type_hint_sms">Текстовое сообщение</string>
 	<string name="msg_type_hint_mms">Мултимедийное сообщение</string>
 	<string name="msg_type_hint_mx">Облачное сообщение</string>
