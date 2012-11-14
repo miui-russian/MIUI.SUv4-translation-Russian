@@ -822,7 +822,6 @@
 Выберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.&quot;</string>
 	<string name="save_password_label">Подтверждаю</string>
 	<string name="double_tap_toast">Подсказка: используйте двойное нажатие для изменения масштаба.</string>
-	<string name="autofill_this_form">Автозаполнение</string>
 	<string name="setup_autofill">Настройки автозаполнения</string>
 	<string name="autofill_address_name_separator">" "</string>
 	<string name="autofill_address_summary_format">$1$2$3</string>

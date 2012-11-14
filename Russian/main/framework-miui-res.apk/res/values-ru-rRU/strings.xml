@@ -463,7 +463,7 @@
     <string name="memory_clear_result">Очищено  %1$s\nДоступно %2$s</string>
     <string name="memory_clear_nothing_result">Сейчас нельзя очистить память</string>
     <string name="perm_send_push_lab">Отправка push-сообщений</string>
-    <string name="perm_send_push_dspt">Позволяет отправлять push-сообщения в Xiaomi</string>
+    <string name="perm_send_push_dspt">Позволяет отправлять push-сообщения Xiaomi</string>
     <string name="status_bar_toggle_ac">Упр. доступом</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
