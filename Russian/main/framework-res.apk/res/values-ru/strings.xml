@@ -107,27 +107,27 @@
 	<string name="yesterday">Вчера</string>
 	<string name="today">Сегодня</string>
 	<string name="tomorrow">Завтра</string>
-	<string name="hour_minute_24">%H:%M</string>
-	<string name="hour_minute_ampm">%-l:%M%p</string>
-	<string name="hour_minute_cap_ampm">%-l:%M%^p</string>
+	<string formatted="false" name="hour_minute_24">%H:%M</string>
+	<string formatted="false" name="hour_minute_ampm">%-l:%M %p</string>
+	<string formatted="false" name="hour_minute_cap_ampm">%-l:%M %^p</string>
 	<string name="twelve_hour_time_format">h:mm a</string>
 	<string name="twenty_four_hour_time_format">HH:mm</string>
-	<string name="numeric_date">%-m/%-e/%Y</string>
-	<string name="numeric_date_format">M/d/yyyy</string>
-	<string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-	<string name="month_day_year">%B %-e, %Y</string>
-	<string name="time_of_day">%-l:%M:%S %p</string>
-	<string name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
-	<string name="date_time">%1$s, %2$s</string>
+	<string formatted="false" name="numeric_date">%d.%m.%Y</string>
+	<string name="numeric_date_format">d.MM.yyyy</string>
+	<string formatted="false" name="numeric_date_template">%s.%s.%s</string>
+	<string formatted="false" name="month_day_year">%-e %B %Y г.</string>
+	<string formatted="false" name="time_of_day">%-k:%M:%S</string>
+	<string formatted="false" name="date_and_time">%-k:%M:%S, %d.%m.%Y</string>
+	<string name="date_time">%2$s, %1$s</string>
 	<string name="time_date">%1$s, %3$s</string>
-	<string name="abbrev_month_day_year">%b %-e, %Y</string>
-	<string name="month_day">%B %-e</string>
+	<string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
+	<string formatted="false" name="month_day">%-e %B</string>
 	<string name="month">%-B</string>
-	<string name="month_year">%B %Y</string>
-	<string name="abbrev_month_day">%b %-e</string>
+	<string formatted="false" name="month_year">%B %Y</string>
+	<string formatted="false" name="abbrev_month_day">%-e %b</string>
 	<string name="abbrev_month">%-b</string>
-	<string name="abbrev_month_year">%b %Y</string>
-	<string name="time1_time2">%1$s – %2$s</string>
+	<string formatted="false" name="abbrev_month_year">%-b %Y</string>
+	<string name="time1_time2">%1$s - %2$s</string>
 	<string name="date1_date2">%2$s – %5$s</string>
 	<string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
 	<string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
@@ -160,9 +160,9 @@
 	<string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
 	<string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
 	<string name="short_format_month">%b</string>
-	<string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
-	<string name="abbrev_wday_month_day_no_year">EEE, MMMM d</string>
-	<string name="abbrev_wday_month_day_year">EEE, MMM d, yyyy</string>
+	<string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+	<string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
+	<string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
 	<string name="time_picker_separator">:</string>
 	<string name="byteShort">Б</string>
 	<string name="kilobyteShort">КБ</string>
@@ -806,8 +806,8 @@
 	<string name="granularity_label_word">word</string>
 	<string name="granularity_label_link">link</string>
 	<string name="granularity_label_line">line</string>
-	<string name="hour_ampm">%-l%P</string>
-	<string name="hour_cap_ampm">%-l%p</string>
+	<string formatted="false" name="hour_ampm">%-l%P</string>
+	<string formatted="false" name="hour_cap_ampm">%-l%p</string>
 	<string name="factorytest_failed">Не является заводским приложением</string>
 	<string name="factorytest_not_system">Действие &quot;FACTORY_TEST&quot; поддерживается только для приложений, установленных в /system/app.</string>
 	<string name="factorytest_no_action">Не обнаружено приложений, поддерживающих действие &quot;FACTORY_TEST&quot;.</string>
