@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Lockscreen version="1" frameRate="0" frameRateCharging="30" frameRateBatteryLow="20" frameRateBatteryFull="1" extraResourcesScreenWidth="480,720">
+<Lockscreen version="1" frameRate="30" frameRateCharging="30" frameRateBatteryLow="20" frameRateBatteryFull="1" extraResourcesScreenWidth="720">
     <Wallpaper/>
 
     <Var name="unlock_x" expression="#screen_width/2" const="true" />
@@ -195,13 +195,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Пропущенных звонков%d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Пропущенных вызовов %d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Пропущенных сообщений %d" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Новых сообщений: %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -404,7 +404,7 @@
                     </Text>
                     <Text x="#preview_info_x" y="#preview_sms_y+#preview_item_height+54" w="#screen_width-#preview_info_x-#preview_info_right_margin" marqueeSpeed="40" color="#FFFFFFFF" size="16" text="@sms_body2" visibility="ge(#preview_sms_count,2)*#sms_body_preview">
                     </Text>
-                    <DateTime x="#preview_info_right" y="#preview_sms_y+#preview_item_height+26" color="#FFFFFFFF" size="16" align="right" value="#sms_date2" format="EEEE, d MMMM" visibility="ge(#preview_sms_count,2)">
+                    <DateTime x="#preview_info_right" y="#preview_sms_y+#preview_item_height+26" color="#FFFFFFFF" size="16" align="right" value="#sms_date2" format="kk:mm" visibility="ge(#preview_sms_count,2)">
                     </DateTime>
                 </Group>
                 <FramerateController loop="false">
