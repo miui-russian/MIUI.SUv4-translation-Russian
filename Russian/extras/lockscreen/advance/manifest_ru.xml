@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Lockscreen version="1" frameRate="30" frameRateCharging="30" frameRateBatteryLow="20" frameRateBatteryFull="1"extraResourcesScreenWidth="720">
+<Lockscreen version="1" frameRate="0" frameRateCharging="30" frameRateBatteryLow="20" frameRateBatteryFull="1" extraResourcesScreenWidth="480,720">
     <Wallpaper/>
 
     <Var name="unlock_x" expression="#screen_width/2" const="true" />
@@ -61,7 +61,7 @@
     <Var name="preview_sms_y" expression="#preview_y-12-#preview_sms_count*#preview_item_height"/>
     <Var name="preview_call_y" expression="#preview_sms_y-#preview_call_count*#preview_item_height"/>
 
-        <!-- 音乐控制 -->
+    <!-- 音乐控制 -->
     <MusicControl x="0" y="#unlock_y-226" w="#screen_width" h="#screen_width" name="music_control" autoShow="true" visibility="false" defAlbumCover="default_album_cover.png">
         <!-- 背景 -->
         <Image x="0" y="226+#screen_width/2" alignV="bottom" src="music_bg.png"/>
@@ -91,8 +91,9 @@
         </Image>
         <Image x="#unlock_x" y="226-230" align="center" src="unlock_top_p.png" visibility="not(#unlocker.state)"/>
         <Image x="#unlock_x" y="226" align="center" alignV="center" src="music_album_cover.png" visibility="not(#unlocker.state)"/>
-        	
-                                        <!-- 上一首 -->
+
+	
+        <!-- 上一首 -->
         <Button name="music_prev" x="#unlock_x-226" y="116" w="#screen_width/2-110" h="220" visibility="not(#unlocker.state)">
             <Normal>
                 <Image x="#unlock_x-192" y="226" align="center" alignV="center" src="music_pre_n.png"/>
@@ -134,14 +135,15 @@
         </Button>
     </MusicControl>
 
-                <Unlocker name="unlocker" bounceInitSpeed="500" bounceAcceleration="1500">
-        <StartPoint x="#unlock_x-78" y="#unlock_y-78" w="136" h="136">
+
+    <Unlocker name="unlocker" bounceInitSpeed="500" bounceAcceleration="1500">
+        <StartPoint x="#unlock_x-78" y="#unlock_y-78" w="156" h="156">
         </StartPoint>
 
         <!-- 此endpoint只为显示圆盘动画，不会有PressedState和ReachedState切换 -->
         <EndPoint x="0" y="0" w="0" h="0">
             <PressedState>
-		        <FramerateController>
+                <FramerateController>
                     <ControlPoint time="0" frameRate="50"/>
                     <ControlPoint time="500" frameRate="0"/>
                 </FramerateController>
@@ -158,16 +160,16 @@
 		        </Group>
 
                 <!-- 时间、日期 -->
-                <Group>
-                    <AlphaAnimation>
-                        <Alpha a="255" time="0"/>
-                        <Alpha a="255*not(#show_preview)" time="500"/>
-                        <Alpha a="255*not(#show_preview)" time="1000000000000000"/>
-                    </AlphaAnimation>
+            <Group>
+                <AlphaAnimation>
+                    <Alpha a="255" time="0"/>
+                    <Alpha a="255*not(#show_preview)" time="500"/>
+                    <Alpha a="255*not(#show_preview)" time="1000000000000000"/>
+                </AlphaAnimation>
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                 </Time>
 
-		        <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+	            <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="M/d EEEE">
 	            </DateTime>
             </Group>
 		            <!-- xx的小米手机 -->
@@ -177,8 +179,9 @@
 				        <Alpha a="128*not(#show_preview)" time="500"/>
 				        <Alpha a="128*not(#show_preview)" time="1000000000000000"/>
 			        </AlphaAnimation>
-		            </Text>
-		            		            								        		<Group>
+	            </Text>
+
+		<Group>
                     <Image x="#screen_width/2+30" y="180" src="volumn.png" visibility="1">
                     </Image>
                 </Group>
@@ -192,13 +195,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Пропущенных вызовов %d" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="Пропущенных звонков%d" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Новых сообщений: %d" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="Пропущенных сообщений %d" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -292,9 +295,10 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Image>
+				
+                
 
-
-                                                                                                                <!-- 时间、日期 -->
+                <!-- 时间、日期 -->
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
@@ -302,19 +306,19 @@
                         <Alpha a="255" time="1000000000000000"/>
                     </AlphaAnimation>
                 <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
-                    </Time>
-                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+                </Time>
+                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="M/d EEEE">
                     </DateTime>
-                    </Group>
+                </Group>
                 <!-- xx的小米手机 -->
-                    <Text x="#screen_width/2" y="40" align="center" w="460" marqueeSpeed="30" size="18" color="#FFFFFFFF" text="@owner_info" visibility="not(isnull(@owner_info))">
+                <Text x="#screen_width/2" y="40" align="center" w="460" marqueeSpeed="30" size="18" color="#FFFFFFFF" text="@owner_info" visibility="not(isnull(@owner_info))">
                     <AlphaAnimation>
-                <Alpha a="96*not(#preview_call_count+#sms_count)" time="0"/>
+                        <Alpha a="96*not(#preview_call_count+#sms_count)" time="0"/>
                         <Alpha a="128" time="500"/>
                         <Alpha a="128" time="1000000000000000"/>
                     </AlphaAnimation>
                 </Text>
-
+                
                 <Group>
                     <AlphaAnimation>
                         <Alpha a="192*not(#preview_call_count+#sms_count)" time="0"/>
@@ -368,7 +372,8 @@
                     </Image>
                 </Group>
 
-                                                                                                <Group>
+
+                <Group>
                     <AlphaAnimation>
                         <Alpha a="64" time="0"/>
                         <Alpha a="128" time="500"/>
@@ -399,7 +404,7 @@
                     </Text>
                     <Text x="#preview_info_x" y="#preview_sms_y+#preview_item_height+54" w="#screen_width-#preview_info_x-#preview_info_right_margin" marqueeSpeed="40" color="#FFFFFFFF" size="16" text="@sms_body2" visibility="ge(#preview_sms_count,2)*#sms_body_preview">
                     </Text>
-                    <DateTime x="#preview_info_right" y="#preview_sms_y+#preview_item_height+26" color="#FFFFFFFF" size="16" align="right" value="#sms_date2" format="kk:mm" visibility="ge(#preview_sms_count,2)">
+                    <DateTime x="#preview_info_right" y="#preview_sms_y+#preview_item_height+26" color="#FFFFFFFF" size="16" align="right" value="#sms_date2" format="EEEE, d MMMM" visibility="ge(#preview_sms_count,2)">
                     </DateTime>
                 </Group>
                 <FramerateController loop="false">
@@ -801,7 +806,7 @@
                   <Trigger action="double" target="music_control" property="visibility" value="toggle"/>
             </Triggers>
         </Button>
-    
+
     <!--音量控制-->
     <Group visibility="eq(#volume_type, 3)">
 	<Var name="volume_bar_y" expression="199" const="true"/>
