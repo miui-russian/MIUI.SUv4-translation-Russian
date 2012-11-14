@@ -169,10 +169,10 @@
     <string name="Dashboard_Log_Clear_Content">Все журналы будут удалены. Вы уверены, что хотите это включить?</string>
     <string name="Privacy_Perm_Count">Разрешённых: %1$d Запрещённых: %2$d</string>
     <string name="Privacy_AppPerm_Count">%1$d разрешений</string>
-    <string name="Privacy_AppPerm_Count_Trust">%1$d разрешений - &lt;font color=#478800>Trusted&lt;/font></string>
+    <string name="Privacy_AppPerm_Count_Trust">%1$d разрешений</string>
     <string name="Privacy_App_Trust">Я доверяю этому приложению</string>
     <string name="Privacy_App_Trust_Summary_Off">MIUI не будет контролировать это приложение</string>
-    <string name="Privacy_App_Trust_Summary_On">MIUI будет доверять этому приложению</string>
+    <string name="Privacy_App_Trust_Summary_On">Доверенное приложение</string>
     <string name="Privacy_App_Manage">Детали</string>
     <string name="Privacy_App_Uninstall">Удалить</string>
     <string name="Privacy_App_Log">Журналы</string>
