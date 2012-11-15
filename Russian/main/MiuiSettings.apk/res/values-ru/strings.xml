@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="debug_log">User Experience Program</string>
-    <string name="upload_debug_log_title">Присоединиться к User Experience Program</string>
-    <string name="upload_debug_log_summary">Помочь Xiaomi улучшить качество продукции, отправляя данные о диагностике  и пользовании.</string>
+    <string name="debug_log">Программа развития</string>
+    <string name="upload_debug_log_title">Участвовать в программе</string>
+    <string name="upload_debug_log_summary">Помочь Xiaomi улучшить качество продукции, отправляя данные о диагностике и пользовании.</string>
     <string name="firmware_version">Версия Android:</string>
     <string name="model_number">Номер модели:</string>
     <string name="device_miui_version">Версия MIUI:</string>
@@ -12,18 +12,17 @@
     <string name="device_sd_memory">SD-карта:</string>
     <string name="device_cpu2_info">"2 ядра"</string>
     <string name="device_cpu4_info">"4 ядра"</string>
-    <string name="available_size">%s (Available)</string>
-    <string name="total_size">%s (Total)</string>
+    <string name="available_size">%s (Доступно)</string>
+    <string name="total_size">%s (Всего)</string>
     <string name="xiaomi_account">"Аккаунт Xiaomi"</string>
-    <string name="sms_received_sound_title">Звук входящего SMS
-</string>
-    <string name="sms_delivered_sound_title">Звук отправленного SMS </string>
-    <string name="sms_received_sound_dialog_title">Выбор звука приема SMS</string>
+    <string name="sms_received_sound_title">Звук входящего SMS</string>
+    <string name="sms_delivered_sound_title">Звук отправленного SMS</string>
+    <string name="sms_received_sound_dialog_title">Выбор звука входящего SMS</string>
     <string name="sms_delivered_sound_dialog_title">Выбор звука доставленного SMS</string>
     <string name="additional_system_update_settings_list_item_title">Дополнительные системные обновления</string>
     <string name="haptic_feedback_level">Уровень вибрации</string>
     <string name="privacy_protect_title">Конфиденциальность</string>
-    <string name="privacy_mode_enable_title">Включить режим охраны</string>
+    <string name="privacy_mode_enable_title">Включить защищённый режим</string>
 	<string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и т.д. для защиты данных.</string>
     <string name="ac_enable_title">Включить контроль доступа</string>
     <string name="ac_set_apps_title">Защита приложений</string>
@@ -43,7 +42,7 @@
     <string name="screen_on_proximity_sensor_title">Предотвратить ошибки</string>
     <string name="screen_on_proximity_sensor_summary">Предотвращает ошибки, когда устройство в сумке (определяется датчиком приближения).</string>
     <string name="key_settings_title">Кнопки &amp; кнопки</string>
-    <string name="key_settings">Buttons &amp; keys</string>
+    <string name="key_settings">Кнопки &amp; кнопки</string>
     <string name="menu_key">Кнопка Меню</string>
     <string name="enable_assist_key_long_press">Удерживать кнопку для включения голосовой помощи</string>
     <string name="back_long_press">Кнопка Назад</string>
@@ -67,7 +66,7 @@
     <string name="camera_key_action_shortcut_search">Поиск</string>
     <string name="camera_key_action_shortcut_call">Вызов</string>
     <string name="camera_key_action_shortcut_wake">Заблокировать/Разбудить устройство</string>
-    <string name="multi_touch_points_category_title">Multi-touch</string>
+    <string name="multi_touch_points_category_title">Мультитач</string>
     <string name="multi_touch_points_preference">Перезагрузить для включения</string>
     <string name="trackball_wake_title">Пробуждение трекболом</string>
     <string name="trackball_settings">Трекбол</string>
@@ -144,10 +143,10 @@
     <string name="wifi_setting_sleep_policy_title">Оставлять WLAN включенным в режиме сна</string>
     <string name="wifi_access_points">Сети WLAN</string>
     <string name="wifi_empty_list_wifi_off">Чтобы увидеть доступные сети, включите WLAN.</string>
-    <string name="wifi_disabled_help">Сеть была разорвана из-за плохого соединения. To adjust this setting, go to Settings &gt; WLAN Screen, Advance Menu.</string>
-    <string name="wifi_wps_overlap_error">Another WLAN protected session was detected. Попробуйте снова через несколько минут.</string>
+    <string name="wifi_disabled_help">Сеть была разорвана из-за плохого соединения. Чтобы изменить эту настройку, перейдите в Настройки &gt; экран WLAN, Дополнительное меню.</string>
+    <string name="wifi_wps_overlap_error">Была обнаружена другая защищённая сессия WLAN. Попробуйте снова через несколько минут.</string>
     <string name="wifi_advanced_titlebar">Дополнительные настроки</string>
-    <string name="wifi_setting_frequency_band_title">WLAN frequency band</string>
+    <string name="wifi_setting_frequency_band_title">Диапазон частот WLAN</string>
     <string name="wifi_p2p_settings_title">WLAN direct</string>
     <string name="wifi_p2p_wps_setup">WLAN protected setup</string>
     <string name="wifi_tether_checkbox_text">Portable WLAN hotspot</string>
