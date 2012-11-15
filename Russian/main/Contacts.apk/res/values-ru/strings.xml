@@ -11,7 +11,7 @@
 	<string name="launcherDialer">Телефон</string>
 	<string name="people">Контакты</string>
 	<string name="contactsList">Контакты</string>
-	<string name="shortcutContact">Контакт</string>
+	<string name="shortcutContact">Контакты</string>
 	<string name="shortcutDialContact">Быстрый звонок</string>
 	<string name="shortcutMessageContact">Быстрое SMS</string>
 	<string name="shortcutActivityTitle">Выбрать контакт для быстрого вызова</string>
