@@ -403,4 +403,9 @@
     <string name="unlock_failed">"Запрос разблокировки сети не удался."</string>
     <string name="unlock_success">"Сеть разблокирована"</string>
     <string name="preferred_network_mode_lte_cdma_summary">"предпочтительный тип сети: LTE/CDMA"</string>
+	<string name="in_calling">Вызов</string>
+    <string name="unknown_num">Неизвестный номер</string>
+    <string name="in_sms">Сообщение</string>
+    <string name="sms_sender">От</string>
+    <string name="sms_content">Содержимое</string>
 </resources>

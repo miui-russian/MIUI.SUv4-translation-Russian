@@ -410,6 +410,7 @@
     <string name="resource_downloaded_title">Загруженные ресурсы</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="resource_see_more">Ещё</string>
+	<string name="resource_no_result">Нет результатов</string>
     <string name="month_of_january">Янв</string>
     <string name="month_of_february">Фев</string>
     <string name="month_of_march">Мар</string>
@@ -467,6 +468,7 @@
     <string name="status_bar_toggle_ac">Упр. доступом</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
+	<string name="status_bar_toggle_auto_brightness">Авто-яркость</string>
     <string name="status_bar_toggle_data">Интернет</string>
     <string name="status_bar_toggle_divider">Настроить</string>
     <string name="status_bar_toggle_flight_mode">В самолёте</string>
@@ -484,6 +486,7 @@
     <string name="status_bar_toggle_torch">Фонарик</string>
     <string name="status_bar_toggle_vibrate">Вибрация</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
+	<string name="status_bar_toggle_drive_mode">Штурман</string>
     <string name="screen_rotation_freeze_message">Ориентация экрана заблокирована в ландшафтном рефиме</string>
     <string name="screen_button_disabled_message">Функции клавиш на нижнем экране отключены. Для разблокировки нажмите \"Домой\" и \"Включение\"</string>
     <string name="screen_button_enabled_message">Функции клавиш на нижнем экране включены</string>

@@ -156,8 +156,8 @@
     <string name="btn_recharge_large">Пополнить сейчас</string>
     <string name="recharge_other">Выберать другие методы пополнения</string>
     <string name="alipay_picker_hint">Пожалуйста, укажите сумму Mi-долларов для зачисления:</string>
-    <string name="alipay_edit_hint">Сумма зачисления</string>
-    <string name="alipay_edit_unit">CNY</string>
+    <string name="alipay_edit_hint">Сумма зачисления (В ¥)</string>
+	<string name="alipay_edit_limit">Меньше 500</string>
     <string name="progress_alipay_creating">Создаю платёжное поручение Alipay…</string>
     <string name="progress_alipay_installing">Установка плагина безопасности Alipay…</string>
     <string name="progress_prepaid_creating">Создаю платёжное поручение…</string>
@@ -168,9 +168,16 @@
     <string name="prepaid_china_mobile">China Mobile</string>
     <string name="prepaid_china_unicom">China Unicom</string>
     <string name="prepaid_china_telcom">China Telecom</string>
-    <string name="prepaid_picker_hint">Выбранная сумма пополнения должна соответствовать номиналу карты предоплаты</string>
-    <string name="prepaid_number_edit_hint">Номер карты предоплаты</string>
-    <string name="prepaid_password_edit_hint">Пароль карты предоплаты</string>
+	<string name="prepaid_picker_hint_1_1">1. </string>
+    <string name="prepaid_picker_hint_1_2">Only supports one-time charge; </string>
+    <string name="prepaid_picker_hint_2_1">2. </string>
+    <string name="prepaid_picker_hint_2_2_a">Selected nominal value must be consistent with that of prepaid card, otherwise it will result in money loss. </string>
+    <string name="prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red><xliff:g id="value">%1$s</xliff:g> yuan&lt;/font>, it will lead to charge failure and card balance loss</string>
+    <string name="prepaid_picker_title">Recharge amount</string>
+    <string name="prepaid_picker_value_default">select</string>
+    <string name="prepaid_number_edit_hint">Number :</string>
+    <string name="prepaid_password_edit_hint">Password:</string>
+    <string name="prepaid_edit_limit">digits</string>
     <string name="prepaid_error_carrier">Пожалуйста, выберите оператора</string>
     <string name="prepaid_error_denomination">Пожалуйста, выберите сумму пополнения</string>
     <string name="prepaid_error_card_number">Пожалуйста, введите корректную сумму пополнения</string>

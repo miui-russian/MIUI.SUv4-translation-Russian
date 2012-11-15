@@ -476,4 +476,9 @@
 	<string name="mx_enable_popup_msg">Облачные сообщения позволяют обмениваться сообщениями между MIUI. За обычные сообщения взымается плата. Включить облачные сообщения?</string>
 	<string name="loading_mms">Загрузка...</string>
     <string name="add_number_to_sender">Добавить номер в %s</string>
+	<string name="in_calling">Вызов</string>
+    <string name="unknown_num">Неизвестный номер</string>
+    <string name="in_sms">Сообщение</string>
+    <string name="sms_sender">От</string>
+    <string name="sms_content">Содержимое</string>
 </resources>

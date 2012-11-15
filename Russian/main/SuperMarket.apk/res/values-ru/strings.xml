@@ -7,14 +7,15 @@
     <string name="management_tag">Больше</string>
     <string name="hot_rank_tag">Горячий</string>
     <string name="new_app_tag">Новый</string>
-    <string name="download_manager_tag">Мастер закачек</string>
+	<string name="download_manager_tag_with_nonzero_downloads">Загрузки(%1$s/%2$s)</string>
+    <string name="download_manager_tag">Загрузки</string>
     <string name="menu_search">Поиск</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_login">Вход</string>
     <string name="menu_logout">Выход</string>
     <string name="menu_account">Мой аккаунт</string>
     <string name="menu_install_all">Установить все</string>
-    <string name="menu_download_manager">Мастер закачек</string>
+    <string name="menu_download_manager">Загрузки</string>
     <string name="menu_refresh">Обновить</string>
     <string name="quicksearchbox_description">Поиск приложений</string>
     <string name="pref_title_auto_update_setting">Настройки автообновления</string>
