@@ -283,18 +283,18 @@ including personal data (i.e. passwords and credit card numbers). Use this input
     <string name="vpn_safe">Защита</string>
     <string name="vpn_configure">Конфигурация</string>
 	<string name="sync_wifi_label">Настройки Wi-Fi</string>
-	<string name="drive_mode">Drive mode</string>
-    <string name="drive_mode_title">Set voice report and auto reply</string>
-    <string name="drive_mode_settings">Drive mode settings</string>
-    <string name="drive_mode_voice_report">Voice report</string>
-    <string name="drive_mode_phone_report">Calling report</string>
-    <string name="drive_mode_sms_report">SMS report</string>
-    <string name="drive_mode_invert_stop_report">Turn over to stop report</string>
-    <string name="drive_mode_auto_reply">Auto reply</string>
-    <string name="drive_mode_calling_auto_sms_reply">Calling auto reply with SMS</string>
-    <string name="drive_mode_sms_auto_sms_reply">SMS auto reply</string>
-    <string name="drive_mode_only_contact_reply">Only reply those in your contact list</string>
-    <string name="drive_mode_auto_sms_reply_content">Sorry, I am driving now. I will contact you later.</string>
-    <string name="drive_mode_auto_sms_reply_content_title">Content of SMS reply</string>
+	<string name="drive_mode">Режим "За рулём"</string>
+	<string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
+	<string name="drive_mode_settings">Настройки режима "За рулём"</string>
+	<string name="drive_mode_voice_report">Голосовое оповещение</string>
+	<string name="drive_mode_phone_report">Оповещение о вызове</string>
+	<string name="drive_mode_sms_report">Оповещение о SMS</string>
+	<string name="drive_mode_invert_stop_report">Turn over to stop report</string>
+	<string name="drive_mode_auto_reply">Автоответ</string>
+	<string name="drive_mode_calling_auto_sms_reply">На входящие отвечать SMS</string>
+	<string name="drive_mode_sms_auto_sms_reply">Автоответ на SMS</string>
+	<string name="drive_mode_only_contact_reply">Отвечать только известным номерам</string>
+	<string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулём. Свяжусь с Вами позже.</string>
+	<string name="drive_mode_auto_sms_reply_content_title">Содержание SMS-ответа</string>
 </resources>
 

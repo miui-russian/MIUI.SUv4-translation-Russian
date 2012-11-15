@@ -132,7 +132,7 @@
 	<string name="upside_edit_bar_select_app">Выберите приложение</string>
 	<string name="upside_enter_tip">Проведите вниз двумя пальцами для переключения на Free Launcher</string>
 	<string name="upside_exit_tip">Проведите вверх двумя пальцами для выхода из Free Launcher</string>
-	<string name="upside_londing_text">Enhancing imagination and free…</string>
+	<string name="upside_londing_text">Расширяю воображение…</string>
 	<string name="toggle_select_title">Выбор перевключателя</string>
 	<string name="toggle_title">Переключатель</string>
 </resources>
