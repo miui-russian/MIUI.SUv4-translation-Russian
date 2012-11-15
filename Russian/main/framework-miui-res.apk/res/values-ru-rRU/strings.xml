@@ -29,7 +29,7 @@
     <string name="resource_online">Онлайн %1$s</string>
     <string name="resource_title">Данные ресурса</string>
     <string name="resource_download">Загрузка</string>
-    <string name="resource_downloading">Скачивание</string>
+    <string name="resource_downloading">Загрузка</string>
     <string name="resource_apply">Применить</string>
     <string name="resource_update">Обновление</string>
     <string name="resource_select">Выбрать</string>
