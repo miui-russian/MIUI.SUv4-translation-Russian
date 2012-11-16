@@ -92,7 +92,7 @@
     <string name="HIPS_Perm_SendSMS_SMSC">Центр обслуживания SMS:</string>
     <string name="HIPS_Perm_SendSMS_SMSC_Default">Центр обслуживания SMS по умолчанию</string>
     <string name="HIPS_Perm_SendSMS_Port">Порт назначения:</string>
-    <string name="HIPS_Perm_SendSMS_Data">отправить SMS %1$s:%2$d</string>
+    <string name="HIPS_Perm_SendSMS_Data" formatted="false">отправить SMS %1$s:%2$d</string>
     <string name="HIPS_Perm_SendSMS_Text">отправить SMS %1$s</string>
     <string name="HIPS_Perm_Call_Number">позвонить %1$s</string>
     <string name="HIPS_Perm_Contact_Access">получить данные из списка контактов</string>
@@ -123,7 +123,7 @@
     <string name="HIPS_Perm_AdjustVolumeInCall">отрегулировать громкость разговорного динамика</string>
     <string name="HIPS_Perm_AdjustRingerVolume">отрегулировать громкость мелодии звонка</string>
     <string name="HIPS_SecurityPrompt_Caption">Предупреждение безопасности</string>
-    <string name="HIPS_SecurityPrompt_Title">%1$s пытается %2$s</string>
+    <string name="HIPS_SecurityPrompt_Title" formatted="false">%1$s пытается %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Запомнить выбор</string>
     <string name="HIPS_SecurityPrompt_Accept">Разрешить (%d)</string>
     <string name="HIPS_SecurityPrompt_Reject">Запретить (%d)</string>
@@ -148,7 +148,7 @@
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT не доступен в стабильной версии MIUI</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Разрешение ROOT-доступа сторонним приложениям может привести к нестабильности системы, даже к потере персональной информации и необратимым повреждениям аппаратной части телефона. Для использования ROOT-доступа установите, пожалуйста, версию MIUI для разработчиков."</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Загрузить MIUI</string>
-    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.su/download</string>
     <string name="Dashboard_Perm_HIPS_Switch">Контроль Разрешений</string>
     <string name="Dashboard_Perm_HIPS">Управление Разрешениями приложений</string>
     <string name="Dashboard_Perm_HIPS_Desc">Контролируются %1$d приложений для обеспечения безопасности и конфиденциальности</string>
