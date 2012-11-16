@@ -37,9 +37,9 @@
 	<string name="settings">Настройки</string>
 	<string name="alarm_in_silent_mode_title">Включать всегда</string>
     <string name="alarm_in_silent_mode_summary">Звонить, даже когда телефон в беззвучном режиме</string>
-    <string name="snooze_duration_title">Snooze duration</string>
-    <string name="auto_silence_title">Auto-silence</string>
-    <string name="auto_silence_summary">Alarms will silence after %d minutes</string>
+    <string name="snooze_duration_title">Повтор через</string>
+    <string name="auto_silence_title">Автоотключение</string>
+    <string name="auto_silence_summary">Сигнал отключится через %d мин.</string>
     <string name="auto_silence_never">Выкл</string>
 	<string name="done">Готово</string>
 	<string name="revert">Отмена</string>
