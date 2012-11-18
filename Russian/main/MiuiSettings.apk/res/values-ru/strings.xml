@@ -263,7 +263,7 @@ including personal data (i.e. passwords and credit card numbers). Use this input
     <string name="virus_scanner_lib_already_latest"> Вирусная база обновлена</string>
     <string name="virus_scanner_lib_update_failed"> Ошибка обновления вирусных баз </string>
     <string name="virus_scan_app_safe_scanning"> Сканирование...</string>
-    <string name="virus_scan_app_multi_engines">Вы вЂ™ выбрали несколько баз, сканирование может длиться дольше.</string>
+    <string name="virus_scan_app_multi_engines">Вы выбрали несколько баз, сканирование может длиться дольше.</string>
     <string name="virus_scan_app_scanning">Сканирование... </string>
     <string name="virus_scan_app_waiting">Ожидание</string>
     <string name="virus_scan_app_passed">Сканирование завершено</string>
@@ -277,8 +277,8 @@ including personal data (i.e. passwords and credit card numbers). Use this input
     <string name="virus_scan_app_scan_finish">Сканирование завершено</string>
     <string name="virus_scan_app_no_risk">Опасностей не найдено</string>
     <string name="virus_scan_app_is_stop_scan">Остановить сканирование вирусов?</string>
-    <string name="password_guard">Защита паролем</string>
-    <string name="vpn_settings_password">VPN password protection</string>
+    <string name="password_guard">Защита</string>
+    <string name="vpn_settings_password">Защита паролем VPN</string>
     <string name="vpn_safe">Защита</string>
     <string name="vpn_configure">Конфигурация</string>
 	<string name="sync_wifi_label">Настройки Wi-Fi</string>

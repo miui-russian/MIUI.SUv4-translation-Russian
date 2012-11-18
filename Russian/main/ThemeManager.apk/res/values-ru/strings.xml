@@ -73,8 +73,8 @@
     <string name="title_component">Совмещенные</string>
     <string name="title_system_resource">Системные ресурсы</string>
     <string name="title_download_resource">Загруженные ресурсы</string>
-    <string name="long_ringtone_resource">Длинный(>5сек)</string>
-    <string name="short_ringtone_resource">Короткие(&lt;5сек)</string>
+    <string name="long_ringtone_resource">Длинные\n(>5сек)</string>
+    <string name="short_ringtone_resource">Короткие\n(&lt;5сек)</string>
     <string name="all_ringtone_resource">Все</string>
     <string name="resource_preview">Предпоказ</string>
     <string name="wallpaper_set_as_both">Применить обои и локскрин</string>

@@ -57,8 +57,8 @@
     <item>Программы </item>
     <item>Программы и данные</item>
   </string-array>
-  <string name="unit_byte">\u0020Байт</string>
-  <string name="unit_piece">\u0020Единиц</string>
+  <string name="unit_byte">\u0020байт</string>
+  <string name="unit_piece">\u0020единиц</string>
   <string name="restore_finished">Восстановление завершено</string>
   <string name="restore_report">Журнал восстановления</string>
   <string name="restore_progress">Восстановление...</string>

@@ -142,7 +142,7 @@
     <string name="Title_ShootingMode">Режим съемки</string>
     <string name="Title_Flash">Вспышка</string>
     <string name="Title_Brightness">Яркость</string>
-    <string name="Title_ExposureValue">Значение экспозиции</string>
+    <string name="Title_ExposureValue">Уровень экспозиции</string>
     <string name="Title_RecordingMode">Режим записи</string>
     <string name="Title_FocusMode">Режим фокуса</string>
     <string name="Title_ImageQuality">Качество изображения</string>

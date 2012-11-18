@@ -161,7 +161,7 @@
     <string name="Title_ShootingMode">Режим съемки</string>
     <string name="Title_Flash">Вспышка</string>
     <string name="Title_Brightness">Яркость</string>
-    <string name="Title_ExposureValue">Значение экспозиции</string>
+    <string name="Title_ExposureValue">Уровень экспозиции</string>
     <string name="Title_RecordingMode">Режим записи</string>
     <string name="Title_FocusMode">Режим фокуса</string>
     <string name="Title_ImageQuality">Качество изображения</string>
@@ -224,7 +224,7 @@
     <string name="Title_ChangeMemoryInUseDailog">Изменить место сохранения на карту памяти?</string>
     <string name="Title_InsertMemoryCardDailog">Для использования Камеры вставьте карту памяти</string>
     <string name="OnScreen_HelpTextTouchAF">Нажмите на область экрана для фокусировки</string>
-    <string name="media_scanner_running">Поиск медиа файлов...</string>
+    <string name="media_scanner_running">Подождите, идет поиск медиа файлов...</string>
     <string name="close_camera_when_mmc_inserted">Вставлена SD-карта. %s закрыто для поиска медиа-файлов на SD-карте</string>
     <string name="close_camera_for_unmounted_memory">Перед использованием камеры отключите USB-накопитель</string>
     <string name="message_size_limited">Достигнут максимальный размер сообщения</string>
