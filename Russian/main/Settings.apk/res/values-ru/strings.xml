@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="yes">Да</string>
 	<string name="no">Нет</string>
@@ -446,15 +446,15 @@
 	<string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
 	<string name="wifi_notify_open_networks">Уведомления о сетях</string>
 	<string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
-    <string name="wifi_enable_watchdog_service">Avoid poor connections</string>
+    <string name="wifi_enable_watchdog_service">Отслеживать хороший сигнал</string>
 	<string name="wifi_poor_network_detection">Избегать плохих соединений</string>
 	<string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть, если нет хорошего соединения с Интернетом</string>
 	<string name="wifi_setting_sleep_policy_title">Wi-Fi в спящем режиме</string>
 	<string name="wifi_setting_sleep_policy_error">Не удалось изменить этот параметр</string>
 	<string name="wifi_add_network">Добавить сеть</string>
 	<string name="wifi_access_points">Сети Wi-Fi</string>
-	<string name="wifi_menu_wps_pbc">WPS Push Button</string>
-	<string name="wifi_menu_wps_pin">WPS Pin Entry</string>
+	<string name="wifi_menu_wps_pbc">WPS кнопка</string>
+	<string name="wifi_menu_wps_pin">Ввод пин WPS</string>
 	<string name="wifi_menu_p2p">Wi-Fi Direct</string>
 	<string name="wifi_menu_scan">Поиск</string>
 	<string name="wifi_menu_advanced">Дополнительные функции</string>
@@ -468,16 +468,16 @@
 	<string name="wifi_setup_wps">Автонастройка (WPS)</string>
 	<string name="wifi_show_advanced">Дополнительно</string>
     <string name="wifi_network_setup">WPS</string>
-    <string name="wifi_wps_pin">Type PIN from access point</string>
+    <string name="wifi_wps_pin">Введите код точки доступа</string>
 	<string name="wifi_wps_setup_title">Настройка WPS</string>
-    <string name="wifi_wps_pin_output">Type the PIN %1$s on the access point</string>
+    <string name="wifi_wps_pin_output">Ввтедите код %1$s на точке доступа</string>
 	<string name="wifi_wps_setup_msg">Запуск WPS…</string>
 	<string name="wifi_wps_onstart_pbc">Нажмите кнопку защищенного Wi-Fi на вашем роутере. Она может быть названа \"WPS\" или содержать этот символ:</string>
 	<string name="wifi_wps_onstart_pin">Введите ПИН %1$s в вашем Wi-Fi роутере. Настройка может занять до двух минут.</string>
 	<string name="wifi_wps_complete">WPS успешно. Соединение с сетью…</string>
 	<string name="wifi_wps_connected">Соединение с сетью Wi-Fi %s</string>
 	<string name="wifi_wps_in_progress">WPS уже используется, для завершения потребуется около минуты</string>
-    <string name="wifi_wps_failed">"Couldn't start WPS, try again."</string>
+    <string name="wifi_wps_failed">"Не могу настроить WPS. Попробуйте еще раз"</string>
 	<string name="wifi_wps_failed_generic">ОшибкаWPS. Повторите попытку через несколько минут.</string>
 	<string name="wifi_wps_failed_wep">Настройки безопасности роутера (WEP) не поддерживаются</string>
 	<string name="wifi_wps_failed_tkip">Настройки безопасности роутера (TKIP) не поддерживаются</string>
@@ -550,7 +550,7 @@
 	<string name="wifi_network_prefix_length">Длина префикса сети</string>
 	<string name="wifi_network_prefix_length_hint">24</string>
 	<string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
-    <string name="wifi_p2p_settings_summary">Set up peer-to-peer connectivity</string>
+    <string name="wifi_p2p_settings_summary">Создат соединение "точка-точка"</string> //или "peer-to-peer соединение" тут как красивее...
 	<string name="wifi_p2p_device_info">Информация об устройстве</string>
 	<string name="wifi_p2p_persist_network">Запомнить это соединение</string>
 	<string name="wifi_p2p_menu_search">Поиск</string>
@@ -579,7 +579,7 @@
 	<string name="enableNetwork">Включить сеть</string>
 	<string name="disconnect">отключить</string>
 	<string name="getConfiguredNetworks">Настройки сети</string>
-	<string name="getConnectionInfo">getConnectionInfo</string>
+	<string name="getConnectionInfo">Информация о соединении</string>
 	<string name="wifi_api_test">Wi-Fi API</string>
 	<string name="wifi_status_test">Статус Wi-Fi</string>
 	<string name="wifi_update">Обновить</string>
@@ -758,7 +758,7 @@
 	<string name="unmount_inform_text">SD-карта будет отключена.</string>
 	<string name="sd_ejecting_title">Извлечение</string>
 	<string name="sd_ejecting_summary">Выполняется извлечение</string>
-	<string name="storage_low_title">Storage space is running out</string>
+	<string name="storage_low_title">Свободное место на диске заканчивается</string>
 	<string name="storage_low_summary">Некоторые функции, например, синхронизация, могут работать некорректно. Попробуйте освободить место удалив приложения или медиа файлы.</string>
 	<string name="storage_menu_usb">USB-подключение к компьютеру</string>
 	<string name="storage_title_usb">USB-подключение к компьютеру</string>
@@ -982,7 +982,7 @@
   
   
 
- You will not lose any app data.</string>
+ Все данные приложений будут сохранены.</string>
 	<string name="reset_app_preferences_button">Сброс приложений</string>
 	<string name="manage_space_text">Управление местом</string>
 	<string name="filter">Фильтр</string>
@@ -1153,7 +1153,7 @@
 	<string name="development_settings_summary">Настройка параметров для разработчиков</string>
 	<string name="enable_adb">Отладка по USB</string>
 	<string name="enable_adb_summary">Включить режим отладки при подключении к компьютеру по USB</string>
-    <string name="verifier_device_identifier">Development device ID</string>
+    <string name="verifier_device_identifier">ID номер устройства</string>
     <string name="verifier_device_identifier_not_available">Информация об устройстве недоступна</string>
 	<string name="keep_screen_on">Оставить включенным</string>
 	<string name="keep_screen_on_summary">Во время зарядки экран будет всегда включен</string>
@@ -1191,14 +1191,14 @@
 	<string name="accessibility_toggle_large_text_title">Большой текст</string>
 	<string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
 	<string name="accessibility_speak_password_title">Озвучивать пароли</string>
-    <string name="accessibility_touch_exploration_title">Explore by touch</string>
-    <string name="accessibility_touch_exploration_summary">"When Explore by Touch is turned on, you can hear or see descriptions of what's under your finger.
+    <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string> //сомневаюсь, как здесь лучше "explore by touch" - может "синтез речи"
+    <string name="accessibility_touch_exploration_summary">"Когда "подсказки при нажатии" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.
 
- This feature is for low-vision users."</string>
+ Эта функция предназначена для людей с нарушением зрения."</string>
 	<string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
 	<string name="accessibility_script_injection_title">Установка веб-скриптов</string>
 	<string name="accessibility_menu_item_settings">Настройки</string>
-    <string name="accessibility_menu_item_tutorial">Tutorial</string>
+    <string name="accessibility_menu_item_tutorial">Обучение</string>
 	<string name="accessibility_service_state_on">Вкл.</string>
 	<string name="accessibility_service_state_off">Выключено</string>
 	<string name="accessibility_script_injection_allowed">Разрешена</string>
@@ -1214,7 +1214,7 @@
 	<string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
     <string name="accessibility_script_injection_security_warning_title">Установить вэб скрипты?</string>
 	<string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
-    <string name="accessibility_touch_exploration_warning">This feature changes the way your device responds to touch. Turn on?</string>
+    <string name="accessibility_touch_exploration_warning">Эта функция изменяет способ отклика при нажатии. Включить?</string>
 	<string name="accessibility_service_default_description">Нет описания</string>
 	<string name="settings_button">Настройки</string>
 	<string name="power_usage_summary_title">Батарея</string>
@@ -1575,12 +1575,12 @@
 	<string name="data_usage_warning_editor_title">Настройка предупреждения</string>
 	<string name="data_usage_limit_editor_title">Лимитирование трафика</string>
 	<string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
-    <string name="data_usage_limit_dialog">"Your %1$s data connection will be disabled when the specified limit is reached.
+    <string name="data_usage_limit_dialog">"Ваше %1$s соединение будет отключено при достижении указанного лимита данных.
 
-Since data usage is measured by your phone, and your carrier may account for usage differently, consider using a conservative limit."</string>
+Количество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода."</string>
 	<string name="data_usage_limit_dialog_mobile">Ваша передача данных по сети будет отключена, когда указанный предел будет достигнут.
 
-Since data usage is measured by your phone, and your carrier may account for usage differently, consider using a conservative limit.</string>
+Количество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода.</string>
 	<string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
 	<string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
 	<string name="data_usage_sweep_warning">\n</string>
@@ -1635,24 +1635,24 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="trusted_credentials_enable_confirmation">Включить сертификат ЦС системы?</string>
 	<string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
 	<string name="trusted_credentials_remove_confirmation">Полностью удалить сертификат ЦС пользователя?</string>
-    <string name="accessibility_tutorial_title">Accessibility tutorial</string>
+    <string name="accessibility_tutorial_title">Руководство по использованию</string>
     <string name="accessibility_tutorial_next">Далее</string>
     <string name="accessibility_tutorial_back">Назад</string>
-    <string name="accessibility_tutorial_finish">Finish</string>
-    <string name="accessibility_tutorial_skip">Skip tutorial</string>
-    <string name="accessibility_tutorial_lesson_1_title">Lesson 1: Exploring the screen</string>
-    <string name="accessibility_tutorial_lesson_1_text_1">After you turn on Explore by Touch, you can touch the screen to learn whats under your finger. For example, the current screen contains app icons. Find one of them by touching the screen and sliding your finger around.</string>
-    <string name="accessibility_tutorial_lesson_1_text_2_more">Good. Keep sliding your finger around the screen until you find at least one more icon.</string>
-    <string name="accessibility_tutorial_lesson_1_text_3">To activate something that youre touching, tap it. Slide your finger until you find the icon for the %s. Then tap the icon once to activate it.</string>
-    <string name="accessibility_tutorial_lesson_1_text_4">Your finger is touching the %s icon. Tap once to activate the icon.</string>
-    <string name="accessibility_tutorial_lesson_1_text_4_exited">Your finger moved over the %s icon, and then moved away. Slowly slide your finger around the screen until you find the Browser icon again.</string>
-    <string name="accessibility_tutorial_lesson_1_text_5">Good. To move to the next lesson, find and activate the %s button, located near the bottom-right corner of the screen.</string>
-    <string name="accessibility_tutorial_lesson_2_title">Lesson 2: Scrolling using two fingers</string>
-    <string name="accessibility_tutorial_lesson_2_text_1">To scroll through a list, you can slide two fingers along the screen. For example, the current screen contains a list of app names that can scroll up or down. First, try to identify a few items in the list by sliding one finger around.</string>
-    <string name="accessibility_tutorial_lesson_2_text_2_more">Good. Keep sliding your finger around to find at least one more item.</string>
-    <string name="accessibility_tutorial_lesson_2_text_3">Now place two fingers on an item in the list and slide both fingers up. If you reach the top of the screen, lift your fingers, place them lower on the list, and continue sliding up.</string>
-    <string name="accessibility_tutorial_lesson_2_text_3_more">Good. Keep sliding your fingers up to scroll some more.</string>
-    <string name="accessibility_tutorial_lesson_2_text_4">You have completed the tutorial. To exit, find and touch the %s button.</string>
+    <string name="accessibility_tutorial_finish">Конец</string>
+    <string name="accessibility_tutorial_skip">Пропустить руководство</string>
+    <string name="accessibility_tutorial_lesson_1_title">Урок 1: Экран</string>
+    <string name="accessibility_tutorial_lesson_1_text_1">После того, как вы включили "подсказки при нажатии", поставьте палец на нужный объект для того, чтобы получить его описание. Например, этот экран содержит иконки приложений. Найдите одну из них, водя пальцем по экрану.</string>
+    <string name="accessibility_tutorial_lesson_1_text_2_more">Отлично. Продолжайте водить пальцем по экрану пока не найдете, по крайней мере, еще одну иконку.</string>
+    <string name="accessibility_tutorial_lesson_1_text_3">Для того, чтобы запустить приложение коснитесь его. Ведите пальцем, пока не найдете иконку для %s. Затем коснитесь иконки, чтобы запустить приложение.</string>
+    <string name="accessibility_tutorial_lesson_1_text_4">Ваш палец на %s. Нажмите один раз, чтобы запустить приложение.</string>
+    <string name="accessibility_tutorial_lesson_1_text_4_exited">Вы пропустили %s . Медленно ведите пальцем по экрану пока не найдете иконку Браузера снова.</string>
+    <string name="accessibility_tutorial_lesson_1_text_5">Отлично. Для того, чтобы перейти к следующему уроку найдите и нажмите кнопку %s, расположенную возле правого нижнего края экрана.</string>
+    <string name="accessibility_tutorial_lesson_2_title">Урок 2: Прокрутка двумя пальцами</string>
+    <string name="accessibility_tutorial_lesson_2_text_1">Для перемещения по странице, проведите двумя пальцами по экрану. Например, текущий экран содержит список приложений, который можно прокрутить вверх и вниз. Для начала попробуйте определить несколько объектов, проводя пальцем по экрану.</string>
+    <string name="accessibility_tutorial_lesson_2_text_2_more">Отлично. Продолжайте водить по экрану, пока не определите еще один объект.</string>
+    <string name="accessibility_tutorial_lesson_2_text_3">Теперь поместите два пальца на предмет из списка и потащите его вверх. Если вы достигли предела, поднимите пальцы, переместите их вниз списка и повторите действие.</string>
+    <string name="accessibility_tutorial_lesson_2_text_3_more">Отлично. Продолжайте перемещать пальцы вверх для дальнейшего пролистывания.</string>
+    <string name="accessibility_tutorial_lesson_2_text_4">Ваше обучение окончено, найдите и нажмите кнопку %s.</string>
 	<string name="spellcheckers_settings_title">Проверка орфографии</string>
 	<string name="current_backup_pw_prompt">Введите текущий пароль</string>
 	<string name="new_backup_pw_prompt">Введите новый пароль</string>
@@ -1703,12 +1703,12 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="search_status_bar">Статус бар</string>
 	<string name="search_sync">Синхронизация</string>
 	<string name="search_battery_indicator">Индикатор батареи</string>
-	<string name="search_key">key</string>
+	<string name="search_key">key</string> // если здесь требуется перевод, то "ключ" или "кнопка"
 	<string name="search_led">LED</string>
 	<string name="search_date_time">Дата и время</string>
 	<string name="search_language">Язык</string>
 	<string name="search_about">О программе</string>
-	<string name="search_power_mode">power mode</string>
+	<string name="search_power_mode">Профиль</string> //или "профиль энергопотребления"
 	<string name="debug_log">Программа развития</string>
 	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
 	<string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, послав данные диагностики и данных</string>
@@ -1838,10 +1838,10 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="volume_category_title">Громкость</string>
 	<string name="vibrate_category_title">Вибрация</string>
 	<string name="vibrate_in_normal_title">Вибрация в обычном режиме</string>
-    <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
-Credential storage might not be enabled."</string>
-    <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
-Please check validity of certificates."</string>
+    <string name="wifi_wapi_fail_to_init">"Невозможно открыть WAPI сертификаты
+Возможно хранилища учетных данных не активированы."</string>
+    <string name="wifi_wapi_fail_to_auth">"Ошибка аутентификации WAPI 
+Пожалуйста, проверьте сертификаты."</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
