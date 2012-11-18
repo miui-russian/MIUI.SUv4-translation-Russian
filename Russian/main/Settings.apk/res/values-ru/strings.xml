@@ -47,7 +47,7 @@
 	<string name="large_font">Большой</string>
 	<string name="font_size_preview_text">MIUI v4. Translated by MIUI.SU</string>
 	<string name="font_size_save">ОК</string>
-	<string name="sdcard_setting">SD-карта</string>
+	<string name="sdcard_setting">USB хранилище</string>
 	<string name="battery_info_status_label">Состояние батареи:</string>
 	<string name="battery_info_power_label">Питание:</string>
 	<string name="battery_info_scale_label">Шкала батареи:</string>
@@ -547,6 +547,10 @@
 	<string name="wifi_p2p_device_info">Информация об устройстве</string>
 	<string name="wifi_p2p_persist_network">Запомнить это соединение</string>
 	<string name="wifi_p2p_menu_search">Поиск</string>
+    <string name="wifi_p2p_menu_create_group">Создать группу</string>
+    <string name="wifi_p2p_menu_remove_group">Удалить группу</string>
+    <string name="wifi_p2p_menu_advanced">Дополнительно</string>
+    <string name="wifi_p2p_available_devices">Доступные устройства</string>
 	<string name="wifi_p2p_menu_searching">Поиск…</string>
 	<string name="wifi_p2p_menu_rename">Переименовать устройство</string>
 	<string name="wifi_p2p_peer_devices">Устройства сети</string>
@@ -1454,6 +1458,7 @@
 	<string name="select_all">Выбрать все</string>
 	<string name="hdcp_checking_title">Проверка HDCP</string>
 	<string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
+	<string name="debug_ui_category">Пользовательский интерфейс</string>
 	<string name="debug_debugging_category">Отладка</string>
 	<string name="debug_app">Выберите приложение для отладки</string>
 	<string name="debug_app_not_set">Не выбрано приложения для отладки</string>
@@ -1684,9 +1689,11 @@ Since data usage is measured by your phone, and your carrier may account for usa
 	<string name="haptic_feedback_level">Уровень вибрации</string>
 	<string name="privacy_protect_title">Защита приватности</string>
 	<string name="privacy_mode_enable_title">Включить защищенный режим</string>
+	<string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и прочее для защиты приватности.</string>
 	<string name="ac_enable_title">Включить управление доступом</string>
 	<string name="ac_set_apps_title">Защитита приложений</string>
-	<string name="ac_privacy_mode_title">Ограничить защищенный режим</string>
+	<string name="ac_privacy_mode_title">Включить пароль</string>
+	<string name="ac_privacy_mode_sum">Включить пароль для отключения режима защиты</string>
 	<string name="access_control_password_title">Активировать пароль</string>
 	<string name="access_control_need_to_unlock">Требовать пароль</string>
 	<string name="access_control_need_password">%s защищено</string>
@@ -1914,4 +1921,17 @@ Since data usage is measured by your phone, and your carrier may account for usa
     <string name="vpn_configure">Настройка</string>
     <string name="sync_wifi_label">Настройка Wi-Fi</string>
     <string name="milicenter_settings">Центр Xiaomi Dollar</string>
+	<string name="drive_mode">Режим "За рулём"</string>
+	<string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
+	<string name="drive_mode_settings">Настройки режима "За рулём"</string>
+	<string name="drive_mode_voice_report">Голосовое оповещение</string>
+	<string name="drive_mode_phone_report">Оповещение о вызове</string>
+	<string name="drive_mode_sms_report">Оповещение о SMS</string>
+	<string name="drive_mode_invert_stop_report">Turn over to stop report</string>
+	<string name="drive_mode_auto_reply">Автоответ</string>
+	<string name="drive_mode_calling_auto_sms_reply">На входящие отвечать SMS</string>
+	<string name="drive_mode_sms_auto_sms_reply">Автоответ на SMS</string>
+	<string name="drive_mode_only_contact_reply">Отвечать только известным номерам</string>
+	<string name="drive_mode_auto_sms_reply_content">Извините, я сейчас за рулём. Свяжусь с Вами позже.</string>
+	<string name="drive_mode_auto_sms_reply_content_title">Содержание SMS-ответа</string>
 </resources>

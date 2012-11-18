@@ -166,8 +166,8 @@
   <string name="auto_launch_disable_text">No defaults set</string>
   <string name="auto_launch_enable_text">This app is set to open by default for some actions</string>
   <string name="auto_launch_label">Launch by default</string>
-  <string name="auto_punctuate">Auto-punctuate</string>
-  <string name="auto_punctuate_summary">Double tap the space bar twice to insert a full stop</string>
+  <string name="auto_punctuate">Автопунктуация</string>
+  <string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
   <string name="auto_replace">Auto-replace</string>
   <string name="auto_replace_summary">Correct mistyped words</string>
   <string name="auto_restore_summary">When reinstalling an application, backed up settings and data will be restored</string>
@@ -565,7 +565,7 @@
   <string name="date_time_set_timezone">Часовой пояс</string>
   <string name="debug_applications_category">Applications</string>
   <string name="debug_intent_sender_label">Пожелания отправителя</string>
-  <string name="debug_ui_category">User interface</string>
+  <string name="debug_ui_category">Пользовательский интерфейс</string>
   <string name="debugging_dialog_message">Turn USB debugging off to set USB connection. Tap OK to continue</string>
   <string name="debugging_dialog_title">Turn USB debugging off?</string>
   <string name="decrypt_title">Decrypt device</string>
