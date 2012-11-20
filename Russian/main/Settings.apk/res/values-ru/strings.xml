@@ -550,7 +550,7 @@
 	<string name="wifi_network_prefix_length">Длина префикса сети</string>
 	<string name="wifi_network_prefix_length_hint">24</string>
 	<string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
-    <string name="wifi_p2p_settings_summary">Создат соединение "точка-точка"</string> //или "peer-to-peer соединение" тут как красивее...
+    <string name="wifi_p2p_settings_summary">Создат соединение "точка-точка"</string>
 	<string name="wifi_p2p_device_info">Информация об устройстве</string>
 	<string name="wifi_p2p_persist_network">Запомнить это соединение</string>
 	<string name="wifi_p2p_menu_search">Поиск</string>
@@ -1191,7 +1191,7 @@
 	<string name="accessibility_toggle_large_text_title">Большой текст</string>
 	<string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
 	<string name="accessibility_speak_password_title">Озвучивать пароли</string>
-    <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string> //сомневаюсь, как здесь лучше "explore by touch" - может "синтез речи"
+    <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string>
     <string name="accessibility_touch_exploration_summary">"Когда "подсказки при нажатии" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.
 
  Эта функция предназначена для людей с нарушением зрения."</string>
@@ -1703,12 +1703,12 @@
 	<string name="search_status_bar">Статус бар</string>
 	<string name="search_sync">Синхронизация</string>
 	<string name="search_battery_indicator">Индикатор батареи</string>
-	<string name="search_key">key</string> // если здесь требуется перевод, то "ключ" или "кнопка"
+	<string name="search_key">key</string>
 	<string name="search_led">LED</string>
 	<string name="search_date_time">Дата и время</string>
 	<string name="search_language">Язык</string>
 	<string name="search_about">О программе</string>
-	<string name="search_power_mode">Профиль</string> //или "профиль энергопотребления"
+	<string name="search_power_mode">Профиль</string>
 	<string name="debug_log">Программа развития</string>
 	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
 	<string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, послав данные диагностики и данных</string>
