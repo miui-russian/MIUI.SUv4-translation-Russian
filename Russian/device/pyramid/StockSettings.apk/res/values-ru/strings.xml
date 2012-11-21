@@ -5,8 +5,8 @@
     <string name="stock_settings_entry_summary">Соединение с интернет через PC. Подключите USB кабель.</string>
     <string name="PSFail">Невозможно подключиться к PC</string>
     <string name="PSPass">Соединен прозрачный доступ</string>
-    <string name="PSMsg">If you are unable to connect to the Internet via Internet pass-through, please ensure that your PC firewall settings allow this type of connection. Internet pass-through only supports TCP connections if your PC connects to the Internet via PPP (e.g. dial up, xDSL, or VPN).</string>
+    <string name="PSMsg">Если вы не можете получить доступ к сети через прозрачное соединение, убедитесь, что настройки файервола позволяют такой вид подключения.  "Прозрачный" тип подключения поддерживает TCP соединения, если ваш компьютер подключен к сети через PPP (например dial up, xDSL, or VPN)</string>
     <string name="PSTitle">Замечания прозрачного доступа</string>
     <string name="PSButton">OK</string>
-    <string name="do_not_show_psmsg">"Не показывать больше"</string>
+    <string name="do_not_show_psmsg">Не показывать больше</string>
 </resources>
