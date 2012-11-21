@@ -46,9 +46,9 @@
 	<string name="alarm_notify_text">Отложить/выключить будильник</string>
 	<string name="alarm_notify_snooze_label">%s отложено</string>
 	<string name="alarm_notify_snooze_text">Нажмите, чтобы отменить.</string>
-    <string name="snooze_confirm_message">Snooze has been delayed，%s snooze again.\nYou can also cancel this alarm.</string>
+    <string name="snooze_confirm_message">Отложенный будильник был отменен (или просрочен)，%s отложить снова.\nВы можете отключить этот будильник.</string>
     <string name="snooze_confirm_ok">Готово</string>
-    <string name="snooze_confirm_cancel">Cancel snooze</string>
+    <string name="snooze_confirm_cancel">Отменить отложенный будильник</string>
 	<string name="volume_button_setting_title">Громкость</string>
 	<string name="volume_button_dialog_title">Функция кнопок</string>
 	<string name="volume_button_setting_summary">Определить функцию этой кнопки во время звонка будильника</string>

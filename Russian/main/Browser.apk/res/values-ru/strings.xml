@@ -403,7 +403,7 @@
 	<string name="pref_ua_mione_value">6</string>
 	<string name="dump_counters">Сбросить счетчики V8</string>
 	<string name="dump_dom_tree">Дамп дерева рендеринга в файл</string>
-	<string name="dump_render_tree">Dump render tree to file</string>
+	<string name="dump_render_tree">Сделать дамп дерева рендеринга в файл</string>
 	<string name="dump_display_tree">Дамп дерева отображения в файл</string>
 	<string name="pref_reading_mode_enabled_title">Режим чтения</string>
 	<string name="pref_reading_mode_enabled_title_summary">Необходимо включить JavaScript</string>
