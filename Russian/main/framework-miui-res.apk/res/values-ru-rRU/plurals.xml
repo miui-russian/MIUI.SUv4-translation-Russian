@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="in_half_hour">
-        <item quantity="other">Полчаса назад</item>
+        <item quantity="other">Полчаса назад.......</item>
     </plurals>
     <plurals name="a_hour_ago">
         <item quantity="other">Час назад</item>
