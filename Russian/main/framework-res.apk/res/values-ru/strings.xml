@@ -950,7 +950,7 @@
 	<string name="screen_compat_mode_hint">Настроить заново можно перейдя в Настройки &gt; Приложения &gt; Управление приложениями.</string>
 	<string name="smv_application">Приложение %1$s (процесс %2$s) нарушило свою политику &quot;Строгий режим&quot;.</string>
 	<string name="smv_process">Процесс %1$s нарушил свою политику &quot;Строгий режим&quot;.</string>
-	<string name="android_upgrading_title">Android улучшается…</string>
+	<string name="android_upgrading_title">Android обновляется…</string>
 	<string name="android_upgrading_apk">Оптимизация приложений %1$d из %2$d.</string>
 	<string name="android_upgrading_starting_apps">Запуск приложений.</string>
 	<string name="android_upgrading_complete">Завершение загрузки.</string>
