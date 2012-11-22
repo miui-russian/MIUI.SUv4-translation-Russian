@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="home_indicator">bottom_point</string>
-	<string name="wallpaper_scrolling">all</string>
+	<string name="home_indicator">Нижняя точка</string>
+	<string name="wallpaper_scrolling">Все</string>
 	<string name="sharedUserId"></string>
 	<string name="process"></string>
 	<string name="application_name">Лаунчер</string>
