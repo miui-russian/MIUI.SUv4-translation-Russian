@@ -619,8 +619,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="caller_manage_manage_done_text_miui">Назад к вызову</string>
 	<string name="call_forwarding_number_hint_miui">Введите номер для переадресации</string>
 	<string name="call_forwarding_settings_miui">Переадресация вызовов</string>
-	<string name="calling_via_template_miui">Вызов через ^1
-</string>
+	<string name="calling_via_template_miui">"Вызов через ^1\n"</string>
 	<string name="call_log_number_limit_miui">Лимит записей журнала вызовов</string>
 	<string name="call_log_number_limit_summary_miui">Ограничение количества записей вызовов</string>
 	<string name="call_log_number_limit_setting_title">Настройки лимит записей журнала вызовов</string>
@@ -801,8 +800,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="pin2_lock_warning_miui">Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!</string>
 	<string name="pin_attempts_miui">Осталось %d попыток</string>
 	<string name="pin_changed_miui">PIN код SIM изменен успешно</string>
-	<string name="pin_lock_warning_miui">
-Телефон будет заблокирован при неудачной попытке!</string>
+	<string name="pin_lock_warning_miui">"\nТелефон будет заблокирован при неудачной попытке!"</string>
 	<string name="pin_progress_change_pin2_miui">Изменеие PIN2…</string>
 	<string name="pin_progress_change_pin_miui">Изменеие PIN…</string>
 	<string name="pin_progress_set_fdn_lock_miui">Установка FDN lock…</string>
