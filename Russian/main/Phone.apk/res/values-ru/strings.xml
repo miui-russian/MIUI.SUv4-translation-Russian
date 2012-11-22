@@ -853,7 +853,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="tty_mode_entries_off_miui">TTY Off</string>
 	<string name="tty_mode_entries_vco_miui">TTY VCO</string>
 	<string name="tty_mode_option_summary_miui">Включить режим телетайпа</string>
-	<string name="tty_mode_option_title_miui">TTY mode</string>
+	<string name="tty_mode_option_title_miui">TTY режим</string>
 	<string name="turnover_mute_title_miui">Переверните для выключения звука</string>
 	<string name="turnover_mute_summary_miui">Переверните для выключения звука, когда телефон лежит горизонтально</string>
 	<string name="voicemail_miui">Голосовая почта</string>
@@ -888,8 +888,8 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="call_waiting_tone_twice_only_miui">Играть дважды</string>
 	<string name="call_waiting_tone_twice_and_vibrate_miui">Вибрировать и играть дважды</string>
 	<string name="cdma_display_precise_call_state_title_miui">Показать точное состояние вызова</string>
-	<string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by carrier. If supported by carrier then call state can be shown precisely.</string>
-	<string name="cdma_display_precise_call_state_message_miui">If your carrier does not support this, the call state will be incorrect when switched on. Do you still want to switch it on?</string>
+	<string name="cdma_display_precise_call_state_summary_miui">Таймер звонков CDMA окраничен поставщиком. Если данная функция поддерживается поставщиком, то состояние звонка показывается точно.</string>
+	<string name="cdma_display_precise_call_state_message_miui">Если данная функция не поддерживается поставщиком, будут показаны неверные данные, если активировано. Хотите включить?</string>
 	<string name="set_preferred_network_type_when_data_enabled_miui">Предпочтительный режим сети доступен при выключенной передаче данных</string>
 	<string name="turn_off_auto_select_title_miui">Выключение автоматического выбора сети</string>
 	<string name="turn_off_auto_select_warning_message_miui">После выключения данной опции будет использоваться сеть, выбранная вами вручную и вы не сможете зарегистрироваться в других сетях</string>

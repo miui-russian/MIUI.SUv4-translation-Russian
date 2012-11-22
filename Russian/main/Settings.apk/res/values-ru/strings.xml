@@ -747,7 +747,7 @@
 	<string name="sd_mount">Подключить SD-карту</string>
 	<string name="sd_mount_summary"></string>
 	<string name="sd_format">Очистить SD-карту</string>
-	<string name="sd_format_summary">Удаляет все данные с SD-карты, например музыку и фотографии</string>
+	<string name="sd_format_summary">Удаляет все данные с SD-карты, например, музыку и фотографии</string>
 	<string name="internal_format">Очистить внутренний накопитель</string>
 	<string name="internal_format_summary">Удалить все данные на внутреннем накопителе (Как музыка и фото)</string>
 	<string name="read_only">(только для чтения)</string>

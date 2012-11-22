@@ -54,8 +54,8 @@
     <string name="in_calling">Calling in</string>
     <string name="unknown_num">Неизвестный номер</string>
     <string name="in_sms">Сообщение в</string>
-    <string name="sms_sender">отправитель</string>
-    <string name="sms_content">content</string>
+    <string name="sms_sender">Отправитель</string>
+    <string name="sms_content">Содержание</string>
     <string name="arrow">></string>
     <string name="arrow_down">v</string>
     <string name="you_can_say_so">您可以这样说:</string>
@@ -129,8 +129,8 @@
     <string name="phone_by_ear_launch">Приложите телефон к уху</string>
     <string name="voice_report">Голосовой отчет</string>
     <string name="report_method">Голосовой отчет</string>
-    <string name="phone_report">Calling report</string>
-    <string name="sms_report">Message report</string>
+    <string name="phone_report">Отчет по вызовам</string>
+    <string name="sms_report">Отчет по сообщениям</string>
     <string name="invert_stop_report">Переверните, для завершения отчета</string>
     <string name="voice_support">Голосовая технология поддерживается iflytek</string>
     <string name="tts_voice_effect">Голосовой эффект TTS</string>
