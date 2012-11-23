@@ -121,7 +121,7 @@
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Время использования</item>
-        <item>Launch count</item>
+        <item>Количество запусков</item>
         <item>Имя приложения</item>
     </string-array>
     <string-array name="wifi_phase2_entries">
@@ -159,7 +159,7 @@
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
-        <item>Unspecified</item>
+        <item>Не определено</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Память устройства</item>
