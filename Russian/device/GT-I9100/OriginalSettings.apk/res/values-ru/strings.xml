@@ -46,7 +46,7 @@
   <string name="accessibility_system_title">Система</string>
   <string name="accessibility_toggle_large_text_title">Большой</string>
   <string name="accessibility_touch_exploration_summary">When explore by touch is enabled, you can hear or see descriptions of what you are touching. This feature is for visually impaired users</string>
-  <string name="accessibility_touch_exploration_title">Explore by touch</string>
+  <string name="accessibility_touch_exploration_title">Озвучивание при нажатии</string>
   <string name="accessibility_touch_exploration_warning">This feature changes the way your device responds to touch. Enable?</string>
   <string name="accessibility_tutorial_back">Назад</string>
   <string name="accessibility_tutorial_finish">Готово</string>
