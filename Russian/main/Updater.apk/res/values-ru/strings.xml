@@ -82,7 +82,7 @@
 	<string name="no_proper_updates">Для текущей версии обновления не найдены</string>
 	<string name="emegency_update_helper">После установки необходима перезагрузка</string>
 	<string name="emegency_update_size">Размер:%s</string>
-	<string name="sign_in_info">Рейтинг \n пользователи, выбравшие MIUI </string>
+	<string name="sign_in_info">"Рейтинг: %1$s \n %2$s пользователей выбрали MIUI %3$s""</string>
 	<string name="sign_in_info_total_more">"Рейтинг: %1$s \nБолее %2$s пользователей выбрали MIUI %3$s"</string>
 	<string name="sign_in_info_rank_more">"Рейтинг: %1$s \nБолее %2$s пользователей выбрали MIUI %3$s"</string>
 	<string name="sign_in_add_account_helper">Ваш телефон не активирован в базе MIUI.</string>
