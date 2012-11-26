@@ -923,7 +923,7 @@
 	<string name="chooseUsbActivity">Выберите действие для USB-устройства</string>
 	<string name="noApplications">Ни одно из установленных приложений не может выполнить это действие.</string>
 	<string name="aerr_title"></string>
-	<string name="aerr_application">К сожалению, %1$s было закрыто.</string>
+	<string name="aerr_application">К сожалению, приложение %1$s было закрыто.</string>
 	<string name="aerr_process">К сожалению, процесс %1$s был останвлен.</string>
 	<string name="anr_title"></string>
 	<string name="anr_activity_application">&quot;%2$s не отвечает.

@@ -609,7 +609,7 @@
 	<string name="all_volume_title">Громкость</string>
 	<string name="musicfx_title">Звуковые эффекты</string>
 	<string name="ring_volume_title">Громкость звонка</string>
-	<string name="vibrate_in_silent_title">Виброзвонок в режиме \"Без звука\"</string>
+	<string name="vibrate_in_silent_title">Вибро в режиме \"Без звука\"</string>
     <string name="vibrate_on_ring_title">Вибрация и звук</string>
 	<string name="notification_sound_title">Уведомление по умолчанию</string>
 	<string name="notification_pulse_title">Индикатор событий</string>
@@ -1710,7 +1710,7 @@
 	<string name="search_about">О программе</string>
 	<string name="search_power_mode">Профиль</string>
 	<string name="debug_log">Программа развития</string>
-	<string name="upload_debug_log_title">Присоединиться к программе развития</string>
+	<string name="upload_debug_log_title">Программа развития</string>
 	<string name="upload_debug_log_summary">Помогите Xiaomi улучшить их продукт и сервисы, послав данные диагностики и данных</string>
 	<string name="device_miui_version">Версия MIUI:</string>
 	<string name="device_cpu">Процессор:</string>
@@ -1837,7 +1837,7 @@
 	<string name="default_input_method">Выберите способ ввода по умолчанию</string>
 	<string name="volume_category_title">Громкость</string>
 	<string name="vibrate_category_title">Вибрация</string>
-	<string name="vibrate_in_normal_title">Вибрация в обычном режиме</string>
+	<string name="vibrate_in_normal_title">Вибро в обычном режиме</string>
     <string name="wifi_wapi_fail_to_init">"Невозможно открыть WAPI сертификаты
 Возможно хранилища учетных данных не активированы."</string>
     <string name="wifi_wapi_fail_to_auth">"Ошибка аутентификации WAPI 
