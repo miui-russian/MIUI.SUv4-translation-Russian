@@ -7,6 +7,12 @@
             "favicon":"favicon_miuisu.png"
         },
         {
+            "title":"ВКонтакте",
+            "url":"http://vk.com/",
+            "thumbnail":"thumb_vk.png",
+            "favicon":"favicon_vk.png"
+        },
+        {
             "title":"Яндекс",
             "url":"http://www.yandex.ru/",
             "thumbnail":"thumb_yandex.png",
@@ -31,12 +37,6 @@
             "favicon":"favicon_yahoo.png"
         },
 
-        {
-            "title":"ВКонтакте",
-            "url":"http://vk.com/",
-            "thumbnail":"thumb_vk.png",
-            "favicon":"favicon_vk.png"
-        },
         {
             "title":"MSN",
             "url":"http://www.msn.com/",
