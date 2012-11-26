@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Супермаркет</string>
-    <string name="recommendation_tag">Популярные</string>
-    <string name="rank_tag">Рейтинг</string>
-    <string name="category_tag">Категория</string>
-    <string name="management_tag">Больше</string>
+    <string name="recommendation_tag">ТОП</string>
+    <string name="rank_tag">РЕЙТИНГ</string>
+    <string name="category_tag">КАТЕГОРИИ</string>
+    <string name="management_tag">БОЛЬШЕ</string>
     <string name="hot_rank_tag">Горячий</string>
     <string name="new_app_tag">Новый</string>
 	<string name="download_manager_tag_with_nonzero_downloads">Загрузки(%1$s/%2$s)</string>
