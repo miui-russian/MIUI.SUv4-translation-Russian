@@ -5,7 +5,7 @@
 	<string name="date_and_time">Настройка даты и времени</string>
 	<string name="input_method_selector_visibility_default_value">0</string>
 	<string name="collect_diagnostics_title">Collect diagnostics</string>
-	<string name="collect_diagnostics_summary">Collect diagnostics data for troubleshooting</string>
+	<string name="collect_diagnostics_summary">Сбор данных для устранения проблем</string>
 	<string name="yes">Да</string>
 	<string name="no">Нет</string>
 	<string name="device_info_default">Неизвестно</string>
