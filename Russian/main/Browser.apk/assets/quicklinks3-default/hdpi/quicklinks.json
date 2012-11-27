@@ -25,6 +25,30 @@
             "favicon":"favicon_google.png"
         },
         {
+            "title":"яндекс",
+            "url":"http://www.yandex.ru/",
+            "thumbnail":"thumb_yandex.png",
+            "favicon":"favicon_yandex.png"
+        },
+        {
+            "title":"Twitter",
+            "url":"http://twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "favicon":"favicon_twitter.png"
+        },
+        {
+            "title":"4PDA",
+            "url":"http://www.4pda.ru/",
+            "thumbnail":"thumb_4pda.png",
+            "favicon":"favicon_4pda.png"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.com/",
+            "thumbnail":"thumb_facebook.png",
+            "favicon":"favicon_facebook.png"
+        },
+        {
             "title":"Picasa",
             "url":"http://picasaweb.google.com/",
             "thumbnail":"thumb_picasa.png",
@@ -42,18 +66,6 @@
             "url":"http://www.msn.com/",
             "thumbnail":"thumb_msn.png",
             "favicon":"favicon_msn.png"
-        },
-        {
-            "title":"Twitter",
-            "url":"http://twitter.com/",
-            "thumbnail":"thumb_twitter.png",
-            "favicon":"favicon_twitter.png"
-        },
-        {
-            "title":"Facebook",
-            "url":"http://www.facebook.com/",
-            "thumbnail":"thumb_facebook.png",
-            "favicon":"favicon_facebook.png"
         },
         {
             "title":"Wikipedia",
