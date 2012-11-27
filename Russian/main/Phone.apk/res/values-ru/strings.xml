@@ -906,7 +906,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="missed_call_notify_twice_miui">Два раза</string>
 	<string name="missed_call_notify_thrice_miui">Три раза</string>
 	<string name="missed_call_notify_five_times_miui">Пять раз</string>
-	<string name="missed_call_notify_ten_times_miui">Десять</string>
+	<string name="missed_call_notify_ten_times_miui">Десять раз</string>
 	<string name="dial_pad_touch_tone_setting_miui">Настройки тона клавиш</string>
 	<string name="dial_pad_touch_tone_miui">Тон клавиш</string>
 	<string name="tone_miui">Тон</string>
