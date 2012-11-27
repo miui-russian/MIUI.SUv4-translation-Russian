@@ -17,8 +17,8 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
     <string-array name="search_engines">
-        <item>google</item>
 		<item>yandex_ru</item>
+        <item>google</item>
         <item>yahoo</item>
         <item>bing</item>
     </string-array>	
