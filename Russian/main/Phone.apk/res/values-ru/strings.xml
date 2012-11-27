@@ -901,11 +901,12 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="back_miui">Назад</string>
 	<string name="missed_call_notify_times_title_miui">Напоминание о пропущенных вызовах</string>
 	<string name="missed_call_notify_times_summary_miui">Напоминать каждые 5 минут по умолчанию. Выберите свое значение</string>
-	<string name="missed_call_notify_once">Один раз</string>
-	<string name="missed_call_notify_twice">Два раза</string>
-	<string name="missed_call_notify_thrice">Три раза</string>
-	<string name="missed_call_notify_five_times">Пять раз</string>
-	<string name="missed_call_notify_ten_times">Десять</string>
+	<string name="missed_call_notify_none_miui">Не напоминать</string>
+	<string name="missed_call_notify_once_miui">Один раз</string>
+	<string name="missed_call_notify_twice_miui">Два раза</string>
+	<string name="missed_call_notify_thrice_miui">Три раза</string>
+	<string name="missed_call_notify_five_times_miui">Пять раз</string>
+	<string name="missed_call_notify_ten_times_miui">Десять</string>
 	<string name="dial_pad_touch_tone_setting_miui">Настройки тона клавиш</string>
 	<string name="dial_pad_touch_tone_miui">Тон клавиш</string>
 	<string name="tone_miui">Тон</string>

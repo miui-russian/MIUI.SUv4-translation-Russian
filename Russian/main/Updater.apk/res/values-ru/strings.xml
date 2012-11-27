@@ -123,7 +123,7 @@
 	<string name="update_happy">Отлично</string>
 	<string name="update_general">Средне</string>
 	<string name="update_sad">Ужасно</string>
-	<string name="update_feel">1.Что вы ощущаете?</string>
+	<string name="update_feel">1.Как Вам прошивка?</string>
 	<string name="best_update">2.Лучшее обновление</string>
 	<string name="worst_update">3.Худшее обновление</string>
 	<string name="expect">4.Ожидания</string>
