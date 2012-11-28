@@ -7,13 +7,13 @@
             "favicon":"favicon_miuisu.png"
         },
         {
-            "title":"ВКонтакте",
+            "title":"VKontakte",
             "url":"http://vk.com/",
             "thumbnail":"thumb_vk.png",
             "favicon":"favicon_vk.png"
         },
         {
-            "title":"Яндекс",
+            "title":"Yandex",
             "url":"http://www.yandex.ru/",
             "thumbnail":"thumb_yandex.png",
             "favicon":"favicon_yandex.png"
