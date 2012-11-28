@@ -25,22 +25,16 @@
             "favicon":"favicon_google.png"
         },
         {
-            "title":"яндекс",
-            "url":"http://www.yandex.ru/",
-            "thumbnail":"thumb_yandex.png",
-            "favicon":"favicon_yandex.png"
+            "title":"4PDA",
+            "url":"http://www.4pda.ru/",
+            "thumbnail":"thumb_4pda.png",
+            "favicon":"favicon_4pda.png"
         },
         {
             "title":"Twitter",
             "url":"http://twitter.com/",
             "thumbnail":"thumb_twitter.png",
             "favicon":"favicon_twitter.png"
-        },
-        {
-            "title":"4PDA",
-            "url":"http://www.4pda.ru/",
-            "thumbnail":"thumb_4pda.png",
-            "favicon":"favicon_4pda.png"
         },
         {
             "title":"Facebook",
