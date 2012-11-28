@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="yandex_ru">
-        <item>Яндекс</item>
+    <string-array name="yandex">
+        <item>Yandex</item>
         <item>yandex.ru</item>
         <item>http://yandex.ru/favicon.ico</item>
         <item>http://yandex.ru/touchsearch?&amp;clid=1788326&amp;text={searchTerms}</item>
@@ -17,7 +17,7 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
     <string-array name="search_engines">
-		<item>yandex_ru</item>
+		<item>yandex</item>
         <item>google</item>
         <item>yahoo</item>
         <item>bing</item>

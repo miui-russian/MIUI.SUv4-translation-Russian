@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen android:key="advanced_settings"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.android.browser.search.SearchEnginePreference android:title="@string/pref_content_search_engine" android:key="search_engine" android:summary="@string/pref_content_search_engine_summary" android:defaultValue="yandex_ru" android:dialogTitle="@string/pref_content_search_engine" />
+    <com.android.browser.search.SearchEnginePreference android:title="@string/pref_content_search_engine" android:key="search_engine" android:summary="@string/pref_content_search_engine_summary" android:defaultValue="yandex" android:dialogTitle="@string/pref_content_search_engine" />
     <CheckBoxPreference android:title="@string/pref_content_open_in_background" android:key="open_in_background" android:summary="@string/pref_content_open_in_background_summary" android:defaultValue="false" />
     <CheckBoxPreference android:title="@string/pref_content_javascript" android:key="enable_javascript" android:defaultValue="true" />
     <CheckBoxPreference android:title="@string/pref_content_night_read_mode" android:key="enable_night_read_mode" android:defaultValue="false" />
