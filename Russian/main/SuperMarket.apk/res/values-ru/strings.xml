@@ -35,6 +35,8 @@
     <string name="pref_list_per_week">Еженедельно</string>
     <string name="pref_list_per_day">Ежедневно</string>
     <string name="pref_title_use_staging">Использование промежуточного сервера</string>
+	<string name="clear_search_record_message">Вы действительно хотите очистить историю поиска?</string>
+	<string name="result_of_clear_history">История очищена</string>
     <string name="app_comments_title">%1$s коментариев к приложению</string>
     <string name="edit_comment_title">%1$s добавить коментарий</string>
     <string name="app_comments">Коментарии к приложения</string>

@@ -501,6 +501,6 @@
     <string name="resource_get_auth">У вас нет нет прав для доступа к ресурсу.</string>
     <string name="resource_get_auth_checking">Проверка разрешения…</string>
     <string name="resource_get_auth_retrieving">Получение разрешения…</string>
-    <string name="resource_get_auth_failed">Не удалось получить разрешение.</string>
+    <string name="resource_server_out_of_service">Не удалось получить разрешение.</string>
 	<string name="resource_get_auth_missing">Тема скачана со стороннего ресурса, пожалуйста, скачайте аналогичную из официального магазина.</string>
 </resources>

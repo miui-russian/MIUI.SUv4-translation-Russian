@@ -87,4 +87,27 @@
     <string name="download_success">Загрузка завершена!</string>
 	<string name="theme_importing">Импорт тем</string>
 	<string name="theme_import_success">Импорт завершен</string>
+	<string name="resource_comment_no_comment">Комментарии отсутствуют</string>
+	<string name="resource_comment_sending">Отправляю комментарий...</string>
+	<string name="resource_comment_upload_failed">Ошибка отправки комментария</string>
+	<string name="resource_comment_upload_success">Комментарий отправлен! Он будет опубликован после проверки</string>
+	<string name="resource_comment_upload_data_invalid">Простите, комментарий неверен</string>
+	<string name="resource_comment_upload_not_logined">Войдите сначала в систему, пожалуйста</string>
+	<string name="resource_comment_upload_not_bought">Перед тем, как оставлять комментарии к этой теме, используйте ее.</string>
+	<string name="resource_comment_invalid">Нажмите на звезды для оценки</string>
+	<string name="resource_comment_version_name">(%1$s версия)</string>
+	<string name="resource_comment_title">Комментарии:%1$s</string>
+	<string name="resource_comment_edit_title">Редактировать комментарий:%1$s</string>
+	<string name="resource_comment_edit_comment">Добавить комментарии</string>
+	<string name="resource_comment_edit_comment_waiting">Проверка, использовали ли вы</string>
+	<string name="resource_comment_edit_text_default">Написать комментарий</string>
+	<string name="resource_comment_publish">Подписаться</string>
+	<string name="resource_comment_description">%1$s комментарий к %2$s %3$s %4$s</string>
+	<string name="resource_comment_count">%1$s оценок %2$s общее колличество комментариев (%3$s версия)</string>
+	<string name="resource_comment_name_default">Пользователь %1$s</string>
+	<string name="resource_comment_account_need_activitied">Ваш аккаунт не активирован, хотите активировать его сейчас?</string>
+	<string name="resource_comment_rate">Оценка:</string>
+	<string name="resource_comment_entry_tips">%1$s отзывов, нажмите для просмотра</string>
+	<string name="fail_to_add_account">Ошибка добавления аккаунта</string>
+	<string name="menu_refresh">Обновить</string>
 </resources>
