@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Уведомление</item>
-        <item>е-mail</item>
+        <item>E-mail</item>
         <item>СМС</item>
         <item>Будильник</item>
     </string-array>
@@ -181,7 +181,7 @@
         <item>Опоздаю на несколько минут.</item>
         <item>Буду там через 10 минут.</item>
         <item>Начинайте без меня.</item>
-        <item>"Извините, я не могу этого сделать. Нужно пересмотреть расписание."</item>
+        <item>Извините, я не могу этого сделать. Нужно пересмотреть расписание.</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Всегда</item>
