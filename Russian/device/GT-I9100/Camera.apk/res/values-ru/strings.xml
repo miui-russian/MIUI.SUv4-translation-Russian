@@ -18,6 +18,8 @@
     <string name="capture_failed_msg">Сбой съемки</string>
     <string name="recording_failed_msg">Сбой записи</string>
     <string name="buffer_overflow_error_msg">Запись невозможна. Тип разрешения не поддерживается картой памяти</string>
+    <string name="media_server_died_msg">Ошибка MediaServer. Необходимо перезапустить камеру</string>
+    <string name="unknown_error_callback_msg">Неизвестная ошибка ErrorCallback</string>
     <string name="settings">Настройки</string>
     <string name="low_batt_msg">Низкий заряд батареи</string>
     <string name="close">Закрыть</string>
@@ -43,6 +45,7 @@
     <string name="SM_CARTOON">Карикатура</string>
     <string name="SM_SELFSHOT">Автопортрет</string>
     <string name="SM_SHOOTANDSHARE">Обмен фотографиями</string>
+    <string name="SM_HDR">HDR</string>
     <string name="NORMAL">Обычное</string>
     <string name="VM_WARM">Теплый</string>
     <string name="VM_COOL">Здорово</string>
@@ -69,11 +72,12 @@
     <string name="E_WATERCOLOR">Акварель</string>
     <string name="R_3264x2448">3264x2448</string>
     <string name="R_3264x1968">3264x1968</string>
+    <string name="R_3264x1836">3264x1836</string>
     <string name="R_3072x2304">3072x2304</string>
     <string name="R_3072x1856">3072x1856</string>
     <string name="R_2560x1920">2560x1920</string>
     <string name="R_2560x1536">2560x1536</string>
-    <string name="R_2560x1440">2560X1440</string>
+    <string name="R_2560x1440">2560x1440</string>
     <string name="R_2048x1536">2048x1536</string>
     <string name="R_2048x1232">2048x1232</string>
     <string name="R_1920x1080">1920x1080</string>
@@ -150,6 +154,7 @@
     <string name="Title_Timer">Таймер</string>
     <string name="Title_Resolution">Разрешение</string>
     <string name="Title_ShootAndShare">Параметры обмена</string>
+    <string name="Title_ShareWith">Отправить</string>
     <string name="Title_WhiteBalance">Баланс белого</string>
     <string name="Title_Effects">Эффекты</string>
     <string name="Title_Focus">Фокус</string>
@@ -181,6 +186,7 @@
     <string name="Title_ImageViewer">Просмотр изображения</string>
     <string name="Title_Outdoor_Visibility">Видимость на улице</string>
     <string name="Title_AutoFocus_Sound">Звук авто-фокуса</string>
+    <string name="Title_HDR">HDR</string>
     <string name="Title_Flip">Сохранить перевернутое изобр.</string>
     <string name="Dialog_Yes">Да</string>
     <string name="Dialog_No">Нет</string>
@@ -213,12 +219,14 @@
     <string name="Action_Shot_Helptext">Создание панорамы движущегося объекта</string>
     <string name="Stop_Motion_Helptext">Анимация серии снимков</string>
     <string name="Cartoon_Helptext">Преобразовать фото в мультипликацию</string>
+    <string name="HDR_Helptext">Сделать HDR фото</string>
     <string name="help_text_panorama">Нажмите клавишу камеры и медленно передвигайте телефон в одном направлении</string>
     <string name="GPS_msg">GPS выкл</string>
     <string name="message_enable_GPS">Чтобы использовать теги GPS, включите GPS в разделе \"Настройки\"</string>
     <string name="cancel">Отмена</string>
     <string name="app_name">Камера</string>
     <string name="SmileShot_message">Нажмите кнопку затвора</string>
+    <string name="HDRShot_message">Нажмите на затвор(HDR)</string>
     <string name="Title_ResetDailog">Сбросить настройки камеры?</string>
     <string name="Title_ChangeMemoryInUseDailog">Изменить место сохранения на карту памяти?</string>
     <string name="Title_InsertMemoryCardDailog">Для использования Камеры вставьте карту памяти</string>
@@ -249,7 +257,7 @@
     <string name="plugged_low_batt_msg">Невозможно использовать вспышку. Аккумулятор разряжен</string>
     <string name="user_profile_title">Профиль пользователя</string>
     <string name="preview_file_received_title">Просмотреть полученный файл</string>
-    <string name="network_title">Обмениваться фотографиями при подключении WLAN Direct</string>
+    <string name="network_title">Обмениваться фотографиями при/n подключении WLAN Direct</string>
     <string name="done">Готово</string>
     <string name="refresh">Сети Wi-Fi</string>
     <string name="add_photo_title">Добавить фото</string>
