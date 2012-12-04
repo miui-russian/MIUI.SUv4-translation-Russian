@@ -150,7 +150,6 @@
     <string name="Title_Timer">Таймер</string>
     <string name="Title_Resolution">Разрешение</string>
     <string name="Title_ShootAndShare">Параметры обмена</string>
-	<string name="Title_DeviceList">Список устройств</string>
     <string name="Title_WhiteBalance">Баланс белого</string>
     <string name="Title_Effects">Эффекты</string>
     <string name="Title_Focus">Фокус</string>

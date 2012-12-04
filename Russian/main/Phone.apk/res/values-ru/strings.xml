@@ -69,7 +69,6 @@
 	<string name="sum_cdma_call_settings">Дополнительные настройки только для вызовов CDMA</string>
 	<string name="labelNwService">Настройки сетевой службы</string>
 	<string name="labelCallerId">АОН</string>
-	<string name="sum_loading_settings">Загрузка настроек…</string>
 	<string name="sum_hide_caller_id">Скрывать номер при исходящих вызовах</string>
 	<string name="sum_show_caller_id">Номер, отображающийся при исходящих вызовах</string>
 	<string name="sum_default_caller_id">При исходящих вызовах использовать для отображения моего номера настройки, предоставляемые оператором</string>
@@ -106,7 +105,6 @@
 	<string name="reverting_settings">Возврат к предыдущим настройкам…</string>
 	<string name="response_error">Неожиданный отклик сети.</string>
 	<string name="exception_error">Ошибка сети или SIM-карты.</string>
-	<string name="fdn_check_failure">Фиксированный набор включен. В результате некоторые функции, связанные с вызовами, могут не работать.</string>
 	<string name="radio_off_error">Чтобы увидеть эти настройки, нужно включить радио.</string>
 	<string name="close_dialog">ОК</string>
 	<string name="enable">Включить</string>
@@ -283,7 +281,6 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="fdn_contact_deleted">Номер ограниченного набора удален.</string>
 	<string name="pin2_invalid">Номер ограниченного набора не обновлен: вы ввели неверный PIN-код.</string>
 	<string name="fdn_invalid_number">Номер ограниченного набора не обновлен: он не должен содержать больше 20 цифр.</string>
-	<string name="pin2_or_fdn_invalid">Фиксированный набор не был обновлен. Неверный PIN2 или номер был отклонен.</string>
 	<string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
 	<string name="simContacts_empty">На SIM-карте нет контактов.</string>
 	<string name="simContacts_title">Выберите контакты для импорта</string>
@@ -337,7 +334,6 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="notification_missedCallsTitle">Пропущенные вызовы</string>
 	<string name="notification_missedCallsMsg">Пропущенных вызовов: %s</string>
 	<string name="notification_missedCallTicker">Пропущенные вызовы от абонента %s</string>
-	<string name="notification_ongoing_call">Вызов</string>
 	<string name="notification_on_hold">На удержании</string>
 	<string name="notification_incoming_call">Входящий вызов</string>
 	<string name="notification_voicemail_title">Новое сообщение голосовой почты</string>
@@ -346,9 +342,6 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="notification_voicemail_no_vm_number">Номер голосовой почты неизвестен</string>
 	<string name="notification_network_selection_title">Сеть не найдена</string>
 	<string name="notification_network_selection_text">Выбранная сеть (%s) недоступна.</string>
-	<string name="notification_action_end_call">Завершить</string>
-	<string name="notification_missedCall_call_back">Перезвонить</string>
-	<string name="notification_missedCall_message">Сообщение</string>
 	<string name="incall_error_power_off">Перед тем как звонить, отключите режим полет.</string>
 	<string name="incall_error_emergency_only">Нет регистрации в сети.</string>
 	<string name="incall_error_out_of_service">Мобильная сеть недоступна.</string>
@@ -544,12 +537,6 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="description_target_decline">Отклонить</string>
 	<string name="voicemail_notification_vibrate_when_title">Вибросигнал</string>
 	<string name="voicemail_notification_vibarte_when_dialog_title">Вибросигнал</string>
-	<string name="voicemail_notification_ringtone_title">Рингтон</string>
-	<string name="voicemail_notification_vibrate_when_default">никогда</string>
-	<string name="ringtone_title">Рингтон</string>
-	<string name="vibrate_on_ring_title">Вибро при звонке</string>
-	<string name="dtmf_tone_enable_title">Звук клавиш</string>
-	<string name="preference_category_ringtone">Ринтон</string>
 	<string name="undefined_miui">Неопределено</string>
 	<string name="add_button_miui">Добавить</string>
 	<string name="add_zero_prefix">Добавить префикс 0 при наборе номеров</string>

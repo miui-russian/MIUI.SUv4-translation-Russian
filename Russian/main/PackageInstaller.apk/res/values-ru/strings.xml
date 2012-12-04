@@ -50,4 +50,4 @@
 	<string name="lift_ban">Снять запрет</string>
 	<string name="caller_app">Связь:%1$s</string>
 	<string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
-    <string name="safe_guard_support">Тех.поддержку обеспечивает %1$s</string></resources>
+    <string name="safe_guard_support">Защиту обеспечивает %1$s</string></resources>

@@ -264,7 +264,6 @@
 	<string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
 	<string name="date_picker_title">Дата</string>
 	<string name="time_picker_title">Время</string>
-	<string name="biometric_weak_improve_matching_title">Настройка распознавания</string>
 	<string name="biometric_weak_liveliness_title">Проверка на человека</string>
 	<string name="biometric_weak_liveliness_summary">Моргните во время разблокировки</string>
 	<string name="lock_after_timeout">Автоблокировка</string>
@@ -790,7 +789,6 @@
 	<string name="apn_auth_type_pap_chap">PAP или CHAP</string>
 	<string name="apn_type">Тип APN</string>
 	<string name="apn_protocol">Протокол APN</string>
-	<string name="apn_roaming_protocol">APN для роуминга</string>
 	<string name="carrier_enabled">Включить/выключить APN</string>
 	<string name="carrier_enabled_summaryOn">APN вкл.</string>
 	<string name="carrier_enabled_summaryOff">APN выкл.</string>
@@ -1080,7 +1078,6 @@
 	<string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
 	<string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
 	<string name="show_password">Показывать пароль</string>
-	<string name="show_password_summary" />
 	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
 	<string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
 	<string name="spellchecker_quick_settings">Настройки</string>
@@ -1102,19 +1099,11 @@
 	<string name="user_dict_settings_summary" />
 	<string name="user_dict_settings_add_menu_title">Добавить</string>
 	<string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
-	<string name="user_dict_settings_add_screen_title">Фраза</string>
-	<string name="user_dict_settings_add_dialog_more_options">Больше опций</string>
-	<string name="user_dict_settings_add_dialog_less_options">Меньше опций</string>
-	<string name="user_dict_settings_add_dialog_confirm">OK</string>
-	<string name="user_dict_settings_add_word_option_name">Слово:</string>
-	<string name="user_dict_settings_add_shortcut_option_name">Ярлык:</string>
-	<string name="user_dict_settings_add_locale_option_name">Язык:</string>
 	<string name="user_dict_settings_edit_dialog_title">Изменение слова</string>
 	<string name="user_dict_settings_context_menu_edit_title">Изменить</string>
 	<string name="user_dict_settings_context_menu_delete_title">Удалить</string>
 	<string name="user_dict_settings_empty_text">В пользовательском словаре пока ничего нет. Добавлять слова можно с помощью кнопки \"Добавить ( + )\".</string>
 	<string name="user_dict_settings_all_languages">Все языки</string>
-	<string name="user_dict_settings_more_languages">Больше языков…</string>
 	<string name="testing">Проверка</string>
 	<string name="testing_phone_info">Информация о телефоне</string>
 	<string name="testing_battery_info">Информация о батарее</string>
@@ -1188,7 +1177,6 @@
 	<string name="accessibility_system_title">Система</string>
 	<string name="accessibility_toggle_large_text_title">Большой текст</string>
 	<string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
-	<string name="accessibility_speak_password_title">Озвучивать пароли</string>
     <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string>
     <string name="accessibility_touch_exploration_summary">"Когда "подсказки при нажатии" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.
 
@@ -1603,7 +1591,6 @@
 	<string name="vpn_ipsec_secret">Общий ключ IPSec</string>
 	<string name="vpn_ipsec_user_cert">Сертификат пользователя IPSec</string>
 	<string name="vpn_ipsec_ca_cert">Сертификат ЦС IPSec</string>
-	<string name="vpn_ipsec_server_cert">Сертификат сервера IPSec</string>
 	<string name="vpn_show_options">Дополнительно</string>
 	<string name="vpn_search_domains">Домены для поиска DNS</string>
 	<string name="vpn_dns_servers">DNS-серверы (например, 8.8.8.8)</string>
@@ -1613,7 +1600,6 @@
 	<string name="vpn_save_login">Сохранить учетные данные</string>
 	<string name="vpn_not_used">(не используется)</string>
 	<string name="vpn_no_ca_cert">(не проверять сервер)</string>
-	<string name="vpn_no_server_cert">(получено с сервера)</string>
 	<string name="vpn_cancel">Отмена</string>
 	<string name="vpn_save">Сохранить</string>
 	<string name="vpn_connect">Подключиться</string>
@@ -1661,20 +1647,14 @@
 	<string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
 	<string name="user_settings_title">Пользователи и ограничения</string>
 	<string name="user_list_title">Пользователи</string>
-	<string name="user_add_user_menu">Добавить пользователя</string>
-	<string name="user_details_title">Редактировать детали</string>
-	<string name="user_information_heading">Данные пользователя</string>
 	<string name="user_name_title">Имя</string>
 	<string name="user_restrictions_heading">Ограничения содержимого</string>
 	<string name="user_market_requires_pin">Запрос PIN</string>
 	<string name="user_max_content_rating">Рейтинг содержимого</string>
 	<string name="user_system_apps_heading">Системные приложения</string>
 	<string name="user_market_apps_heading">Установленные приложения</string>
-	<string name="user_discard_user_menu">Отмена</string>
 	<string name="user_remove_user_menu">Удалить пользователя</string>
 	<string name="user_new_user_name">Защита от детей</string>
-	<string name="user_confirm_remove_title">Удалить пользователя?</string>
-	<string name="user_confirm_remove_message">Вы уверены что хотите удалить пользователя и данные с устройства?</string>
 	<string name="app_notifications_switch_label">Показывать уведомления</string>
 	<string name="help_label">Помощь</string>
 	<string name="cell_broadcast_settings">Широковещательные сообщения</string>
@@ -1906,8 +1886,6 @@
 	<string name="usage_log">Статистика использования приложений</string>
 	<string name="usb_msd_title">Накопитель</string>
 	<string name="usb_msd_summary">Позволяет передавать файлы на Windows и Mac</string>
-	<string name="usb_msd_driver_installer_title">Установщик драйверов (MSD)</string>
-	<string name="usb_msd_driver_installer_summary">Вы можете получить установочные файлы драйверов для XP и MAC здесь</string>
 	<string name="input_settings">Настройки ввода</string>
 	<string name="show_magnifier_when_input">Показывать лупу</string>
 	<string name="volume_voice_description">Громкость разговора</string>
@@ -1970,12 +1948,12 @@
 	<string name="wfd_disconnect_multiple_diag_message">Если вы разъедините сессию Дисплея Wi-Fi, ваше соединение с %1$s и %2$s другими устройствами будет потеряно.</string>
 	<string name="power_mode">Режим питания</string>
 	<string name="skip_step">Пропустить этот шаг</string>
-	<string name="password_guard">Защита паролем</string>
-    <string name="vpn_settings_password">Защита паролем VPN</string>
-    <string name="vpn_safe">Защита</string>
-    <string name="vpn_configure">Настройка</string>
-    <string name="sync_wifi_label">Настройка Wi-Fi</string>
-    <string name="milicenter_settings">Центр Xiaomi Dollar</string>
+	<string name="password_guard">Защита</string>
+	<string name="vpn_settings_password">Защита паролем VPN</string>
+	<string name="vpn_safe">Защита</string>
+	<string name="vpn_configure">Настройка</string>
+	<string name="sync_wifi_label">Настройка Wi-Fi</string>
+	<string name="milicenter_settings">Центр Xiaomi Dollar</string>
 	<string name="drive_mode">Режим "За рулём"</string>
 	<string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
 	<string name="drive_mode_settings">Настройки режима "За рулём"</string>
