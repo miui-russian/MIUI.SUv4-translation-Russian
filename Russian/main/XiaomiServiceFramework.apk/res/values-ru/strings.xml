@@ -7,7 +7,7 @@
     <string name="basic_info">Основная информация</string>
     <string name="next">Далее</string>
     <string name="prev">Назад</string>
-    <string name="forget_password"><u>Забыли пароль?</u></string>
+    <string name="forget_password">Забыли пароль?</string>
     <string name="password">Пароль</string>
     <string name="password_hint_text">6~16 знаков</string>
     <string name="bad_authentication">Неправильный логин или пароль</string>
@@ -23,10 +23,6 @@
     <string name="micloud_error_illegal_pwd">Неправильный пароль</string>
     <string name="micloud_input_email_prompt">Введите e-mail</string>
     <string name="micloud_email">Адрес e-mail</string>
-    <string-array name="new_account_types">
-        <item>Регистрация через телефон (Рекомендуется)</item>
-        <item>Регистрация через e-mail</item>
-    </string-array>
     <string name="micloud_input_password_prompt">Введите пароль</string>
     <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
     <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, чувствителен к регистру</string>
@@ -43,7 +39,7 @@
     <string name="micloud_about">Узнать больше о MiCloud</string>
     <string name="micloud_delete_account">Удалить аккаунт</string>
     <string name="micloud_active_email_sent_1">Письмо со ссылкой для активации отправлено на: </string>
-    <string name="micloud_active_email_sent_2"></string>
+    <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">Для активации аккаунта нажмите на ссылку активации у вас в письме</string>
     <string name="completed">Готово!</string>
     <string name="header_data_and_synchronization">Данные и синхронизация</string>

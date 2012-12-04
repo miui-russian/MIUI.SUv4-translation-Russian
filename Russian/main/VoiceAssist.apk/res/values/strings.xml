@@ -56,7 +56,7 @@
     <string name="in_sms">Сообщение в</string>
     <string name="sms_sender">Отправитель</string>
     <string name="sms_content">Содержание</string>
-    <string name="arrow">></string>
+    <string name="arrow" />
     <string name="arrow_down">v</string>
     <string name="you_can_say_so">您可以这样说:</string>
     <string name="text_title_intent">测试Intent调用</string>

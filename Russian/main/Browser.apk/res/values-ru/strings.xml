@@ -242,7 +242,7 @@
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
 	<string name="browserFrameFileErrorLabel">Проблема с файлом</string>
-	<string name="browserFrameFormResubmitLabel"></string>
+	<string name="browserFrameFormResubmitLabel" />
 	<string name="browserFrameFormResubmitMessage">Страница, которую вы пытаетесь открыть, содержит уже отправленные данные (POSTDATA). В случае их повторной отправки повторятся все действия, выполненные на странице после заполнения формы (например, поиск или покупка).</string>
 	<string name="loadSuspendedTitle">Нет подключения</string>
 	<string name="loadSuspended">Не удалось загрузить страницу: нет интернет-подключения.</string>

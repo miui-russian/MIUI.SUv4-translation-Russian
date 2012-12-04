@@ -176,11 +176,11 @@
 	<string name="birthday_notification_text_today">Не забудьте поздравить с днем рождения!</string>
 	<string name="birthday_notification_title_three_days_later">Скоро День рождения (%1$s)</string>
 	<string name="birthday_notification_text_three_days_later">3 дня до Дня рождения (%3$s)</string>
-	<string name="birthday_notification_age_term"></string>
-	<string name="birthday_notification_type_term_lunar"></string>
+	<string name="birthday_notification_age_term" />
+	<string name="birthday_notification_type_term_lunar" />
 	<string name="birthday_event_description">Сегодня День рождения %1$s!</string>
-	<string name="birthday_event_description_detail_leap"></string>
-	<string name="birthday_event_description_detail_smart"></string>
+	<string name="birthday_event_description_detail_leap" />
+	<string name="birthday_event_description_detail_smart" />
 	<string name="jump_date">Перейти</string>
 	<string name="jump_date_full">Перейти к дате</string>
 	<string name="more_string">%1$s больше...</string>

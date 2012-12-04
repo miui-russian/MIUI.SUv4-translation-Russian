@@ -520,7 +520,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="respond_via_sms_custom_message">Собственное сообщение...</string>
 	<string name="respond_via_sms_setting_title">Быстрые ответы</string>
 	<string name="respond_via_sms_setting_title_2">Быстрые ответы</string>
-	<string name="respond_via_sms_setting_summary"></string>
+	<string name="respond_via_sms_setting_summary" />
 	<string name="respond_via_sms_edittext_dialog_title">Быстрый ответ</string>
 	<string name="respond_via_sms_confirmation_format">Сообщение отправлено на номер %s.</string>
 	<string name="description_image_button_one">один</string>
@@ -678,7 +678,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="confirm_pin_hint_miui">Подтвердите новый PIN</string>
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
 	<string name="connect_disconnect_vibrate_normal_miui">Вибрация</string>
-	<string name="connect_disconnect_vibrate_summary_miui"></string>
+	<string name="connect_disconnect_vibrate_summary_miui" />
 	<string name="connect_disconnect_vibrate_title_miui">Вибрация при приеме/окончании вызова</string>
 	<string name="connect_disconnect_vibrate_weak_miui">Слабая вибрация</string>
 	<string name="contacts_icon_label_miui">Контакты</string>

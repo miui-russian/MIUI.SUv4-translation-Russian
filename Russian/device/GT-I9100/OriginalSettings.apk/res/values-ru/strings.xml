@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="additional_system_update"></string>
-	<string name="additional_system_update_menu"></string>
+	<string name="additional_system_update" />
+	<string name="additional_system_update_menu" />
 	<string name="date_and_time">Настройка даты и времени</string>
 	<string name="input_method_selector_visibility_default_value">0</string>
 	<string name="collect_diagnostics_title">Сбор данных</string>
@@ -116,7 +116,7 @@
 	<string name="bluetooth_disconnected">Отключено</string>
 	<string name="bluetooth_disconnecting">Отключение...</string>
 	<string name="bluetooth_connecting">Подключение...</string>
-	<string name="bluetooth_unknown"></string>
+	<string name="bluetooth_unknown" />
 	<string name="bluetooth_pairing">Сопряжение...</string>
 	<string name="bluetooth_device">Название устройства</string>
 	<string name="progress_scanning">Поиск</string>
@@ -225,7 +225,7 @@
 	<string name="sdcard_settings_used_bytes_label">Использовано байтов:</string>
 	<string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
 	<string name="sdcard_settings_read_only_status">SD-карта установлена только для чтения</string>
-	<string name="sdcard_settings_factory_reset_warning"></string>
+	<string name="sdcard_settings_factory_reset_warning" />
 	<string name="skip_label">Далее</string>
 	<string name="next_label">Далее</string>
 	<string name="language_picker_title">Язык</string>
@@ -276,7 +276,7 @@
 	<string name="lock_after_timeout_summary">После %1$s спящего режима</string>
 	<string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
 	<string name="owner_info_settings_title">Сведения о владельце</string>
-	<string name="owner_info_settings_summary"></string>
+	<string name="owner_info_settings_summary" />
 	<string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
 	<string name="location_settings_title">Мое местоположение</string>
 	<string name="security_settings_title">Безопасность</string>
@@ -311,7 +311,7 @@
 	<string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
 	<string name="unlock_backup_info_summary">Если ваше лицо не распознано, какой метод разблокировки</string>
 	<string name="unlock_set_unlock_off_title">Нет</string>
-	<string name="unlock_set_unlock_off_summary"></string>
+	<string name="unlock_set_unlock_off_summary" />
 	<string name="unlock_set_unlock_none_title">Стандартная</string>
 	<string name="unlock_set_unlock_none_summary">Защита отключена</string>
 	<string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
@@ -499,7 +499,7 @@
 	<string name="wifi_remembered">Сохранено</string>
 	<string name="wifi_disabled_generic">Отключено</string>
 	<string name="wifi_disabled_network_failure">Сеть отключена из-за плохого сигнала</string>
-	<string name="wifi_disabled_heading"></string>
+	<string name="wifi_disabled_heading" />
 	<string name="wifi_disabled_help">Не подключено к сети из-за плохого сигнала. Чтобы отключить эту функцию, зайдите в настройки &gt; Wi-Fi &gt; Расширенные настройки</string>
 	<string name="wifi_disabled_password_failure">Ошибка авторизации</string>
 	<string name="wifi_not_in_range">Вне зоны доступа</string>
@@ -645,7 +645,7 @@
 	<string name="sound_settings">Установки звука</string>
 	<string name="silent_mode_title">Silent mode</string>
 	<string name="ringtone_title">Phone ringtone</string>
-	<string name="ringtone_summary"></string>
+	<string name="ringtone_summary" />
 	<string name="all_volume_title">Громкость</string>
 	<string name="musicfx_title">Звуковые эффекты</string>
 	<string name="ring_volume_title">Ringer volume</string>
@@ -731,7 +731,7 @@
 	<string name="sim_enter_cancel">Отмена</string>
 	<string name="device_info_settings">О телефоне</string>
 	<string name="system_update_settings_list_item_title">Обновление системы</string>
-	<string name="system_update_settings_list_item_summary"></string>
+	<string name="system_update_settings_list_item_summary" />
 	<string name="firmware_version">Версия Android:</string>
 	<string name="model_number">Модель:</string>
 	<string name="baseband_version">Baseband version</string>
@@ -779,7 +779,7 @@
 	<string name="sd_eject_summary">Unmount SD card to safely remove it</string>
 	<string name="sd_insert_summary">Insert SD card</string>
 	<string name="sd_mount">Mount SD card</string>
-	<string name="sd_mount_summary"></string>
+	<string name="sd_mount_summary" />
 	<string name="sd_format">Format USB storage</string>
 	<string name="sd_format_sd">Format SD card</string>
 	<string name="sd_format_summary">&quot;Erases all data on device's USB storage, such as music and photos&quot;</string>
@@ -787,7 +787,7 @@
 	<string name="read_only">(Read-only)</string>
 	<string name="dlg_confirm_unmount_title">Unmount SD card?</string>
 	<string name="dlg_confirm_unmount_text">Unmounting SD card will stop some applications from functioning. Applications may not be available until you mount the SD card again</string>
-	<string name="dlg_error_unmount_title"></string>
+	<string name="dlg_error_unmount_title" />
 	<string name="dlg_error_unmount_text">Unable to unmount SD card. Try later</string>
 	<string name="unmount_inform_text">SD card will be unmounted</string>
 	<string name="sd_ejecting_title">Unmounting SD card...</string>
@@ -832,7 +832,7 @@
 	<string name="menu_new">New APN</string>
 	<string name="menu_save">Save</string>
 	<string name="menu_cancel">Discard</string>
-	<string name="error_title"></string>
+	<string name="error_title" />
 	<string name="error_name_empty">The Name field cannot be empty</string>
 	<string name="error_apn_empty">The APN cannot be empty</string>
 	<string name="error_mcc_not3">MCC field must be 3 digits.</string>
@@ -948,9 +948,9 @@
 	<string name="lockpattern_change_lock_pattern_label">Change unlock pattern</string>
 	<string name="lockpattern_change_lock_pin_label">Change PIN</string>
 	<string name="lockpattern_need_to_unlock">Confirm saved pattern</string>
-	<string name="lockpattern_need_to_unlock_footer"></string>
+	<string name="lockpattern_need_to_unlock_footer" />
 	<string name="lockpattern_need_to_unlock_wrong">Sorry, try again:</string>
-	<string name="lockpattern_need_to_unlock_wrong_footer"></string>
+	<string name="lockpattern_need_to_unlock_wrong_footer" />
 	<string name="lockpattern_recording_intro_header">Draw an unlock pattern</string>
 	<string name="lockpattern_recording_intro_footer">Press Menu for help</string>
 	<string name="lockpattern_recording_inprogress">Release finger when done.</string>
@@ -1035,7 +1035,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="clear_data_dlg_text">&quot;All of this application's data will be deleted permanently. This includes all files, settings, accounts, databases etc.&quot;</string>
 	<string name="dlg_ok">OK</string>
 	<string name="dlg_cancel">Cancel</string>
-	<string name="app_not_found_dlg_title"></string>
+	<string name="app_not_found_dlg_title" />
 	<string name="app_not_found_dlg_text">&quot;The app wasn't found in the list of installed apps.&quot;</string>
 	<string name="clear_data_failed">Unable to clear application data</string>
 	<string name="app_factory_reset_dlg_title">Uninstall updates?</string>
@@ -1058,7 +1058,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="system_package">System updates cannot be installed on external memory</string>
 	<string name="force_stop_dlg_title">Force stop?</string>
 	<string name="force_stop_dlg_text">If you force stop an app, it may cause errors</string>
-	<string name="move_app_failed_dlg_title"></string>
+	<string name="move_app_failed_dlg_title" />
 	<string name="move_app_failed_dlg_text">Unable to move app. %1$s</string>
 	<string name="app_install_location_title">Preferred location</string>
 	<string name="app_install_location_summary">Change the preferred installation location for new apps</string>
@@ -1101,7 +1101,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="language_settings_category">Language settings</string>
 	<string name="keyboard_settings_category">Keyboards and input methods</string>
 	<string name="phone_language">Language</string>
-	<string name="phone_language_summary"></string>
+	<string name="phone_language_summary" />
 	<string name="auto_replace">Auto-replace</string>
 	<string name="auto_replace_summary">Correct mistyped words</string>
 	<string name="auto_caps">Auto capitalization</string>
@@ -1117,7 +1117,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="user_dict_settings_titlebar">User dictionary</string>
 	<string name="user_dict_single_settings_title">Personal dictionary</string>
 	<string name="user_dict_multiple_settings_title">Personal dictionaries</string>
-	<string name="user_dict_settings_summary"></string>
+	<string name="user_dict_settings_summary" />
 	<string name="user_dict_settings_add_menu_title">Add</string>
 	<string name="user_dict_settings_add_dialog_title">Add to dictionary</string>
 	<string name="user_dict_settings_edit_dialog_title">Edit word</string>
@@ -1340,7 +1340,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="credentials_reset_summary">Remove all certificates</string>
 	<string name="trusted_credentials">Trusted credentials</string>
 	<string name="trusted_credentials_summary">Display trusted CA certificates</string>
-	<string name="credentials_unlock"></string>
+	<string name="credentials_unlock" />
 	<string name="credentials_unlock_hint">Enter password for credential storage</string>
 	<string name="credentials_old_password">Current password</string>
 	<string name="credentials_reset_hint">Remove all content?</string>
@@ -1367,7 +1367,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="local_backup_password_title">Desktop backup password</string>
 	<string name="local_backup_password_summary_none">Full desktop backups are not currently protected</string>
 	<string name="local_backup_password_summary_change">Select to change or remove password for full desktop backups</string>
-	<string name="backup_erase_dialog_title"></string>
+	<string name="backup_erase_dialog_title" />
 	<string name="backup_erase_dialog_message">Stop backing up Wi-Fi passwords, bookmarks, and other settings and application data and delete all copies from Google servers?</string>
 	<string name="device_admin_settings_title">Device administration settings</string>
 	<string name="active_device_admin_msg">Device administrator</string>
@@ -2078,9 +2078,9 @@ Decryption could takes an hour or more. But it will progress in background.&quot
 Do you want to continue?&quot;</string>
 	<string name="date_and_time_settings_automode_reboot">Rebooting the system...</string>
 	<string name="date_and_time_settings_timezone_toast">Select time zone prior to setting time</string>
-	<string name="wimax_settings"></string>
-	<string name="wimax_settings_summary"></string>
-	<string name="status_wimax_mac_address"></string>
+	<string name="wimax_settings" />
+	<string name="wimax_settings_summary" />
+	<string name="status_wimax_mac_address" />
 	<string name="app_name_wimax">4G settings</string>
 	<string name="wimax_settings_category">4G settings</string>
 	<string name="wimax">4G</string>

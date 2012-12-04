@@ -922,10 +922,10 @@
 	<string name="chooseActivity">Выберите действие</string>
 	<string name="chooseUsbActivity">Выберите действие для USB-устройства</string>
 	<string name="noApplications">Ни одно из установленных приложений не может выполнить это действие.</string>
-	<string name="aerr_title"></string>
+	<string name="aerr_title" />
 	<string name="aerr_application">К сожалению, приложение %1$s было закрыто.</string>
 	<string name="aerr_process">К сожалению, процесс %1$s был останвлен.</string>
-	<string name="anr_title"></string>
+	<string name="anr_title" />
 	<string name="anr_activity_application">&quot;%2$s не отвечает.
 
 Хотите его закрыть?&quot;</string>
@@ -1048,7 +1048,7 @@
 	<string name="extmedia_format_button_format">Формат</string>
 	<string name="adb_active_notification_title">Отладка по USB разрешена</string>
 	<string name="adb_active_notification_message">Нажмите, чтобы отключить отладку USB.</string>
-	<string name="locale_replacement"></string>
+	<string name="locale_replacement" />
 	<string name="select_input_method">Выберите способ ввода</string>
 	<string name="configure_input_methods">Настроить способ ввода</string>
 	<string name="use_physical_keyboard">Физическая клавиатура</string>
