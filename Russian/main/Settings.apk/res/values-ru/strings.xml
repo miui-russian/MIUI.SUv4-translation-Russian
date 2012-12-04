@@ -103,7 +103,7 @@
 	<string name="bluetooth_disconnect_title">Отключиться?</string>
 	<string name="bluetooth_disconnect_all_profiles">Произойдет разъединение с устройством &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
 	<string name="bluetooth_disable_profile_title">Отключить профиль?</string>
-	<string name="bluetooth_disable_profile_message">Профиль&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;будет отключен от устройства&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+	<string name="bluetooth_disable_profile_message" formatted="false">Профиль&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;будет отключен от устройства&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
 	<string name="bluetooth_connected">Подключено</string>
 	<string name="bluetooth_connected_no_headset">Подключено (кроме HSP/HFP)</string>
 	<string name="bluetooth_connected_no_a2dp">Подключено (кроме A2DP)</string>
@@ -135,7 +135,7 @@
 	<string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\".</string>
 	<string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
 	<string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
-	<string name="bluetooth_pb_acceptance_dialog_text">Устройство %1$s пытается получить доступ к вашим контактам и журналу вызовов. Предоставить доступ для %2$s?</string>
+	<string name="bluetooth_pb_acceptance_dialog_text" formatted="false">Устройство %1$s пытается получить доступ к вашим контактам и журналу вызовов. Предоставить доступ для %2$s?</string>
 	<string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
 	<string name="date_and_time">Настройки даты и времени</string>
 	<string name="date_time_12_hour_sample">1:00 pm</string>
@@ -361,9 +361,9 @@
 	<string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
 	<string name="bluetooth_enter_pin_other_device">Может потребоваться ввести PIN-код на другом устройстве.</string>
 	<string name="bluetooth_enter_passkey_other_device">Может потребоваться ввести ключ доступа на другом устройстве.</string>
-	<string name="bluetooth_confirm_passkey_msg">Для подключения к устройству&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;на нем должен отображаться этот код доступа:&lt;br&gt;&lt;b&gt;%2$s</string>
+	<string name="bluetooth_confirm_passkey_msg" formatted="false">Для подключения к устройству&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;на нем должен отображаться этот код доступа:&lt;br&gt;&lt;b&gt;%2$s</string>
 	<string name="bluetooth_incoming_pairing_msg">Запрос от: &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Подключиться к этому устройству?</string>
-	<string name="bluetooth_display_passkey_pin_msg">Для подключения к устройству &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введите на нем код &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, а затем нажмите клавишу Return или Enter.</string>
+	<string name="bluetooth_display_passkey_pin_msg" formatted="false">Для подключения к устройству &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введите на нем код &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, а затем нажмите клавишу Return или Enter.</string>
 	<string name="bluetooth_pairing_accept">Сопряжение</string>
 	<string name="bluetooth_pairing_decline">Отмена</string>
 	<string name="bluetooth_error_title"></string>
@@ -572,14 +572,9 @@
 	<string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
 	<string name="wifi_tether_failed_subtext">Ошибка подключения</string>
 	<string name="wifi_tether_configure_ap_text">Настройка точки доступа</string>
-	<string name="wifi_tether_configure_subtext">Точка доступа %1$s %2$s</string>
+	<string name="wifi_tether_configure_subtext" formatted="false">Точка доступа %1$s %2$s</string>
 	<string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
 	<string name="testing_wifi_info">Информация Wi-Fi</string>
-	<string name="disableNetwork">Отключить сеть</string>
-	<string name="enableNetwork">Включить сеть</string>
-	<string name="disconnect">отключить</string>
-	<string name="getConfiguredNetworks">Настройки сети</string>
-	<string name="getConnectionInfo">Информация о соединении</string>
 	<string name="wifi_api_test">Wi-Fi API</string>
 	<string name="wifi_status_test">Статус Wi-Fi</string>
 	<string name="wifi_update">Обновить</string>
@@ -1049,10 +1044,10 @@
 	<string name="service_foreground_processes">%1$s занято</string>
 	<string name="memory">ОЗУ</string>
 	<string name="service_process_name">%1$s</string>
-	<string name="running_processes_item_description_s_s">Процессов: %1$d; служб: %2$d</string>
-	<string name="running_processes_item_description_s_p">Процессов: %1$d; служб: %2$d</string>
-	<string name="running_processes_item_description_p_s">Процессов: %1$d; служб: %2$d</string>
-	<string name="running_processes_item_description_p_p">Процессов: %1$d; служб: %2$d</string>
+	<string name="running_processes_item_description_s_s" formatted="false">Процессов: %1$d; служб: %2$d</string>
+	<string name="running_processes_item_description_s_p" formatted="false">Процессов: %1$d; служб: %2$d</string>
+	<string name="running_processes_item_description_p_s" formatted="false">Процессов: %1$d; служб: %2$d</string>
+	<string name="running_processes_item_description_p_p" formatted="false">Процессов: %1$d; служб: %2$d</string>
 	<string name="runningservicedetails_settings_title">Запущенное приложение</string>
 	<string name="no_services">Неактивен</string>
 	<string name="runningservicedetails_services_title">Службы</string>
@@ -1127,7 +1122,7 @@
 	<string name="quick_launch_no_shortcut">Нет ярлыка</string>
 	<string name="quick_launch_shortcut">Поиск в + %1$s</string>
 	<string name="quick_launch_clear_dialog_title">Очистить</string>
-	<string name="quick_launch_clear_dialog_message">Ярлык для %1$s (%2$s) будет удален.</string>
+	<string name="quick_launch_clear_dialog_message" formatted="false">Ярлык для %1$s (%2$s) будет удален.</string>
 	<string name="quick_launch_clear_ok_button">ОК</string>
 	<string name="quick_launch_clear_cancel_button">Отмена</string>
 	<string name="quick_launch_display_mode_applications">Приложения</string>
@@ -1174,9 +1169,9 @@
 	<string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
 	<string name="allow_bind_app_widget_activity_allow_bind">После создания виджета, %1$s может получить досту ко всем отображаемым им данным.</string>
 	<string name="allow_bind_app_widget_activity_always_allow_bind">Всегда разрешать %1$s создавать виджеты и получать доступ к их данным</string>
-	<string name="battery_history_days">%1$d д. %2$d ч. %3$d м. %4$d с.</string>
-	<string name="battery_history_hours">%1$d ч. %2$d м. %3$d с.</string>
-	<string name="battery_history_minutes">%1$d м. %2$d с.</string>
+	<string name="battery_history_days" formatted="false">%1$d д. %2$d ч. %3$d м. %4$d с.</string>
+	<string name="battery_history_hours" formatted="false">%1$d ч. %2$d м. %3$d с.</string>
+	<string name="battery_history_minutes" formatted="false">%1$d м. %2$d с.</string>
 	<string name="battery_history_seconds">%1$d с.</string>
 	<string name="usage_stats_label">Статистика использования</string>
 	<string name="testing_usage_stats">Статистика использования</string>
@@ -1220,7 +1215,7 @@
 	<string name="power_usage_summary_title">Батарея</string>
 	<string name="power_usage_summary">На что расходуется заряд батареи</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
-	<string name="power_usage_level_and_status">%1$s – %2$s</string>
+	<string name="power_usage_level_and_status" formatted="false">%1$s – %2$s</string>
 	<string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
 	<string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
 	<string name="battery_stats_on_battery">%1$s от батареи</string>
@@ -1235,7 +1230,7 @@
 	<string name="awake">Время включения устройства</string>
 	<string name="wifi_on_time">Время работы Wi-Fi</string>
 	<string name="bluetooth_on_time">Время работы Wi-Fi</string>
-	<string name="usage_name_percent">%1$s – %2$s%%</string>
+	<string name="usage_name_percent" formatted="false">%1$s – %2$s%%</string>
 	<string name="history_details_title">Подробная история</string>
 	<string name="details_title">Расход батареи</string>
 	<string name="details_subtitle">Расход батареи</string>
@@ -1472,8 +1467,8 @@
     <string name="service_busy">Сервис используется. Повторите позже.</string>
 	<string name="delete">Удалить</string>
 	<string name="misc_files">Разное</string>
-	<string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
-	<string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
+	<string name="misc_files_selected_count" formatted="false">выбрано %1$d из %2$d</string>
+	<string name="misc_files_selected_count_bytes" formatted="false">%1$s из %2$s</string>
 	<string name="select_all">Выбрать все</string>
 	<string name="hdcp_checking_title">Проверка HDCP</string>
 	<string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
@@ -1586,9 +1581,9 @@
 	<string name="data_usage_sweep_warning">\n</string>
 	<string name="data_usage_sweep_limit">\n</string>
 	<string name="data_usage_uninstalled_apps">Удаленные приложения</string>
-	<string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
-	<string name="data_usage_total_during_range">%2$s: %1$s</string>
-	<string name="data_usage_total_during_range_mobile">%2$s: около %1$s использовано. Данные оператора сети могут отличаться.</string>
+	<string name="data_usage_received_sent" formatted="false">Получено: %1$s; отправлено: %2$s</string>
+	<string name="data_usage_total_during_range" formatted="false">%2$s: %1$s</string>
+	<string name="data_usage_total_during_range_mobile" formatted="false">%2$s: около %1$s использовано. Данные оператора сети могут отличаться.</string>
 	<string name="data_usage_metered_title">Мобильные точки доступа</string>
 	<string name="data_usage_metered_body">Выбор Wi-Fi сетей, которые являются мобильными точками доступа. Приложениям может быть запрещено их использование в фоне, а также может появиться предупреждение при загрузке больших файлов.</string>
 	<string name="data_usage_metered_mobile">Мобильные сети</string>
