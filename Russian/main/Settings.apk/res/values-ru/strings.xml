@@ -1,5 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="additional_system_update" />
+    <string name="additional_system_update_menu" />
 	<string name="yes">Да</string>
 	<string name="no">Нет</string>
 	<string name="create">Создать</string>
@@ -111,7 +113,7 @@
 	<string name="bluetooth_disconnected">Отключено</string>
 	<string name="bluetooth_disconnecting">Отключение...</string>
 	<string name="bluetooth_connecting">Подключение...</string>
-	<string name="bluetooth_unknown"></string>
+	<string name="bluetooth_unknown" />
 	<string name="bluetooth_pairing">Сопряжение...</string>
 	<string name="bluetooth_device">Bluetooth-устройство без названия</string>
 	<string name="progress_scanning">Поиск</string>
@@ -269,7 +271,7 @@
 	<string name="lock_after_timeout_summary">После %1$s спящего режима</string>
 	<string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
 	<string name="owner_info_settings_title">Сведения о владельце</string>
-	<string name="owner_info_settings_summary"></string>
+	<string name="owner_info_settings_summary" />
 	<string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
 	<string name="location_settings_title">Мое местоположение</string>
 	<string name="security_settings_title">Безопасность</string>
@@ -303,7 +305,7 @@
 	<string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
 	<string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
 	<string name="unlock_set_unlock_off_title">Нет</string>
-	<string name="unlock_set_unlock_off_summary"></string>
+	<string name="unlock_set_unlock_off_summary" />
 	<string name="unlock_set_unlock_none_title">Прокрутка</string>
 	<string name="unlock_set_unlock_none_summary">Защита отключена</string>
 	<string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
@@ -366,7 +368,7 @@
 	<string name="bluetooth_display_passkey_pin_msg" formatted="false">Для подключения к устройству &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; введите на нем код &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, а затем нажмите клавишу Return или Enter.</string>
 	<string name="bluetooth_pairing_accept">Сопряжение</string>
 	<string name="bluetooth_pairing_decline">Отмена</string>
-	<string name="bluetooth_error_title"></string>
+	<string name="bluetooth_error_title" />
 	<string name="bluetooth_pairing_error_message">Не удалось подключиться к устройству \"%1$s\".</string>
 	<string name="bluetooth_pairing_pin_error_message">Не удалось подключиться к устройству \"%1$s\", так как введен неверный PIN-код или пароль.</string>
 	<string name="bluetooth_pairing_device_down_error_message">Не удается установить соединение с устройством \"%1$s\".</string>
@@ -504,6 +506,7 @@
 	<string name="wifi_remembered">Сохранено</string>
 	<string name="wifi_disabled_generic">Отключено</string>
 	<string name="wifi_disabled_network_failure">Включено</string>
+    <string name="wifi_disabled_heading" />
 	<string name="wifi_disabled_password_failure">Ошибка аутентификации</string>
 	<string name="wifi_not_in_range">Недоступна</string>
 	<string name="wifi_wps_available_first_item">Доступна защищенная сеть</string>
@@ -600,7 +603,7 @@
 	<string name="display_settings_title">Экран</string>
 	<string name="sound_settings">Звук</string>
 	<string name="ringtone_title">Рингтон</string>
-	<string name="ringtone_summary"></string>
+	<string name="ringtone_summary" />
 	<string name="all_volume_title">Громкость</string>
 	<string name="musicfx_title">Звуковые эффекты</string>
 	<string name="ring_volume_title">Громкость звонка</string>
@@ -691,7 +694,7 @@
 	<string name="sim_enter_cancel">Отмена</string>
 	<string name="device_info_settings">Состояние телефона</string>
 	<string name="system_update_settings_list_item_title">Обновления системы</string>
-	<string name="system_update_settings_list_item_summary"></string>
+	<string name="system_update_settings_list_item_summary" />
 	<string name="firmware_version">Версия Android:</string>
 	<string name="model_number">Модель:</string>
 	<string name="fcc_equipment_id">ID оборудования</string>
@@ -740,15 +743,15 @@
 	<string name="sd_eject_summary">Отключение SD-карты для ее безопасного извлечения из устройства</string>
 	<string name="sd_insert_summary">Вставьте SD-карту для подключения</string>
 	<string name="sd_mount">Подключить SD-карту</string>
-	<string name="sd_mount_summary"></string>
+	<string name="sd_mount_summary" />
 	<string name="sd_format">Очистить SD-карту</string>
 	<string name="sd_format_summary">Удаляет все данные с SD-карты, например, музыку и фотографии</string>
 	<string name="internal_format">Очистить внутренний накопитель</string>
 	<string name="internal_format_summary">Удалить все данные на внутреннем накопителе (Как музыка и фото)</string>
-	<string name="read_only">(только для чтения)</string>
+	<string name="read_only">" (Только для чтения)"</string>
 	<string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
 	<string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
-	<string name="dlg_error_unmount_title"></string>
+	<string name="dlg_error_unmount_title" />
 	<string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
 	<string name="unmount_inform_text">SD-карта будет отключена.</string>
 	<string name="sd_ejecting_title">Извлечение</string>
@@ -796,7 +799,7 @@
 	<string name="menu_new">Новая точка доступа</string>
 	<string name="menu_save">Сохранить</string>
 	<string name="menu_cancel">Отменить</string>
-	<string name="error_title"></string>
+	<string name="error_title" />
 	<string name="error_name_empty">Необходимо указать название.</string>
 	<string name="error_apn_empty">Необходимо указать APN.</string>
 	<string name="error_mcc_not3">Поле MCC должно содержать 3 цифры.</string>
@@ -896,9 +899,9 @@
 	<string name="lockpattern_change_lock_pattern_label">Изменить ключ</string>
 	<string name="lockpattern_change_lock_pin_label">Изменить ПИН-код разблокировки</string>
 	<string name="lockpattern_need_to_unlock">Начертите существующий ключ</string>
-	<string name="lockpattern_need_to_unlock_footer"></string>
+	<string name="lockpattern_need_to_unlock_footer" />
 	<string name="lockpattern_need_to_unlock_wrong">Повторить попытку:</string>
-	<string name="lockpattern_need_to_unlock_wrong_footer"></string>
+	<string name="lockpattern_need_to_unlock_wrong_footer" />
 	<string name="lockpattern_recording_intro_header">Начертите графический ключ разблокировки</string>
 	<string name="lockpattern_recording_intro_footer">Для справки нажмите \"Меню\".</string>
 	<string name="lockpattern_recording_inprogress">По завершении отпустите палец.</string>
@@ -995,7 +998,7 @@
 	<string name="clear_data_dlg_text">Все данные этого приложения будут удалены без возможности восстановления, включая все файлы, базы данных, настройки, аккаунты и т. д.</string>
 	<string name="dlg_ok">ОК</string>
 	<string name="dlg_cancel">Отмена</string>
-	<string name="app_not_found_dlg_title"></string>
+	<string name="app_not_found_dlg_title" />
 	<string name="app_not_found_dlg_text">Приложение не найдено в списке установленных.</string>
 	<string name="clear_data_failed">Данные не удалены.</string>
 	<string name="app_factory_reset_dlg_title">Удалить обновления?</string>
@@ -1023,7 +1026,7 @@
 	<string name="system_package">Системные обновления нельзя установить на внешнем носителе.</string>
 	<string name="force_stop_dlg_title">Остановить принудительно?</string>
 	<string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
-	<string name="move_app_failed_dlg_title"></string>
+	<string name="move_app_failed_dlg_title" />
 	<string name="move_app_failed_dlg_text">Не удалось переместить приложение. %1$s</string>
 	<string name="app_install_location_title">Место установки</string>
 	<string name="app_install_location_summary">Изменить папку для установки приложений</string>
@@ -1068,7 +1071,7 @@
 	<string name="language_settings_category">Языковые настройки</string>
 	<string name="keyboard_settings_category">Клавиатура и способы ввода</string>
 	<string name="phone_language">Язык</string>
-	<string name="phone_language_summary"></string>
+	<string name="phone_language_summary" />
 	<string name="auto_replace">Автокоррекция</string>
 	<string name="auto_replace_summary">Исправлять опечатки</string>
 	<string name="auto_caps">Заглавные автоматически</string>
@@ -1077,7 +1080,7 @@
 	<string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
 	<string name="auto_punctuate_summary">Нажмите дважды клавишу \"Пробел\" для ввода точки</string>
 	<string name="show_password">Показывать пароль</string>
-	<string name="show_password_summary"></string>
+	<string name="show_password_summary" />
 	<string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
 	<string name="spellchecker_security_warning">Для проверки орфографии будет использоваться приложение %1$s, которое может собирать все вводимые данные, в том числе пароли и номера кредитных карт. Продолжить?</string>
 	<string name="spellchecker_quick_settings">Настройки</string>
@@ -1096,7 +1099,7 @@
 	<string name="user_dict_settings_titlebar">Словарь пользователя</string>
 	<string name="user_dict_single_settings_title">Пользовательский словарь</string>
 	<string name="user_dict_multiple_settings_title">Пользовательские словари</string>
-	<string name="user_dict_settings_summary"></string>
+	<string name="user_dict_settings_summary" />
 	<string name="user_dict_settings_add_menu_title">Добавить</string>
 	<string name="user_dict_settings_add_dialog_title">Добавление в словарь</string>
 	<string name="user_dict_settings_add_screen_title">Фраза</string>
@@ -1120,7 +1123,7 @@
 	<string name="quick_launch_summary">Настройка быстрых клавиш для запуска приложений</string>
 	<string name="quick_launch_assign_application">Назначить приложение</string>
 	<string name="quick_launch_no_shortcut">Нет ярлыка</string>
-	<string name="quick_launch_shortcut">Поиск в + %1$s</string>
+	<string name="quick_launch_shortcut">Поиск в %1$s</string>
 	<string name="quick_launch_clear_dialog_title">Очистить</string>
 	<string name="quick_launch_clear_dialog_message" formatted="false">Ярлык для %1$s (%2$s) будет удален.</string>
 	<string name="quick_launch_clear_ok_button">ОК</string>
@@ -1341,7 +1344,7 @@
 	<string name="trusted_credentials_summary">Показывать надежные сертификаты ЦС</string>
 	<string name="credentials_install_gesture_prompt">Нарисуйте жест разблокировки</string>
 	<string name="credentials_install_gesture_explanation">Вам необходимо нарисовать ваш жест разблокировки</string>
-	<string name="credentials_unlock"></string>
+	<string name="credentials_unlock" />
 	<string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных.</string>
 	<string name="credentials_old_password">Текущий пароль:</string>
 	<string name="credentials_reset_hint">Удалить весь контент?</string>
@@ -1371,7 +1374,7 @@
 	<string name="local_backup_password_toast_success">Установлен новый пароль</string>
 	<string name="local_backup_password_toast_confirmation_mismatch">Новый пароль и подтверждение не совпадают</string>
 	<string name="local_backup_password_toast_validation_failure">Ошибка установки пароля</string>
-	<string name="backup_erase_dialog_title"></string>
+	<string name="backup_erase_dialog_title" />
 	<string name="backup_erase_dialog_message">Прекратить резервное копирование паролей точек доступа Wi-Fi, закладок, других настроек и данных приложений, а также удалить все копии с серверов Google?</string>
 	<string name="device_admin_settings_title">Настройки администрирования устройства</string>
 	<string name="active_device_admin_msg">Администратор устройства</string>

@@ -100,9 +100,6 @@
     <string name="show_message">Файл не может быть открыт без загрузки</string>
     <string name="ui_main_progress_txt_open_file">Загрузка…</string>
     <string name="networkView_notConnected">Нет доступных сетей</string>
-    <string name="ui_main_toast_shareLink_err">Создание ссылки папки не удалось</string>
-    <string name="ui_main_choose_title">Выберите способ передачи</string>
-    <string name="ui_main_toast_shareLink_header">Я открыл доступ к %1$s через MiDrive. Перейдите по ссылке ниже, чтобы посмотреть:</string>
     <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
     <string name="ui_main_toast_operation_failed">Операция не удалась для %1$s.</string>
     <string name="user_guide">Руководство</string>

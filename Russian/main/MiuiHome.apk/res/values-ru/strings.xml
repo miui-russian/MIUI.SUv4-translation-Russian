@@ -25,7 +25,6 @@
 	<string name="menu_settings">Настройки</string>
 	<string name="menu_reset_scene">По умолчанию</string>
 	<string name="menu_exit_scene">Выход</string>
-    <string name="menu_theme_manager">Темы</string>
 	<string name="permlab_install_shortcut">Установка ярлыков</string>
 	<string name="permdesc_install_shortcut">Позволяет приложению добавлять ярлыки без вмешательства пользователя</string>
 	<string name="permlab_uninstall_shortcut">Удалить ярлыки</string>
@@ -114,7 +113,6 @@
 	<string name="select_frame">Рамка</string>
 	<string name="photo_confirm">Подтвердить</string>
 	<string name="photo_load_failed">Ошибка загрузки фото!</string>
-    <string name="other_widget">Больше виджетов</string>
 	<string name="gadget_weather_loading">Нет данных о погоде</string>
 	<string name="gadget_weather_title_24">Погода 4x2</string>
 	<string name="gadget_weather_title_14">Погода 4x1</string>

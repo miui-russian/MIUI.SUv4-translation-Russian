@@ -9,9 +9,6 @@
 	<string name="installing">Установка...</string>
 	<string name="install_done">Приложение установлено</string>
 	<string name="install_confirm_question">Установить это приложение?</string>
-	<string name="install_confirm_question_no_perms">Установить данное приложение? Ему не требуется специальных разрешений</string>
-	<string name="install_confirm_question_update">Установить обновление к уже установленному приложению? Ваши данные не будут потеряны. Обновленное приложение получит доступ к:</string>
-	<string name="install_confirm_question_update_system">Установить обновление к системному приложению? Ваши данные не будут потеряны. Обновленное приложение получит доступ к:</string>
 	<string name="install_failed">Приложение не установлено</string>
 	<string name="install_failed_invalid_apk">Похоже, пакет поврежден.</string>
 	<string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись.</string>
@@ -50,10 +47,6 @@
 	<string name="uninstall_failed_msg">Удалить приложение %1$s не удалось.</string>
 	<string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
 	<string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка.</string>
-	<string name="newPerms">Новый</string>
-	<string name="privacyPerms">Конфиденциальность</string>
-	<string name="devicePerms">Доступ</string>
-	<string name="no_new_perms">Этому обновлению не требуются новые разрешения</string>
 	<string name="lift_ban">Снять запрет</string>
 	<string name="caller_app">Связь:%1$s</string>
 	<string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>

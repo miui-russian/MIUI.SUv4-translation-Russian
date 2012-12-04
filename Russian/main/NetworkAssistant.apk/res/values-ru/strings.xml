@@ -110,12 +110,6 @@
 	<string name="retry">Повторить</string>
 	<string name="sync_fail_notify_title">Не удалось получить информацию</string>
 	<string name="sync_fail_notify_detail">Нет ответа от оператора, нажмите, чтобы повторить попытку</string>
-	<string name="traffic_package_widget_name">Монитор</string>
-	<string name="traffic_widget_name">Монитор</string>
-	<string name="widget_traffic_total">Пакет: %s</string>
-	<string name="widget_traffic_used_status">Использовано: %s</string>
-	<string name="today">Сегодня</string>
-	<string name="this_month">Месяц</string>
 	<string name="loading_app">Загрузка...</string>
 	<string name="cannot_find_sms_cmd">Не удается найти SMS команду</string>
 	<string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>

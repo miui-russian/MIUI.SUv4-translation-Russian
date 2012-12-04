@@ -12,7 +12,7 @@
 	<string name="tab_snapshots">Сохраненные страницы</string>
 	<string name="added_to_bookmarks">Добавлено в закладки</string>
 	<string name="removed_from_bookmarks">Удалено из закладок</string>
-	<string name="sign_in_to">Войти в \"%s2\"</string>
+	<string name="sign_in_to" formatted="false">Войти в \"%s2\"</string>
 	<string name="username">Имя</string>
 	<string name="password">Пароль</string>
 	<string name="action">Вход</string>
@@ -87,7 +87,6 @@
 	<string name="copy_page_url">Скопировать URL страницы</string>
 	<string name="share_page">Отправить страницу</string>
 	<string name="menu_save_snapshot">Сохранить страницу</string>
-	<string name="saving_snapshot">Нет данных</string>
 	<string name="snapshot_failed">Не удалось сохранить страницу.</string>
 	<string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
 	<string name="contextheader_folder_empty">Папка пуста</string>
@@ -111,7 +110,6 @@
 	<string name="browser_bookmarks_page_bookmarks_text">Закладки</string>
 	<string name="menu_preferences">Настройки</string>
 	<string name="pref_content_title">Содержание страницы</string>
-	<string name="pref_allow_apptabs">Прервать</string>
 	<string name="pref_content_load_images">Загружать графику</string>
 	<string name="pref_content_load_images_summary">Показывать изображения на веб-страницах</string>
 	<string name="pref_content_block_popups">Блокир. всплыв. окна</string>
@@ -242,9 +240,6 @@
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
 	<string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
-	<string name="pref_link_prefetch_title">Предзагрузка страницы</string>
-	<string name="pref_link_prefetch_summary">Разрешить браузеру предзагрузку страниц в фоне</string>
-	<string name="pref_link_prefetch_dialogtitle">Предзагрузка страницы</string>
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
 	<string name="browserFrameFileErrorLabel">Проблема с файлом</string>
 	<string name="browserFrameFormResubmitLabel"></string>
@@ -309,7 +304,6 @@
 	<string name="error_console_eval_button_text">Оценить</string>
 	<string name="defaultBookmarksUpButton">Закладки</string>
 	<string name="empty_bookmarks_folder">Нет закладок</string>
-	<string name="other_bookmarks">Прочие закладки</string>
 	<string name="rlz_access_point">Y1</string>
 	<string name="account_chooser_dialog_title">Выберите аккаунт</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
@@ -440,7 +434,6 @@
 	<string name="tab_opened_background">Вкладка открыта в фоне</string>
 	<string name="tab_closed">Вкладка закрыта</string>
 	<string name="search_cancel">Отмена</string>
-	<string name="search_yandex">Yandex</string>
 	<string name="search_baidu">Baidu</string>
 	<string name="search_sogou">Sogou</string>
 	<string name="search_google">Google</string>

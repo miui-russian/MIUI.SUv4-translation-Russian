@@ -443,7 +443,6 @@
 	<string name="mx_activating">Активация может занять несколько минут</string>
 	<string name="no_sim">SIM отсутствует, облачные сообщения отключены</string>
 	<string name="ex_type_sms">SMS</string>
-	<string name="ex_type_mms">MMS</string>
 	<string name="ex_type_mx">Облачные сообщения</string>
 	<string name="mx_activate_failure">Ошибка активации облачных сообщений</string>
 	<string name="mx_dspt_disabled">Отправлять сообщения через Интернет через MIUI. Выключите для отправки через оператора при ошибке</string>

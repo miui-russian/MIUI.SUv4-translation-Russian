@@ -21,7 +21,6 @@
 	<string name="reboot_to_new_system">Перезагрузка в новую версию</string>
 	<string name="update_success">Поздравляем, обновление выполнено!</string>
 	<string name="mione_update_success_title">Обновление завершено</string>
-	<string name="mione_update_success_description">Переключить систему</string>
 	<string name="mione_update_fail_title">Обновление не удалось</string>
 	<string name="mione_update_fail_description">Обновите заново</string>
 	<string name="apply_unable_to_reboot_toast">Не удается перезагрузиться в Recovery</string>
