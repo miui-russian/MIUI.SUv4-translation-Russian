@@ -233,10 +233,10 @@
 	<string name="settings_label">Настройки</string>
 	<string name="settings_label_launcher">Настройки</string>
 	<string name="settings_shortcut">Ярлык настроек</string>
-	<string name="airplane_mode">Режим полет</string>
+	<string name="airplane_mode">В самолете</string>
 	<string name="radio_controls_title">Ещё...</string>
 	<string name="wireless_networks_settings_title">Беспроводные сети</string>
-	<string name="radio_controls_summary">Wi-Fi, Bluetooth, режим полет, мобильные сети и VPN</string>
+	<string name="radio_controls_summary">Wi-Fi, Bluetooth, режим \"В самолете\", мобильные сети и VPN</string>
 	<string name="roaming">Интернет-роуминг</string>
 	<string name="roaming_enable">Подключаться к службам передачи данных при роуминге</string>
 	<string name="roaming_disable">Подключаться к службам передачи данных при роуминге</string>
@@ -443,7 +443,7 @@
 	<string name="wifi_starting">Включение Wi-Fi...</string>
 	<string name="wifi_stopping">Отключение Wi-Fi...</string>
 	<string name="wifi_error">Ошибка</string>
-	<string name="wifi_in_airplane_mode">Режим полет</string>
+	<string name="wifi_in_airplane_mode">В самолете</string>
 	<string name="wifi_fail_to_scan">Не удалось начать поиск сетей.</string>
 	<string name="wifi_notify_open_networks">Уведомления о сетях</string>
 	<string name="wifi_notify_open_networks_summary">Сообщать при обнаружении открытой сети</string>
@@ -1254,7 +1254,7 @@
 	<string name="battery_desc_voice">Использование батареи для голосовых вызовов</string>
 	<string name="battery_desc_standby">Расход заряда батареи в режиме ожидания</string>
 	<string name="battery_desc_radio">Расход энергии на поддержание связи с сетью в режиме ожидания</string>
-	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полет для экономии заряда</string>
+	<string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим \"В самолете\" для экономии заряда</string>
 	<string name="battery_desc_display">Использование батареи для подсветки экрана</string>
 	<string name="battery_sugg_display">Уменьшить яркость экрана и/или время до отключения экрана</string>
 	<string name="battery_desc_wifi">Использование батареи модулем Wi-Fi</string>
@@ -1659,7 +1659,7 @@
 	<string name="help_label">Помощь</string>
 	<string name="cell_broadcast_settings">Широковещательные сообщения</string>
 	<string name="cell_broadcast_settings_summary">Выбор типа уведомлений для отображения</string>
-	<string name="search_airplane">Режим полета</string>
+	<string name="search_airplane">\"В самолете\"</string>
 	<string name="search_network">Сеть</string>
 	<string name="search_wifi">Wi-Fi</string>
 	<string name="search_bluetooth">Blutooth</string>
