@@ -404,7 +404,6 @@
     <string name="solar_calendar">Григорианский календарь</string>
     <string name="resource_selected_number">Выбрано %1$d ресурс(ов)</string>
     <string name="resource_delete_all">Вы уверены, что хотите удалить %1$d выбранных ресурсов?</string>
-    <string name="processing">Обработка…</string>
     <string name="resource_can_not_selected">%1$s невозможно выбрать!</string>
     <string name="resource_system_title">Системные ресурсы</string>
     <string name="resource_downloaded_title">Загруженные ресурсы</string>
