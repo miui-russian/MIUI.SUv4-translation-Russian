@@ -34,6 +34,7 @@
     <string name="resource_update">Обновление</string>
     <string name="resource_select">Выбрать</string>
 	<string name="resource_buy">Купить</string>
+	<string name="resource_importing">Импорт источников</string>
     <string name="online_hottest">Топ</string>
     <string name="online_latest">Новые</string>
     <string name="online_hottest_short">Топ</string>
@@ -500,6 +501,10 @@
     <string name="resource_get_auth">У вас нет нет прав для доступа к ресурсу.</string>
     <string name="resource_get_auth_checking">Проверка разрешения…</string>
     <string name="resource_get_auth_retrieving">Получение разрешения…</string>
-    <string name="resource_server_out_of_service">Не удалось получить разрешение.</string>
 	<string name="resource_get_auth_missing">Тема скачана со стороннего ресурса, пожалуйста, скачайте аналогичную из официального магазина.</string>
+	<string name="resource_get_auth_exceed_max_limit_title">Превышен лимит авторизаций</string>
+	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может быть применена на данном устройстве, т.к. превышен лимит десяти авторизаций за год для одного аккаунта, для разных устройств. Пожалуйста используйте другой аккаунт Xiaomi.</string>
+	<string name="resource_server_out_of_service">Временно недоступно, попробуйте позже.</string>
+	<string name="resource_switch_account">Переключить</string>
+	<string name="processing">Запрос обрабатывается ...</string>
 </resources>

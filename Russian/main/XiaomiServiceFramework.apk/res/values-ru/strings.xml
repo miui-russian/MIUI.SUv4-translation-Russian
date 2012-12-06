@@ -118,6 +118,7 @@
     <string name="password_error">Пожалуйста, введите пароль от Вашего аккаунта</string>
     <string name="progress_creating">Получаю информацию о заказе…</string>
     <string name="progress_loading">Обрабатываю, пожалуйста подождите…</string>
+	<string name="progress_connecting">Соединение...</string>
     <string name="button_cancel">Отменить</string>
     <string name="button_retry">Повторить</string>
     <string name="button_pay">Подтвердить</string>
@@ -151,7 +152,7 @@
     <string name="recharge_denomination">%1$s CNY</string>
     <string name="btn_recharge_large">Пополнить сейчас</string>
     <string name="recharge_other">Выберать другие методы пополнения</string>
-    <string name="alipay_picker_hint">Пожалуйста, укажите сумму Mi-долларов для зачисления:</string>
+    <string name="alipay_picker_hint">Пожалуйста, укажите сумму Mi-долларов для зачисления</string>
     <string name="alipay_edit_hint">Сумма зачисления (В ¥)</string>
 	<string name="alipay_edit_limit">Меньше 500</string>
     <string name="progress_alipay_creating">Создаю платёжное поручение Alipay…</string>
@@ -178,10 +179,11 @@
     <string name="prepaid_error_denomination">Пожалуйста, выберите сумму пополнения</string>
     <string name="prepaid_error_card_number">Пожалуйста, введите корректную сумму пополнения</string>
     <string name="prepaid_error_password">Пожалуйста, введите корректный пароль карты предоплаты</string>
-    <string name="progress_submit_title">Запрос на пополнение отправлен</string>
+    <string name="progress_submit_title">Запрос принят, идет проверка</string>
     <string name="progress_submit_summary">Сумма зачисления: %1$s CNY</string>
-    <string name="progress_submit_hint_init">Зачисление будет произведено в течение 3 минут, запрос подтверждения платежа будет автоматически отправлен через %1$s секунд</string>
-    <string name="progress_submit_hint_query">Зачисление будет произведено в течение 3 минут, Вы сможете запросить подтверждение платежа через %1$s секунд</string>
+    <string name="progress_submit_hint_init">Зачисление будет произведено в течение 3 минут.</string>
+	<string name="btn_count_down_auto">Запрос через %1$s секунд</string>
+	<string name="btn_count_down_wait">Ожидание %1$s секунд</string>
     <string name="btn_query">Запросить сейчас</string>
     <string name="progress_querying">Обрабатываю запрос подтверждения платежа…</string>
     <string name="progress_success_title">Зачислено %1$s Mi-долларов</string>
@@ -192,9 +194,10 @@
     <string name="progress_error_network">Не удалось установить соединение, проверьте подключение к сети.</string>
     <string name="progress_error_invalid_number">Неверный номер карты или пароль, пожалуйста, попробуйте ещё раз.</string>
     <string name="progress_error_waiting">Платёж всё ещё не подтверждён, пожалуйста, попробуйте позже :)</string>
-    <string name="progress_error_contact_server">Платёж всё ещё не подтверждён. Пожалуйста, свяжитесь со службой поддержки нашего партнёра в Шэньчжоу: 400-001-0195. Пожалуйста, сообщите им серийный номер: %1$s</string>
+	<string name="progress_warning_contact_server">Платеж все еще не подтвержден. \n1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s \n2. Сообщите свой серийный номер: %2$s</string>
     <string name="btn_back">Назад</string>
-    <string name="btn_recharge_other">Другие методы пополнения</string>
+    <string name="btn_recharge_other">Пополнить</string>
+	<string name="btn_call">Позвонить</string>
     <string name="recharge_notification">Зачисляю %1$s Mi-долларов</string>
     <string name="title_mili_center">Кошелёк Xiaomi</string>
     <string name="title_recharge_record">Зачислений</string>

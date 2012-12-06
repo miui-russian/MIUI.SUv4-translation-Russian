@@ -661,6 +661,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="command_error_unsupported_mode_miui">Тип предпочтительной сети не поддерживается.</string>
 	<string name="command_error_unsupported_request_miui">Операция не поддерживается</string>
 	<string name="confirm_delete_message_title_miui">Сообщение будет удалено</string>
+	<string name="confirm_no_countrycode_for_custom_location_miui">Пожалуйста введите номер без кода страны.</string>
 	<string name="confirm_pin2_hint_miui">Подтвердите новый PIN2</string>
 	<string name="confirm_pin_hint_miui">Подтвердите новый PIN</string>
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
