@@ -109,6 +109,7 @@
 	<string name="theme_another_import_running">Другой процесс импорта уже запущен, повторите позже.</string>
 	<string name="theme_is_imported">Эта тема импортирована</string>
 	<string name="theme_import_new_download">Импорт</string>
+	<string name="theme_import_fail">ошибка импорта темы %1$s.</string>
 	<string name="resource_comment_no_comment">Комментарии отсутствуют</string>
 	<string name="resource_comment_sending">Отправляю комментарий...</string>
 	<string name="resource_comment_upload_failed">Ошибка отправки комментария</string>
