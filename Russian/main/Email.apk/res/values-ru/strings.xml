@@ -278,17 +278,14 @@
     <string name="account_setup_options_mail_window_all">Все</string>
     <string name="account_setup_options_mail_window_default">Параметры по умолчанию</string>
     <string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль.</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">"Неверное имя пользователя или пароль.
-%s"</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">"Неверное имя пользователя или пароль./n%s"</string>
     <string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу.
-%s"</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу./n%s"</string>
     <string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
     <string name="account_setup_failed_certificate_inaccessible">Сертификат недействителен или недоступен.</string>
     <string name="account_setup_failed_check_credentials_message">Ошибка сервера. Проверьте имя пользователя и пароль и повторите попытку.</string>
     <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">"Не удалось подключиться к серверу.
-%s"</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"Не удалось подключиться к серверу./n%s"</string>
     <string name="account_setup_failed_tls_required">TLS не поддерживается сервером.</string>
     <string name="account_setup_failed_auth_required">Методы аутентификации не поддерживаются сервером.</string>
     <string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности.</string>

@@ -7,37 +7,11 @@
   <string name="start_backup">Начать</string>
   <string name="button_cancel">Отмена</string>
   <string name="backup_empty">Нет файлов бэкапа</string>
-  <string name="backup_items_sysdata_tailer">\u0020Системных файлов</string>
-  <string name="backup_items_app_tailer">\u0020Приложений</string>
+  <string name="backup_items_sysdata_tailer">\u0020системных файлов</string>
+  <string name="backup_items_app_tailer">\u0020приложений</string>
   <string name="backup_failed">Ошибка резервного копирования. Повторите попытку</string>
   <string name="backup_recently">\u0020(Последний)</string>
   <string name="sdcard_unmounted">SD карта не найдена или отключена</string>
-  <string-array name="backup_dialog_content_type">
-    <item>Параметры Wi-Fi</item>
-    <item>Все программы</item>
-  </string-array>
-  <string-array name="system_package_label">
-    <item>Браузер</item>
-    <item>Файл менеджер</item>
-    <item>Галлерея</item>
-    <item>Суперпользователь</item>
-    <item>Камера</item>
-    <item>Монитор</item>
-	<item>Погода</item>
-  </string-array>
-  <string-array name="system_data_label">
-    <item>Контакты</item>
-    <item>Журнал вызовов</item>
-    <item>Сообщения</item>
-    <item>Мультимедийные сообщения</item>
-    <item>Настройки системы</item>
-    <item>Настройки Wi-Fi</item>
-    <item>Рабочий стол</item>
-    <item>Настройки будильника</item>
-    <item>Заметки </item>
-    <item>Настройки Анти-Спама</item>
-    <item>Аккаунт</item>
-  </string-array>
   <string name="backup_progress">Создание РК...</string>
   <string name="button_ok">Ок</string>
   <string name="backup_finished">Бэкап завершен</string>
@@ -52,11 +26,6 @@
   <string name="batch_delete_backup_confirm">Вы уверены, что хотите удалить выбранный(е) бэкап(ы)?</string>
   <string name="start_restore">Восстановить</string>
   <string name="backup_file_error">Проблемы с бэкапом, восстановление прервано</string>
-  <string-array name="app_type_desc">
-    <item>Данные</item>
-    <item>Программы </item>
-    <item>Программы и данные</item>
-  </string-array>
   <string name="unit_byte">\u0020байт</string>
   <string name="unit_piece">\u0020единиц</string>
   <string name="restore_finished">Восстановление завершено</string>
@@ -65,8 +34,8 @@
   <string name="restore_contacts_hit">(Примечание: для восстановления контактов необходимо вручную создать оригинальный акаунт)</string>
   <string name="restore_telephony_hit">(Примечание: процесс восстановления перезагрузит приложение Телефон)</string>
   <string name="restore_launcher_layout_hit">(Примечание: восстановление настроек рабочего стола)</string>
-  <string name="settings_summary">РК настроек телефона и сообщений</string>
-  <string name="account_summary">РК аккаунтов Gmail, E-mail и Xiaomi</string>
+  <string name="settings_summary"> Настройка телефона и сообщений</string>
+  <string name="account_summary"> Аккаунты Почты, Gmail и Xiaomi</string>
   <string name="cloud_app_name">Облачный бэкап</string>
   <string name="cloud_home_title">Облако</string>
   <string name="prompt_reading">Чтение...</string>
@@ -97,22 +66,6 @@
   <string name="compute_backup_info">Запрос резервной копии</string>
   <string name="compute_delete_contact_info">Поиск контактов...</string>
   <string name="unknown_hint">Неизвестно</string>
-  <string-array name="cloud_data_label">
-    <item>Контакты</item>
-    <item>Журнал звонков</item>
-    <item>Сообщения</item>
-    <item>Настройки Wi-Fi</item>
-    <item>Заметки</item>
-  </string-array>
-  <string-array name="cloud_account_data">
-    <item>Контакты</item>
-    <item>Настройки Wi-Fi</item>
-    <item>Заметки</item>
-  </string-array>
-  <string-array name="cloud_sim_data">
-    <item>Журнал звонков</item>
-    <item>Сообщения</item>
-  </string-array>
   <string name="task_progress">Прогресс</string>
   <string name="task_pending">Ожидание</string>
   <string name="task_pre_running">Подготовка</string>
@@ -182,8 +135,8 @@
   <string name="cloud_no_backup">Нет облачных бэкапов</string>
   <string name="current_account">Вход как: %s</string>
   <string name="current_sim">Текущая SIM</string>
-  <string name="date_format">dd-MM-yyyy HH:mm:ss</string>
-  <string name="dir_date_format">dd-MM-yyyy_HH-mm-ss</string>
+  <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
+  <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
   <string name="no_network">Сетевая ошибка\n Проверьте настройки подключения и повторите заново</string>
   <string name="retry">Повторить</string>
   <string name="select_all">Выбрать все</string>
@@ -213,4 +166,3 @@
   <string name="read_encrypt_fail">Ошибка чтения шифрования</string>
   <string name="exchange_account">Валютный счет</string>
 </resources>
-
