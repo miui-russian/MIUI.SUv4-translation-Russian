@@ -597,7 +597,7 @@
 	<string name="permdesc_bluetoothAdmin">Дает доступ приложений к функциям Bluetooth (поиск и сопраяжение с дургими устройствами).</string>
 	<string name="permlab_accessWimaxState">Данные о состоянии WiMAX</string>
 	<string name="permdesc_accessWimaxState">Позволяет приложениям получать информацию о состоянии WiMAX.</string>
-	<string name="permlab_changeWimaxState">change WiMAX state</string>
+	<string name="permlab_changeWimaxState">Изменить статус WiMAX</string>
 	<string name="permdesc_changeWimaxState">Позволяет приложениям подключаться или отключаться от WiMAX сетей.</string>
 	<string name="permlab_bluetooth">Создавать соединения Bluetooth</string>
 	<string name="permdesc_bluetooth">Позволяет приложениям чтение состояния Bluetooth, а так же создавать или принимать соединения.</string>
@@ -855,11 +855,11 @@
 	<string name="permlab_bindPackageVerifier">связываться с верификатором пакетов</string>
 	<string name="permdesc_bindPackageVerifier">Позволяет приложению отправлять запросы на проверку пакетов. Не требуется для обычных приложений.</string>
 	<string name="permlab_serialPort">доступ к последовательным портам</string>
-	<string name="permdesc_serialPort">Allows the holder to access serial ports using the SerialManager API.</string>
+	<string name="permdesc_serialPort">Дает владельцу доступ к портам при помощи SerialManager API.</string>
 	<string name="permlab_accessContentProvidersExternally">доступ к внешним контент-провайдерам</string>
-	<string name="permdesc_accessContentProvidersExternally">Allows the holder to access content providers from the shell. Should never be needed for normal apps.</string>
-	<string name="permlab_updateLock">discourage automatic device updates</string>
-	<string name="permdesc_updateLock">Allows the holder to offer information to the system about when would be a good time for a noninteractive reboot to upgrade the device.</string>
+	<string name="permdesc_accessContentProvidersExternally">Позволяет владельцу получить доступ к контенту провайдера через шелл. Не используется обычными приложениями.</string>
+	<string name="permlab_updateLock">Отключить автоматическое обновление устройства</string>
+	<string name="permdesc_updateLock">Позволяет пользователю указать системе лучшее время для обновления при перезагрузке.</string>
 	<string name="save_password_message">Хотите, чтобы браузер сохранил этот пароль?</string>
 	<string name="save_password_notnow">Не сейчас</string>
 	<string name="save_password_remember">Запомнить</string>

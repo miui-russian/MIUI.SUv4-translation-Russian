@@ -109,8 +109,8 @@
     <string name="is_page_bottom">Всегда внизу страницы</string>
     <string name="is_first_tab">Всегда первая вкладка</string>
     <string name="is_last_tab">Всегда последняя вкладка</string>
-    <string name="is_first_history_item">Is the first history item already</string>
-    <string name="is_last_history_item">Is the last history item already</string>
+    <string name="is_first_history_item">Это первая запись в истории</string>
+    <string name="is_last_history_item">Это последняя запись истории</string>
     <string name="warning">Опасность</string>
     <string name="menu_exit">Выход</string>
     <string name="exit_browser_warning">Выйти?</string>
