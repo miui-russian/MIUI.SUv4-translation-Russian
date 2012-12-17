@@ -53,7 +53,7 @@
 	<string name="settings_weather_title">Настройки</string>
     <string name="settings_weather_animation">Анимация погоды</string>
     <string name="settings_weather_play_ani_title">Воспроизвести анимацию</string>	
-    <string name="settings_weather_play_ani_summary">Play animation in the main interface</string>	
+    <string name="settings_weather_play_ani_summary">Показывать анимацию на главном экране</string>	
     <string name="settings_weather_about">About</string>
     <string name="settings_weather_pre_title">Погода</string>
     <string name="settings_weather_preview">Просмотр анимации погоды</string>
@@ -65,11 +65,11 @@
     <string name="send_weather_sms_main">%1$s %2$s,%3$s %4$s %5$s</string>
     <string name="send_weather_sms_error">Нет данных о погоде</string>
     <string name="tip_weather">Уведомления MIUI погоды</string>
-    <string name="tip_weather_info_title_1">%1$s expected temperature difference of %2$d degrees</string>
-    <string name="tip_weather_info_content_1">When going outdoors, please wear appropiate clothing.</string>
-    <string name="tip_weather_info_title_2">%1$s temperature today is estimated to be %2$s</string>
-    <string name="alert_provider_title">Location Notification</string>
-    <string name="alert_provider_message">In order to detect your position, you will need to enable wireless network locating function. Agreeing will bring you to the Location Services interface. Please open Network Based Location Services.</string>
+    <string name="tip_weather_info_title_1">%1$s ожидаемая разница в температуре %2$d градусов</string>
+    <string name="tip_weather_info_content_1">Выходя на улицу, одевайте подходящую одежду.</string>
+    <string name="tip_weather_info_title_2">%1$s сегодня температура будет %2$s</string>
+    <string name="alert_provider_title">Уведомление о местоположении</string>
+    <string name="alert_provider_message">Для определения местоположения, необходимо включить определение местоположения по беспроводной сети. Подтверждение откроет диалог включения определения местоположения. Пожалуйста, откройте диалог включения меслоположения по сети.</string>
     <string name="button_allow">Согласен</string>
     <string name="button_not_allow">Не согласен</string>
     <string name="location_allow_err">Открытие определения местонахождение не удалось</string>

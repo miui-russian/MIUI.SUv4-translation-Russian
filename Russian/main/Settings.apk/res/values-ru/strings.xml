@@ -1107,7 +1107,7 @@
 	<string name="testing">Проверка</string>
 	<string name="testing_phone_info">Информация о телефоне</string>
 	<string name="testing_battery_info">Информация о батарее</string>
-	<string name="testing_sim_toolkit">SIM toolkit</string>
+	<string name="testing_sim_toolkit">Инструменты SIM</string>
 	<string name="quick_launch_title">Быстрый запуск</string>
 	<string name="quick_launch_summary">Настройка быстрых клавиш для запуска приложений</string>
 	<string name="quick_launch_assign_application">Назначить приложение</string>
@@ -1811,7 +1811,7 @@
 	<string name="wifi_disabled_help">Сеть отклонена, так как соединение неустойчивое. Чтобы изменить параметры, выберите \"Настройки &gt; Wi-Fi\" и откройте меню \"Дополнительные функции\".</string>
 	<string name="wifi_wps_overlap_error">Обнаружен другой защищенный сеанс Wi-Fi. Повторите попытку позже.</string>
 	<string name="wifi_p2p_wps_setup">WPS</string>
-    <string name="wifi_p2p_wps_pin">Type PIN</string>
+    <string name="wifi_p2p_wps_pin">Введите PIN</string>
 	<string name="default_input_method">Выберите способ ввода по умолчанию</string>
 	<string name="volume_category_title">Громкость</string>
 	<string name="vibrate_category_title">Вибрация</string>
@@ -1935,8 +1935,8 @@
 	<string name="virus_scan_app_scan_finish">Сканирование завершено</string>
 	<string name="virus_scan_app_no_risk">Угроз не найдено</string>
 	<string name="virus_scan_app_is_stop_scan">Остановить сканирование?</string>
-	<string name="title_dolby_control">Dolby Mobile Control</string>
-	<string name="dialog_title_entryvalues_dolby_control">Dolby Mobile Control</string>
+	<string name="title_dolby_control">Настройки Dolby Mobile</string>
+	<string name="dialog_title_entryvalues_dolby_control">Настройки Dolby Mobile</string>
 	<string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
 	<string name="wfd_settings_title">Дисплей Wi-Fi</string>
 	<string name="wfd_menu_search">Поиск устройств</string>

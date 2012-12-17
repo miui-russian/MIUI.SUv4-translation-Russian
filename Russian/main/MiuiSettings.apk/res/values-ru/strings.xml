@@ -148,27 +148,27 @@
     <string name="wifi_advanced_titlebar">Дополнительные настроки</string>
     <string name="wifi_setting_frequency_band_title">Диапазон частот WLAN</string>
     <string name="wifi_p2p_settings_title">WLAN direct</string>
-    <string name="wifi_p2p_wps_setup">WLAN protected setup</string>
-    <string name="wifi_tether_checkbox_text">Portable WLAN hotspot</string>
-    <string name="wifi_tether_failed_subtext">Portable WLAN hotspot error</string>
+    <string name="wifi_p2p_wps_setup">Настройки WPS</string>
+    <string name="wifi_tether_checkbox_text">Переносная точка доступа WLAN</string>
+    <string name="wifi_tether_failed_subtext">Ошибка переносной точки доступа WLAN</string>
     <string name="wifi_tether_configure_ap_text">Настроить хот-спот WLAN</string>
-    <string name="wifi_tether_configure_subtext">%1$s%2$s Portable WLAN Hotspot</string>
-    <string name="testing_wifi_info" translatable="false">WLAN information</string>
+    <string name="wifi_tether_configure_subtext">%1$s%2$s переносная точка доступа WLAN</string>
+    <string name="testing_wifi_info" translatable="false">Информация WLAN</string>
     <string name="wifi_api_test" translatable="false">WLAN API</string>
-    <string name="wifi_status_test" translatable="false">WLAN status</string>
-    <string name="wifi_state_label" translatable="false">WLAN state</string>
-    <string name="wifi_config_info" translatable="false">WLAN config</string>
-    <string name="status_wifi_mac_address">WLAN MAC address</string>
-    <string name="location_network_based">Network based location service</string>
-    <string name="location_neighborhood_level">Let apps use data from sources such as WLAN and mobile networks to determine your approximate location</string>
-    <string name="location_neighborhood_level_wifi">Location determined via WLAN</string>
+    <string name="wifi_status_test" translatable="false">Статус WLAN</string>
+    <string name="wifi_state_label" translatable="false">Состояние WLAN</string>
+    <string name="wifi_config_info" translatable="false">Настройки WLAN</string>
+    <string name="status_wifi_mac_address">Mac-адрес WLAN</string>
+    <string name="location_network_based">Служба позиционирования оператором</string>
+    <string name="location_neighborhood_level">Разрешить приложению использовать информацию из сетей для определения местоположения</string>
+    <string name="location_neighborhood_level_wifi">Положение определяется через WLAN</string>
     <string name="battery_stats_wifi_running_label">WLAN</string>
     <string name="wifi_on_time">WLAN on time</string>
     <string name="bluetooth_on_time">WLAN on time</string>
     <string name="power_wifi">WLAN</string>
-    <string name="usage_type_wifi_running">WLAN running</string>
+    <string name="usage_type_wifi_running">Включен WLAN</string>
     <string name="battery_action_wifi">Настройки WLAN</string>
-    <string name="battery_desc_wifi">Battery used by WLAN</string>
+    <string name="battery_desc_wifi">Использование батареи WLAN</string>
     <string name="battery_sugg_wifi">Выключать WLAN когда нет соединений или он не используется</string>
     <string name="gadget_toggle_wifi">Обновление настроек WLAN</string>
     <string name="backup_data_summary">Сделать резервное копирование данных(WLAN пароли и другие настройки) в службы Google</string>
