@@ -130,7 +130,7 @@
     <string name="confirm_pin_hint_miui">Подтвердите новый PIN</string>
     <string name="connect_disconnect_vibrate_none_miui">Нет</string>
     <string name="connect_disconnect_vibrate_normal_miui">Обычный</string>
-    <string name="connect_disconnect_vibrate_summary_miui"></string>
+    <string name="connect_disconnect_vibrate_summary_miui" />
     <string name="connect_disconnect_vibrate_title_miui">Уровень вибрации, когда вызов принимается/отклоняется.</string>
     <string name="connect_disconnect_vibrate_weak_miui">Слабо </string>
     <string name="contacts_icon_label_miui">Контакты</string>

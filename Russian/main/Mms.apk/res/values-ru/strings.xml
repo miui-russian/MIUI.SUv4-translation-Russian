@@ -450,7 +450,7 @@
 	<string name="mx_count_dspt">После включения, MIUI отправило %1$d облачных сообщений для (%2$s)</string>
 	<string name="mx_auto_resend_sms">Отправить как SMS</string>
 	<string name="mx_auto_resend_sms_summary">Отправить как SMS когда облачные сообщения недоступны.</string>
-	 <string name="mx_auto_resend_mms">Отправить как MMS</string>
+	<string name="mx_auto_resend_mms">Отправить как MMS</string>
     <string name="mx_auto_resend_mms_summary">Отправить как MMS когда облачные сообщения недоступны.</string>
 	<string name="msg_type_hint_sms">Текстовое сообщение</string>
 	<string name="msg_type_hint_mms">Мултимедийное сообщение</string>

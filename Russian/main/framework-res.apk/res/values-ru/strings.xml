@@ -1152,7 +1152,7 @@
 	<string name="number_picker_increment_button">Увеличить</string>
 	<string name="number_picker_decrement_button">Уменьшить</string>
 	<string name="number_picker_increment_scroll_mode">Нажмите и удерживайте %s</string>
-	<string name="number_picker_increment_scroll_action">Сдвиг вверх для увеличния, вниз для уменьшения</string>
+	<string name="number_picker_increment_scroll_action">Сдвиньте вверх для увеличния, вниз для уменьшения</string>
 	<string name="time_picker_increment_minute_button">На минуту вперед</string>
 	<string name="time_picker_decrement_minute_button">На минуту назад</string>
 	<string name="time_picker_increment_hour_button">На час вперед</string>
