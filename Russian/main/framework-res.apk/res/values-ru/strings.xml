@@ -281,6 +281,7 @@
 	<string name="shutdown_confirm">Устройство будет выключено</string>
 	<string name="shutdown_confirm_question">Хотите выключить?</string>
 	<string name="reboot_safemode_title">Перезагрузка в безопасный режим</string>
+	<string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
 	<string name="reboot_safemode_confirm">Вы действительно хотите перейти в безопасный режим? Будут отключены приложения третих сторон. Их функциональность будет восстановлена после повторной загрузки.</string>
 	<string name="recent_tasks_title">Недавние</string>
 	<string name="no_recent_tasks">Нет недавних приложений.</string>
@@ -503,6 +504,8 @@
 	<string name="permdesc_modifyAudioSettings">Позволяет приложениям изменять глобальные настройки аудио, такие как громкость и роутинг.</string>
 	<string name="permlab_recordAudio">Запись звука</string>
 	<string name="permdesc_recordAudio">Позволяет приложениям получать доступ к записи звука.</string>
+	<string name="permlab_modifyAudioDrm">Изменять аудио DRM</string>
+	<string name="permdesc_modifyAudioDrm">Позволяет приложениям изменять состояние DRM.</string>
 	<string name="permlab_camera">Снимки и видео</string>
 	<string name="permdesc_camera">Позволяет приложениям использовать камеру устройства для захвата фото или видео. Это позволяет приложениям получать данные с камеры в любое время.</string>
 	<string name="permlab_brick">Полный доступ к телефону</string>
@@ -589,6 +592,12 @@
 	<string name="permdesc_changeBackgroundDataSetting">Позволяет приложениям изменять настройки фоновой передачи данных.</string>
 	<string name="permlab_accessWifiState">Данные о состоянии Wi-Fi</string>
 	<string name="permdesc_accessWifiState">Позволяет приложениям получать информацию о состоянии Wi-Fi.</string>
+	<string name="permlab_access4GState">Просмотр состояния Wimax</string>
+	<string name="permdesc_access4GState">Позволяет приложениям просматривать состояние Wimax.</string>
+	<string name="permlab_change4GState">Изменение состояния Wimax</string>
+	<string name="permdesc_change4GState">Позволяет приложениям подключаться и отключаться от сетей Wimax.</string>
+	<string name="permlab_changeWimaxMulticastState">Мультикастинг Wimax</string>
+	<string name="permdesc_changeWimaxMulticastState">Позволяет приложениям получать пакеты отправленные не конкретно вашему устройству. Полезно для использования служб, расположенных рядом. Требует большего расхода батареи.</string>
 	<string name="permlab_changeWifiState">Изменять состояние Wi-Fi</string>
 	<string name="permdesc_changeWifiState">Позволяет приложениям подключаться или отключаться от точек доступа или изменять настройки Wi-Fi.</string>
 	<string name="permlab_changeWifiMulticastState">Мультикаст прием через Wi-Fi</string>
@@ -622,7 +631,9 @@
 	<string name="permlab_sdcardRead">Тестовый доступ к защищенному носителю</string>
 	<string name="permdesc_sdcardRead">Дает приложения возможность протестировать доступ к защещенному носителю, который будет использоваться на будущих устройствах.</string>
 	<string name="permlab_sdcardWrite">Изменять, удалять содержимое USB носителя</string>
+	<string name="permlab_sdcardWrite_sd">Изменять/удалять содержимое SD карты</string>
 	<string name="permdesc_sdcardWrite">Дает приложениям возможность записи на USB носитель.</string>
+	<string name="permdesc_sdcardWrite_sd">Дает приложениям возможность записи на SD карту.</string>
 	<string name="permlab_mediaStorageWrite">Изменять, удалять содержимое внутренней памяти.</string>
 	<string name="permdesc_mediaStorageWrite">Дает приложениям возможность записи (изменение содержание) внутренней памяти устройства.</string>
 	<string name="permlab_cache_filesystem">Доступ к кэшу файловой системы</string>
@@ -652,7 +663,33 @@
 	<string name="policylab_encryptedStorage">Установка шифрования</string>
 	<string name="policydesc_encryptedStorage">Шифрование данных приложения</string>
 	<string name="policylab_disableCamera">Отключить камеры</string>
-	<string name="policydesc_disableCamera">Предотвратить использование камер</string>
+	<string name="policydesc_disableCamera">Запретить использование камер</string>
+	<string name="policylab_recoverPassword">Восстановление пароля</string>
+	<string name="policydesc_recoverPassword">Позволяет восстанавливать пароль, необходимый для разблокировки устройства</string>
+	<string name="policylab_allow_camera">Отключить камеры</string>
+	<string name="policydesc_allow_camera">Запретить использование камер</string>
+	<string name="policylab_allow_storagecard">Отключить SD карту</string>
+	<string name="policydesc_allow_storagecard">Запретить использование SD карты</string>
+	<string name="policylab_allow_wifi">Отключить Wi-Fi</string>
+	<string name="policydesc_allow_wifi">Запретить использование Wi-Fi</string>
+	<string name="policylab_allow_textmessaging">Отключить SMS/MMS пересылку</string>
+	<string name="policydesc_allow_textmessaging">Запретить использование SMS/MMS пересылки</string>
+	<string name="policylab_allow_popimapemail">Отключить POP и IMAP</string>
+	<string name="policydesc_allow_popimapemail">Запретить использование POP и IMAP на устройстве</string>
+	<string name="policylab_allow_irda">Отключить инфракрасный порт</string>
+	<string name="policydesc_allow_irda">Запретить использование инфракрасного порта</string>
+	<string name="policylab_allow_browser">Отключить интернет</string>
+	<string name="policydesc_allow_browser">Запретить использование интернета</string>
+	<string name="policylab_allow_internetsharing">Отключить доступ к интернету другим устройствам</string>
+	<string name="policydesc_allow_internetsharing">Запретить использование интернета другими устройствами</string>
+	<string name="policylab_allow_bluetoothmode">Отключить Bluetooth</string>
+	<string name="policydesc_allow_bluetoothmode">Запретить использование Bluetooth</string>
+	<string name="policylab_allow_desktopsync">Отключить синхронизацию</string>
+	<string name="policydesc_allow_desktopsync">Запретить синхронизацию</string>
+	<string name="policylab_require_storagecard_encryption">Установить шифрование SD карты</string>
+	<string name="policydesc_require_storagecard_encryption">Приложения на SD будут зашифрованы</string>
+	<string name="bluetooth_security_mode_disable">Политика безопасности ограничивает использование Bluetooth соединения</string>
+	<string name="bluetooth_security_mode_handsfree">Политика безопасности ограничила использование Bluetooth до hands-free подключения</string>
 	<string name="phoneTypeCustom">По выбору</string>
 	<string name="phoneTypeHome">Домашний</string>
 	<string name="phoneTypeMobile">Мобильный</string>
@@ -731,6 +768,7 @@
 	<string name="keyguard_password_enter_password_code">Введите пароль, чтобы разблокировать</string>
 	<string name="keyguard_password_enter_pin_password_code">Введите PIN-код, чтобы разблокировать</string>
 	<string name="keyguard_password_wrong_pin_code">Неправильный PIN-код!</string>
+	<string name="keyguard_pin_accepted">Код принят!</string>
 	<string name="keyguard_label_text">Для разблокировки нажмите &quot;Меню&quot;, затем &quot;0&quot;.</string>
 	<string name="emergency_call_dialog_number_for_display">Экстренный вызов</string>
 	<string name="lockscreen_carrier_default">Вне зоны доступа</string>
@@ -761,7 +799,10 @@
 	<string name="lockscreen_transport_play_description">Воспроизвести</string>
 	<string name="lockscreen_transport_stop_description">Стоп</string>
 	<string name="emergency_calls_only">Только экстренные вызовы</string>
+	<string name="lockscreen_sim_error_message_short">Неверная карта.</string>
+	<string name="lockscreen_sim_error_message">SIM-карта не принята.</string>
 	<string name="lockscreen_network_locked_message">Мобильная сеть заблокирована</string>
+	<string name="lockscreen_perso_locked_message">SIM/RUIM заблокирована</string>
 	<string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована PUK-кодом.</string>
 	<string name="lockscreen_sim_puk_locked_instructions">Инструкции по разблокировке можно найти в контракте на услуги сотовой связи, либо обратитеесь в Клиентскую поддержку сотового оператора.</string>
 	<string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
@@ -772,6 +813,8 @@
 	<string formatted="false" name="lockscreen_too_many_failed_password_attempts_dialog_message">"Вы неправильно ввели пароль %d раз(а). 
 
 Новая попытка через %d сек."</string>
+	<string name="lockscreen_sim_pin_blocked">PIN1 Заблокирован! Введите PUK1 для разблокировки PIN1.</string>
+	<string name="lockscreen_ruim_pin_blocked">PIN1 Заблокирован! Введите PUK1 для разблокировки PIN1.</string>
 	<string formatted="false" name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Вы неправильно ввели PIN-код %d раз(а). 
 
 Новая попытка через %d сек."</string>
@@ -827,6 +870,47 @@
 	<string name="autofill_address_summary_format">$1$2$3</string>
 	<string name="autofill_address_summary_name_format">$1$2$3</string>
 	<string name="autofill_address_summary_separator">", "</string>
+	<string name="autofill_attention_ignored_re">attention|attn</string>
+    <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
+    <string name="autofill_company_re">company|business|organization|organisation|department|firma|firmenname|empresa|societe|société|ragione.?sociale|会社|название.?компании|单位|公司</string>
+    <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
+    <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
+    <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
+    <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
+    <string name="autofill_country_re">country|location|国|国家</string>
+    <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl|cp|cdp|cap|郵便番号|codigo|codpos|cep|Почтовый.?Индекс|邮政编码|邮编|郵遞區號</string>
+    <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
+    <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
+    <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
+    <string name="autofill_address_type_same_as_re">same as</string>
+    <string name="autofill_address_type_use_my_re">use my</string>
+    <string name="autofill_billing_designator_re">bill</string>
+    <string name="autofill_shipping_designator_re">ship</string>
+    <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
+    <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
+    <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
+    <string name="autofill_name_specific_re">^name|^nom|^nome</string>
+    <string name="autofill_first_name_re">irst.*name|initials|fname|first$|vorname|nombre|forename|prénom|prenom|名|nome|Имя</string>
+    <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
+    <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
+    <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
+    <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
+    <string name="autofill_area_code_re">area.*code|acode|area</string>
+    <string name="autofill_phone_prefix_re">prefix|preselection|ddd</string>
+    <string name="autofill_phone_suffix_re">suffix</string>
+    <string name="autofill_phone_extension_re">ext|ramal</string>
+    <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
+    <string name="autofill_name_on_card_contextual_re">name</string>
+    <string name="autofill_card_cvc_re">verification|card identification|cvn|security code|cvv code|cvc</string>
+    <string name="autofill_card_number_re">number|card.?#|card.?no|ccnum|nummer|credito|numero|número|numéro|カード番号|Номер.*карты|信用卡号|信用卡号码|信用卡卡號</string>
+    <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|ccmonth|gueltig|gültig|monat|fecha|date.*exp|scadenza|有効期限|validade|Срок действия карты|月</string>
+    <string name="autofill_expiration_date_re">exp|^/|year|ablaufdatum|gueltig|gültig|yahr|fecha|scadenza|有効期限|validade|Срок действия карты|年|有效期</string>
+    <string name="autofill_card_ignored_re">^card</string>
+    <string name="autofill_fax_re">fax|télécopie|telecopie|ファックス|факс|传真|傳真</string>
+    <string name="autofill_country_code_re">country.*code|ccode|_cc</string>
+    <string name="autofill_area_code_notext_re">^\\($</string>
+    <string name="autofill_phone_prefix_separator_re">^-$|^\\)$</string>
+    <string name="autofill_phone_suffix_separator_re">^-$</string>
 	<string name="autofill_area">Область</string>
 	<string name="autofill_county">Округ</string>
 	<string name="autofill_department">Департамент</string>
