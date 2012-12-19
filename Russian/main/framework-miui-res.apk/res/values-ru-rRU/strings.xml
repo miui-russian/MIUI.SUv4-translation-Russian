@@ -467,7 +467,7 @@
     <string name="status_bar_toggle_ac">Упр. доступом</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
-	<string name="status_bar_toggle_auto_brightness">Авто-яркость</string>
+	<string name="status_bar_toggle_auto_brightness">Автояркость</string>
     <string name="status_bar_toggle_data">Интернет</string>
     <string name="status_bar_toggle_divider">Настроить</string>
     <string name="status_bar_toggle_flight_mode">В самолёте</string>

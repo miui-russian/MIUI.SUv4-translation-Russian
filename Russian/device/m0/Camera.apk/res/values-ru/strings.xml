@@ -100,7 +100,7 @@
     <string name="SS_SOUND3">Звук 3</string>
     <string name="SS_SOUND2">Звук 2</string>
     <string name="SS_SOUND1">Звук 1</string>
-    <string name="M_CENTER">"Средне-/nвзвешенн."</string>
+    <string name="M_CENTER">"Средне-\nвзвешенн."</string>
     <string name="M_SPOT">Точечный замер</string>
     <string name="M_MATRIX">Матрица</string>
     <string name="S_PHONE">Телефон</string>
