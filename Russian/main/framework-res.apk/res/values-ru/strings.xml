@@ -570,7 +570,7 @@
 	<string name="permlab_getAccounts">Доступ к аккаунтам</string>
 	<string name="permdesc_getAccounts">Позволяет приложениям получить список аккаунтов, зарегистрированых в устройстве.</string>
 	<string name="permlab_authenticateAccounts">Действовать, как аутентификатор аккаунтов</string>
-	<string name="permdesc_authenticateAccounts">Allows an application to use the account authenticator capabilities of the AccountManager, including creating accounts and getting and setting their passwords.</string>
+	<string name="permdesc_authenticateAccounts">Позволяет приложениям использовать функции AccountManager для аутентификации, включая создание аккаунтов и установку паролей к ним.</string>
 	<string name="permlab_manageAccounts">Управлять списком учетных записей</string>
 	<string name="permdesc_manageAccounts">Позволяет приложениям добавлять или удалять аккаунты, а также управлять паролями.</string>
 	<string name="permlab_useCredentials">Использовать данные аккаунтов для аутентификации</string>
@@ -743,7 +743,7 @@
 	<string name="lockscreen_pattern_correct">Правильно!</string>
 	<string name="lockscreen_pattern_wrong">Извините, попробуйте ещё</string>
 	<string name="lockscreen_password_wrong">Извините, попробуйте ещё</string>
-	<string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
+	<string name="faceunlock_multiple_failures">Превышено количество попыток разблокировки по лицу</string>
 	<string name="lockscreen_plugged_in">Идёт зарядка… %d%%</string>
 	<string name="lockscreen_charged">Полностью заряжен</string>
 	<string name="lockscreen_battery_short">%d%%</string>
@@ -752,7 +752,7 @@
 	<string name="lockscreen_missing_sim_message">В телефоне нет SIM-карты</string>
 	<string name="lockscreen_missing_sim_instructions">Пожалуйста, вставьте SIM-карту</string>
 	<string name="lockscreen_missing_sim_instructions_long">SIM-карта извлечена, либо не читаема. Пожалуйста, вставьте SIM-карту.</string>
-	<string name="lockscreen_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+	<string name="lockscreen_permanent_disabled_sim_message_short">Нерабочая SIM.</string>
 	<string name="lockscreen_permanent_disabled_sim_instructions">Ваша SIM-карта сломалась.
  Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM-карту.</string>
 	<string name="lockscreen_transport_prev_description">Предыдущая песня</string>
@@ -1075,8 +1075,8 @@
 	<string name="permdesc_pkgUsageStats">Позволяет изменять собранную статистику использования компонентов. Не предназначено для использования обычными приложениями.</string>
 	<string name="permlab_copyProtectedData">Позволяет вызывать службу контейнера для копирования содержания. Не предназначена для обычных программ.</string>
 	<string name="permdesc_copyProtectedData">Позволяет вызывать службу контейнера для копирования содержания. Не предназначена для обычных программ.</string>
-	<string name="permlab_route_media_output">Route media output</string>
-	<string name="permdesc_route_media_output">Allows an application to route media output to other external devices.</string>
+	<string name="permlab_route_media_output">Трансляция медиа-контента на внешние устройства</string>
+	<string name="permdesc_route_media_output">Позволяет приложениям транслировать медиа-контент на внешние устройства.</string>
 	<string name="tutorial_double_tap_to_zoom_message_short">Нажмите дважды для изменения масштаба</string>
 	<string name="gadget_host_error_inflating">Ошибка при наполнении виджета</string>
 	<string name="ime_action_go">Выбрать</string>
@@ -1184,7 +1184,7 @@
 	<string name="description_target_camera">Камера</string>
 	<string name="description_target_silent">Без звука</string>
 	<string name="description_target_soundon">Звук вкл.</string>
-	<string name="description_target_search">Search</string>
+	<string name="description_target_search">Поиск</string>
 	<string name="description_target_unlock_tablet">Сдвиньте для разблокировки.</string>
 	<string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль.</string>
 	<string name="keyboard_password_character_no_headset">Точка</string>
