@@ -5,6 +5,8 @@
 	<string name="app_name">Обновление системы</string>
 	<string name="apply_now_button_text">Обновить сейчас</string>
 	<string name="view_details">Показать детали</string>
+	<string name="download_whole_rom">Загрузить (%s)</string>
+	<string name="download_ota_rom">Загрузить(%s)</string>
 	<string name="download_whole_rom">Загрузить прошивку(%s)</string>
 	<string name="download_ota_rom">Загрузить OTA(%s)</string>
 	<string name="apply_later_button_text">Применить позже</string>

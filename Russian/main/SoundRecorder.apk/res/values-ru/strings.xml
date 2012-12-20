@@ -50,4 +50,7 @@
 	<string name="dialog_warning">Опасность</string>
 	<string name="alert_message_delete_record">Вы хотите удалить выбранную запись??</string>
 	<string name="unknown_caller">Неизветный вызов</string>
+	<string name="record_saving">Идет сохранение записи, подождите, пожалуйста.</string>
+	<string name="preparing_playback">Загрузка записи, подождите, пожалуйста.</string>
+	<string name="loading_duration">Загружается длительность...</string>
 </resources>
