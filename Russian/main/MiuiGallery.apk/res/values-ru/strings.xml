@@ -229,7 +229,7 @@
 	<string name="storage_no_space">Недостаточно места в хранилище</string>
 	<string name="click_to_enter_camera">Нажмите для запуска камеры</string>
     <string name="camera_view_none_message">Захваченные фотографии будут отображаться здесь.</string>
-	<string name="camera_view_none_message">Новые фотографии будут отображаться здесь.</string>
+	<string name="none_picture">В галерее нет изображений</string>
 	<string name="camera_path">/DCIM/Camera</string>
 	<string name="open_single_image_failure">Не удалось загрузить изображение!</string>
 	<string name="already_saved">Фотография уже была сохранена в %s</string>
