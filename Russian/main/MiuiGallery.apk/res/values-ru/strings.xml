@@ -42,6 +42,13 @@
 	<string name="redeye_tooltip">Нажмите для удаления красных глаз</string>
 	<string name="rotate_tooltip">Чтобы повернуть фото, перетащите его край</string>
 	<string name="straighten_tooltip">Чтобы выровнять фото, перетащите его</string>
+    <string name="contrast">Контраст</string>
+    <string name="frame_button">Рамка</string>
+    <string name="frame_classic">Классическая</string>
+    <string name="frame_white">Белый</string>
+    <string name="frame_black">Черный</string>
+    <string name="frame_semicircle">Полукруг</string>
+    <string name="frame_movie">Фильм</string>
 	<string name="app_name">Галерея</string>
 	<string name="gadget_title">Рамка фотографии</string>
 	<string formatted="false" name="details_ms">%1$02d:%2$02d</string>
@@ -221,6 +228,7 @@
 	<string name="modify_cloud_settings">Изменить настройки онлайн хранилища</string>
 	<string name="storage_no_space">Недостаточно места в хранилище</string>
 	<string name="click_to_enter_camera">Нажмите для запуска камеры</string>
+    <string name="camera_view_none_message">Захваченные фотографии будут отображаться здесь.</string>
 	<string name="camera_view_none_message">Новые фотографии будут отображаться здесь.</string>
 	<string name="camera_path">/DCIM/Camera</string>
 	<string name="open_single_image_failure">Не удалось загрузить изображение!</string>

@@ -113,6 +113,7 @@
 	<string name="select_frame">Рамка</string>
 	<string name="photo_confirm">Подтвердить</string>
 	<string name="photo_load_failed">Ошибка загрузки фото!</string>
+	<string name="frame_load_failed">Ошибка загрузки рамки!</string>
 	<string name="gadget_weather_loading">Нет данных о погоде</string>
 	<string name="gadget_weather_title_24">Погода 4x2</string>
 	<string name="gadget_weather_title_14">Погода 4x1</string>
