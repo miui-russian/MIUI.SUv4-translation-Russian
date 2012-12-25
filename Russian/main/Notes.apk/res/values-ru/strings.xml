@@ -89,16 +89,12 @@
     <string name="preferences_toast_cannot_change_account">Синхронизация в процессе, невозможно изменить аккаунт</string>
     <string name="preferences_toast_success_set_accout">Аккаунт %1$s был установлен для синхронизации</string>
     <string name="preferences_bg_random_appear_title">Случайный цвет</string>
-    <string name="call_record_folder_name">Вызов заметки</string>
+    <string name="call_record_folder_name">Заметка разговора</string>
     <string name="hint_foler_name">Ввести имя</string>
     <string name="search_label">Поиск заметок</string>
     <string name="search_hint">Найти заметки</string>
     <string name="search_setting_description">Текст в заметках</string>
     <string name="search">Заметки</string>
-    <plurals name="search_results_title">
-         <item quantity="one">%1$s результат для \"%2$s\"</item>
-        <item quantity="other">%1$s результат для \"%2$s\"</item>
-    </plurals>
     <string name="button_new_note">Новая заметка</string>
     <string name="default_folder_name">Заметки</string>
     <string name="move_to_parent">Переместить в главную папку</string>
