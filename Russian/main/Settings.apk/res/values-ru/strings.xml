@@ -4,7 +4,6 @@
     <string name="additional_system_update_menu" />
 	<string name="yes">Да</string>
 	<string name="no">Нет</string>
-	<string name="create">Создать</string>
 	<string name="device_info_default">Неизвестно</string>
 	<string name="header_category_wireless_networks">БЕСПРОВОДНЫЕ СЕТИ</string>
 	<string name="header_category_device">УСТРОЙСТВО</string>
@@ -117,7 +116,7 @@
 	<string name="bluetooth_pairing">Сопряжение...</string>
 	<string name="bluetooth_device">Bluetooth-устройство без названия</string>
 	<string name="progress_scanning">Поиск</string>
-    <string name="progress_tap_to_pair">Touch to pair</string>
+    <string name="progress_tap_to_pair">Нажмите, для сопряжения</string>
 	<string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены.</string>
 	<string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
 	<string name="bluetooth_notif_title">Запрос на сопряжение</string>
@@ -143,7 +142,6 @@
 	<string name="date_time_12_hour_sample">1:00 pm</string>
 	<string name="date_time_24_hour_sample">13:00</string>
 	<string name="choose_timezone">Выбрать часовой пояс</string>
-	<string name="default_date_format">ММ/дд/гггг</string>
 	<string name="normal_date_format">По умолчанию (%s)</string>
 	<string name="display_preview_label">Предварительный просмотр:</string>
 	<string name="display_font_size_label">Размер шрифта:</string>
@@ -1700,7 +1698,7 @@
 	<string name="available_size">%s (Доступно)</string>
 	<string name="total_size">%s (Всего)</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
-	<string name="sync_settings">Аккаунты</string>
+	<string name="sync_settings">Аккаунты &amp; синхронизация</string>
 	<string name="sms_received_sound_title">Звук входящего SMS</string>
 	<string name="sms_delivered_sound_title">Звук доставленного SMS</string>
 	<string name="sms_received_sound_dialog_title">Выберите звук входящего SMS</string>
@@ -1953,7 +1951,6 @@
 	<string name="vpn_safe">Защита</string>
 	<string name="vpn_configure">Настройка</string>
 	<string name="sync_wifi_label">Настройка Wi-Fi</string>
-	<string name="milicenter_settings">Центр Xiaomi Dollar</string>
 	<string name="drive_mode">Режим "За рулём"</string>
 	<string name="drive_mode_title">Установить голосовое оповещение и автоответ</string>
 	<string name="drive_mode_settings">Настройки режима "За рулём"</string>
