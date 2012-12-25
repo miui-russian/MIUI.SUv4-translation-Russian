@@ -7,12 +7,14 @@
     <string name="location_south">%s Ю</string>
     <string name="location_east">%s З</string>
     <string name="location_west">%s В</string>
-    <string name="menu_calibrate">Калибровка</string>
-    <string name="dialog_title">Отмена калибровки</string>
-    <string name="dialog_content">Калибровка компаса не завершена и это может быть причиной неточных показаний. Продолжить?</string>
+	<string name="menu_calibrate_altitude">Калибровать долготу через интернет</string>
     <string name="calibrate_success">Калибровка завершена</string>
-    <string name="user_guide_calibrate">Нажмите [Меню] для калибровки компаса</string>
-    <string name="toast_accuracy_low">Неточные показания компаса.\nНажмите [Меню] для калибровки компаса.</string>
+	<string name="calibrate_failed_no_location">Ошибка калибровки. Невозможно получить широту и долготу</string>
+	<string name="calibrate_failed_timeout">Ошибка калибровки. Превышено время ожидания.</string>
     <string name="pressure">Давление %.1fhPa</string>
-    <string name="altitude">Высота %.1fm</string>
+    <string name="altitude">Долготу %.1fm</string>
+    <string name="dialog_title_no_network">Пожалуйста подключитесь к Wi-Fi или мобильному интернету.</string>
+    <string name="dialog_calibrat_altitude">Калибровка долготы через интернет.</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
 </resources>
