@@ -1600,6 +1600,92 @@
 	<string name="sending">Отправка…</string>
 	<string name="launchBrowserDefault">Запустить браузер?</string>
 	<string name="SetupCallDefault">Принять вызов?</string>
+	<string name="lockscreen_unlock_guide_text">Сдвиньте экран для разблокировки</string>
+    <string name="zzz_keyguard_password_attempt_count_pin_code">%1$d попыток осталось</string>
+    <string name="zzz_keyguard_password_attempts_count_pin_code">%1$d попыток осталось</string>
+    <string name="zzz_keyguard_password_attempt_count_puk_code">%1$d попыток осталось</string>
+    <string name="zzz_keyguard_password_attempts_count_puk_code">%1$d попыток осталось</string>
+    <string name="AcMmi">Автоматическое подключение</string>
+    <string name="StrPwRegFailure">Ошибка регистрации. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrNegativePWCheck">Ошибка регистрации. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrNumOfPWAttempsViolation">Ошибка регистрации. Пожалуйста обратитесь в CS центр.</string>
+    <string name="StrUnknownSubscriber">Ошибка аутентификации. Пожалуйста, попробуйте еще раз</string>
+    <string name="StrBearerSvcNotProvisoned">Служба не зарегистрирована.Пожалуйста обратитесь в CS центр.</string>
+    <string name="StrTelesrviceNotProvisoned">Служба не зарегистрирована.Пожалуйста обратитесь в CS центр.</string>
+    <string name="StrCallBarred">Служба ограничена. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrIllegalSSOperation">Ошибка кода службы. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrSSErrStatus">Ошибка аутентификации. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrSSNotAvailable">Служба не зарегистрирована.Пожалуйста обратитесь в CS центр.</string>
+    <string name="StrSSSubscriptionViolation">service scription is violation.Please contact CS center.</string>
+    <string name="StrSSIncompatibility">Несовместимость службы. Пожалуйста обратитесь в CS центр.</string>
+    <string name="StrSysFailure">Системная ошибка. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrDataMissing">Введенные данные отсутствуют. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrUnexpectedDataValue">Неожиданное значение. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrIllegalSubscriber">Незарегистрированный номер. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrFacilityNotSupported">Объект не поддерживается.</string>
+    <string name="StrAbsentSubscriber">Регистрация в сети отложена. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrShortTermDenial">Регистрация в сети отложена. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrLongTermDenial">Регистрация в сети отложена. Пожалуйста обратитесь в CS центр.</string>
+    <string name="StrPositionMethodFailure">Ошибка метода позиции.</string>
+    <string name="StrUnknownAlphabet">Неизвестный алфавит. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrUssd_Busy">Регистрация в сети отложена.</string>
+    <string name="StrRejectedByUser">Служба отменена пользователем.</string>
+    <string name="StrRejectedByNetwork">Служба отменена сетью.</string>
+    <string name="StrDeflectionToServedSubscriber">Deflection To Served Subscriber.</string>
+    <string name="StrSpecialServiceCode">Special ServiceCode.</string>
+    <string name="StrInvalidDeflectedToNumber">Invalid Deflected To Number. Please try again.</string>
+    <string name="StrMaxNumberOfMPTY_ParticipantsExceeded">MaxNumber Of MPTY_Participants Exceeded.</string>
+    <string name="StrResourcesNotAvailable">Источники недоступны. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrEtcReturnError">Пожалуйста, попробуйте еще раз.</string>
+    <string name="KTmmiError">Проблема соединения или неверный MMI код</string>
+    <string name="CCRSetting">Настройки</string>
+    <string name="CCRPopup">"Автоматическая отправка служебной информации помогает улучшить продукты Samsung. Вы можете изменить настройки в "Об устройстве" > Системная информации."</string>
+    <string name="fmapp_name">FMRadio</string>
+    <string name="lockscreen_2ndLock_invalid_input">Неверный PIN для восстановления</string>
+    <string name="lockscreen_2ndLock_instructions">Если вы забыли ваши данные Google, вы можете восстановить их. Используйте PIN для восстановления</string>
+    <string name="lockscreen_2ndLock_instructions2">Введите PIN, для восстановления</string>
+    <string name="lockscreen_2ndLock_password">PASSWORD</string>
+    <string name="lockscreen_2ndLock_submit_button">OK</string>
+    <string name="lockscreen_failed_attempts_almost_glogin2" formatted="false">"Символы введены неверно %d раз. %d попыток осталось. Потом вам будет необходимо ввести данные Google аккаунта или PIN для восстановления.
+
+ Повторите через %d секунд."</string>
+    <string name="zzz_dual_clock_city_seoul">Seoul</string>
+    <string name="zzz_dual_clock_city_local">Местное время</string>
+    <string name="wifi_on_vt_not_allowed_msg">Видео-звонки невозможны при включенном Wi-Fi</string>
+    <item type="string" name="APKTOOL_DUMMY_062b">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_062c">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_062d">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_062e">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_062f">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0632">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0633">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0634">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0635">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0636">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0637">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0638">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0639">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_063a">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_063b">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_063c">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_063d">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_063e">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_063f">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0640">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0641">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0642">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0643">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0644">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0645">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0646">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0647">Ошибка</item>
+    <item type="string" name="APKTOOL_DUMMY_0648">Ошибка</item>
+    <string name="cutAll">Вырезать все</string>
+    <string name="copyAll">Скопировать все</string>
+    <string name="undo">Отменить</string>
+    <string name="redo">Повторить</string>
+    <string name="operation_not_allowed">Действие не разрешено</string>
+    <string name="exceeded_maxlength">Достигнуто максимальное количество символов</string>
 	<string name="activity_resolver_use_always">Всегда</string>
 	<string name="activity_resolver_use_once">Один раз</string>
 	<string name="default_audio_route_name">Телефон</string>
