@@ -382,9 +382,7 @@
     <string name="keyguard_incorrect_pin_with_retry_count">Осталось попыток %d</string>
     <string name="caller_info_name_delimiter">или</string>
     <string name="first_back_long_press_title">Длительное нажатие клавиш</string>
-    <string name="first_back_long_press_message">"Вы хотите кключить функцию длительного нажатия клавиши Назад для завершения текущего процесса и его фоновых служб? 
-
-Включение: Настройки &lt; Устройство &lt; Настройка кнопок"</string>
+    <string name="first_back_long_press_message">"Вы хотите кключить функцию длительного нажатия клавиши Назад для завершения текущего процесса и его фоновых служб? \n\nВключение: Настройки &lt; Устройство &lt; Настройка кнопок"</string>
     <string name="force_exit_message">Успешно закрыто \"%1$s\"</string>
     <string name="global_action_toggle_privacy_mode">Защита</string>
     <string name="global_action_privacy_mode_on_status">Режим защиты включен</string>
@@ -457,6 +455,9 @@
     <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
     <string name="wake_alarm_message">Следующее срабатывание будильника в %s</string>
     <string name="description_downloadtime">Загрузка:</string>
+    <string name="alarm_message_12_hour_formate">h:mm aa</string>
+    <string name="permlab_accessNote">Доступ к заметкам</string>
+    <string name="format_time_in_12_hours">%1$s %2$s</string>
 	<string name="permdesc_accessNote">Позволяет читать и редактировать Ваши заметки, сохранённые в телефоне. Вредоносные приложения смогут удалить все Ваши заметки или отправить их другим людям.</string>
     <string name="memory_clear_result">Очищено  %1$s\nДоступно %2$s</string>
     <string name="memory_clear_nothing_result">Сейчас нельзя очистить память</string>
@@ -513,7 +514,7 @@
 	<string name="resource_switch_account">Переключить</string>
 	<string name="processing">Запрос обрабатывается ...</string>
     <string name="find_device_turn_off_flight_mode">Выкл. режим \"В самолете\"</string>
-    <string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано\nВыкл. режим \"В самолете\""</string>
-    <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано\nВставьте SIM карту"</string>
+    <string name="find_device_turn_off_flight_mode_instructions">Ваше устройство заблокировано\nВыкл. режим \"В самолете\"</string>
+    <string name="find_device_sim_change_instructions_no_network">Ваше устройство заблокировано\nВставьте SIM карту</string>
     <string name="find_device_check_sim">Проверка SIM...</string>
 </resources>
