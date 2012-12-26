@@ -7,8 +7,7 @@
     <string name="resource_price_format">(%1$s)</string>
     <string name="resourcebrowser_lable">Ресурсы</string>
     <string name="sdcard_status_changed_dialog_title">Статус SD-карты изменен</string>
-    <string name="sdcard_status_changed_dialog_message">"Выход.
-Пожалуйста, откройте это приложение снова для обновления ресурсов."</string>
+    <string name="sdcard_status_changed_dialog_message">"Выход.\nПожалуйста, откройте это приложение снова для обновления ресурсов."</string>
     <string name="resource_transparent_wallpaper">Прозрачный</string>
     <string name="resource_mute">Нет</string>
     <string name="resource_default">Рингтон по умолчанию</string>
@@ -438,8 +437,7 @@
     <string name="perm_tigger_toggle_lab">Управление переключателями в статусбаре</string>
     <string name="perm_tigger_toggle_dspt">Разрешает приложениям управлять переключателями в статусбаре</string>
     <string name="perm_use_find_device">Поиск устройств</string>
-    <string name="find_device_sim_change_instructions">"Ваше устройство было заблокировано
-Пожалуйста, вставьте SIM карту или введите пароль вашего аккаунта Xiaomi"</string>
+    <string name="find_device_sim_change_instructions">"Ваше устройство было заблокировано\nПожалуйста, вставьте SIM карту или введите пароль вашего аккаунта Xiaomi"</string>
     <string name="check_phone_error_title">Ошибка запуска службы синхронизации</string>
     <string name="check_phone_io_error">Сетевая ошибка</string>
     <string name="send_sms_for_sync_title">Сервис активации не запущен</string>
@@ -468,6 +466,14 @@
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
 	<string name="status_bar_toggle_auto_brightness">Автояркость</string>
+    <string name="status_bar_toggle_ring">Звонок</string>
+    <string name="status_bar_toggle_ringtone">Рингтон</string>
+    <string name="status_bar_toggle_sync_auto">Автосинхронизация</string>
+    <string name="status_bar_toggle_sync_manual">Синхронизация вручную</string>
+    <string name="status_bar_toggle_syncing">Синхронизация</string>
+    <string name="status_bar_toggle_power_low">Сбережение энергии</string>
+    <string name="status_bar_toggle_power_mid">Нормально</string>
+    <string name="status_bar_toggle_power_high">Производительность</string>
     <string name="status_bar_toggle_data">Интернет</string>
     <string name="status_bar_toggle_divider">Настроить</string>
     <string name="status_bar_toggle_flight_mode">В самолёте</string>
@@ -506,4 +512,8 @@
 	<string name="resource_server_out_of_service">Временно недоступно, попробуйте позже.</string>
 	<string name="resource_switch_account">Переключить</string>
 	<string name="processing">Запрос обрабатывается ...</string>
+    <string name="find_device_turn_off_flight_mode">Выкл. режим \"В самолете\"</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"Ваше устройство заблокировано\nВыкл. режим \"В самолете\""</string>
+    <string name="find_device_sim_change_instructions_no_network">"Ваше устройство заблокировано\nВставьте SIM карту"</string>
+    <string name="find_device_check_sim">Проверка SIM...</string>
 </resources>
