@@ -136,7 +136,7 @@
 	<string name="home_my_captured_items">Мои фотографии</string>
 	<string name="all_media">&quot;Все фотографии&quot;</string>
 	<string name="done">Завершено</string>
-	<string formatted="false" name="sequence_in_set">%1$d из %2$d ппозиций:</string>
+	<string formatted="false" name="sequence_in_set">%1$d из %2$d позиций:</string>
 	<string name="title">Заголовок</string>
 	<string name="description">Описание</string>
 	<string name="time">Время</string>
@@ -207,6 +207,7 @@
 	<string name="tab_all_text">Установить все</string>
 	<string name="move_cloud_data">Онлпйн альбом был перемещен в: %s</string>
 	<string name="cloud_gallery_space_full">Не удалось загрузить. Онлайн альбом переполнен.</string>
+	<string name="cloud_gallery_recyclebin_full">Корзина заполнена. Очистите корзину на i.xiaomi.com.</string>
 	<string name="cloud_gallery_setting">настройки онлайн альбома</string>
 	<string name="sync_history_power_on">Синхронизировать историю изображений только во время зарядки</string>
 	<string name="sync_history_power_on_summary">Рекоммендуется включить, иначе устройство будет разряжаться значительно быстрее.</string>

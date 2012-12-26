@@ -73,6 +73,8 @@
 	<string name="emegency_build">Сборка:</string>
 	<string name="wifi_not_available_title">WLAN не подключен</string>
 	<string name="wifi_not_available_body">Размер обновления большой, рекомендуется использовать Wi-Fi. Сейчас вы не используете Wi-Fi, продолжить?</string>
+    <string name="paused_queued_for_network">Ожидание соединения по сети</string>
+    <string name="paused_queued_for_wifi">Ожидание соединения по Wi-Fi</string>
 	<string name="boot_recovery">Перезагрузка в recovery</string>
 	<string name="applying_rom_message">Применение обновлений</string>
 	<string name="loading">Загрузка</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Темы</string>
+    <string name="theme_activity_label">Темы</string>
     <string name="theme_activity_lable">Темы</string>
 	<string name="theme_import_activity_label">Обновление темы</string>
     <string name="theme_changing_dialog_title">Применение темы. Подождите...</string>
@@ -75,7 +76,7 @@
     <string name="title_component">Совмещенные</string>
     <string name="title_system_resource">Системные ресурсы</string>
     <string name="title_download_resource">Загруженные ресурсы</string>
-    <string name="long_ringtone_resource">Длинные\n(>5сек)</string>
+    <string name="long_ringtone_resource">Длинные\n(&lt;5сек)</string>
     <string name="short_ringtone_resource">Короткие\n(&lt;5сек)</string>
     <string name="all_ringtone_resource">Все</string>
     <string name="resource_preview">Предпоказ</string>
@@ -89,6 +90,10 @@
     <string name="download_success">Загрузка завершена!</string>
 	<string name="theme_importing">Импорт тем</string>
 	<string name="theme_import_success">Импорт завершен</string>
+    <string name="theme_upgrade_request_title">Необходимо обновить тему</string>
+    <string name="theme_upgrade_request_content">The format of the local themes need to be converted to enhance efficiency. It could take a moment to update and the phone response rate maybe affected. Convert themes now?</string>
+    <string name="theme_upgrade_request_yes">Да</string>
+    <string name="theme_upgrade_request_cancel">Нет</string>
 	<string name="theme_update_request_title">Обновление темы</string>
 	<string name="theme_update_request_content">Необходимо переконвертировать тему в новый формат, это может занять много времени. Траффик не будет использоваться. Нажмите OK для начала обработки.</string>
 	<string name="theme_import_preparing">Сканирование локальных тем</string>

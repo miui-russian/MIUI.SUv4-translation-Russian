@@ -420,14 +420,18 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="sip_settings">Настройки интернет-телефонии</string>
 	<string name="sip_accounts">Аккаунты интернет-телефонии (SIP)</string>
 	<string name="sip_accounts_title">Аккаунты</string>
+	<string name="sip_accounts_summary">Manage Internet calling (SIP) accounts and status</string>
 	<string name="sip_receive_calls">Принимать входящие</string>
 	<string name="sip_receive_calls_summary">Повышает расход заряда батареи</string>
+	<string name="sip_call_options">Настройки вызовов</string>
 	<string name="sip_call_options_title">Использовать Интернет</string>
 	<string name="sip_call_options_wifi_only_title">Использовать интернет-соединение (Wi-Fi)</string>
 	<string name="sip_call_options_entry_1">Для всех вызовов при возможности передачи данных</string>
 	<string name="sip_call_options_entry_2">Только для интернет-вызовов</string>
 	<string name="sip_call_options_entry_3">Спрашивать для каждого вызова</string>
 	<string name="sip_call_options_wifi_only_entry_1">Для всех вызовов</string>
+	<string name="auto_reg">Авторегистрация</string>
+	<string name="call_priority">Исходящие вызовы через SIP</string>
 	<string name="pick_outgoing_call_phone_type">Исходящий вызов</string>
 	<string name="pick_outgoing_sip_phone">Аккаунт для интернет-вызовов:</string>
 	<string name="remember_my_choice">Использовать для всех интернет-вызовов</string>
@@ -447,6 +451,10 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="alert_dialog_close">Закройте профиль</string>
 	<string name="alert_dialog_ok">ОК</string>
 	<string name="close_profile">Закрыть</string>
+    <string name="primary_account">Основной</string>
+    <string name="primary_account_title">Сделать его моим основным аккаунтом</string>
+    <string name="primary_account_summary">Используется для исходящих вызовов</string>
+    <string name="advanced_settings_title">Дополнительные настройки</string>
 	<string name="primary_account_summary_with">Основной аккаунт. %s</string>
 	<string name="registration_status_checking_status">Проверка состояния...</string>
 	<string name="registration_status_registering">Регистрация...</string>
@@ -469,7 +477,10 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="proxy_address_title">Адрес прокси-сервера</string>
 	<string name="port_title">Номер порта</string>
 	<string name="transport_title">Протокол</string>
-	<string name="send_keepalive_title">Отправлять keep-alive</string>
+	<string name="send_keepalive_title">Send keep-alive</string>
+    <string name="send_keepalive_summary">Send SIP keep-alive messages</string>
+    <string name="auto_registration_title">Авторегистрация</string>
+    <string name="auto_registration_summary">Автоматическая регистрация профиля</string>
 	<string name="set_primary_title">Основной аккаунт</string>
 	<string name="set_primary_summary">Использовать этот аккаунт по умолчанию для исходящих вызовов</string>
 	<string name="advanced_settings">Расширенные настройки</string>
@@ -502,6 +513,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="port">Порт</string>
 	<string name="transport">Протокол</string>
 	<string name="send_keepalive">Отправлять всегда</string>
+	<string name="auto_registration">Авторегистрация</string>
 	<string name="set_primary">Основной аккаунт</string>
 	<string name="advanced_settings_container">Хранилище расширенных настроек</string>
 	<string name="auth_username">Имя пользователя</string>
@@ -528,6 +540,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="description_image_button_star">звездочка</string>
 	<string name="description_image_button_zero">ноль</string>
 	<string name="description_image_button_pound">решетка</string>
+	<string name="description_search_button">поиск</string>
 	<string name="description_dial_button">набор номера</string>
 	<string name="description_delete_button">возврат</string>
 	<string name="accessibility_speakerphone_enabled">Громкая связь включена.</string>
@@ -661,6 +674,7 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="command_error_unsupported_mode_miui">Тип предпочтительной сети не поддерживается.</string>
 	<string name="command_error_unsupported_request_miui">Операция не поддерживается</string>
 	<string name="confirm_delete_message_title_miui">Сообщение будет удалено</string>
+	<string name="confirm_no_countrycode_for_custom_location_miui">Введите номер без кода страны</string>
 	<string name="confirm_pin2_hint_miui">Подтвердите новый PIN2</string>
 	<string name="confirm_pin_hint_miui">Подтвердите новый PIN</string>
 	<string name="connect_disconnect_vibrate_none_miui">Не вибрировать</string>
@@ -783,7 +797,8 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="onscreen_tools_on_miui">Инструменты</string>
 	<string name="other_settings_miui">Прочие настройки</string>
 	<string name="pin2_changed_miui">PIN2 изменен успешно</string>
-	<string name="pin2_locked_message_miui">Неверный PIN2, функциии, касающийся PIN2, заблокированы. Сбросьте PIN2 введя PUK2.</string>
+	<string name="pin2_changed_miui">PIN2 изменен успешно</string>
+	<string name="pin2_invalid_or_name_is_too_long">FDN не обновлен! Вы ввели неправильный PIN либо имя слишком длинное.</string>
 	<string name="pin2_lock_warning_miui">Функционал, касающийся PIN2, будет заблокирован при неудачной попытке!</string>
 	<string name="pin_attempts_miui">Осталось %d попыток</string>
 	<string name="pin_changed_miui">PIN код SIM изменен успешно</string>
@@ -925,4 +940,9 @@ Cледующий период начинается через %2$d дней (%3
 	<string name="description_direction_right">Вправо для %s.</string>
 	<string name="description_direction_left">Влево для %s.</string>
 	<string name="description_direction_up">Вверх для %s.</string>
+    <string name="in_calling">Вызов</string>
+    <string name="unknown_num">Неизвестный номер</string>
+    <string name="in_sms">Сообщение</string>
+    <string name="sms_sender">От</string>
+    <string name="sms_content">Содержание</string>
 </resources>

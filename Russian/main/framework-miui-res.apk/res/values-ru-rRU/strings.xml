@@ -384,7 +384,7 @@
     <string name="first_back_long_press_title">Длительное нажатие клавиш</string>
     <string name="first_back_long_press_message">"Вы хотите кключить функцию длительного нажатия клавиши Назад для завершения текущего процесса и его фоновых служб? 
 
-Включение: Настройки > Устройство > Настройка кнопок"</string>
+Включение: Настройки &lt; Устройство &lt; Настройка кнопок"</string>
     <string name="force_exit_message">Успешно закрыто \"%1$s\"</string>
     <string name="global_action_toggle_privacy_mode">Защита</string>
     <string name="global_action_privacy_mode_on_status">Режим защиты включен</string>
@@ -500,7 +500,7 @@
     <string name="incoming_call_vibrate_hint">Входящий вызов</string>
     <string name="notification_vibrate_hint">Уведомление</string>
     <string name="mms_vibrate_hint">Сообщение</string>
-    <string name="not_all_vibrate_hint">"В соответствии с Вашими настройками, %1$s вибрирует, %2$s не вибрирует, изменить можно через настройки > Звук > Вибрация"</string>
+    <string name="not_all_vibrate_hint">"В соответствии с Вашими настройками, %1$s вибрирует, %2$s не вибрирует, изменить можно через настройки &lt; Звук &lt; Вибрация"</string>
     <string name="screen_button_notification_title">Экранные клавиши отключены</string>
     <string name="screen_button_notification_text">"Нажмите 'Домой'+'Включение' для разблокировки"</string>
     <string name="resource_get_auth">У вас нет нет прав для доступа к ресурсу.</string>
