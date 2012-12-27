@@ -424,7 +424,7 @@
     <string name="permdesc_mdmFirewall">Разрешить приложениям использовать службы файервола MDM.</string>
     <string name="permlab_mdmEnterpriseAdmin">Разрешения Администратора для корпоративного устройства</string>
     <string name="permdesc_mdmEnterpriseAdmin">Разрешить приложениям контролировать настройки Администратора устройства.</string>
-    <string name="permlab_mdmRemoteControlSettings">Разрешения настроек удаленного доступа MDM</string>//
+    <string name="permlab_mdmRemoteControlSettings">Разрешения настроек удаленного доступа MDM</string>
     <string name="permdesc_mdmRemoteControlSettings">Разрешить приложениям доступ к настройкам служб удаленного доступа MDM.</string>
     <string name="tether_usb_restrict">Политика безопасноти ограничивает использование точки доступа USB</string>
     <string name="tether_wifi_restrict">Политика безопасноти ограничивает использование точки доступа Wi-Fi</string>
