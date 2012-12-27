@@ -240,7 +240,7 @@
 	<string name="CLIRDefaultOnNextCallOff">Идентификационные данные звонящего по умолчанию запрещены. Следующий звонок: Разрешён</string>
 	<string name="CLIRDefaultOffNextCallOn">Идентификационные данные звонящего по умолчанию разрешены. Следующий звонок: Запрещён</string>
 	<string name="CLIRDefaultOffNextCallOff">Идентификационные данные звонящего по умолчанию разрешены. Следующий звонок: Разрешён</string>
-	<string name="permlab_kt_dbs">KT Application DB</string>
+	<string name="permlab_kt_dbs">База данных KT Application</string>
     <string name="permdesc_kt_dbs">Сохранить аутентификационные данные KT Application</string>
     <string name="permgrouplab_skt">Служба SKT</string>
     <string name="permgroupdesc_skt">Разрешить приложениям использовать службы SKT и SKP</string>
@@ -1590,15 +1590,6 @@
     <string name="sdcard_batch_decrypt_noti_content">Расшифровать SD-карту</string>
     <string name="sdcard_batch_decrypt_popup_content">Зашифрованная SD-карта должна быть расшифрована перед использованием. Расшифровка может занять более часа. Начинайте при заряженной батареи и подключенном зарядном устройтсве. Прерывание процеса расшифровки может привести к потере данных.</string>
     <string name="cmcc_operator_name">CMCC</string>
-    <string name="cu_operator_name">China Unicom</string>
-    <string name="chunghwa_operator_name">Chunghwa</string>
-    <string name="fareastone_operator_name">FarEasTone</string>
-    <string name="kgt_operator_name">KGT</string>
-    <string name="vibo_operator_name">VIBO</string>
-    <string name="twmobile_operator_name">TW Mobile</string>
-    <string name="smartone_operator_name">SmarTone</string>
-    <string name="cmhk_operator_name">CMHK</string>
-    <string name="zzz_limited_service">LimitedService</string>
 	<string name="sending">Отправка…</string>
 	<string name="launchBrowserDefault">Запустить браузер?</string>
 	<string name="SetupCallDefault">Принять вызов?</string>
@@ -1618,7 +1609,7 @@
     <string name="StrIllegalSSOperation">Ошибка кода службы. Пожалуйста, попробуйте еще раз.</string>
     <string name="StrSSErrStatus">Ошибка аутентификации. Пожалуйста, попробуйте еще раз.</string>
     <string name="StrSSNotAvailable">Служба не зарегистрирована.Пожалуйста обратитесь в CS центр.</string>
-    <string name="StrSSSubscriptionViolation">service scription is violation.Please contact CS center.</string>
+    <string name="StrSSSubscriptionViolation">Ошибка служебных записей.Пожалуйста обратитесь в CS центр.</string>
     <string name="StrSSIncompatibility">Несовместимость службы. Пожалуйста обратитесь в CS центр.</string>
     <string name="StrSysFailure">Системная ошибка. Пожалуйста, попробуйте еще раз.</string>
     <string name="StrDataMissing">Введенные данные отсутствуют. Пожалуйста, попробуйте еще раз.</string>
@@ -1633,10 +1624,10 @@
     <string name="StrUssd_Busy">Регистрация в сети отложена.</string>
     <string name="StrRejectedByUser">Служба отменена пользователем.</string>
     <string name="StrRejectedByNetwork">Служба отменена сетью.</string>
-    <string name="StrDeflectionToServedSubscriber">Deflection To Served Subscriber.</string>
-    <string name="StrSpecialServiceCode">Special ServiceCode.</string>
-    <string name="StrInvalidDeflectedToNumber">Invalid Deflected To Number. Please try again.</string>
-    <string name="StrMaxNumberOfMPTY_ParticipantsExceeded">MaxNumber Of MPTY_Participants Exceeded.</string>
+    <string name="StrDeflectionToServedSubscriber">Отклонение от подписчика.</string>
+    <string name="StrSpecialServiceCode">Служебный код.</string>
+    <string name="StrInvalidDeflectedToNumber">Неверное обращение к номеру. Пожалуйста, попробуйте еще раз.</string>
+    <string name="StrMaxNumberOfMPTY_ParticipantsExceeded">Максимальное число MPTY_Participants превышено.</string>
     <string name="StrResourcesNotAvailable">Источники недоступны. Пожалуйста, попробуйте еще раз.</string>
     <string name="StrEtcReturnError">Пожалуйста, попробуйте еще раз.</string>
     <string name="KTmmiError">Проблема соединения или неверный MMI код</string>
@@ -1651,37 +1642,9 @@
     <string name="lockscreen_failed_attempts_almost_glogin2" formatted="false">"Символы введены неверно %d раз. %d попыток осталось. Потом вам будет необходимо ввести данные Google аккаунта или PIN для восстановления.
 
  Повторите через %d секунд."</string>
-    <string name="zzz_dual_clock_city_seoul">Seoul</string>
+    <string name="zzz_dual_clock_city_seoul">Сеул</string>
     <string name="zzz_dual_clock_city_local">Местное время</string>
     <string name="wifi_on_vt_not_allowed_msg">Видео-звонки невозможны при включенном Wi-Fi</string>
-    <item type="string" name="APKTOOL_DUMMY_062b">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_062c">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_062d">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_062e">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_062f">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0632">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0633">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0634">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0635">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0636">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0637">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0638">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0639">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_063a">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_063b">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_063c">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_063d">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_063e">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_063f">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0640">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0641">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0642">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0643">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0644">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0645">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0646">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0647">Ошибка</item>
-    <item type="string" name="APKTOOL_DUMMY_0648">Ошибка</item>
     <string name="cutAll">Вырезать все</string>
     <string name="copyAll">Скопировать все</string>
     <string name="undo">Отменить</string>
