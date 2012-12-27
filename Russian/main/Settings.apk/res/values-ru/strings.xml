@@ -262,7 +262,7 @@
 	<string name="zone_list_menu_sort_by_timezone">Упорядочить по часовому поясу</string>
 	<string name="date_picker_title">Дата</string>
 	<string name="time_picker_title">Время</string>
-	<string name="biometric_weak_improve_matching_title">Improve face matching</string>
+	<string name="biometric_weak_improve_matching_title">Улучшить определение лица</string>
 	<string name="biometric_weak_liveliness_title">Проверка на человека</string>
 	<string name="biometric_weak_liveliness_summary">Моргните во время разблокировки</string>
 	<string name="lock_after_timeout">Автоблокировка</string>

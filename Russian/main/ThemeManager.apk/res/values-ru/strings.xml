@@ -91,7 +91,7 @@
 	<string name="theme_importing">Импорт тем</string>
 	<string name="theme_import_success">Импорт завершен</string>
     <string name="theme_upgrade_request_title">Необходимо обновить тему</string>
-    <string name="theme_upgrade_request_content">The format of the local themes need to be converted to enhance efficiency. It could take a moment to update and the phone response rate maybe affected. Convert themes now?</string>
+    <string name="theme_upgrade_request_content">Формат локальных тем нужно изменить для повышения производительности. Это займет некоторое время, телефон может не откликаться. Конвертировать сейчас?</string>
     <string name="theme_upgrade_request_yes">Да</string>
     <string name="theme_upgrade_request_cancel">Нет</string>
 	<string name="theme_update_request_title">Обновление темы</string>
