@@ -28,7 +28,7 @@
     <string name="cancel">Отмена</string>
     <string name="no_file">Нет файлов</string>
     <string name="tab_category">Категория</string>
-    <string name="tab_sd">SD-карта</string>
+    <string name="tab_phone">Телефон</string>
     <string name="sd_folder">SD-карта</string>
     <string name="category_all">Все</string>
     <string name="category_music">Музыка</string>
@@ -86,7 +86,6 @@
     <string name="dialog_type_video">Видео</string>
     <string name="dialog_type_image">Изображения</string>
     <string name="favorite_photo">Фото</string>
-    <string name="favorite_sdcard">SD карта</string>
     <string name="favorite_screen_cap">Скриншоты</string>
     <string name="favorite_ringtone">Рингтоны</string>
     <string name="file_loading">Загрузка…</string>
@@ -94,8 +93,6 @@
     <string name="multi_select_title">%1$s выбрано</string>
     <string name="tab_networkdisk">MiDrive</string>
     <string name="operation_download_link">Сгенерировать ссылку</string>
-    <string name="ui_main_menu_option_setting">Настройки</string>
-    <string name="ui_main_download_file_failed">Ошибка при загрузке “%1$s”</string>
     <string name="ui_filechange_btn_download">Загрузка файлов</string>
     <string name="show_message">Файл не может быть открыт без загрузки</string>
     <string name="ui_main_progress_txt_open_file">Загрузка…</string>
@@ -105,21 +102,9 @@
     <string name="user_guide">Руководство</string>
     <string name="user_guide_summary">Как использовать MiDrive</string>
     <string name="rename_failed">Ошибка переименования %1$s </string>
-    <string name="rename_success">%1$s успешно переименован</string>
-    <string name="ui_bar_title_download">MiDrive: Загрузка</string>
-    <string name="ui_bar_txt_download_success">MiDrive: Загрузка завершена</string>
-    <string name="ui_bar_txt_download_progress">%1$d файлов загружается</string>
-    <string name="ui_bar_txt_download_failed">MiDrive: ошибка загрузки </string>
-    <string name="ui_bar_txt_text">MiDrive передача файлов… %1$d осталось(%2$d%%)</string>
-    <string name="ui_bar_title_upload">MiDrive: Передача</string>
-    <string name="ui_bar_txt_upload_success">MiDrive: Передача завершена</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>
-    <string name="ui_bar_txt_upload_failed">MiDrive: Передача прервана</string>
     <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
-    <string name="ui_task_menu_clean">Очистить все задачи</string>
-    <string name="ui_task_menu_pause">Приостановить все задачи</string>
-    <string name="ui_task_menu_goon">Продолжить все задачи</string>
-    <string name="login_reg_content">MiDrive позволяет хранить файлы и синхронизировать их с другими устройствами</string>
+    <string name="login_reg_content">MiDrive позволяет хранить файлы и \nсинхронизировать их с другими устройствами</string>
     <string name="login_reg_login_xiaomi">Вход в аккаунт Xiaomi</string>
     <string name="start_use_xiaomi_account">Старт для входа</string>
     <string name="pan_settting">Настройки MiDrive</string>
@@ -131,7 +116,6 @@
     <string name="local_cache_size">Размер локального кэша: %s</string>
     <string name="net_lose_connected">Сеть недоступна: невозможно получить размер</string>
     <string name="wangpan_root_path">My Drive</string>
-    <string name="waiting_refresh">Обновление…</string>
     <string name="kuaipan_over_space">У вас в MiDrive закончилось место.</string>
     <string name="kuaipan_tech_support">Тех.поддержка Kingsoft Kuaipan</string>
     <string name="no_tasks">Нет задач</string>
@@ -143,10 +127,7 @@
         <item>Завершено</item>
         <item>Пауза</item>
     </string-array>
-    <string name="upload_items_detail_message">Загрузка файлов в MiDrive… %1$d осталось(%2$d%%)</string>
-    <string name="download_items_detail_message">Скачивание файлов на SD-карту… %1$d осталось(%2$d%%)</string>
     <string name="create_new_folder_failed">Ошибка создания папки %1$s</string>
-    <string name="create_new_folder_succeeded">Папка %1$s успешно создана</string>
     <string name="slide_left_text">Сдвиньте влево</string>
     <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD-карты в MiDrive</string>
     <string name="guide_access_files_through_web">Они будут доступны через интернет\nна любом компьютере</string>
@@ -160,15 +141,8 @@
     <string name="guide_login_url">Посетите на своем ПК\npan.xiaomi.com</string>
     <string name="guide_download_install_apk">Загрузите и установите клиент MiDrive</string>
     <string name="guide_begin_to_use">Начать использовать MiDrive</string>
-    <string name="file_large_error">Файл более 300Мбне может быть загружен</string>
     <string name="upload_file_toolarge_message">%1$d файлов размером более 300Мб не могут быть загружены. Проверьте "Управление передачами".</string>
     <string name="cution">Советы</string>
-    <string name="ui_bar_txt_file_not_found">MiDrive: Файл не найден</string>
-    <string name="wifi_notication">Все задачи готовы для передачи по Wi-Fi</string>
-    <string name="nowifi_notication">Все задачи приостановлены для мобильной сети</string>
-    <string name="disconnect_notication">Во время отключения сети, все загрузки будут приостановлены</string>
-    <string name="delete_operation_result_all_success">%1$d файлов удалено</string>
-    <string name="delete_operation_result_success_and_failed">%1$d файлов удалено. Ошибка при удалении %2$d</string>
     <string name="clean_trash_box">Очистить Корзину</string>
    <string name="trash_box_link">Чтобы очистить корзину, посетите pan.xiaomi.com</string>
     <string name="clean_title">Удалить файлы из Корзины Старше 30 дней</string>
@@ -196,11 +170,10 @@
     <string name="decompress_cancel">Отмена</string>
     <string name="kuaipan_prompt">MiDrive СОВЕТЫ</string>
     <string name="kuaipan_prompt_message">\n Сервер закрыт на техническое обслуживание, повторите позже…\n</string>
-    <string name="move_success">Успешно вырезано</string>
     <string name="move_failed">Невозможно вырезать</string>
-    <string name="copy_success">Успешно скопировано</string>
     <string name="copy_failed">Ошибка копирования</string>
     <string name="toast_file_not_can_read">Невозможно прочитать файл</string>
+	<string name="server_control_settings">Настройки</string>
     <string name="server_control_advanced_settings">Расширенные настройки</string>
     <string name="server_control_charset">Кодирование передачи</string>
     <string name="utf8_title">UTF-8</string>
@@ -218,17 +191,32 @@
     <string name="ftp_username_hint">Логин</string>
     <string name="ftp_password_hint">Пароль</string>
     <string name="ftp_invalid_username_or_password">Неверный логин или пароль</string>
+	<string name="add_task">Добавить задачи</string>
 	<string name="adding_upload_tasks">Добавляю задачи загрузки…</string>
-    <string name="clean_transh_box_desctiption">Очищаю корзину…</string>
     <string name="create_new_folder_desctiption">Создаю папку…</string>
     <string name="create_share_link_description">Создаю ссылку для обмена…</string>
-    <string name="delete_file_description">Удаляю файл(ы)…</string>
-    <string name="load_data_from_local">Дождитесь окончания загрузки данных…</string>
-    <string name="move_file_description">Перемещаю файл(ы)…</string>
     <string name="rename">Переименовать</string>
     <string name="rename_description">Переименование…</string>
-    <string name="share_link">Поделиться</string>
     <string name="share_link_failed">Не удалось создать ссылку для папки</string>
     <string name="choose_send_type">Выберите метод отправки</string>
     <string name="download_link_completed">Я открыл доступ к %1$s через MiDrive. Перейдите по ссылке ниже, чтобы посмотреть:</string>
+	<string name="transing">Передача</string>
+	<string name="finished">Заверешено</string>
+	<string name="uploading">Загрузка</string>
+	<string name="downloading">Загрузка</string>
+	<string name="waiting">Ожидание</string>
+	<string name="paused">Приостановлено</string>
+	<string name="upload_failed">Ошибка загрузки</string>
+	<string name="download_failed">Ошибка загрузки</string>
+	<string name="operation_pause">Приостановить</string>
+	<string name="operation_resume">Запустить</string>
+	<string name="operation_pause_all">Приостановить все</string>
+	<string name="operation_resume_all">Запустить все</string>
+	<string name="operating">Обрабатывается...</string>
+	<string name="trans_task">Передача по сети</string>
+	<string name="des_running_trans">Еще %1$d файлов нужно передать</string>
+	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите&lt;/a>чтобы очистить корзину</string>
+	<string name="storage_internal">Внутренняя память</string>
+	<string name="storage_sd_card">SD карта</string>
+	<string name="storage_usb">USB накопитель</string>	
 </resources>
