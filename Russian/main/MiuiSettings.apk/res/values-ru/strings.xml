@@ -133,7 +133,7 @@
     <string name="activating">Активация...</string>
 	<string name="wifi_enable_watchdog_service_summary">Использовать Wi-Fi, когда интернет-соединение хорошее</string>
 	<string name="wifi_disabled_help">Отключено из-за плохого соединения. Чтобы изменить настройки, откройте Настройки &gt; Wi-Fi, Дополнительные настройки.</string>
-	<string name="wifi_wps_overlap_error">Обнаружено другое ашифрованное Wi-Fi соединение. Повторите через несколько минут.</string>
+	<string name="wifi_wps_overlap_error">Обнаружено другое зашифрованное Wi-Fi соединение. Повторите через несколько минут.</string>
 	<string name="wifi_p2p_wps_setup">Настройки безопасности Wi-Fi</string>
     <string name="default_input_method">Выбрать метод ввода по умолчанию</string>
     <string name="volume_category_title">Громкость</string>
