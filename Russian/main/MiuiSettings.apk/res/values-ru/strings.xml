@@ -130,61 +130,11 @@
     <string name="apn_new">Новая точка доступа</string>
     <string name="apn_save">Сохранить?</string>
     <string name="apn_save_msg">APN был изменен. Сохранить?</string>
+	<string name="wifi_enable_watchdog_service_summary">Использовать Wi-Fi, когда интернет-соединение хорошее</string>
+	<string name="wifi_disabled_help">Отключено из-за плохого соединения. Чтобы изменить настройки, откройте Настройки &gt; Wi-Fi, Дополнительные настройки.</string>
+	<string name="wifi_wps_overlap_error">Обнаружено другое ашифрованное Wi-Fi соединение. Повторите через несколько минут.</string>
+	<string name="wifi_p2p_wps_setup">Настройки безопасности Wi-Fi</string>
     <string name="activating">Активация...</string>
-    <string name="radio_controls_summary">Управление , bluetooth, режимом самолета, мобильными сетями, &amp; VPNs</string>
-    <string name="wifi_quick_toggle_title">Wi-Fi</string>
-    <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
-    <string name="wifi_settings">Wi-Fi</string>
-    <string name="wifi_settings_category">Настройки Wi-Fi</string>
-    <string name="wifi_settings_title">Wi-Fi</string>
-    <string name="wifi_starting">Wi-Fi вкл\u2026</string>
-    <string name="wifi_stopping">Wi-Fi выкл\u2026</string>
-    <string name="wifi_enable_watchdog_service_summary">использовать сеть Wi-Fi только при сильном интернет-соединении </string>
-    <string name="wifi_setting_sleep_policy_title">Оставлять Wi-Fi включенным в режиме сна</string>
-    <string name="wifi_access_points">Сети Wi-Fi</string>
-    <string name="wifi_empty_list_wifi_off">Чтобы увидеть доступные сети, включите Wi-Fi.</string>
-    <string name="wifi_disabled_help">Сеть была разорвана из-за плохого соединения. Чтобы изменить эту настройку, перейдите в Настройки &gt; экран Wi-Fi, Дополнительное меню.</string>
-    <string name="wifi_wps_overlap_error">Была обнаружена другая защищённая сессия Wi-Fi. Попробуйте снова через несколько минут.</string>
-    <string name="wifi_advanced_titlebar">Дополнительные настроки</string>
-    <string name="wifi_setting_frequency_band_title">Диапазон частот Wi-Fi</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi direct</string>
-    <string name="wifi_p2p_wps_setup">Настройки WPS</string>
-    <string name="wifi_tether_checkbox_text">Переносная точка доступа Wi-Fi</string>
-    <string name="wifi_tether_failed_subtext">Ошибка переносной точки доступа Wi-Fi</string>
-    <string name="wifi_tether_configure_ap_text">Настроить хот-спот Wi-Fi</string>
-    <string name="wifi_tether_configure_subtext">%1$s%2$s переносная точка доступа Wi-Fi</string>
-    <string name="testing_wifi_info" translatable="false">Информация Wi-Fi</string>
-    <string name="wifi_api_test" translatable="false">Wi-Fi API</string>
-    <string name="wifi_status_test" translatable="false">Статус Wi-Fi</string>
-    <string name="wifi_state_label" translatable="false">Состояние Wi-Fi</string>
-    <string name="wifi_config_info" translatable="false">Настройки Wi-Fi</string>
-    <string name="status_wifi_mac_address">Mac-адрес Wi-Fi</string>
-    <string name="location_network_based">Служба позиционирования оператором</string>
-    <string name="location_neighborhood_level">Разрешить приложению использовать информацию из сетей для определения местоположения</string>
-    <string name="location_neighborhood_level_wifi">Положение определяется через Wi-Fi</string>
-    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
-    <string name="wifi_on_time">Wi-Fi on time</string>
-    <string name="bluetooth_on_time">Wi-Fi on time</string>
-    <string name="power_wifi">Wi-Fi</string>
-    <string name="usage_type_wifi_running">Включен Wi-Fi</string>
-    <string name="battery_action_wifi">Настройки Wi-Fi</string>
-    <string name="battery_desc_wifi">Использование батареи Wi-Fi</string>
-    <string name="battery_sugg_wifi">Выключать Wi-Fi когда нет соединений или он не используется</string>
-    <string name="gadget_toggle_wifi">Обновление настроек Wi-Fi</string>
-    <string name="backup_data_summary">Сделать резервное копирование данных(Wi-Fi пароли и другие настройки) в службы Google</string>
-    <string name="backup_erase_dialog_message">Вы действительно хотите остановить резервное копирование данных в службы Google?</string>
-    <string name="wifi_setup_title">Настройка Wi-Fi</string>
-    <string name="wifi_setup_title_editing_network">Соединиться с сетью %s</string>
-    <string name="wifi_setup_title_connecting_network">Подключение к Wi-Fi сети %s\u2026</string>
-    <string name="wifi_setup_title_connected_network">Подключено к Wi-Fi сети %s</string>
-    <string name="wifi_setup_eap_not_supported">Невозможно настроить EAP Wi-Fi соединение.Зайдите в настрйки &gt; Беспроводные &amp; Сети.</string>
-    <string name="wifi_setup_description_connected">Нажмите <b>Далее</b> для продолжения настройки.\n\nНажмите <b>Назад</b> для подключения к другой Wi-Fi сети.</string>
-    <string name="data_usage_menu_show_wifi">Показать статистику использования Wi-Fi</string>
-    <string name="data_usage_disable_wifi_limit">Установить лимит передачи данных по Wi-Fi</string>
-    <string name="data_usage_tab_wifi">Wi-Fi</string>
-    <string name="data_usage_app_restrict_background_summary">Отключить фоновую передачу данных через мобильные сети. Будет использоваться Wi-Fi, если доступно.</string>
-    <string name="data_usage_app_restrict_dialog">Настроить более подходящий контроль передачи данных, доступный в приложении.</string>
-    <string name="data_usage_restrict_background">Если фоновая передача данных через мобильные сети ограничена, то приложения\вЂ™t не будут работать без подключения к Wi-Fi сети.</string>
     <string name="default_input_method">Выбрать метод ввода по умолчанию</string>
     <string name="volume_category_title">Громкость</string>
     <string name="vibrate_category_title">Вибрация</string>
