@@ -1703,7 +1703,7 @@
 	<string name="available_size">%s (Доступно)</string>
 	<string name="total_size">%s (Всего)</string>
 	<string name="xiaomi_account">Аккаунт Xiaomi</string>
-	<string name="sync_settings">Аккаунты &amp; синхронизация</string>
+	<string name="sync_settings">Аккаунты и синхронизация</string>
 	<string name="sms_received_sound_title">Звук входящего SMS</string>
 	<string name="sms_delivered_sound_title">Звук доставленного SMS</string>
 	<string name="sms_received_sound_dialog_title">Выберите звук входящего SMS</string>
