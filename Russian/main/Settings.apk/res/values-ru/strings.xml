@@ -1199,7 +1199,7 @@
 	<string name="accessibility_no_services_installed">Службы не установлены</string>
 	<string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
 	<string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
-    <string name="accessibility_script_injection_security_warning_title">Установить вэб скрипты?</string>
+    <string name="accessibility_script_injection_security_warning_title">Установить WEB скрипты для ускорения работы?</string>
 	<string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты Google для повышения доступности веб-контента?</string>
     <string name="accessibility_touch_exploration_warning">Эта функция изменяет способ отклика при нажатии. Включить?</string>
 	<string name="accessibility_service_default_description">Нет описания</string>
