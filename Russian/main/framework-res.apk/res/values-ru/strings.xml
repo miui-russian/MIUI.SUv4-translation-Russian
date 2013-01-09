@@ -815,7 +815,7 @@
 	<string name="lockscreen_glogin_submit_button">Вход</string>
 	<string name="lockscreen_glogin_invalid_input">Неверный логин или пароль.</string>
 	<string name="lockscreen_glogin_account_recovery_hint">&quot;Забыли логин или пароль?
-Посетите &quot;google.com/accounts/recovery</string>
+Посетите google.com/accounts/recovery&quot;</string>
 	<string name="lockscreen_glogin_checking_password">Проверка…</string>
 	<string name="lockscreen_unlock_label">Разблокировать</string>
 	<string name="lockscreen_sound_on_label">Звук вкл.</string>
@@ -1309,4 +1309,4 @@
 	<string name="default_audio_route_category_name">Система</string>
 	<string name="bluetooth_a2dp_audio_route_name">Bluetooth аудио</string>
 	<string name="media_route_chooser_grouping_done">Готово</string>
-</resources><!--Parsed with BurgerZ.pro XML Parser-->
+</resources>
