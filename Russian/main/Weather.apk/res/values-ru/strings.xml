@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Погода</string>
-    <string name="app_about_1">v4.0.15</string>
+    <string name="app_about_1">v4.0.21</string>
     <string name="app_about_2">Copyright © 2012 miui.com, All Rights Reserved</string>
     <string name="weather_notification">Оповещения о погоде</string>
     <string name="location_notification">Оповещение о местонахождении</string>
