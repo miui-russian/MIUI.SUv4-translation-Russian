@@ -833,7 +833,6 @@
 	<string name="factorytest_not_system">Действие &quot;FACTORY_TEST&quot; поддерживается только для приложений, установленных в /system/app.</string>
 	<string name="factorytest_no_action">Не обнаружено приложений, поддерживающих действие &quot;FACTORY_TEST&quot;.</string>
 	<string name="factorytest_reboot">Перезагрузка</string>
-	<string name="web_user_agent">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
 	<string name="web_user_agent_target_content">&quot;Телефон&quot;</string>
 	<string name="js_dialog_title">&quot;Страница '%s' сообщает:&quot;</string>
 	<string name="js_dialog_title_default">Java-скрипт</string>
