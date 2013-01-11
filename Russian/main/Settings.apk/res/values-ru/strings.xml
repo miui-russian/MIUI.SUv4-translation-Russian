@@ -69,7 +69,7 @@
 	<string name="battery_info_status_charging_usb">по USB</string>
 	<string name="battery_info_status_discharging">Работа от батареи</string>
 	<string name="battery_info_status_not_charging">Не заряжается</string>
-	<string name="battery_info_status_full">Батарея заряжена</string>
+	<string name="battery_info_status_full">Аккумулятор заряжен</string>
 	<string name="battery_info_power_unplugged">Не подключено</string>
 	<string name="battery_info_power_ac">Питание от сети</string>
 	<string name="battery_info_power_usb">USB</string>
@@ -1204,7 +1204,7 @@
     <string name="accessibility_touch_exploration_warning">Эта функция изменяет способ отклика при нажатии. Включить?</string>
 	<string name="accessibility_service_default_description">Нет описания</string>
 	<string name="settings_button">Настройки</string>
-	<string name="power_usage_summary_title">Батарея</string>
+	<string name="power_usage_summary_title">Аккумулятор</string>
 	<string name="power_usage_summary">На что расходуется заряд батареи</string>
 	<string name="power_usage_not_available">Уровень заряда неизвестен</string>
 	<string name="power_usage_level_and_status" formatted="false">%1$s – %2$s</string>
@@ -1681,11 +1681,11 @@
 	<string name="search_unlock_set">Разблокировка</string>
 	<string name="search_access_control">Контроль доступа</string>
 	<string name="search_gps">GPS</string>
-	<string name="search_status_bar">Статус бар</string>
+	<string name="search_status_bar">Строка состояния</string>
 	<string name="search_sync">Синхронизация</string>
 	<string name="search_battery_indicator">Индикатор батареи</string>
 	<string name="search_key">key</string>
-	<string name="search_led">LED</string>
+	<string name="search_led">LED индикатор</string>
 	<string name="search_date_time">Дата и время</string>
 	<string name="search_language">Язык</string>
 	<string name="search_about">О программе</string>
@@ -1761,11 +1761,11 @@
 	<string name="pref_volume_category_title">Громкость</string>
 	<string name="pref_volume_wake_title">Пробуждение клавишей громкости</string>
 	<string name="pref_volume_wake_summary">Нажатие клавиши громкости пробуждает устройство. Рекомендуется для устройств с проблемной клавишей блокировки.</string>
-	<string name="status_bar_settings">Статус бар</string>
+	<string name="status_bar_settings">Строка состояния</string>
 	<string name="complete_settings">Все настройки</string>
 	<string name="common_settings">Общие настройки</string>
-	<string name="battery_settings">Батарея</string>
-	<string name="battery_settings_title">Батарея</string>
+	<string name="battery_settings">Аккумулятор</string>
+	<string name="battery_settings_title">Аккумулятор</string>
 	<string name="battery_indicator_style">Стиль индикатора батареи</string>
 	<string name="power_usage_history">Использование батареи</string>
 	<string name="default_usb_mode">Подключение USB по умолчанию</string>
@@ -1790,7 +1790,7 @@
 	<string name="breathing_light_color_summary">Цвет LED для уведомлений</string>
 	<string name="breathing_light_freq_title">Частота LED</string>
 	<string name="breathing_light_freq_summary">Частота миганий LED для уведомлений</string>
-	<string name="led_settings">LED</string>
+	<string name="led_settings">LED индикатор</string>
 	<string name="led_colors_summary">Цвет LED для уведомлений</string>
 	<string name="led_frequence_summary">Установить частоту мигания LED</string>
 	<string name="led_pulse_summary">Мигать индикатором при получении новых уведомлений</string>

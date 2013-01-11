@@ -76,8 +76,8 @@
     <string name="status_bar_settings">Статус-бар</string>
     <string name="complete_settings">Все настройки</string>
     <string name="common_settings">Общие настройки</string>
-    <string name="battery_settings">Батарея</string>
-    <string name="battery_settings_title">Батарея</string>
+    <string name="battery_settings">Аккумулятор</string>
+    <string name="battery_settings_title">Аккумулятор</string>
     <string name="battery_indicator_style">Выбор стиля батареи</string>
     <string name="power_usage_history">Использование батареи</string>
     <string name="default_usb_mode">Стандартный тип USB-подключения</string>

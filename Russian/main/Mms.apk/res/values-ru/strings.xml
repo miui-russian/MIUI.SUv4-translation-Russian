@@ -352,7 +352,7 @@
 	<string name="phrase_confirm_delete_message">Выбранный шаблон будет удален</string>
 	<string name="phrase_from">От %1s</string>
 	<string name="pref_title_notification_body_enabled">Предпросмотр</string>
-	<string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в статус баре</string>
+	<string name="pref_summary_notification_body_enabled">Просмотр сообщений на экране блокировки и в строке состояния</string>
 	<string name="pref_summary_notification_body_enabled_when_secure">Просмотр сообщений отключен в режиме гостя</string>
 	<string name="pref_title_new_message_popup">Всплывающие окна</string>
 	<string name="pref_summary_new_message_popup">Показывать всплывающее окно доставки сообщений</string>

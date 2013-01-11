@@ -3,8 +3,5 @@
     <string name="app_name">Запись речи</string>
     <string name="speechrecorderlabel">Запись речи</string>
     <string name="recordButton">Запись</string>
-    <string name="redoButton">Переделать</string>
-    <string name="callRadioButton">\"call ...\"\nUtterances</string>
-    <string name="dialNanpRadioButton">\"dial NANP\"\nUtterances</string>
-    <string name="dialPairsRadioButton">\"dial NANP PAIRS\"\nUtterances</string>
+    <string name="redoButton">Перезаписать</string>
 </resources>

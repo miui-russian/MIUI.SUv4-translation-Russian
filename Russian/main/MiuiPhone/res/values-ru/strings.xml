@@ -79,7 +79,7 @@
     <string name="call_log_number_limit_title">Установить количество вызовов для хранения</string>
     <string name="call_log_number_limit_subsummary">%d</string>
     <string name="call_record_setting_miui">Настройки записи</string>
-    <string name="call_recording_notification_summary_miui">Показать уведомление в статус баре по окончании записи</string>
+    <string name="call_recording_notification_summary_miui">Показать уведомление в строке состояния по окончании записи</string>
     <string name="call_recording_notification_title_miui">Уведомления о записи телефонных разговоров</string>
     <string name="call_recording_prompt_miui">Открыть записи разговоров</string>
     <string name="call_record_notification_message_low_space_miui">Запись остановлена из-за нехватки памяти, нажмите, чтобы просмотреть %s.</string>

@@ -34,7 +34,7 @@
     <string name="theme_component_title_alarm">Будильник</string>
     <string name="theme_component_title_contact">Кнопки</string>
     <string name="theme_component_title_lockstyle">Экран блокировки</string>
-    <string name="theme_component_title_statusbar">Статус бар</string>
+    <string name="theme_component_title_statusbar">Строка состояния</string>
     <string name="theme_component_title_launcher">Рабочий стол</string>
     <string name="theme_component_title_audio_effect">Звуковые эффекты</string>
     <string name="theme_component_title_clock">Часы</string>
