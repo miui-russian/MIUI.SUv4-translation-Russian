@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="stock_settings">Стоковые настройки</string>
+    <string name="stock_settings">Другие настройки</string>
     <string name="stock_settings_entry_title">Прозрачный доступ</string>
     <string name="stock_settings_entry_summary">Соединение с интернет через PC. Подключите USB кабель.</string>
     <string name="PSFail">Невозможно подключиться к PC</string>
