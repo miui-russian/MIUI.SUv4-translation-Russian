@@ -428,7 +428,7 @@
     <string name="perm_get_user_info_lab">Получить информацию об аккаунте Xiaomi</string>
     <string name="perm_get_user_info_dspt">Получить подробную информацию об аккаунте Xiaomi</string>
     <string name="android_lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт</string>
-    <string name="sync_one_time_sync">Нажмите для синхронизации（ %1$s )</string>
+    <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
     <string name="no_sim">Нет SIM карты, сервис недоступен</string>
     <string name="activating">Активация…</string>
     <string name="perm_tigger_toggle_lab">Управление переключателями в статусбаре</string>

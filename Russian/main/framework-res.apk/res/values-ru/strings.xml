@@ -169,7 +169,7 @@
 	<string name="terabyteShort">ТБ</string>
 	<string name="petabyteShort">ПБ</string>
 	<string name="fileSizeSuffix">%1$s%2$s</string>
-	<string name="ellipsis">...</string>
+	<string name="ellipsis">…</string>
 	<string name="ellipsis_two_dots">..</string>
 	<string name="mmiError">Проблемы с соединением или неверный код MMI.</string>
 	<string name="mmiFdnError">Операция запрещена только для номеров фиксированного набора.</string>
@@ -741,7 +741,7 @@
 	<string name="lockscreen_missing_sim_instructions">Вставьте SIM-карту</string>
 	<string name="lockscreen_missing_sim_instructions_long">SIM-карта извлечена, либо не читаема. Пожалуйста, вставьте SIM-карту.</string>
 	<string name="lockscreen_permanent_disabled_sim_message_short">Нерабочая SIM-карта.</string>
-	<string name="lockscreen_permanent_disabled_sim_instructions">"Ваша SIM-карта сломалась. \n Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM-карту."</string>
+	<string name="lockscreen_permanent_disabled_sim_instructions">Ваша SIM-карта сломалась. \n Пожалуйста, обратитесь к Вашему сотовому оператору, чтобы получить другую SIM-карту.</string>
 	<string name="lockscreen_transport_prev_description">Кнопка перехода к предыдущему треку</string>
 	<string name="lockscreen_transport_next_description">Кнопка перехода к следующему треку</string>
 	<string name="lockscreen_transport_pause_description">Кнопка паузы</string>
@@ -752,22 +752,23 @@
 	<string name="lockscreen_sim_puk_locked_message">SIM-карта заблокирована PUK-кодом.</string>
 	<string name="lockscreen_sim_puk_locked_instructions">Инструкции по разблокировке можно найти в контракте на услуги сотовой связи, либо обратитеесь в Клиентскую поддержку сотового оператора.</string>
 	<string name="lockscreen_sim_locked_message">SIM-карта заблокирована.</string>
-	<string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты...</string>
-	<string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Вы неправильно ввели графический ключ %d раз(а). \n\n Новая попытка через %d сек."</string>
-	<string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неправильно ввели пароль %d раз(а). \n\n Новая попытка через %d сек."</string>
-	<string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели PIN-код %d раз(а). \n\n Новая попытка через %d сек."</string>
-	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы неправильно ввели графический ключ %d раз(а). После %d неудачных попыток Вам будет предложено разблокировать телефон с помощью аккаунта Google. \n\n Новая попытка через %d сек."</string>
+	<string name="lockscreen_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+	<string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">Вы неправильно ввели графический ключ %d раз(а). \n\n Новая попытка через %d сек.</string>
+	<string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">Вы неправильно ввели пароль %d раз(а). \n\n Новая попытка через %d сек.</string>
+	<string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">Вы неправильно ввели PIN-код %d раз(а). \n\n Новая попытка через %d сек.</string>
+	<string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Вы неправильно ввели графический ключ %d раз(а). После %d неудачных попыток Вам будет предложено разблокировать телефон с помощью аккаунта Google. \n\n Новая попытка через %d сек.</string>
 	<string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Не удалось разблокировать телефон (число попыток: %d). Осталось попыток: %d. После этого будут установлены настройки по умолчанию, что приведет к удалению всех пользовательских данных</string>
 	<string name="lockscreen_failed_attempts_now_wiping">Не удалось разблокировать телефон (число попыток: %d). Будут установлены настройки по умолчанию</string>
 	<string name="lockscreen_too_many_failed_attempts_countdown">Новая попытка через %d сек.</string>
 	<string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
 	<string name="lockscreen_glogin_forgot_pattern">Разблокировка аккаунта</string>
 	<string name="lockscreen_glogin_too_many_attempts">Слишком много попыток ввода</string>
-	<string name="lockscreen_glogin_username_hint">Логин (email)</string>
+    <string name="lockscreen_glogin_instructions">Для разблокировки войдите в аккаунт Google.</string>
+	<string name="lockscreen_glogin_username_hint">Логин (e-mail)</string>
 	<string name="lockscreen_glogin_password_hint">Пароль</string>
 	<string name="lockscreen_glogin_submit_button">Вход</string>
 	<string name="lockscreen_glogin_invalid_input">Неверный логин или пароль.</string>
-	<string name="lockscreen_glogin_account_recovery_hint">"Забыли логин или пароль? \n Посетите google.com/accounts/recovery"</string>
+	<string name="lockscreen_glogin_account_recovery_hint">Забыли логин или пароль? \n Посетите google.com/accounts/recovery</string>
 	<string name="lockscreen_glogin_checking_password">Проверка…</string>
 	<string name="lockscreen_unlock_label">Разблокировать</string>
 	<string name="lockscreen_sound_on_label">Звук вкл</string>
@@ -787,7 +788,7 @@
 	<string name="factorytest_reboot">Перезагрузка</string>
 	<string name="js_dialog_title">Страница \"%s\" сообщает:</string>
 	<string name="js_dialog_title_default">JavaScript</string>
-	<string name="js_dialog_before_unload">"Уйти со страницы?\n\n %s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице."</string>
+	<string name="js_dialog_before_unload">Уйти со страницы?\n\n %s \n\nВыберите ОК для продолжения или Отмена, чтобы остаться на текущей странице.</string>
 	<string name="save_password_label">Подтверждаю</string>
 	<string name="double_tap_toast">Подсказка: используйте двойное нажатие для изменения масштаба.</string>
 	<string name="autofill_this_form">Автозаполнение</string>
@@ -845,7 +846,7 @@
 	<string name="searchview_description_submit">Отправить запрос</string>
 	<string name="searchview_description_voice">Голосовой поиск</string>
 	<string name="enable_explore_by_touch_warning_title">Включить навигацию касанием?</string>
-	<string name="enable_explore_by_touch_warning_message">"%1$s пытается включить навигацию касанием. Если ее включить, вы сможете видеть описание того, что находится под вашим пальцем."</string>
+	<string name="enable_explore_by_touch_warning_message">%1$s пытается включить навигацию касанием. Если ее включить, вы сможете видеть описание того, что находится под вашим пальцем.</string>
 	<string name="oneMonthDurationPast">1 месяц назад</string>
 	<string name="beforeOneMonthDurationPast">Более 1го месяца назад</string>
 	<string name="last_month">В прошлом месяце</string>
@@ -892,10 +893,10 @@
 	<string name="noApplications">Это действие не может выполнять ни одно приложение</string>
 	<string name="aerr_application">К сожалению, приложение \"%1$s\" было закрыто.</string>
 	<string name="aerr_process">К сожалению, процесс \"%1$s\" был останвлен.</string>
-	<string name="anr_activity_application">"%2$s не отвечает.\n\n Хотите его закрыть?"</string>
-	<string name="anr_activity_process">"Приложение \"%1$s\" не отвечает.\n\nХотите его закрыть?"</string>
+	<string name="anr_activity_application">%2$s не отвечает.\n\n Хотите его закрыть?</string>
+	<string name="anr_activity_process">Приложение \"%1$s\" не отвечает.\n\nХотите его закрыть?</string>
 	<string name="anr_application_process">\"%1$s\" не отвечает. Закрыть его?</string>
-	<string name="anr_process">"Процесс %1$s не отвечает.\n\n Хотите его закрыть?"</string>
+	<string name="anr_process">Процесс %1$s не отвечает.\n\n Хотите его закрыть?</string>
 	<string name="force_close">ОК</string>
 	<string name="report">Отзыв</string>
 	<string name="wait">Подождать</string>
@@ -908,7 +909,7 @@
 	<string name="screen_compat_mode_hint">Настроить заново можно перейдя в \"Настройки &gt; Приложения &gt; Управление приложениями\"</string>
 	<string name="smv_application">Приложение %1$s (процесс %2$s) нарушило свою политику \"Строгий режим\"</string>
 	<string name="smv_process">Процесс %1$s нарушил свою политику \"Строгий режим\"</string>
-	<string name="android_upgrading_title">Android обновляется...</string>
+	<string name="android_upgrading_title">Android обновляется…</string>
 	<string name="android_upgrading_apk">Оптимизация приложений %1$d из %2$d.</string>
 	<string name="android_upgrading_starting_apps">Запуск приложений.</string>
 	<string name="android_upgrading_complete">Завершение загрузки.</string>
@@ -1009,7 +1010,7 @@
 	<string name="hardware">Аппаратная часть</string>
 	<string name="select_keyboard_layout_notification_title">Выберите раскладку клавиатуры</string>
 	<string name="select_keyboard_layout_notification_message">Нажмите для выбора раскладки клавиатуры.</string>
-	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+	<string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
 	<string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
 	<string name="ext_media_checking_notification_title">Подготовка USB накопителя</string>
 	<string name="ext_media_checking_notification_message">Проверка на ошибки.</string>
@@ -1039,15 +1040,15 @@
 	<string name="ime_action_done">Готово</string>
 	<string name="ime_action_previous">Пред.</string>
 	<string name="ime_action_default">Выполнить</string>
-	<string name="dial_number_using">"Набрать номер\n %s"</string>
-	<string name="create_contact_using">"Создать контакт\n с номером %s"</string>
+	<string name="dial_number_using">Набрать номер\n \"%s\"</string>
+	<string name="create_contact_using">Создать контакт\n с номером \"%s\"</string>
 	<string name="grant_credentials_permission_message_header">Одна или несколько программ требуют разрешения для доступа к вашему аккаунту сейчас и в дальнейшем.</string>
 	<string name="grant_credentials_permission_message_footer">Разрешить доступ?</string>
 	<string name="grant_permissions_header_text">Запрос доступа</string>
 	<string name="allow">Разрешить</string>
 	<string name="deny">Запретить</string>
 	<string name="permission_request_notification_title">Разрешение запрошено</string>
-	<string name="permission_request_notification_with_subtitle">"Требуется разрешение\n для аккаунта %s"</string>
+	<string name="permission_request_notification_with_subtitle">Требуется разрешение\n для аккаунта \"%s\"</string>
 	<string name="input_method_binding_label">Метод ввода</string>
 	<string name="sync_binding_label">Синхр.</string>
 	<string name="accessibility_binding_label">Специальные возможности</string>
@@ -1061,7 +1062,7 @@
 	<string name="no_file_chosen">Файл не выбран</string>
 	<string name="reset">Сброс</string>
 	<string name="submit">Отправить</string>
-	<string name="car_mode_disable_notification_title">Включен режим Автомобиль</string>
+	<string name="car_mode_disable_notification_title">Включен режим \"Автомобиль\"</string>
 	<string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь.</string>
 	<string name="tethered_notification_title">USB-модем/точка доступа Wi-Fi используется</string>
 	<string name="tethered_notification_message">Нажмите для настройки</string>
@@ -1075,8 +1076,8 @@
 	<string name="no_matches">Нет совпадений</string>
 	<string name="find_on_page">Найти на странице</string>
 	<string name="action_mode_done">Готово</string>
-	<string name="progress_unmounting">Отключение USB накопителя...</string>
-	<string name="progress_erasing">Очистка USB накопителя...</string>
+	<string name="progress_unmounting">Отключение USB накопителя…</string>
+	<string name="progress_erasing">Очистка USB накопителя…</string>
 	<string name="format_error">Не удалось очистить USB накопитель</string>
 	<string name="media_bad_removal">SD карта была извлечена до отключения</string>
 	<string name="media_checking">USB накопитель проверен</string>
@@ -1144,7 +1145,7 @@
 	<string name="storage_internal">Внутреннее память</string>
 	<string name="storage_sd_card">SD карта</string>
 	<string name="storage_usb">USB накопитель</string>
-	<string name="extract_edit_menu_button">Редактировать...</string>
+	<string name="extract_edit_menu_button">Редактировать…</string>
 	<string name="data_usage_warning_title">Осталось мало трафика</string>
 	<string name="data_usage_warning_body">Проверить трафик и настройки</string>
 	<string name="data_usage_3g_limit_title">Передача данных по 2G-3G отключена</string>
