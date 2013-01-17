@@ -26,6 +26,7 @@
     <string name="operation_show_sys">Показать скрытые</string>
     <string name="operation_hide_sys">Не показывать скрытые</string>
     <string name="cancel">Отмена</string>
+	<string name="background">Запустить в фоне</string>
     <string name="no_file">Нет файлов</string>
     <string name="tab_category">Категория</string>
     <string name="tab_phone">Телефон</string>
@@ -97,6 +98,7 @@
     <string name="show_message">Файл не может быть открыт без загрузки</string>
     <string name="ui_main_progress_txt_open_file">Загрузка…</string>
     <string name="networkView_notConnected">Нет доступных сетей</string>
+	<string name="networkView_offline">Невозможно обновить в оффлайн режиме</string>
     <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
     <string name="ui_main_toast_operation_failed">Операция не удалась для %1$s.</string>
     <string name="user_guide">Руководство</string>
