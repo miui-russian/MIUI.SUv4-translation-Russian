@@ -43,7 +43,7 @@
     <string name="micloud_click_email">Для активации аккаунта нажмите на ссылку активации у вас в письме</string>
     <string name="completed">Готово!</string>
     <string name="header_data_and_synchronization">Данные и синхронизация</string>
-    <string name="sync_one_time_sync">Нажмите для синхронизации(%1$s)</string>
+    <string name="sync_one_time_sync">Нажмите для синхронизации (%1$s)</string>
     <string name="title_login">Войти в аккаунт Xiaomi</string>
     <string name="title_reg">Зарегистрировать аккаунт Xiaomi</string>
     <string name="title_activate">Активировать аккаунт Xiaomi</string>

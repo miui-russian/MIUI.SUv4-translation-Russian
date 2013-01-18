@@ -971,14 +971,7 @@
 	<string name="show_background_processes">Показать процессы в кэше</string>
 	<string name="reset_app_preferences">Сброс настроек приложений</string>
 	<string name="reset_app_preferences_title">Сбросить настройки приложений?</string>
-	<string name="reset_app_preferences_desc">Это сбросит все настройки для:
-
-  
-  
-  
-  
-
- Все данные приложений будут сохранены.</string>
+	<string name="reset_app_preferences_desc">Это сбросит все настройки для:\n\n\n\n\n\n\n Все данные приложений будут сохранены.</string>
 	<string name="reset_app_preferences_button">Сброс приложений</string>
 	<string name="manage_space_text">Управление местом</string>
 	<string name="filter">Фильтр</string>
@@ -1153,9 +1146,7 @@
 	<string name="enforce_read_external_title">Защита USB хранилища</string>
 	<string name="enforce_read_external_summary">Приложения должны посылать запрос для доступа к USB хранилищу</string>
 	<string name="enforce_read_external_confirm_title">Защитить USB хранилище?</string>
-	<string name="enforce_read_external_confirm_message">Когда включена защита USB хранилища, приложения должны запрашивать разрешения на чтение данных
-
-Некоторые приложения могут перестать работать, пока не будут обновлены разработчиками</string>
+	<string name="enforce_read_external_confirm_message">Когда включена защита USB хранилища, приложения должны запрашивать разрешения на чтение данных\n\nНекоторые приложения могут перестать работать, пока не будут обновлены разработчиками</string>
 	<string name="gadget_picker_title">Выбор гаджета</string>
 	<string name="widget_picker_title">Выбор виджета</string>
 	<string name="allow_bind_app_widget_activity_allow_bind_title">Создать виджет и разрешить доступ?</string>
@@ -1179,9 +1170,7 @@
 	<string name="accessibility_power_button_ends_call_title">Кнопка питания завершает вызов</string>
 	<string name="accessibility_speak_password_title">Произнести пароль</string>
     <string name="accessibility_touch_exploration_title">Подсказки при нажатии</string>
-    <string name="accessibility_touch_exploration_summary">"Когда "подсказки при нажатии" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.
-
- Эта функция предназначена для людей с нарушением зрения."</string>
+    <string name="accessibility_touch_exploration_summary">Когда \"подсказки при нажатии\" активированы, вы можете видеть или слышать описание того, что находится под вашим пальцем.\n\n Эта функция предназначена для людей с нарушением зрения.</string>
 	<string name="accessibility_long_press_timeout_title">Задержка при нажатии и удержании</string>
 	<string name="accessibility_script_injection_title">Установка веб-скриптов</string>
 	<string name="accessibility_menu_item_settings">Настройки</string>
@@ -1549,11 +1538,7 @@
 	<string name="data_usage_app_restrict_dialog">Если нет доступа к Wi-Fi, эта функция может приостановить приложения, использующие фоновый режим обмена данными.\n\nБолее подходящие параметры можно найти в настройках этих приложений.</string>
 	<string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
 	<string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию данных?</string>
-	<string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.
-
-Некоторые аккаунты также могут автоматически копировать изменения с телефона в сеть.
-
-Для выбора данных для синхронизации перейдите в Настройки &gt; Аккаунты</string>
+	<string name="data_usage_auto_sync_on_dialog">Любые изменения аккаунта в сети автоматически будут скопированы в телефон.\n\nНекоторые аккаунты также могут автоматически копировать изменения с телефона в сеть.\n\nДля выбора данных для синхронизации перейдите в Настройки &gt; Аккаунты</string>
 	<string name="data_usage_auto_sync_off_dialog_title">Выключить автосинхронизацию данных?</string>
 	<string name="data_usage_auto_sync_off_dialog">Это сохранит данные и батарею, но вам придется синхронизировать ваши данные вручную. Вы также не будете получать уведомления об обновлениях.</string>
 	<string name="data_usage_cycle_editor_title">Удаление статистики</string>
@@ -1562,12 +1547,8 @@
 	<string name="data_usage_warning_editor_title">Настройка предупреждения</string>
 	<string name="data_usage_limit_editor_title">Лимитирование трафика</string>
 	<string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
-    <string name="data_usage_limit_dialog">"Ваше %1$s соединение будет отключено при достижении указанного лимита данных.
-
-Количество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода."</string>
-	<string name="data_usage_limit_dialog_mobile">Ваша передача данных по сети будет отключена, когда указанный предел будет достигнут.
-
-Количество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода.</string>
+    <string name="data_usage_limit_dialog">Ваше %1$s соединение будет отключено при достижении указанного лимита данных.\n\nКоличество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода.</string>
+	<string name="data_usage_limit_dialog_mobile">Ваша передача данных по сети будет отключена, когда указанный предел будет достигнут.\n\nКоличество используемого трафика может учитываться по разному вашим устройством и оператором, установите необходимый лимит во избежание перерасхода.</string>
 	<string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
 	<string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
 	<string name="data_usage_sweep_warning">\n</string>
@@ -1802,10 +1783,8 @@
 	<string name="button_light_timeout">Настройки подсветки</string>
 	<string name="screen_button_key">Виртуальные кнопки</string>
 	<string name="screen_button_custom">Настройка расположения кнопок</string>
-	<string name="sim_change_failed_enable_sim_lock">Невозможно сменить SIM PIN.
- Включите блокировку SIM.</string>
-	<string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM.
- SIM не поддерживает ее.</string>
+	<string name="sim_change_failed_enable_sim_lock">Невозможно сменить SIM PIN.\n Включите блокировку SIM.</string>
+	<string name="sim_lock_change_not_supported">Невозможно изменить блокировку SIM.\n SIM не поддерживает ее.</string>
 	<string name="apn_new">Новая точка доступа</string>
 	<string name="apn_save">Сохранить?</string>
 	<string name="apn_save_msg">Настройки APN изменены. Сохранить?</string>
@@ -1819,10 +1798,8 @@
 	<string name="volume_category_title">Громкость</string>
 	<string name="vibrate_category_title">Вибрация</string>
 	<string name="vibrate_in_normal_title">Вибро в обычном режиме</string>
-    <string name="wifi_wapi_fail_to_init">"Невозможно открыть WAPI сертификаты
-Возможно хранилища учетных данных не активированы."</string>
-    <string name="wifi_wapi_fail_to_auth">"Ошибка аутентификации WAPI 
-Пожалуйста, проверьте сертификаты."</string>
+    <string name="wifi_wapi_fail_to_init">Невозможно открыть WAPI сертификаты\nВозможно хранилища учетных данных не активированы.</string>
+    <string name="wifi_wapi_fail_to_auth">Ошибка аутентификации WAPI\nПожалуйста, проверьте сертификаты.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>
     <string name="wifi_wapi_as_certificate">AS сертификат</string>
     <string name="wifi_wapi_user_certificate">Пользовательский сертификат</string>
@@ -1873,14 +1850,10 @@
 	<string name="erase_application">Удалить приложения</string>
 	<string name="erase_application_description">Удалить установленные приложения</string>
 	<string name="confirm_erase">Подтверждение удаления</string>
-	<string name="master_clear_personal_data">Вы уверены, что хотите удалить личные данные?
-Внимание! Операция необратима!</string>
-	<string name="master_clear_personal_data_application">Вы уверены, что хотите удалить личные данные и установленные приложения?
-Внимание! Операция необратима!</string>
-	<string name="master_clear_personal_data_sdcard">Вы уверены, что хотите удалить личные данные и отформатировать SD карту?
-Внимание! Операция необратима!</string>
-	<string name="master_clear_all">Вы уверены, что хотите вернуться к заводским установкам?
-Внимание! Операция необратима!</string>
+	<string name="master_clear_personal_data">Вы уверены, что хотите удалить личные данные?\nВнимание! Операция необратима!</string>
+	<string name="master_clear_personal_data_application">Вы уверены, что хотите удалить личные данные и установленные приложения?\nВнимание! Операция необратима!</string>
+	<string name="master_clear_personal_data_sdcard">Вы уверены, что хотите удалить личные данные и отформатировать SD карту?\nВнимание! Операция необратима!</string>
+	<string name="master_clear_all">Вы уверены, что хотите вернуться к заводским установкам?\nВнимание! Операция необратима!</string>
 	<string name="master_clear_erase_application_progress">Удаление приложений...</string>
 	<string name="erase_internal_storage">Очистить внутренний накопитель</string>
 	<string name="erase_internal_storage_description">Удалить все данные на внутреннем накопителе, такие как музыка или фотографии</string>

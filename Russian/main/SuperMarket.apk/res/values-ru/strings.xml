@@ -199,7 +199,7 @@
     <string name="confirm">Подтвердить</string>
     <string name="login_notice">Вход…</string>
     <string name="login_retry">Попробовать еще раз</string>
-    <string name="failed_to_send_activate_email">Сбой отсылки активациионного Email.</string>
+    <string name="failed_to_send_activate_email">Сбой отсылки активациионного email.</string>
     <string name="access_denied">Доступ запрещен</string>
     <string name="abs__action_bar_home_description">Перейти к началу</string>
     <string name="abs__action_bar_up_description">Перейти вверх</string>
