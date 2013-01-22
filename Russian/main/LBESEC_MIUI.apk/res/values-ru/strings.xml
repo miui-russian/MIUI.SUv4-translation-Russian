@@ -30,9 +30,9 @@
     <string name="HIPS_Action_Accept">Разрешить</string>
     <string name="HIPS_Action_Prompt">С запросом</string>
     <string name="HIPS_Action_Reject">Запретить</string>
-    <string name="HIPS_Action_Accept_Colored" />
-    <string name="HIPS_Action_Prompt_Colored" />
-    <string name="HIPS_Action_Reject_Colored" />
+    <string name="HIPS_Action_Accept_Colored">Разрешить</string>
+    <string name="HIPS_Action_Prompt_Colored">С запросом</string>
+    <string name="HIPS_Action_Reject_Colored">Запретить</string>
     <string name="HIPS_Action_Accept_Count">Разрешенных: %1$d</string>
     <string name="HIPS_Action_Reject_Count">Запрещенных: %1$d</string>
     <string name="HIPS_Group_Expense">Защита</string>
@@ -160,7 +160,7 @@
     <string name="Dashboard_Perm_AutoStart">Автозагрузка</string>
     <string name="Dashboard_Perm_AutoStart_Desc">Включить/отключить функцию автозагрузки приложений</string>
     <string name="Dashboard_HIPS_Disable_Title">Контроль Разрешений</string>
-    <string name="Dashboard_HIPS_Disable_Content">"При выключении этого MIUI перестанет контролировать запросы приложений и больше не сможет защищать Вашу безопасность и конфинедциальность.\n Вы уверены, что хотите это отключить?"</string>
+    <string name="Dashboard_HIPS_Disable_Content">При выключении этого MIUI перестанет контролировать запросы приложений и больше не сможет защищать Вашу безопасность и конфинедциальность.\n Вы уверены, что хотите это отключить?</string>
     <string name="Dashboard_Su_Enable_Title">ROOT-доступ</string>
     <string name="Dashboard_Su_Enable_Content">Включение этого позволит приложениям запрашивать ROOT-доступ. \nВнимание: Приложения с ROOT-доступом может привести к нестабильности системы, даже к потере персональной информации, программным или аппаратным повреждениям. Пожалуйста, будьте осторожны. Вы уверены, что хотите это включить?</string>
     <string name="Dashboard_Log_Clear_Title">Очистка журналов</string>
