@@ -277,7 +277,7 @@
 	<string name="bigscrren_slide_exit">Отменить слайд-шоу на ТВ</string>
 	<string name="defalt_local_mobile">Мобильный</string>
 	<string name="add_to_cloud_folder">добавить в облачный альбом</string>
-	<string name="move_to_cloud_folder">переместить в облачный альбом/string>
+	<string name="move_to_cloud_folder">переместить в облачный альбом</string>
 	<string name="create_new_cloud_folder">новый облачный альбом</string>
 	<string name="input_cloudfolder_name">имя нового облачного альбома</string>
 	<string name="cloudfolder_already_exists">такая облачная папка уже существует</string>
