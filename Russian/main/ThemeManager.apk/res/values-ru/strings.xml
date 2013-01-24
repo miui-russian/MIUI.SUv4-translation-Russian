@@ -94,7 +94,7 @@
     <string name="theme_upgrade_request_content">Формат локальных тем нужно изменить для повышения производительности. Это займет некоторое время, телефон может не откликаться. Конвертировать сейчас?</string>
     <string name="theme_upgrade_request_yes">Да</string>
     <string name="theme_upgrade_request_cancel">Нет</string>
-	<string name="theme_update_request_title">Обновление темы</string>
+	<string name="theme_update_request_title">Обновление тем</string>
 	<string name="theme_update_request_content">Необходимо переконвертировать тему в новый формат, это может занять много времени. Траффик не будет использоваться. Нажмите OK для начала обработки.</string>
 	<string name="theme_import_preparing">Сканирование локальных тем</string>
 	<string name="theme_import_importing">Обновление.. осталось %1$d</string>
