@@ -72,8 +72,9 @@
     <string name="location_allow_err">Открытие определения местонахождение не удалось</string>
     <string name="format_date_wmd">M/d EEE</string>
     <string name="format_date_md">M/d kk:mm</string>
+	<string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
+	<string name="act_weather_main_aqi_title">Чистота воздуха</string>
 	<string name="aqi_quality_index_good">Хорошо</string>
-	<string name="aqi_quality_index_moderate">Модерировать</string>
 	<string name="aqi_quality_index_light_pollution">Световое загрязнение</string>
 	<string name="aqi_quality_index_unhealthy">Вредный</string>
 	<string name="aqi_quality_index_dangerous">Опасный</string>

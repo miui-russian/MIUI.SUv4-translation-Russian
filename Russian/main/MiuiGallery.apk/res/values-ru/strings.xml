@@ -222,16 +222,21 @@
 	<string name="sync_not_open">Вы можете синхронизировать фотографии автоматически с онлайн хранилищем.</string>
 	<string name="login_account">Войти в учетную запись Xiaomi</string>
 	<string name="open_sync">Синхронизировать</string>
+	<string name="open_sync_title">Пожалуйста, запустите синхронизацию</string>
+	<string name="alert_message_open_sync">Сначала Вы должны запустить синхронизацию. Запустить её сейчас?</string>
+	<string name="open">Открыть</string>
 	<string name="alert_message_initial_cloud">Фотографии и скриншоты будут автоматически загружаться в онлайн хранилище только при включенном WiFi.</string>
 	<string name="cloud_gallery_no_pictures">Нет изображений в онлайн альбоме</string>
 	<string name="only_upload_in_charging">История изображений загружается только во время зарядки. Рожалуйста, зарядите устройство.</string>
 	<string name="no_network_connected">Отсутствует сетевое подключение</string>
 	<string name="modify_cloud_settings">Изменить настройки онлайн хранилища</string>
 	<string name="storage_no_space">Недостаточно места в хранилище</string>
+	<string name="add_to_cloud_album">Добавить в</string>
+	<string name="move_to_cloud_album">Переместить в</string>
+	<string name="cant_delete_system_album"> %s системный альбом, который не может быть удален.</string>
 	<string name="click_to_enter_camera">Нажмите для запуска камеры</string>
     <string name="camera_view_none_message">Захваченные фотографии будут отображаться здесь.</string>
 	<string name="none_picture">В галерее нет изображений</string>
-	<string name="camera_path">/DCIM/Camera</string>
 	<string name="open_single_image_failure">Не удалось загрузить изображение!</string>
 	<string name="already_saved">Фотография уже была сохранена в %s</string>
 	<string name="failure_external_storage_not_writable">Внешнее хранилище не доступно!</string>
@@ -239,7 +244,9 @@
 	<string name="save_pic_to_success">Изображение сохранено в\n%s</string>
 	<string name="save_to_sdcard">Сохранить на устройство хранения</string>
 	<string name="damaged_file">Файл поврежден</string>
+	<string name="cloud_camera_display_name">Прочее</string>
 	<string name="camera_folder_display_name">Фотографии</string>
+	<string name="cloud_screenshots_display_name">Скриншоты</string>
 	<string name="miui_capture_screen_folder_display_name">Скриншоты</string>
 	<string name="internal_camera_folder_display_name">Фотографии камеры</string>
 	<string name="internal_miui_capture_screen_folder_display_name">Скриншоты MIUI</string>
@@ -269,6 +276,11 @@
 	<string name="sending_video_title">Отправить видео (%s)</string>
 	<string name="bigscrren_slide_exit">Отменить слайд-шоу на ТВ</string>
 	<string name="defalt_local_mobile">Мобильный</string>
+	<string name="add_to_cloud_folder">добавить в облачный альбом</string>
+	<string name="move_to_cloud_folder">переместить в облачный альбом/string>
+	<string name="create_new_cloud_folder">новый облачный альбом</string>
+	<string name="input_cloudfolder_name">имя нового облачного альбома</string>
+	<string name="cloudfolder_already_exists">такая облачная папка уже существует</string>
 	<string name="other_category">Другие настройки</string>
 	<string name="show_hidden_album">Показывать скрытые альбомы</string>
 	<string name="auto_create_recent_album">Автосоздание Избранных альбомов</string>
@@ -339,4 +351,8 @@
 	<string name="error_should_not_select_image">Внимание: не выбирайте файл изображения.</string>
 	<string name="error_should_not_select_video">Внимание: не выбирайте файл видео.</string>
 	<string name="storage_all_volumes">Все устройства хранения</string>
+	<string name="cloud_tab_all">Все</string>
+	<string name="cloud_tab_albums">Альбомы</string>
+	<string name="cloud_tab_locations">Расположение</string>
+	<string name="cloud_album_set_create">Новый</string>
 </resources>

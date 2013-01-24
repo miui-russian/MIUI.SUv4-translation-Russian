@@ -514,7 +514,7 @@
 	<string name="group_name_friends">Друзья</string>
 	<string name="group_name_family">Семья</string>
 	<string name="group_name_coworkers">Коллеги</string>
-	<string name="unkown_location"> </string>
+	<string name="unkown_location">" "</string>
 	<string name="service_provider">Желтые страницы</string>
 	<string name="menu_group_add_members">Добавить в группу</string>
 	<string name="nickname_picker_name_column">Имя</string>
@@ -522,6 +522,10 @@
 	<string name="not_applied">Не поддерживается</string>
 	<string name="toast_for_saving_nickname">Никнейм сохранен</string>
 	<string name="toast_for_failed_saving_nickname">Ошибка сохранения никнейма</string>
+	<string name="auto_nickname">Авто</string>
+	<string name="auto_set_nickname">Авто</string>
+	<string name="restore_nickname">Восстановление</string>
+	<string name="custom_nickname_hint">Напишите имя, например \"Механик\" или \"Вася\"</string>
 	<string name="select_all">Выбрать все</string>
 	<string name="deselect_all">Удалить все</string>
 	<string name="select_none">Ничего не выбрано, операция невозможна</string>
