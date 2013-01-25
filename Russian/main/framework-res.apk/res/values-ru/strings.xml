@@ -734,7 +734,9 @@
 	<string name="keyguard_password_enter_pin_password_code">Введите PIN-код, чтобы разблокировать</string>
 	<string name="keyguard_password_wrong_pin_code">Не верный PIN код!</string>
     <string name="keyguard_password_wrong_puk_code">Не верный PUK код!</string>
-    <string name="keyguard_pin_accepted">Code Accepted!</string>
+    <string name="keyguard_password_pin_failed">PIN operation failed!</string>
+    <string name="keyguard_password_puk_failed">PUK operation failed!</string>
+    <string name="keyguard_pin_accepted">Код принят!</string>
 	<string name="keyguard_label_text">Для разблокировки нажмите Меню, затем 0.</string>
 	<string name="emergency_call_dialog_number_for_display">Экстренный вызов</string>
 	<string name="lockscreen_carrier_default">Вне зоны доступа</string>
@@ -1106,7 +1108,9 @@
 	<string name="no_matches">Нет совпадений</string>
 	<string name="find_on_page">Найти на странице</string>
 	<string name="action_mode_done">Готово</string>
+	<string name="progress_unmounting_internal">Отключение внутренней памяти…</string>
 	<string name="progress_unmounting">Отключение USB накопителя…</string>
+	<string name="progress_erasing_internal">Очистка внутренней памяти…</string>
 	<string name="progress_erasing">Очистка USB накопителя…</string>
 	<string name="format_error">Не удалось очистить USB накопитель</string>
 	<string name="media_bad_removal">SD карта была извлечена до отключения</string>
