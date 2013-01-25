@@ -658,7 +658,7 @@
 	<string name="auto_ip_exception_summary_miui">%d всего</string>
 	<string name="auto_ip_exception_summary_more_miui">,... %d всего</string>
 	<string name="auto_ip_support_local_numbers">Поддержка локальных номеров</string>
-	<string name="auto_record_call_summary_miui">Звонки записываются и сохраняются в а папку на SD карте: MIUI/sound_recorder/call_rec</string>
+	<string name="auto_record_call_summary_miui">Звонки записываются и сохраняются в папку на SD карте: MIUI/sound_recorder/call_rec</string>
 	<string name="auto_record_call_title_miui">Записывать автоматически</string>
 	<string name="auto_record_scenario_title_miui">Автозапись</string>
 	<string name="auto_record_scenario_enteries_always_miui">Все номера</string>
@@ -691,7 +691,7 @@
 	<string name="call_log_number_limit_title">Установка размера хранилища журнала вызовов</string>
 	<string name="call_log_number_limit_subsummary">%d</string>
 	<string name="call_record_setting_miui">Настройки записи</string>
-	<string name="call_recording_notification_summary_miui">Показывать уведосмление в строке состояния когда запись окончена</string>
+	<string name="call_recording_notification_summary_miui">Показывать уведомление в строке состояния когда запись окончена</string>
 	<string name="call_recording_notification_title_miui">Уведомление записи</string>
 	<string name="call_recording_prompt_miui">Открыть запись звонка</string>
 	<string name="call_record_notification_message_low_space_miui">Запись остановлена из-за нехватки памяти, показать %s.</string>
