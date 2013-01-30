@@ -90,7 +90,7 @@
 	<string name="pref_cell_layout_size">Сетка рабочего стола</string>
 	<string name="prompt_transition_icon_layout">Использовать предыдущее расположение иконок?</string>
 	<string name="widget_gadget_player">Музыка</string>
-	<string name="buffering">Буфферизация...</string>
+	<string name="buffering">Буфферизация…</string>
 	<string name="emptyplaylist">Список воспроизведения пуст</string>
 	<string name="unknown_artist_name">Неизвестный</string>
 	<string name="global_search_hint">Введите слова для поиска</string>

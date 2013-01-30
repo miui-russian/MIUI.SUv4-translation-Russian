@@ -10,7 +10,7 @@
     <string name="device_bluetooth_title">Подготовительные работы</string>
     <string name="device_version_header_no_bluetooth">С помощью вашей SIN</string>
     <string name="device_version_header_bluetooth">Открыть bluetooth</string>
-    <string name="scanning">Поиск устройств...</string>
+    <string name="scanning">Поиск устройств…</string>
     <string name="select_device">Выберите устройство</string>
     <string name="none_paired">Нет сопряженных устройств</string>
     <string name="none_found">Не найдено устройств</string>

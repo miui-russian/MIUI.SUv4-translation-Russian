@@ -8,7 +8,7 @@
 	<string name="video_camera_label">Видеокамера</string>
 	<string name="gallery_camera_bucket_name">Снимки, сделанные камерой</string>
 	<string name="gallery_camera_videos_bucket_name">Видео</string>
-	<string name="wait">Подождите...</string>
+	<string name="wait">Подождите…</string>
 	<string name="no_storage">Прежде чем использовать камеру, вставьте SD-карту.</string>
 	<string name="not_enough_space">Ваша SD-карта заполнена.</string>
 	<string name="access_sd_fail">Не удалось получить доступ к SD-карте.</string>
@@ -166,7 +166,7 @@
 	<string name="pref_camera_hdr_save_default">Выкл.</string>
 	<string name="pref_camera_hdr_entry_off">Выкл.</string>
 	<string name="pref_camera_hdr_entry_on">Вкл.</string>
-	<string name="camera_hdr_saving">Сохранение HDR...</string>
+	<string name="camera_hdr_saving">Сохранение HDR…</string>
 	<string name="camera_hdr_setting_mode_default">Ошибка</string>
 	<string name="usb_shared_content">Перед использованием камеры подключите USB-накопитель.</string>
 	<string name="pref_camera_iso_default">Авто</string>
@@ -255,8 +255,8 @@
 	<string name="pref_camera_review_off">Выкл.</string>
 	<string name="pref_camera_review_3s">3 с</string>
 	<string name="pref_camera_review_5s">5 с</string>
-	<string name="loading">Загрузка...</string>
-	<string name="stitching">Обработка...</string>
+	<string name="loading">Загрузка…</string>
+	<string name="stitching">Обработка…</string>
 	<string name="review_share">Отпр.</string>
 	<string name="review_delete">Удалить</string>
 	<string name="review_setas">Уст. как</string>
@@ -272,11 +272,11 @@
 	<string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
 	<string name="pref_video_time_lapse_frame_interval_entry_10000">10s</string>
 	<string name="pano_too_fast_prompt">Очень быстро</string>
-	<string name="pano_dialog_prepare_preview">Обработка...</string>
+	<string name="pano_dialog_prepare_preview">Обработка…</string>
 	<string name="pano_dialog_panorama_failed">Не удалось сохранить файл</string>
 	<string name="pano_dialog_title">Панорама</string>
-	<string name="pano_capture_indication">Создание панорамы...</string>
-	<string name="pano_review_saving_indication_str">Сохранение...</string>
+	<string name="pano_capture_indication">Создание панорамы…</string>
+	<string name="pano_review_saving_indication_str">Сохранение…</string>
 	<string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
 	<string name="switch_to_rewind_label">Перейти к прокрутке</string>
 	<string name="eula_agreement">Если включена гео-метка, к каждому фото будут добавлены данные местоположения. Будьте осторожны при отправке и копировании фото, так как они содержат данные о местоположении.</string>

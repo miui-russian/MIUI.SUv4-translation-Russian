@@ -196,7 +196,7 @@
 	<string name="set_hidden_album">Скрыть альбом</string>
 	<string name="remove_hidden_album">Отображать альбом</string>
 	<string name="all_albums_desc">Альбом(ы)</string>
-	<string name="all_albums_loading">Загрузка...</string>
+	<string name="all_albums_loading">Загрузка…</string>
 	<string name="all_recent_albums_desc">Избранный(е) альбом(ы)</string>
 	<string name="all_album">Все</string>
 	<string name="all_recent">Избранное</string>
@@ -267,9 +267,9 @@
 	<string name="turn_right">Повернуть вправо</string>
 	<string name="disallowed_operation">Данная операция не поддерживается</string>
 	<string name="more">Еще</string>
-	<string name="running_face_detection">Запущено распознавание лиц, пожалуйста подождите...</string>
-	<string name="deleting_files">Файлы удаляются...</string>
-	<string name="loading_files">Загрузка...</string>
+	<string name="running_face_detection">Запущено распознавание лиц, пожалуйста подождите…</string>
+	<string name="deleting_files">Файлы удаляются…</string>
+	<string name="loading_files">Загрузка…</string>
 	<string name="open_map">Открыть карту</string>
 	<string name="unknown_location">Неизвестное местоположение</string>
 	<string name="sending_image_title">Отправить фото (%s)</string>
@@ -297,7 +297,7 @@
 	<string name="clear_thumbnail_cache">Очистить кэш эскизов</string>
 	<string name="clear_thumbnail_cache_summary">При просмотре будут сгенерированы эскизы. Ичистка кэша освободит пространство.</string>
 	<string name="clear_thumbnail_cache_confirm">Все эскизы вашей галереи будут удалены галерея будет вновь просканирована во время просмотра для создания эскизов. Это отразится на скорости просмотра.</string>
-	<string name="cleaning_cache">Очистка кэша...</string>
+	<string name="cleaning_cache">Очистка кэша…</string>
 	<string name="seconds">секунд</string>
 	<string name="rename_failed">Не удалось переименовать</string>
 	<string name="rename_failed_duplicated_name">Такое имя уже существует, не удалось переименовать</string>

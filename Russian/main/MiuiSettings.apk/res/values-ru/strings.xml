@@ -130,7 +130,7 @@
     <string name="apn_new">Новая точка доступа</string>
     <string name="apn_save">Сохранить?</string>
     <string name="apn_save_msg">APN был изменен. Сохранить?</string>
-    <string name="activating">Активация...</string>
+    <string name="activating">Активация…</string>
 	<string name="wifi_enable_watchdog_service_summary">Использовать Wi-Fi, когда интернет-соединение хорошее</string>
 	<string name="wifi_disabled_help">Отключено из-за плохого соединения. Чтобы изменить настройки, откройте Настройки &gt; Wi-Fi, Дополнительные настройки.</string>
 	<string name="wifi_wps_overlap_error">Обнаружено другое зашифрованное Wi-Fi соединение. Повторите через несколько минут.</string>
@@ -171,7 +171,7 @@
     <string name="master_clear_personal_data_application">Вы уверены в удалении своих персональных данных и приложенийјџ\nВнимание: эта операция не может быть отменена.</string>
     <string name="master_clear_personal_data_sdcard">Вы уверены в удалении сових персональных данных и форматировании SD-картыпјџ\nВнимание: эта операция не может быть отменена.</string>
     <string name="master_clear_all">Вы уверены в стирании всех ваших данных и сброса до заводских настроек?\nВнимание: эта операция не может быть отменена.</string>
-    <string name="master_clear_erase_application_progress">Стирание приложений...</string>
+    <string name="master_clear_erase_application_progress">Стирание приложений…</string>
     <string name="bluetooth_default_name">Xiaomi phone</string>
     <string name="bluetooth_profile_name">%1$s\'s Xiaomi phone</string>
     <string name="usage_log">Статискика пользования приложения</string>
@@ -209,12 +209,12 @@
 	<string name="virus_scanner_date_formater">dd MMM. yyyy</string>
 	<string name="virus_scanner_manual_update"> Обновление в %s </string>
     <string name="virus_scanner_lib_update"> Есть обновление базы вирусов </string>
-    <string name="virus_scanner_lib_updating"> Обновление ... </string>
+    <string name="virus_scanner_lib_updating"> Обновление … </string>
     <string name="virus_scanner_lib_already_latest"> Вирусная база обновлена</string>
     <string name="virus_scanner_lib_update_failed"> Ошибка обновления вирусных баз </string>
-    <string name="virus_scan_app_safe_scanning"> Сканирование...</string>
+    <string name="virus_scan_app_safe_scanning"> Сканирование…</string>
     <string name="virus_scan_app_multi_engines">Вы выбрали несколько баз, сканирование может длиться дольше.</string>
-    <string name="virus_scan_app_scanning">Сканирование... </string>
+    <string name="virus_scan_app_scanning">Сканирование… </string>
     <string name="virus_scan_app_waiting">Ожидание</string>
     <string name="virus_scan_app_passed">Сканирование завершено</string>
     <string name="virus_scan_app_risk">Найдены угрозы</string>

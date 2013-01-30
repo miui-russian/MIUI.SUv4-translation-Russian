@@ -145,7 +145,7 @@
     <string name="load_audio_in_process">Загрузить список аудиофайлов</string>
     <string name="load_audio_failed">Не удалось загрузить список аудиофайлов. Попробуйте позже.</string>
     <string name="lrc_search_failed">Текст песни не найден!</string>
-    <string name="lrc_searching">Поиск текстов песен...</string>
+    <string name="lrc_searching">Поиск текстов песен…</string>
     <string name="lyric_open_other_connect">Загрузить тексты песен, используя мобильную сеть</string>
     <string name="impunity_declaration_title">Заявление</string>
     <string name="impunity_declaration">Для прослушивания онлайновой музыки используется сервис Baidu Online Music. Нажмите \"OK\", чтобы принять. Нажмите \"Отмена\", чтобы выйти.</string>
@@ -195,7 +195,7 @@
     <string name="playback_failed_by_network">Не удалось воспроизвести %s. Проверьте настройки подключения к сети.</string>
     <string name="playback_failed_no_title_by_bad_file">Не удалось воспроизвести песню. Данный тип файлов не поддерживается или файла не существует.</string>
     <string name="playback_failed_no_title_by_network">Не удалось воспроизвести песню. Проверьте настройки подключения к сети.</string>
-    <string name="buffering">Буферизация...</string>
+    <string name="buffering">Буферизация…</string>
     <string name="music_browser_label">Музыка</string>
     <string name="mediaplaybacklabel">Музыка</string>
     <string name="discovery_music">Обзор музыки</string>

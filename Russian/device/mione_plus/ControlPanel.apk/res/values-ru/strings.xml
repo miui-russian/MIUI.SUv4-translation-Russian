@@ -4,7 +4,7 @@
   <string name="accessibility_settings_summary" />
   <string name="advanced_tab">Расширенные</string>
   <string name="app_label">Lennox Control</string>
-  <string name="applying_pref">Применение выбранного...</string>
+  <string name="applying_pref">Применение выбранного…</string>
   <string name="battery_category">Настройки батареи</string>
   <string name="battery_info">Информация о батарее</string>
   <string name="battery_info_summary" />
@@ -64,7 +64,7 @@
   <string name="progress_cpu_working">Читаю настройки CPU</string>
   <string name="progress_info_working">Читаю информацию о прошивке</string>
   <string name="progress_storage_working">Читаю настройки встроенной памяти</string>
-  <string name="progress_wait">Ждите...</string>
+  <string name="progress_wait">Ждите…</string>
   <string name="reboot_now_toast">Перезагрузите, чтобы применить изменения</string>
   <string name="rom_info">ИНФОРМАЦИЯ О ПРОШИВКЕ</string>
   <string name="rom_info_api_level">Уровень API:</string>

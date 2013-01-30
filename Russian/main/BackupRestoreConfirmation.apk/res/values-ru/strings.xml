@@ -14,9 +14,9 @@
     <string name="backup_enc_password_text">Пожалуйста, введите пароль, используемый для шифрования полного резервного копирования данных. Если оставить пустым, будет использоваться ваш текущий пароль резервного копирования:</string>
     <string name="backup_enc_password_optional">Если вы хотите зашифровать данные, введите пароль:</string>
     <string name="restore_enc_password_text">Если данные зашифрованы, введите пароль:</string>
-    <string name="toast_backup_started">Создание РК...</string>
+    <string name="toast_backup_started">Создание РК…</string>
     <string name="toast_backup_ended">РК создана</string>
-    <string name="toast_restore_started">Начато восстановление...</string>
+    <string name="toast_restore_started">Начато восстановление…</string>
     <string name="toast_restore_ended">Восстановление завершено</string>
     <string name="toast_timeout">Вышло время ожидания</string>
 </resources>

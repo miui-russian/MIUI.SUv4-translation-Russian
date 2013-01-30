@@ -35,7 +35,7 @@
 	<string name="ssl_date_invalid">Дата этого сертификата недействительна.</string>
 	<string name="ssl_invalid">Этот сертификат недействителен.</string>
 	<string name="ssl_unknown">Неизвестная ошибка сертификата.</string>
-	<string name="stopping">Остановка...</string>
+	<string name="stopping">Остановка…</string>
 	<string name="stop">Стоп</string>
 	<string name="reload">Обновить</string>
 	<string name="back">Назад</string>
@@ -87,6 +87,7 @@
 	<string name="copy_page_url">Скопировать URL страницы</string>
 	<string name="share_page">Отправить страницу</string>
 	<string name="menu_save_snapshot">Сохранить страницу</string>
+    <string name="saving_snapshot">Сохранение…</string>
 	<string name="snapshot_failed">Не удалось сохранить страницу.</string>
 	<string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
 	<string name="contextheader_folder_empty">Папка пуста</string>
@@ -100,7 +101,7 @@
 	<string name="contextmenu_download_image">Сохранить изображение</string>
 	<string name="contextmenu_view_image">Просмотреть изображение</string>
 	<string name="contextmenu_set_wallpaper">Установить как обои</string>
-	<string name="contextmenu_dial_dot">Набор номера...</string>
+	<string name="contextmenu_dial_dot">Набор номера…</string>
 	<string name="contextmenu_add_contact">Добавить контакт</string>
 	<string name="contextmenu_send_mail">Отправить сообщение по электронной почте</string>
 	<string name="contextmenu_map">Карта</string>
@@ -110,6 +111,7 @@
 	<string name="browser_bookmarks_page_bookmarks_text">Закладки</string>
 	<string name="menu_preferences">Настройки</string>
 	<string name="pref_content_title">Содержание страницы</string>
+    <string name="pref_allow_apptabs">Разрешить несколько вкладок в приложении</string>
 	<string name="pref_content_load_images">Загружать графику</string>
 	<string name="pref_content_load_images_summary">Показывать изображения на веб-страницах</string>
 	<string name="pref_content_block_popups">Блокир. всплыв. окна</string>
@@ -240,6 +242,12 @@
 	<string name="pref_data_preload_title">Загрузка результатов поиска</string>
 	<string name="pref_data_preload_summary">Разрешить браузеру предварительно загружать результаты поиска в фоновом режиме</string>
 	<string name="pref_data_preload_dialogtitle">Загрузка результатов поиска</string>
+    <string name="pref_link_prefetch_title">Предзагрузка страниц</string>
+    <string name="pref_link_prefetch_summary">Разрешить предзагрузку связанных страниц в фоне</string>
+    <string name="pref_link_prefetch_dialogtitle">Предзагрузка страниц</string>
+    <string name="pref_video_preload_title">Предзагрузка видео</string>
+    <string name="pref_video_preload_summary">Разрешить предзагрузку видео, когда это позволяет сервер</string>
+    <string name="pref_video_preload_dialogtitle">Предзагрузка видео</string>
 	<string name="browserFrameNetworkErrorLabel">Ошибка подключения</string>
 	<string name="browserFrameFileErrorLabel">Проблема с файлом</string>
 	<string name="browserFrameFormResubmitLabel" />
@@ -297,14 +305,14 @@
 	<string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о вашем местоположении?</string>
 	<string name="website_settings_clear_all_dialog_ok_button">ОК</string>
 	<string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
-	<string name="progress_dialog_setting_wallpaper">Установка обоев...</string>
+	<string name="progress_dialog_setting_wallpaper">Установка обоев…</string>
 	<string name="error_console_header_text_minimized">Показать консоль JavaScript</string>
 	<string name="error_console_header_text_maximized">Консоль JavaScript</string>
 	<string name="error_console_eval_text_hint">Оценить JavaScript</string>
 	<string name="error_console_eval_button_text">Оценить</string>
 	<string name="defaultBookmarksUpButton">Закладки</string>
 	<string name="empty_bookmarks_folder">Нет закладок</string>
-	<string name="rlz_access_point">Y1</string>
+    <string name="other_bookmarks">Прочие закладки</string>
 	<string name="account_chooser_dialog_title">Выберите аккаунт</string>
 	<string name="import_bookmarks_dialog_title">Синхронизация с аккаунтом Google</string>
 	<string name="import_bookmarks_dialog_description">Закладки на устройстве пока не связаны с аккаунтом Google. Чтобы сохранить и синхронизировать закладки, добавьте их в аккаунт. В противном случае просто удалите их.</string>
@@ -382,7 +390,7 @@
 	<string name="export_bookmark_failure">Не удалось экспортировать закладки на SD карту</string>
 	<string name="import_bookmark_sucess">Закладки импортированы!</string>
 	<string name="import_bookmark_failure">Невозможно импортировать закладки!</string>
-	<string name="importing_favorite_files">Импорт данных ...</string>
+	<string name="importing_favorite_files">Импорт данных …</string>
 	<string name="please_select_a_file_to_import">Выберите файл с данными</string>
 	<string name="exported_bookmark_file_name">Избранное</string>
 	<string name="import_bookmark">Импорт закладок</string>
@@ -441,4 +449,5 @@
 	<string name="search_bing">Bing</string>
 	<string name="MIUI_homepage">MIUI Home</string>
 	<string name="manage_feature_permissions">Управление разрешениями</string>
+    <string name="find_on_page">Найти на странице</string>
 </resources>

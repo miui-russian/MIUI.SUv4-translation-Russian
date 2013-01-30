@@ -45,7 +45,7 @@
     <string name="message_list_send_pending_messages_action">Отправить все сообщ.</string>
     <string name="choose_attachment_dialog_title">Выбрать приложение</string>
     <string name="move_to_folder_dialog_title">Переместить в папку</string>
-    <string name="status_loading_messages">Загрузка сообщений...</string>
+    <string name="status_loading_messages">Загрузка сообщений…</string>
     <string name="status_network_error">Ошибка подключения.</string>
     <string name="error_loading_message_body">Не удалось загрузить сообщение. Возможно, оно слишком большое.</string>
     <string name="cannot_move_protocol_not_supported_toast">Перемещение не поддерживается в аккаунтах POP3.</string>
@@ -199,9 +199,9 @@
     <string name="account_duplicate_dlg_title">Копировать аккаунт</string>
     <string name="account_duplicate_dlg_message_fmt">"Это имя уже используется в аккаунте \"%s\"."</string>
     <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами.</string>
-    <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта...</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений...</string>
+    <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Проверка настроек сервера исходящих сообщений…</string>
     <string name="account_setup_names_title">Настройка аккаунта</string>
     <string name="account_setup_names_headline">Ваш аккаунт настроен, ждите сообщений!</string>
     <string name="account_setup_names_account_name_label">Присвойте этому аккаунту название (по желанию)</string>
@@ -402,13 +402,14 @@
     <string name="widget_all_mail">Все входящие</string>
     <string name="widget_unread">Непрочитанные</string>
     <string name="widget_starred">Помеченные</string>
-    <string name="widget_loading">Загрузка...</string>
+    <string name="widget_loading">Загрузка…</string>
     <string name="widget_touch_to_configure">Нажмите для настройки.</string>
     <string name="widget_no_accounts">Вы еще не добавили аккаунт электронной почты.</string>
+    <string name="widget_no_mailboxes">Этот аккаунт не синхронизирован. Повторите позже.</string>
     <string name="more_than_999">999+</string>
     <string name="search_hint">Искать в электронной почте</string>
-    <string name="search_mailbox_hint">"Искать в папке \"%1$s\""</string>
-    <string name="search_header_text_fmt">"Результаты поиска для \"%1$s\""</string>
+    <string name="search_mailbox_hint">Искать в папке \"%1$s\"</string>
+    <string name="search_header_text_fmt">Результаты поиска для \"%1$s\"</string>
     <string name="search_slow_warning_title">Ожидание результатов</string>
     <string name="search_slow_warning_message">Ожидание ответа от сервера может занять много времени.</string>
     <string name="action_bar_mailbox_list_title">Папки</string>
@@ -493,8 +494,8 @@
     <string name="notify_paused">Загрузки приостановлены</string>
     <string name="notify_activation_reminder">Функция загрузки с телефона еще не активирована</string>
     <string name="dialog_first_wifi">Большие файлы будут загружаться только через соединение Wi-Fi.</string>
-    <string name="dialog_sync_all_scanning">Поиск файлов...</string>
-    <string name="dialog_sync_all_preparing" formatted="false">Подготовка %1$d фото и %2$d видео к загрузке...</string>
+    <string name="dialog_sync_all_scanning">Поиск файлов…</string>
+    <string name="dialog_sync_all_preparing" formatted="false">Подготовка %1$d фото и %2$d видео к загрузке…</string>
     <string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено.</string>
     <string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже.</string>
     <string name="dialog_sync_all_canceled">"Команда \"Синхронизировать все\" отменена"</string>
@@ -558,7 +559,10 @@
     <string name="contextmenu_sharelink">Отправить ссылку</string>
     <string name="contextmenu_help">Справка</string>
     <string name="contextmenu_feedback">Отправить отзыв</string>
-    <string name="more_string">Еще %1$s...</string>
+    <string name="more_string">Еще %1$s…</string>
+    <string name="copy_email">Скопировать адрес e-mail</string>
+    <string name="copy_number">Скопировать номер телефона</string>
+    <string name="done">Вернуться</string>
     <string name="chips_waiting_for_directory_result">Ожидание ответов</string>
     <string name="copy">Скопировать адрес эл. почты</string>
 </resources>

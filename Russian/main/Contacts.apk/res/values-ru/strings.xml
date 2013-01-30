@@ -3,7 +3,7 @@
 	<string name="config_import_vcard_type">Менеджер аккаунтов Xiaomi</string>
 	<string name="config_export_vcard_type">Выберите сертификат</string>
 	<string name="config_export_dir">Извлечение сертификата</string>
-	<string name="config_export_file_prefix">Извлечение...</string>
+	<string name="config_export_file_prefix">Извлечение…</string>
 	<string name="config_export_file_suffix">Извлечение из %s</string>
 	<string name="config_export_file_extension">Укажите название сертификата</string>
 	<string name="config_export_extensions_to_consider">Название сертификата:</string>
@@ -88,7 +88,7 @@
 	<string name="noAccounts">Для создания групп нужен аккаунт</string>
 	<string name="noMatchingContacts">Подходящие контакты не найдены.</string>
 	<string name="noContactsWithPhoneNumbers">Нет контактов с номерами телефонов.</string>
-	<string name="savingDisplayGroups">Варианты отображения сохраняются...</string>
+	<string name="savingDisplayGroups">Варианты отображения сохраняются…</string>
 	<string name="contactSavedToast">Контакт сохранен</string>
 	<string name="contactSavedErrorToast">Ошибка. Не удалось сохранить изменения контакта.</string>
 	<string name="groupSavedToast">Группа сохранена</string>
@@ -237,7 +237,7 @@
 	<string name="dialog_new_group_account">Создание группы в аккаунте</string>
 	<string name="menu_sync_remove">Удалить группу синхронизации</string>
 	<string name="dialog_sync_add">Добавить группу синхронизации</string>
-	<string name="display_more_groups">Другие группы...</string>
+	<string name="display_more_groups">Другие группы…</string>
 	<string name="display_ungrouped">Остальные контакты</string>
 	<string name="display_all_contacts">Все контакты</string>
 	<string name="display_warn_remove_ungrouped">Удаление группы \"%s\" из синхронизации приведет к удалению любых несгруппированных контактов из синхронизации.</string>
@@ -343,11 +343,11 @@
 	<string name="pick_photo">Выбрать фото из галереи</string>
 	<string name="pick_new_photo">Выбрать новое фото из Галереи</string>
 	<string name="locale_change_in_progress">Список контактов обновляется после смены языка интерфейса.</string>
-	<string name="upgrade_in_progress">Список контактов обновляется...</string>
+	<string name="upgrade_in_progress">Список контактов обновляется…</string>
 	<string name="upgrade_out_of_memory">Список контактов обновляется. \n\nДля обновления требуется около %s МБ встроенной памяти.\n\nВыберите один из следующих вариантов:</string>
 	<string name="upgrade_out_of_memory_uninstall">Удалить некоторые приложения</string>
 	<string name="upgrade_out_of_memory_retry">Повторить попытку обновления</string>
-	<string name="search_results_searching">Поиск...</string>
+	<string name="search_results_searching">Поиск…</string>
 	<string name="no_contacts_selected">Контакты не выбраны.</string>
 	<string name="add_field">Добавить поле</string>
 	<string name="add_new_entry_for_section">Добавить</string>
@@ -372,7 +372,7 @@
 	<string name="list_filter_all_accounts">Все контакты</string>
 	<string name="list_filter_all_starred">Помеченные</string>
 	<string name="list_filter_custom">Пользовательские</string>
-	<string name="list_filter_customize">Настроить...</string>
+	<string name="list_filter_customize">Настроить…</string>
 	<string name="list_filter_phones">Все контакты с номерами телефонов</string>
 	<string name="list_filter_single">Контакт</string>
 	<string name="custom_list_filter">Настройка отображения</string>
@@ -409,8 +409,8 @@
 	<string name="notification_voicemail_callers_list">%1$s, %2$s</string>
 	<string name="notification_new_voicemail_ticker">Новое гол. сообщение: %1$s</string>
 	<string name="voicemail_playback_error">Не удалось воспроизвести сообщение.</string>
-	<string name="voicemail_buffering">Буферизация...</string>
-	<string name="voicemail_fetching_content">Получение голосовой почты...</string>
+	<string name="voicemail_buffering">Буферизация…</string>
+	<string name="voicemail_fetching_content">Получение голосовой почты…</string>
 	<string name="voicemail_fetching_timout">Не удалось получить голосовую почту.</string>
 	<string name="call_log_new_header">Новые</string>
 	<string name="call_log_old_header">Раньше</string>
@@ -494,7 +494,7 @@
 	<string name="callrecordview_menu_delete_one">Удалить из журнала вызовов</string>
 	<string name="delete_call_log_title">Выберите журнал для очистки</string>
 	<string name="dialer_empty_text_no_search_result">Не найдено контактов</string>
-	<string name="dialer_empty_text_loading">Загрузка...</string>
+	<string name="dialer_empty_text_loading">Загрузка…</string>
 	<string name="dialer_empty_text_no_call_log">Нет звонков</string>
 	<string name="callrecordview_menu_settings">Настройки</string>
 	<string name="callrecordview_menu_show">Фильтр журнала вызовов</string>
@@ -553,9 +553,9 @@
 	<string name="hint_search_phone_numbers">%d номер(ов) контакт(ов)</string>
 	<string name="pick_favorites_contacts_list_title">Всего избранных контактов: %1$d</string>
 	<string name="pick_recent_contacts_list_title">Всего последних номеров контактов: %1$d</string>
-	<string name="loading_groups">Загрузка групп...</string>
-	<string name="loading_group_members">Загрузка участников групп...</string>
-	<string name="loading_recent">Загрузка последних контактов...</string>
+	<string name="loading_groups">Загрузка групп…</string>
+	<string name="loading_group_members">Загрузка участников групп…</string>
+	<string name="loading_recent">Загрузка последних контактов…</string>
 	<string name="preference_import">Импорт</string>
 	<string name="preference_export">Экспорт</string>
 	<string name="preference_others">Прочее</string>
@@ -577,7 +577,7 @@
 	<string name="scan_duplicate_message">Контактов с одинаковыми данными: %1$d</string>
 	<string name="merge_contact_message">(%1$d) контактов с одинаковыми данными, (%2$d) объединено</string>
 	<string name="delete_duplicate">Пакетное объединение</string>
-	<string name="delete_duplicate_message">Объединение... </string>
+	<string name="delete_duplicate_message">Объединение… </string>
 	<string name="label_no_duplicate_contacts">Нет повторяющихся контактов</string>
 	<string name="quit_dialog_confirm_title">Выйти?</string>
 	<string name="label_duplicate_count">(%1$d)</string>
@@ -605,7 +605,7 @@
 	<string name="raw_contact_list_title">Этот контакт включает в себя следующие %1$d основные контакты, выберите контакт для редактирования</string>
 	<string name="raw_contact_account_label">Аккаунт:%1$s</string>
 	<string name="move_and_resize">Размер и положение</string>
-	<string name="save_photo_progress">Сохранение фото...</string>
+	<string name="save_photo_progress">Сохранение фото…</string>
 	<string name="edit_photo">Редактировать фото</string>
 	<string name="edit_hint">Редактировать</string>
 	<string name="next_birthday">Следующий день рождения: %s</string>
@@ -616,7 +616,7 @@
 	<string name="pkgLabel">Контакты и номеронабиратель</string>
 	<string name="import_to_xiaomi_account_confirm">Импорт</string>
 	<string name="import_to_xiaomi_account_progress_title">Импорт контактов в аккаунт Xiaomi</string>
-	<string name="import_to_xiaomi_account_progress_message">Импортирование...</string>
+	<string name="import_to_xiaomi_account_progress_message">Импортирование…</string>
 	<string name="import_to_xiaomi_account_progress_finish">Импорт выполнен</string>
 	<string name="import_to_xiaomi_account_title">Вы хотите импортировать выбранные контакты в аккаунт Xiaomi?</string>
 	<string name="menu_batch_delete">Пакетное удаление контактов</string>

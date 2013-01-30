@@ -32,7 +32,7 @@
     <string name="current_data_state_not_available">Не доступно</string>
     <string name="current_data_state_user_space">Пользовательское пространство</string>
     <string name="current_data_state_system_space">Системное пространство</string>
-    <string name="current_data_state_calculating">Подсчет...</string>
+    <string name="current_data_state_calculating">Подсчет…</string>
     <string name="data_copy_tofilecopy">Для копирования файлов</string>
     <string name="data_copy_sms">SMS заполнены.</string>
     <string name="data_copy_mms">MMS заполнены.</string>

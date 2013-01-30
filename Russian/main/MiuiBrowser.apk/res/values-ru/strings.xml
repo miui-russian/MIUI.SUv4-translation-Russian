@@ -53,7 +53,7 @@
     <string name="export_bookmark_failure">Не удалось экспортировать закладки на SD карту!</string>
     <string name="import_bookmark_sucess">Закладки успешно импортированы</string>
     <string name="import_bookmark_failure">Невозможно импортировать закладки</string>
-    <string name="importing_favorite_files">Импорт данных ...</string>
+    <string name="importing_favorite_files">Импорт данных …</string>
     <string name="please_select_a_file_to_import">Пожалуйста, выберите файл данных</string>
     <string name="exported_bookmark_file_name">Избранное</string>
     <string name="import_bookmark">Импорт закладок</string>

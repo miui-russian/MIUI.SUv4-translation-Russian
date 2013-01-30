@@ -9,7 +9,7 @@
 	<string name="download_ota_rom">Загрузить (%s)</string>
 	<string name="apply_later_button_text">Применить позже</string>
 	<string name="start_update">Начать обновление</string>
-	<string name="applying_update">Обновление...</string>
+	<string name="applying_update">Обновление…</string>
 	<string name="apply_update_guide">Обновление в фоновом режиме. Не влияет на нормальную работу.</string>
 	<string name="apply_update_fail">Обновление системы не удалось</string>
 	<string name="apply_update_refuse">Обновление в процессе, выберите заново и установите позже</string>
@@ -24,8 +24,8 @@
 	<string name="mione_update_fail_title">Обновление не удалось</string>
 	<string name="mione_update_fail_description">Обновите заново</string>
 	<string name="apply_unable_to_reboot_toast">Не удается перезагрузиться в Recovery</string>
-	<string name="checking_for_updates">Проверка обновлений...</string>
-	<string name="downloading_description">Загрузка...</string>
+	<string name="checking_for_updates">Проверка обновлений…</string>
+	<string name="downloading_description">Загрузка…</string>
 	<string name="sdcard_is_not_present_dialog_body">SD карта не установлена или не читается, повторите заново</string>
 	<string name="sdcard_is_not_present_dialog_title">SD карта не найдена</string>
 	<string name="sdcard_has_no_space_dialog_body">Заканчивается место на SD карте. Очистите</string>
@@ -116,7 +116,7 @@
 	<string name="submit">Отправить</string>
 	<string name="submit_success">Отправлено. Спасибо!</string>
 	<string name="submit_fail">Ошибка при отправке</string>
-	<string name="submit_progress">Отправка...</string>
+	<string name="submit_progress">Отправка…</string>
 	<string name="choose_recommend">Рекомендуете ли вы эту версию или нет?</string>
 	<string name="refuse_recommend_reason">Введите причину(ы)</string>
 	<string name="update_feedback">Оценка сборки</string>

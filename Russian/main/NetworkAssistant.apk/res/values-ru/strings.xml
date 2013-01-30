@@ -103,14 +103,14 @@
 	<string name="settings_page_adjust_summary_no_carrier">Оператор не настроен, авторегуировка трафика отключена</string>
 	<string name="settings_page_traffic_summary">Доступно: %1$s, Предупреждений: %2$s, Дата последнего пополнения: %3$d</string>
 	<string name="settings_page_traffic_summary_no_settings">Пакет не установлен, Дата последнего пополнения: %d</string>
-	<string name="sync_traffic_ing">Получение информации от оператора, пожалуйста, подождите...</string>
+	<string name="sync_traffic_ing">Получение информации от оператора, пожалуйста, подождите…</string>
 	<string name="sync_traffic_success">Информация о пакетах трафика получена, настройки обновлены</string>
 	<string name="sync_traffic_fail_title">Не удалось получить информацию</string>
 	<string name="sync_traffic_fail_message">Не удалось получить информацию от оператора мобильной связи, сервер занят. Пожалуйста, повторите попытку позже или позвоните в службу поддержки: %s</string>
 	<string name="retry">Повторить</string>
 	<string name="sync_fail_notify_title">Не удалось получить информацию</string>
 	<string name="sync_fail_notify_detail">Нет ответа от оператора, нажмите, чтобы повторить попытку</string>
-	<string name="loading_app">Загрузка...</string>
+	<string name="loading_app">Загрузка…</string>
 	<string name="cannot_find_sms_cmd">Не удается найти SMS команду</string>
 	<string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
 	<string name="traffic_settings_error">Eсть ошибка в настройках Вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
@@ -124,7 +124,7 @@
 	<string name="force_stop_dlg_text">Завершение приложения может вызвать ошибки</string>
 	<string name="adjust_traffic_update">Обновить</string>
 	<string name="adjust_traffic_sms_template_update">Обновить шаблон SMS</string>
-	<string name="updating">Обновление...</string>
+	<string name="updating">Обновление…</string>
 	<string name="update_success">Успешно обновлено</string>
 	<string name="update_fail">Ошибка обновления</string>
 	<string name="update_no_network">Ошибка обновления, проверьте настройки сети.</string>

@@ -7,7 +7,7 @@
     <string name="video_camera_label">Видеокамера</string>
     <string name="gallery_camera_bucket_name">Снимки камеры</string>
     <string name="gallery_camera_videos_bucket_name">Видео камеры</string>
-    <string name="wait">Пожалуйста подождите...</string>
+    <string name="wait">Пожалуйста подождите…</string>
     <string name="no_storage">Подключите USB накопитель перед использованием камеры.</string>
     <string name="not_enough_space">Нет места на USB накопителе.</string>
     <string name="preparing_sd">Подготовка USB накопителя…</string>
@@ -100,7 +100,7 @@
     <string name="pano_dialog_panorama_failed">"Не могу сохранить панораму."</string>
     <string name="pano_dialog_title">Панорама</string>
     <string name="pano_capture_indication">Захват панорамы</string>
-    <string name="pano_review_saving_indication_str">Сохранение...</string>
+    <string name="pano_review_saving_indication_str">Сохранение…</string>
     <string name="tap_to_focus">Прикоснитесь для фокусировки.</string>
     <string name="pref_video_effect_default">нет</string>
     <string name="pref_video_effect_title">Эффекты</string>

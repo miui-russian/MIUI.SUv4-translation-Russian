@@ -2,7 +2,7 @@
 <resources>
     <string name="short_app_name" msgid="5507177282765852169">Киностудия</string>
     <string name="full_app_name" msgid="5729546228978363869">Киностудия Android</string>
-    <string name="editor_loading_project" msgid="3510642162166476100">Загрузка проекта...</string>
+    <string name="editor_loading_project" msgid="3510642162166476100">Загрузка проекта…</string>
     <string name="editor_no_project" msgid="3873338552933049950">Проекты не найдены</string>
     <string name="editor_add" msgid="1728703558703319942">Добавить</string>
     <string name="editor_import_video" msgid="6939466871773802646">Импортировать видеоклип</string>

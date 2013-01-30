@@ -104,6 +104,7 @@
     <string name="user_guide">Руководство</string>
     <string name="user_guide_summary">Как использовать MiDrive</string>
     <string name="rename_failed">Ошибка переименования %1$s </string>
+    <string name="ui_bar_txt_download_progress">%1$d файлов осталось загрузить</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>
     <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
     <string name="login_reg_content">MiDrive позволяет хранить файлы и \nсинхронизировать их с другими устройствами</string>
@@ -115,6 +116,8 @@
     <string name="local_cache">Локальный кэш</string>
     <string name="clear_cache">Очистить кэш</string>
     <string name="used">Использовано </string>
+    <string name="loading">Загрузка</string>
+    <string name="load_err">Не удалось загрузить</string>
     <string name="local_cache_size">Размер локального кэша: %s</string>
     <string name="net_lose_connected">Сеть недоступна: невозможно получить размер</string>
     <string name="wangpan_root_path">My Drive</string>
@@ -174,6 +177,7 @@
     <string name="kuaipan_prompt_message">\n Сервер закрыт на техническое обслуживание, повторите позже…\n</string>
     <string name="move_failed">Невозможно вырезать</string>
     <string name="copy_failed">Ошибка копирования</string>
+    <string name="delete_failed">Ошибка удаления</string>
     <string name="toast_file_not_can_read">Невозможно прочитать файл</string>
 	<string name="server_control_settings">Настройки</string>
     <string name="server_control_advanced_settings">Расширенные настройки</string>
@@ -214,7 +218,7 @@
 	<string name="operation_resume">Запустить</string>
 	<string name="operation_pause_all">Приостановить все</string>
 	<string name="operation_resume_all">Запустить все</string>
-	<string name="operating">Обрабатывается...</string>
+	<string name="operating">Обрабатывается…</string>
 	<string name="trans_task">Передача по сети</string>
 	<string name="des_running_trans">Еще %1$d файлов нужно передать</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите&lt;/a>чтобы очистить корзину</string>

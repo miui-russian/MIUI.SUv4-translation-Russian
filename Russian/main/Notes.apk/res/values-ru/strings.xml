@@ -4,7 +4,7 @@
     <string name="app_widget">Заметки</string>
     <string name="widget_havenot_content">Нажмите, для создания заметки</string>
     <string name="widget_under_visit_mode">При включенном режиме Гость заметки не отображаются</string>
-    <string name="notelist_string_info">...</string>
+    <string name="notelist_string_info">…</string>
     <string name="notelist_menu_new">Заметка</string>
     <string name="note_alert_expired">Просрочено</string>
     <string name="format_date_ymd">ddMMyyyy</string>
@@ -60,7 +60,7 @@
     <string name="success_sdcard_export">Экспорт завершен</string>
     <string name="failed_sdcard_export">Экспорт прерван</string>
     <string name="format_exported_file_location">Заметки (%1$s) экспортируются в (%2$s)</string>
-    <string name="ticker_syncing">Синхронизация заметок...</string>
+    <string name="ticker_syncing">Синхронизация заметок…</string>
     <string name="ticker_success">Синхронизация завершена!</string>
     <string name="ticker_fail">Ошибка синхронизации</string>
     <string name="ticker_cancel">Синхронизация прервана</string>
@@ -68,9 +68,9 @@
     <string name="error_sync_network">Синхронизация прервана. Проверьте параметры сети и аккаунта</string>
     <string name="error_sync_internal">Синхронизация прервана. Внутренняя ошибка</string>
     <string name="error_sync_cancelled">Синхронизация прервана</string>
-    <string name="sync_progress_login">Вход в %1$s...</string>
-    <string name="sync_progress_init_list">Получение списка заметок...</string>
-    <string name="sync_progress_syncing">Синхронизация заметок с Google Task...</string>
+    <string name="sync_progress_login">Вход в %1$s…</string>
+    <string name="sync_progress_init_list">Получение списка заметок…</string>
+    <string name="sync_progress_syncing">Синхронизация заметок с Google Task…</string>
     <string name="preferences_title">Настройки</string>
     <string name="preferences_account_title">Синхронизация аккаунта</string>
     <string name="preferences_account_summary">Синхронизировать заметки с Google Task</string>

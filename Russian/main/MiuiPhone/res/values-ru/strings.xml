@@ -44,7 +44,7 @@
     <string name="auto_ip_add_exception_numbers_miui">Добавить номера</string>
     <string name="auto_ip_remove_exception_numbers_confirm_miui">Вы уверены, что хотите удалить эти %d номеров?</string>
     <string name="auto_ip_exception_summary_miui"> всего %d</string>
-    <string name="auto_ip_exception_summary_more_miui">,... всего %d </string>
+    <string name="auto_ip_exception_summary_more_miui">,… всего %d </string>
     <string name="auto_ip_support_local_numbers">Поддержка местных номеров</string>
     <string name="auto_record_call_summary_miui">Звонки записываются и сохраняются в папке MIUI/sound_recorder/call_rec на карте памяти</string>
     <string name="auto_record_call_title_miui">Записывать автоматически</string>
@@ -191,7 +191,7 @@
     <string name="handon_ringer_title_miui">Затихание звонка при взятии телефона в руки</string>
     <string name="hangup_sms_miui">Отклонить с SMS</string>
     <string name="ignore_miui">Игнорировать</string>
-    <string name="importing_sim_contacts_miui">Импорт контактов SIM...</string>
+    <string name="importing_sim_contacts_miui">Импорт контактов SIM…</string>
     <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_sim_entries_finish">Импорт контактов с SIM-карты завершён</string>
@@ -400,7 +400,7 @@
     <string name="registration_status_no_wifi_data">Регистрация аккаунта приостановлена по причине отсутствия Wi-Fi соединения</string>
     <string name="no_wifi_available_title">Нет Wi-Fi соединения</string>
     <string name="no_wifi_available">Вы должны быть подключены к Wi-Fi для совершения интернет-звонков (идите в настройки беспроводной сети)</string>
-    <string name="requesting_unlock">"Запрос разблокировки сети..."</string>
+    <string name="requesting_unlock">"Запрос разблокировки сети…"</string>
     <string name="unlock_failed">"Запрос разблокировки сети не удался."</string>
     <string name="unlock_success">"Сеть разблокирована"</string>
     <string name="preferred_network_mode_lte_cdma_summary">"предпочтительный тип сети: LTE/CDMA"</string>

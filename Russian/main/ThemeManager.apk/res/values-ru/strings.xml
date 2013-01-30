@@ -4,13 +4,13 @@
     <string name="theme_activity_label">Темы</string>
     <string name="theme_activity_lable">Темы</string>
 	<string name="theme_import_activity_label">Обновление темы</string>
-    <string name="theme_changing_dialog_title">Применение темы. Подождите...</string>
+    <string name="theme_changing_dialog_title">Применение темы. Подождите…</string>
     <string name="theme_changed_message">Успешно установлена %1$s.</string>
     <string name="theme_changed_failed_message">Ошибка применения темы %1$s</string>
     <string name="backup_preference_title">Резервное копирование темы</string>
     <string name="backup_theme_dialog_ok">Резервное копирование</string>
     <string name="backup_theme_dialog_message">Резервное копирование текущей темы в\n%1$s</string>
-    <string name="backup_theme_progress_message">Резервное копирование файлов темы. Подождите...</string>
+    <string name="backup_theme_progress_message">Резервное копирование файлов темы. Подождите…</string>
     <string name="backup_theme_success_message">Резервное копирование темы завершено</string>
     <string name="backup_theme_name">Мои резервные копии</string>
     <string name="theme_description_title_default">По умолчанию</string>
@@ -61,7 +61,7 @@
     <string name="component_include_title">Содержит %1$s компонентов</string>
     <string name="component_screen_title">Обои</string>
     <string name="resource_fail_to_show">В теме отсутствуют требуемые ресурсы</string>
-	<string name="new_format_convert">Конвертирование %1$s в новый формат, подождите...</string>
+	<string name="new_format_convert">Конвертирование %1$s в новый формат, подождите…</string>
     <string name="old_format_title">Старый формат</string>
     <string name="old_format_fail">Ошибка конвертирования, для повтора нажмите применить.</string>
     <string name="old_format_convert_tip1">Тема не в новом формате, конвертирование займет время. Продолжить?</string>
@@ -84,7 +84,7 @@
     <string name="wallpaper_set_as_destop">Применить как обои</string>
     <string name="wallpaper_set_as_lockscreen">Применить как экран блокировки</string>
     <string name="wallpaper_crop">Обрезать</string>
-    <string name="wallpaper_loading_text">Загрузка...</string>
+    <string name="wallpaper_loading_text">Загрузка…</string>
     <string name="wallpaper_decoded_error">Ошибка расшифровки</string>
     <string name="close">Закрыть</string>
     <string name="download_success">Загрузка завершена!</string>
@@ -100,7 +100,7 @@
 	<string name="theme_import_importing">Обновление.. осталось %1$d</string>
 	<string name="theme_import_normal">Обновление темы</string>
 	<string name="theme_sdcard_importing">Импорт</string>
-	<string name="theme_import_stoping">Прерывание...</string>
+	<string name="theme_import_stoping">Прерывание…</string>
 	<string name="theme_import_oper_stop">Остановить</string>
 	<string name="theme_import_oper_stop_request_content">Эти темы необходимо обновить для дальнейшего использования. Вы действительно хотите остановить процесс?</string>
 	<string name="theme_import_oper_start">Обновить все</string>
@@ -117,7 +117,7 @@
 	<string name="theme_import_fail">Ошибка импорта темы %1$s.</string>
 	<string name="theme_import_data">Инициализация. Пожалуйста, подождите…</string>
 	<string name="resource_comment_no_comment">Комментарии отсутствуют</string>
-	<string name="resource_comment_sending">Отправляю комментарий...</string>
+	<string name="resource_comment_sending">Отправляю комментарий…</string>
 	<string name="resource_comment_upload_failed">Ошибка отправки комментария</string>
 	<string name="resource_comment_upload_success">Комментарий отправлен! Он будет опубликован после проверки</string>
 	<string name="resource_comment_upload_data_invalid">Простите, комментарий неверен</string>

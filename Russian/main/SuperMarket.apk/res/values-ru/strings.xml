@@ -24,7 +24,7 @@
     <string name="quicksearchbox_description">Поиск приложений</string>
     <string name="pref_title_auto_update_setting">Настройки автообновления</string>
     <string name="pref_title_update_onlyby_wifi">Обновление только по Wi-Fi</string>
-    <string name="pref_title_data_save_mode">Режим сохранения жданных</string>
+    <string name="pref_title_data_save_mode">Режим сохранения данных</string>
     <string name="pref_title_clear_search_record">Очистить историю поиска</string>
     <string name="pref_title_update_notify_mode">Уведомления об обновлениях</string>
     <string name="pref_summary_auto_update_setting">Уведомление при окончании загрузки</string>
@@ -133,7 +133,7 @@
     <string name="header_processing">Очередь загрузок</string>
     <string name="header_waiting">Очередь</string>
     <string name="no_comment">Нет комментариев</string>
-    <string name="comment_sending">Отправка комментария...</string>
+    <string name="comment_sending">Отправка комментария…</string>
     <string name="comment_upload_failed">Ошибка отправки комментария</string>
     <string name="comment_upload_success">Комментарий отправлен! It will be displayed after the audit</string>
     <string name="comment_upload_data_invalid">Извините, неверный комментарий</string>
@@ -205,9 +205,9 @@
     <string name="abs__action_bar_up_description">Перейти вверх</string>
     <string name="abs__action_menu_overflow_description">Больше настроек</string>
     <string name="abs__action_mode_done">Завершено</string>
-    <string name="abs__activity_chooser_view_see_all">Просмотреть все...</string>
+    <string name="abs__activity_chooser_view_see_all">Просмотреть все…</string>
     <string name="abs__activity_chooser_view_dialog_title_default">Выбрать действие</string>
-    <string name="abs__share_action_provider_share_with">Поделиться...</string>
+    <string name="abs__share_action_provider_share_with">Поделиться…</string>
     <string name="abs__activitychooserview_choose_application">Выбрать приложение</string>
     <string name="abs__shareactionprovider_share_with">Поделиться</string>
     <string name="abs__shareactionprovider_share_with_application">Поделиться с %s</string>

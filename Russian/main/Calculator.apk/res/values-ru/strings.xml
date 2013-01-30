@@ -12,8 +12,8 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
-    <string name="del">УДАЛ</string>
-    <string name="clear">ОЧИСТ</string>
+    <string name="del">DEL</string>
+    <string name="clear">CLR</string>
     <string name="sin">sin</string>
     <string name="cos">cos</string>
     <string name="tan">tan</string>

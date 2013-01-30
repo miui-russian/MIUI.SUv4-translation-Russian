@@ -310,5 +310,5 @@
   <string name="video_reach_size_limit">Максимальный размер достигнут.</string>
   <string name="video_snapshot_hint">Можно сделать фотографию во время съемки, прикоснувшись к экрану</string>
   <string name="videocamera_settings_label">Настройки видеокамеры</string>
-  <string name="wait">Пожалуйста, ждите...</string>
+  <string name="wait">Пожалуйста, ждите…</string>
 </resources>

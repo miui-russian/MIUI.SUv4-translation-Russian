@@ -40,7 +40,7 @@
     <string name="online_latest_short">Новые</string>
     <string name="online_no_network">Невозможно подключиться к сети</string>
     <string name="online_search_hint">Поиск онлайн ресурсов</string>
-    <string name="loading">Загрузка...</string>
+    <string name="loading">Загрузка…</string>
     <string name="download_failed">Загрузка прервана</string>
     <string name="download_preview_failed">Ошибка предпросмотра</string>
     <string name="invalid_url">Неверный URL:</string>
@@ -52,7 +52,9 @@
     <string name="theme_update_request_content">Необходимо обновление тем до нового формата. Обновление займет время. Так же темы скачанные из интеренета не будут применяться, продолжить?.</string>
     <string name="theme_update_request_continue_content">Предыдущее обновление темы не завершено, возобновить?</string>
     <string name="theme_updating_title">Обновление темы</string>
-    <string name="theme_updating_precontent">Подготовка, подождите...</string>
+    <string name="theme_updating_precontent">Подготовка, подождите…</string>
+    <string name="miro_menu_overflow">Еще</string>
+    <string name="status_bar_toggle_power_mode">Режим питания</string>
     <string name="theme_updating_content">Обновление %1$d/%2$d, подождите</string>
     <string name="theme_update_complete_title">Обновление завершено</string>
     <string name="theme_update_complete_content_success">%1$d завершено</string>
@@ -492,6 +494,7 @@
     <string name="status_bar_toggle_vibrate">Вибрация</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
 	<string name="status_bar_toggle_drive_mode">Штурман</string>
+    <string name="v5_icon_menu_bar_more_item_label">Еще</string>
     <string name="screen_rotation_freeze_message">Ориентация экрана заблокирована в ландшафтном рефиме</string>
     <string name="screen_button_disabled_message">Функции клавиш на нижнем экране отключены. Для разблокировки нажмите \"Домой\" и \"Включение\"</string>
     <string name="screen_button_enabled_message">Функции клавиш на нижнем экране включены</string>
@@ -511,9 +514,9 @@
 	<string name="resource_get_auth_exceed_max_limit_tips">Тема не может быть применена на данном устройстве, т.к. превышен лимит десяти авторизаций за год для одного аккаунта, для разных устройств. Пожалуйста используйте другой аккаунт Xiaomi.</string>
 	<string name="resource_server_out_of_service">Временно недоступно, попробуйте позже.</string>
 	<string name="resource_switch_account">Переключить</string>
-	<string name="processing">Запрос обрабатывается ...</string>
+	<string name="processing">Запрос обрабатывается …</string>
     <string name="find_device_turn_off_flight_mode">Выкл. режим \"В самолете\"</string>
     <string name="find_device_turn_off_flight_mode_instructions">Ваше устройство заблокировано\nВыкл. режим \"В самолете\"</string>
     <string name="find_device_sim_change_instructions_no_network">Ваше устройство заблокировано\nВставьте SIM карту</string>
-    <string name="find_device_check_sim">Проверка SIM...</string>
+    <string name="find_device_check_sim">Проверка SIM…</string>
 </resources>
