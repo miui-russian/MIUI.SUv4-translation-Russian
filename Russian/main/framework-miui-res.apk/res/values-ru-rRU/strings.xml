@@ -68,6 +68,7 @@
     <string name="miui_copyright_title">Авторские права</string>
     <string name="miui_user_agreement_title">Пользовательское соглашение</string>
     <string name="miui_privacy_policy_title">Политика конфиденциальности</string>
+    <string name="miui_mibi_license_title">Пользовательское соглашение Mi Credit</string>
 	<string name="miui_user_manual_title">Инструкция</string>
     <string name="user_agreement1">Вы будете использовать системы и Интернет услуги, предоставляемые Xiaomi, пожалуйста, прочитайте</string>
     <string name="user_agreement2">"Пользовательское соглашение"</string>

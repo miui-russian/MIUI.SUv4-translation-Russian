@@ -92,7 +92,7 @@
     <string name="file_loading">Загрузка…</string>
     <string name="remote_management">FTP</string>
     <string name="multi_select_title">%1$s выбрано</string>
-    <string name="tab_networkdisk">MiDrive</string>
+    <string name="tab_networkdisk">KuaiPan</string>
     <string name="operation_download_link">Сгенерировать ссылку</string>
     <string name="ui_filechange_btn_download">Загрузка файлов</string>
     <string name="show_message">Файл не может быть открыт без загрузки</string>
@@ -102,15 +102,16 @@
     <string name="ui_main_toast_favorite_removed">Избранное удалено</string>
     <string name="ui_main_toast_operation_failed">Операция не удалась для %1$s.</string>
     <string name="user_guide">Руководство</string>
-    <string name="user_guide_summary">Как использовать MiDrive</string>
+    <string name="user_guide_summary">Как использовать KuaiPan</string>
     <string name="rename_failed">Ошибка переименования %1$s </string>
     <string name="ui_bar_txt_download_progress">%1$d файлов осталось загрузить</string>
     <string name="ui_bar_txt_upload_progress">%1$d файлов загружается</string>
     <string name="ui_main_menu_option_task_manage">Управление обменом файлов</string>
-    <string name="login_reg_content">MiDrive позволяет хранить файлы и \nсинхронизировать их с другими устройствами</string>
+	<string name="login_reg_content0">KuaiPan это ваш сетевой диск</string>
+    <string name="login_reg_content">KuaiPan позволяет хранить файлы и \nсинхронизировать их с другими устройствами</string>
     <string name="login_reg_login_xiaomi">Вход в аккаунт Xiaomi</string>
     <string name="start_use_xiaomi_account">Старт для входа</string>
-    <string name="pan_settting">Настройки MiDrive</string>
+    <string name="pan_settting">Настройки KuaiPan</string>
     <string name="xiaomi_account">Аккаунт Xiaomi</string>
     <string name="space_usage">Использовано места</string>
     <string name="local_cache">Локальный кэш</string>
@@ -121,47 +122,39 @@
     <string name="local_cache_size">Размер локального кэша: %s</string>
     <string name="net_lose_connected">Сеть недоступна: невозможно получить размер</string>
     <string name="wangpan_root_path">My Drive</string>
-    <string name="kuaipan_over_space">У вас в MiDrive закончилось место.</string>
+    <string name="kuaipan_over_space">У вас в KuaiPan закончилось место.</string>
     <string name="kuaipan_tech_support">Тех.поддержка Kingsoft Kuaipan</string>
     <string name="no_tasks">Нет задач</string>
-    <string-array name="task_status">
-        <item>В процессе</item>
-        <item>Ожидание</item>
-        <item>Прервано</item>
-        <item>Ошибка</item>
-        <item>Завершено</item>
-        <item>Пауза</item>
-    </string-array>
     <string name="create_new_folder_failed">Ошибка создания папки %1$s</string>
     <string name="slide_left_text">Сдвиньте влево</string>
-    <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD-карты в MiDrive</string>
+    <string name="guide_copy_to_sdcard">Вы можете копировать файлы\nиз SD-карты в KuaiPan</string>
     <string name="guide_access_files_through_web">Они будут доступны через интернет\nна любом компьютере</string>
-    <string name="guide_access_files_through_phone">Загруженные через интернет файлы\nбудут отображаться в телефоне\nв разделе MiDrive</string>
+    <string name="guide_access_files_through_phone">Загруженные через интернет файлы\nбудут отображаться в телефоне\nв разделе KuaiPan</string>
     <string name="guide_advance_tech">Передовые технологии</string>
-    <string name="guide_manage_files_through_computer">Управляйте файлами в MiDrive\nна своём ПК</string>
+    <string name="guide_manage_files_through_computer">Управляйте файлами в KuaiPan\nна своём ПК</string>
     <string name="guide_senior_tech">Обмен между компьютерами</string>
-    <string name="guide_install_app_on_several_computers">Установите клиент MiDrive\nна несколько компьютеров</string>
+    <string name="guide_install_app_on_several_computers">Установите клиент KuaiPan\nна несколько компьютеров</string>
     <string name="guide_changes_sync">Изменения синхронизируются\nна всех устройствах</string>
-    <string name="guide_congratulation_know_all">Поздравляем!\nТеперь вы изучили MiDrive!\nНачните использовать его прямо сейчас!</string>
+    <string name="guide_congratulation_know_all">Поздравляем!\nТеперь вы изучили KuaiPan!\nНачните использовать его прямо сейчас!</string>
     <string name="guide_login_url">Посетите на своем ПК\npan.xiaomi.com</string>
-    <string name="guide_download_install_apk">Загрузите и установите клиент MiDrive</string>
-    <string name="guide_begin_to_use">Начать использовать MiDrive</string>
+    <string name="guide_download_install_apk">Загрузите и установите клиент KuaiPan</string>
+    <string name="guide_begin_to_use">Начать использовать KuaiPan</string>
     <string name="upload_file_toolarge_message">%1$d файлов размером более 300Мб не могут быть загружены. Проверьте "Управление передачами".</string>
     <string name="cution">Советы</string>
     <string name="clean_trash_box">Очистить Корзину</string>
-   <string name="trash_box_link">Чтобы очистить корзину, посетите pan.xiaomi.com</string>
+    <string name="trash_box_link">Чтобы очистить корзину, посетите pan.xiaomi.com</string>
     <string name="clean_title">Удалить файлы из Корзины Старше 30 дней</string>
     <string name="clean_message"> Удаление %1$s</string>
     <string name="trash_box_message1">Вы можете удалить ненужные файлы для освобождения места</string>
     <string name="trash_box_message2">Вы можете удалить ненужные файлы или очистить корзину для освобождения места</string>
     <string name="close">Закрыть</string>
     <string name="clean_trash_box_failed">Ошибка удаления файлов старше 30 дней из Корзины</string>
-    <string name="space_info">MiDrive объем: %1$ доступно, %2$s всего</string>
+    <string name="space_info">KuaiPan объем: %1$ доступно, %2$s всего</string>
     <string name="trash_box_capacity">Корзина %1$s</string>
     <string name="data_capacity">Объем %1$s</string>
-    <string name="send_to_midrive">Послать в MiDrive</string>
+    <string name="send_to_midrive">Послать в KuaiPan</string>
     <string name="choose_upload_location">Выбор места назначения</string>
-    <string name="send_to_midrive_failed_message">MiDrive не может принять это содержимое</string>
+    <string name="send_to_midrive_failed_message">KuaiPan не может принять это содержимое</string>
     <string name="operation_compress">Архивация</string>
     <string name="compress_title">Архивация</string>
     <string name="compress_message">Архивация в…</string>
@@ -173,7 +166,7 @@
     <string name="decompress_to">Распаковка в…</string>
     <string name="decompress_confirm">Распаковать</string>
     <string name="decompress_cancel">Отмена</string>
-    <string name="kuaipan_prompt">MiDrive СОВЕТЫ</string>
+    <string name="kuaipan_prompt">KuaiPan СОВЕТЫ</string>
     <string name="kuaipan_prompt_message">\n Сервер закрыт на техническое обслуживание, повторите позже…\n</string>
     <string name="move_failed">Невозможно вырезать</string>
     <string name="copy_failed">Ошибка копирования</string>
@@ -205,7 +198,7 @@
     <string name="rename_description">Переименование…</string>
     <string name="share_link_failed">Не удалось создать ссылку для папки</string>
     <string name="choose_send_type">Выберите метод отправки</string>
-    <string name="download_link_completed">Я открыл доступ к %1$s через MiDrive. Перейдите по ссылке ниже, чтобы посмотреть:</string>
+    <string name="download_link_completed">Я открыл доступ к %1$s через KuaiPan. Перейдите по ссылке ниже, чтобы посмотреть:</string>
 	<string name="transing">Передача</string>
 	<string name="finished">Заверешено</string>
 	<string name="uploading">Загрузка</string>
@@ -225,4 +218,11 @@
 	<string name="storage_internal">Внутренняя память</string>
 	<string name="storage_sd_card">SD карта</string>
 	<string name="storage_usb">USB накопитель</string>	
+	<string name="bind_account">bind to kuaipan account</string>
+	<string name="bind_account_summary">If you have already got a kuaipan account，then you can bind to this account to read its data</string>
+	<string name="binded_accout_title">You currently have already binded to a kuaipan account</string>
+	<string name="binded_accout_description">The two account have been merged,then using either xiaomi account or kuaipan account to login, both can read all your data</string>
+	<string name="binding_accout_title">bind to your exsiting kuaipan account</string>
+	<string name="kingsoft_account">kingsoft kuaipan account</string>
+	<string name="binded_accout_warning">Warning:This operation is not reversible</string>
 </resources>
