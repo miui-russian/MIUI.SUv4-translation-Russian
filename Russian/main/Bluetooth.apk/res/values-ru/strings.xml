@@ -47,7 +47,7 @@
 	<string name="download_succ_line5">Файл получен.</string>
 	<string name="download_succ_ok">Открыть</string>
 	<string name="upload_line1">Куда: \"%1$s\"</string>
-	<string name="upload_line3"formatted="false" >Тип файла: %1$s (%2$s)</string>
+	<string name="upload_line3" formatted="false">Тип файла: %1$s (%2$s)</string>
 	<string name="upload_line5">Отправка файла…</string>
 	<string name="upload_succ_line5">Файл отправлен</string>
 	<string name="upload_succ_ok">ОК</string>
