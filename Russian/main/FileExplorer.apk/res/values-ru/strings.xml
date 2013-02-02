@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Файл менеджер</string>
     <string name="confirm">ОК</string>
@@ -216,13 +216,13 @@
 	<string name="des_running_trans">Еще %1$d файлов нужно передать</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Нажмите&lt;/a>чтобы очистить корзину</string>
 	<string name="storage_internal">Внутренняя память</string>
-	<string name="storage_sd_card">SD карта</string>
-	<string name="storage_usb">USB накопитель</string>	
-	<string name="bind_account">bind to kuaipan account</string>
-	<string name="bind_account_summary">If you have already got a kuaipan account，then you can bind to this account to read its data</string>
-	<string name="binded_accout_title">You currently have already binded to a kuaipan account</string>
-	<string name="binded_accout_description">The two account have been merged,then using either xiaomi account or kuaipan account to login, both can read all your data</string>
-	<string name="binding_accout_title">bind to your exsiting kuaipan account</string>
-	<string name="kingsoft_account">kingsoft kuaipan account</string>
-	<string name="binded_accout_warning">Warning:This operation is not reversible</string>
+	<string name="storage_sd_card">SD-карта</string>
+	<string name="storage_usb">USB-накопитель</string>	
+	<string name="bind_account">Привязать к аккаунту KuaiPan</string>
+	<string name="bind_account_summary">Если у Вас уже есть аккаунт kuaipan， тогда вы можете войти в него, чтобы получить доступ к его данным.</string>
+	<string name="binded_accout_title">Вы уше привязаны к аккаунту KuaiPan</string>
+	<string name="binded_accout_description">Два аккаунта были объединены. Для входа Вы можете использовать аккаунт xiaomi, либо аккаунт KuaiPan - оба имеют досту к Вашим данным</string>
+	<string name="binding_accout_title">Привязка к существующему аккаунту KuaiPan</string>
+	<string name="kingsoft_account">Аккаунт Kingsoft KuaiPan</string>
+	<string name="binded_accout_warning">Внимание! Эта операция необратима!</string>
 </resources>

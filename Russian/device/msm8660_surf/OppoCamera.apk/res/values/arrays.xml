@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="camera_settings">
-        <item>Camera</item>
-        <item>Shutter sound</item>
-        <item>Store location</item>
-        <item>Low light</item>
-        <item>Natural flash</item>
+        <item>Камера</item>
+        <item>Звук затвора</item>
+        <item>Место хранения</item>
+        <item>Плохое освещение</item>
+        <item>Натуральная вспышка</item>
         <item>HDR</item>
-        <item>Flash mode</item>
+        <item>Режим вспышки</item>
     </string-array>
     <string-array name="video_settings">
-        <item>Camera</item>
-        <item>File formats</item>
-        <item>Store location</item>
-        <item>Exposure</item>
-        <item>Recorder</item>
+        <item>Видео</item>
+        <item>Форматы файлов</item>
+        <item>Место хранения</item>
+        <item>Экспозиция</item>
+        <item>Рекордер</item>
     </string-array>
     <string-array name="items_name">
-        <item>Funny</item>
-        <item>Rewind</item>
-        <item>Deformed</item>
-        <item>Light Color</item>
-        <item>Enhanced</item>
+        <item>Смешной</item>
+        <item>Назад</item>
+        <item>Искажённый</item>
+        <item>Мягкие цвета</item>
+        <item>Насыщенный</item>
     </string-array>
     <string-array name="item_interest">
-        <item>Fisheye</item>
-        <item>Mirror</item>
-        <item>Pencil</item>
-        <item>Color</item>
+        <item>Рыбий глаз</item>
+        <item>Зеркало</item>
+        <item>Карандаш</item>
+        <item>Цвет</item>
     </string-array>
     <string-array name="item_rewind">
-        <item>Start</item>
-        <item>Demo</item>
+        <item>Старт</item>
+        <item>Демо</item>
     </string-array>
     <string-array name="item_haha_mirror">
-        <item>Funnel</item>
-        <item>Wave</item>
-        <item>Sphere</item>
-        <item>Sea</item>
+        <item>Воронка</item>
+        <item>Волна</item>
+        <item>Сфера</item>
+        <item>Море</item>
     </string-array>
     <string-array name="item_diary">
-        <item>Virtual-F</item>
-        <item>Soft-F</item>
-        <item>Lomo</item>
-        <item>Retro</item>
+        <item>Виртуальный-F</item>
+        <item>Мягкий-F</item>
+        <item>Ломо</item>
+        <item>Ретро</item>
     </string-array>
     <string-array name="item_strengthen">
-        <item>Burst</item>
-        <item>Panorama</item>
+        <item>Серия</item>
+        <item>Панорама</item>
     </string-array>
 </resources>

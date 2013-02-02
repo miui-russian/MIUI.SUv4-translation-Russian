@@ -73,6 +73,7 @@
         <item>Разноe</item>
         <item>Погода</item>
     </string-array>
+    <string-array name="presetlist_edit_category">
         <item>Переименовать</item>
         <item>Автовыбор</item>
         <item>Удалить</item>

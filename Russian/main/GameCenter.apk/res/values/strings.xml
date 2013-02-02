@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abs__action_bar_home_description">Домой</string>
+    <string name="abs__action_bar_home_description">В начало</string>
     <string name="abs__action_bar_up_description">Вверх</string>
-    <string name="abs__action_menu_overflow_description">Больше опций</string>
+    <string name="abs__action_menu_overflow_description">Больше настроек</string>
     <string name="abs__action_mode_done">Готово</string>
-    <string name="abs__activity_chooser_view_see_all">Все…</string>
-    <string name="abs__activity_chooser_view_dialog_title_default">Выберите действие</string>
+    <string name="abs__activity_chooser_view_see_all">Просмотреть все…</string>
+    <string name="abs__activity_chooser_view_dialog_title_default">Выбрать действие</string>
     <string name="abs__share_action_provider_share_with">Отправить…</string>
     <string name="abs__activitychooserview_choose_application">Выберите приложение</string>
     <string name="abs__shareactionprovider_share_with">Отправить</string>

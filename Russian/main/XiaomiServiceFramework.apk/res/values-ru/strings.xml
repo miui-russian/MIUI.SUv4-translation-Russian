@@ -177,8 +177,6 @@
     <string name="paytool_picker_hint">Пожалуйста, укажите сумму Mi-долларов для зачисления</string>
     <string name="paytool_edit_hint">Сумма зачисления (В ¥)</string>
 	<string name="paytool_edit_limit">Меньше 500</string>
-    <string name="progress_alipay_creating">Создаю платёжное поручение Alipay…</string>
-    <string name="progress_alipay_installing">Установка плагина безопасности Alipay…</string>
     <string name="paytool_error_install">Не удалось завершить установку плагина безопасности Alipay</string>
     <string name="paytool_error_denomination">Пожалуйста, введите корректную сумму для зачисления</string>
     <string name="paytool_error_msp">Не удалось пополнить счёт с помощью Alipay</string>

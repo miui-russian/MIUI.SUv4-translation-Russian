@@ -201,14 +201,14 @@
     <string name="login_retry">Попробовать еще раз</string>
     <string name="failed_to_send_activate_email">Сбой отсылки активациионного email.</string>
     <string name="access_denied">Доступ запрещен</string>
-    <string name="abs__action_bar_home_description">Перейти к началу</string>
-    <string name="abs__action_bar_up_description">Перейти вверх</string>
+    <string name="abs__action_bar_home_description">В начало</string>
+    <string name="abs__action_bar_up_description">Вверх</string>
     <string name="abs__action_menu_overflow_description">Больше настроек</string>
     <string name="abs__action_mode_done">Завершено</string>
     <string name="abs__activity_chooser_view_see_all">Просмотреть все…</string>
     <string name="abs__activity_chooser_view_dialog_title_default">Выбрать действие</string>
-    <string name="abs__share_action_provider_share_with">Поделиться…</string>
-    <string name="abs__activitychooserview_choose_application">Выбрать приложение</string>
-    <string name="abs__shareactionprovider_share_with">Поделиться</string>
-    <string name="abs__shareactionprovider_share_with_application">Поделиться с %s</string>
+    <string name="abs__share_action_provider_share_with">Отправить…</string>
+    <string name="abs__activitychooserview_choose_application">Выберите приложение</string>
+    <string name="abs__shareactionprovider_share_with">Отправить</string>
+    <string name="abs__shareactionprovider_share_with_application">Отправить %s</string>
 </resources>
