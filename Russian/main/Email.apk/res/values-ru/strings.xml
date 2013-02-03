@@ -153,7 +153,7 @@
     <string name="message_view_invite_maybe">" Может быть"</string>
     <string name="message_view_invite_decline">" Нет"</string>
     <string name="message_view_invite_toast_yes">Приглашение принято.</string>
-    <string name="message_view_invite_toast_maybe">"Вы ответили \"может быть\" на это приглашение."</string>
+    <string name="message_view_invite_toast_maybe">Вы ответили \"может быть\" на это приглашение.</string>
     <string name="message_view_invite_toast_no">Приглашение отклонено.</string>
     <string name="message_view_show_details">Показать сведения</string>
     <string name="message_view_message_details_dialog_title">Детали</string>
@@ -175,7 +175,7 @@
     <string name="message_discarded_toast">Черновик удален.</string>
     <string name="message_saved_toast">Черновик сообщения сохранен.</string>
     <string name="message_view_display_attachment_toast">Невозможно отобразить прикрепленный файл.</string>
-    <string name="message_view_load_attachment_failed_toast">"Не удалось загрузить файл \"%s\"."</string>
+    <string name="message_view_load_attachment_failed_toast">Не удалось загрузить файл \"%s\".</string>
     <string name="message_view_parse_message_toast">Сообщение открывается…</string>
     <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов.</string>
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
@@ -197,7 +197,7 @@
     <string name="account_setup_basics_manual_setup_action">Вручную</string>
     <string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль.</string>
     <string name="account_duplicate_dlg_title">Копировать аккаунт</string>
-    <string name="account_duplicate_dlg_message_fmt">"Это имя уже используется в аккаунте \"%s\"."</string>
+    <string name="account_duplicate_dlg_message_fmt">Это имя уже используется в аккаунте \"%s\".</string>
     <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами.</string>
     <string name="account_setup_check_settings_retr_info_msg">Получение информации аккаунта…</string>
     <string name="account_setup_check_settings_check_incoming_msg">Проверка настроек сервера входящих сообщений…</string>
@@ -279,14 +279,14 @@
     <string name="account_setup_options_mail_window_all">Все</string>
     <string name="account_setup_options_mail_window_default">Параметры по умолчанию</string>
     <string name="account_setup_failed_dlg_auth_message">Неверное имя пользователя или пароль.</string>
-    <string name="account_setup_failed_dlg_auth_message_fmt">"Неверное имя пользователя или пароль./n%s"</string>
+    <string name="account_setup_failed_dlg_auth_message_fmt">Неверное имя пользователя или пароль./n%s</string>
     <string name="account_setup_failed_dlg_certificate_message">Не удалось установить защищенное подключение к серверу.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">"Не удалось установить защищенное подключение к серверу./n%s"</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">Не удалось установить защищенное подключение к серверу./n%s</string>
     <string name="account_setup_failed_certificate_required">Необходим сертификат клиента. Подключиться к серверу?</string>
     <string name="account_setup_failed_certificate_inaccessible">Сертификат недействителен или недоступен.</string>
     <string name="account_setup_failed_check_credentials_message">Ошибка сервера. Проверьте имя пользователя и пароль и повторите попытку.</string>
     <string name="account_setup_failed_dlg_server_message">Не удалось подключиться к серверу.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">"Не удалось подключиться к серверу./n%s"</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">Не удалось подключиться к серверу./n%s</string>
     <string name="account_setup_failed_tls_required">TLS не поддерживается сервером.</string>
     <string name="account_setup_failed_auth_required">Методы аутентификации не поддерживаются сервером.</string>
     <string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности.</string>
@@ -296,16 +296,16 @@
     <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
     <string name="account_setup_security_policies_required_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android. Завершить настройку этого аккаунта?</string>
     <string name="account_setup_failed_security_policies_unsupported">Ваше Android-устройство не поддерживает обязательные для сервера функции защиты: %s</string>
-    <string name="account_setup_username_uneditable_error">"Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт."</string>
+    <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт.</string>
     <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование вашего устройства для приложения Email приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
     <string name="account_security_dialog_title">Обновления безопасности</string>
     <string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности.</string>
-    <string name="security_notification_ticker_fmt">"Аккаунт \"%s\" требует обновления настроек безопасности."</string>
+    <string name="security_notification_ticker_fmt">Аккаунт \"%s\" требует обновления настроек безопасности.</string>
     <string name="security_notification_content_title">Обновите систему безопасности</string>
     <string name="account_security_title">Безопасность устройства</string>
     <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android.</string>
     <string name="account_setup_failed_dlg_edit_details_action">Изменить сведения</string>
-    <string name="password_expire_warning_ticker_fmt">"Для аккаунта \"%s\" требуется изменить PIN-код или пароль блокировки экрана."</string>
+    <string name="password_expire_warning_ticker_fmt">Для аккаунта \"%s\" требуется изменить PIN-код или пароль блокировки экрана.</string>
     <string name="password_expire_warning_content_title">Истекает срок действия пароля</string>
     <string name="password_expired_ticker">Срок действия вашего PIN-кода или пароля блокировки экрана истек.</string>
     <string name="password_expired_content_title">Пароль блок. экрана устарел</string>
@@ -353,7 +353,7 @@
     <string name="account_settings_ringtone">Выбрать рингтон</string>
     <string name="account_settings_servers">Настройки сервера</string>
     <string name="account_delete_dlg_title">Удалить аккаунт</string>
-    <string name="account_delete_dlg_instructions_fmt">"Аккаунт \"%s\" будет удален из Почты."</string>
+    <string name="account_delete_dlg_instructions_fmt">Аккаунт \"%s\" будет удален из Почты.</string>
     <string name="account_settings_category_delete_account">Удалить аккаунт</string>
     <string name="account_settings_delete_account_label">Удалить аккаунт</string>
     <string name="mailbox_settings_activity_title">Параметры синхронизации</string>
@@ -392,7 +392,7 @@
     <string name="general_preference_text_zoom_huge">Огромный</string>
     <string name="general_preference_reply_all_label">Ответить всем</string>
     <string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
-    <string name="general_preferences_clear_trusted_senders_title">"Восстановить значение по умолчанию для параметра \"Показать изображения\""</string>
+    <string name="general_preferences_clear_trusted_senders_title">Восстановить значение по умолчанию для параметра \"Показать изображения\"</string>
     <string name="general_preferences_clear_trusted_senders_summary">Восстановить значения по умолчанию для всех отправителей (отключить автоматический показ их изображений)</string>
     <string name="trusted_senders_cleared">Показ изображений отключен.</string>
     <string name="position_of_count" formatted="false">%1$d из %2$s</string>
@@ -444,14 +444,13 @@
     <string name="upload">Загрузить</string>
     <string name="ok">ОК</string>
     <string name="cancel">Отмена</string>
-    <string name="uploading_to">Загрузка в <b>%s</b></string>
-    <string name="uploading_for">" для пользователя "<b>%s</b></string>
+    <string name="uploading_to">Загрузка в %s</string>
+    <string name="uploading_for">" для %s "</string>
     <string name="destination_format" formatted="false">%1$s \"%2$s\"</string>
     <string name="toast_intent_error">Не удалось начать загрузку.</string>
     <string name="toast_file_error">Файл недоступен.</string>
     <string name="account_error">Не удалось получить данные аккаунта.</string>
     <string name="toast_failed_auth">Не удалось войти в аккаунт.</string>
-    <string name="upload_state_queued" />
     <string name="upload_state_waiting_retry">Ожидание повторной попытки</string>
     <string name="upload_state_waiting_wifi">Ожидание подключения Wi-Fi</string>
     <string name="upload_state_uploading">Загрузка</string>
@@ -487,7 +486,7 @@
     <string name="manager_toast_canceled">Загрузка отменена</string>
     <string name="manager_toast_not_canceled">Загрузка уже завершена</string>
     <string name="manager_sync_all">Синхронизировать все</string>
-    <string name="manager_activity_last_sync_format" formatted="false">"Последняя синхронизация: /n%1$s/n%2$s"</string>
+    <string name="manager_activity_last_sync_format" formatted="false">Последняя синхронизация: /n%1$s/n%2$s</string>
     <string name="finished_empty">Список завершенных загрузок пуст.</string>
     <string name="notify_uploads">Загрузка с телефона</string>
     <string name="notify_resolved">Загрузки завершены</string>
@@ -498,7 +497,7 @@
     <string name="dialog_sync_all_preparing" formatted="false">Подготовка %1$d фото и %2$d видео к загрузке…</string>
     <string name="dialog_sync_all_found_none">Дополнительных фотографий или видеороликов не найдено.</string>
     <string name="dialog_sync_all_server_error">Не удалось связаться с сервером. Повторите попытку позже.</string>
-    <string name="dialog_sync_all_canceled">"Команда \"Синхронизировать все\" отменена"</string>
+    <string name="dialog_sync_all_canceled">Команда \"Синхронизировать все\" отменена</string>
     <string name="dialog_sync_all_error_title">Синхронизировать все</string>
     <string name="manager_view_completed">Просмотреть завершенные</string>
     <string name="manager_view_pending">Просмотреть незавершенные</string>

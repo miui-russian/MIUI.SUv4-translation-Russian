@@ -71,7 +71,7 @@
     <string name="email_picker_label">E-mail с</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="quick_response_settings">Быстрые ответы</string>
-    <string name="quick_response_settings_summary">Edit default responses when emailing guests</string>
+    <string name="quick_response_settings_summary">Редактировать шаблон ответа для e-mail для гостей</string>
     <string name="quick_response_settings_title">Редактировать быстрые ответы</string>
     <string name="quick_response_settings_edit_title">Быстрый ответ</string>
     <string name="quick_response_dialog_title">Выберите быстрый ответ</string>

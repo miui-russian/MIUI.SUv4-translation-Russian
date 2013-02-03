@@ -1,55 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_label" msgid="7559008249836700599">"Широковещательная передача сообщений"</string>
-    <string name="sms_cb_settings" msgid="971917159442705371">"Настройки широковещательной передачи сообщений"</string>
-    <string name="button_dismiss" msgid="1234221657930516287">"ОК"</string>
-    <string name="menu_preferences" msgid="3596514894131599202">"Настройки"</string>
-    <string name="menu_delete_all" msgid="3940997343921149800">"Удалить трансляции"</string>
-    <string name="menu_view" msgid="5991055455727639531">"Просмотреть трансляцию"</string>
-    <string name="menu_delete" msgid="128380070910799366">"Удалить трансляцию"</string>
-    <string name="confirm_dialog_title" msgid="8556099565207971687">"Удаление"</string>
-    <string name="confirm_delete_broadcast" msgid="1384856816457718534">"Широковещательное сообщение будет удалено."</string>
-    <string name="confirm_delete_all_broadcasts" msgid="1948891659680610781">"Все полученные широковещательные сообщения будут удалены."</string>
-    <string name="button_delete" msgid="4672451757925194350">"Удалить"</string>
-    <string name="button_cancel" msgid="7479958360523246140">"Отмена"</string>
-    <string name="etws_earthquake_warning" msgid="1261536008340310229">"Предупреждение о землетрясении"</string>
-    <string name="etws_tsunami_warning" msgid="686911416498753519">"Предупреждение о цунами"</string>
-    <string name="etws_earthquake_and_tsunami_warning" msgid="3328800329792092563">"Предупреждение о землетрясении и цунами"</string>
-    <string name="etws_test_message" msgid="2275975653933965980">"Тестовое сообщение системы предупреждения"</string>
-    <string name="etws_other_emergency_type" msgid="5898196177505740491">"Предупреждение о чрезвычайных ситуациях"</string>
-    <string name="cmas_presidential_level_alert" msgid="5882738702264392095">"Оповещение от президента"</string>
-    <string name="cmas_extreme_alert" msgid="3428242609916096738">"Аварийное оповещение: чрезвычайная ситуация"</string>
-    <string name="cmas_severe_alert" msgid="4076236701096888312">"Аварийное оповещение: критическая ситуация"</string>
-    <string name="cmas_amber_alert" msgid="1970160018363203781">"Похищение ребенка (Amber Alert)"</string>
-    <string name="cmas_required_monthly_test" msgid="5916270292411022780">"Ежемесячное тестирование аварийного оповещения"</string>
-    <string name="cmas_exercise_alert" msgid="6190628869976872207">"Аварийное оповещение (упражнение)"</string>
-    <string name="cmas_operator_defined_alert" msgid="2450489487926280449">"Аварийное оповещение (оператор)"</string>
-    <string name="pws_other_message_identifiers" msgid="5215479112363627634">"Аварийное оповещение"</string>
-    <string name="cb_other_message_identifiers" msgid="4106203294490768069">"Широковещательная передача сообщений"</string>
-    <string name="emergency_alert_settings_title" msgid="4167061213730461522">"Настройки аварийного оповещения"</string>
-    <string name="enable_emergency_alerts_title" msgid="5082829492352587964">"Включить оповещения"</string>
-    <string name="enable_emergency_alerts_summary" msgid="5932655529367149358">"Показывать трансляции аварийного оповещения"</string>
-    <string name="alert_sound_duration_title" msgid="4712853569849108005">"Длительность звукового сигнала"</string>
-    <string name="enable_alert_speech_title" msgid="8052104771053526941">"Произносить аварийные сообщения"</string>
-    <string name="enable_alert_speech_summary" msgid="356086178962268831">"Использовать функцию преобразования текста в речь для создания аварийных сообщений"</string>
-    <string name="category_etws_settings_title" msgid="434542051842056531">"Настройки системы предупреждения о землетрясении"</string>
-    <string name="enable_etws_test_alerts_title" msgid="610886539669540241">"Показывать тестовые трансляции"</string>
-    <string name="enable_etws_test_alerts_summary" msgid="7988690174166347072">"Показывать тестовые трансляции для системы предупреждения о землетрясении и цунами"</string>
-    <string name="category_cmas_settings_title" msgid="2851420028614615466">"Настройки системы CMAS"</string>
-    <string name="enable_cmas_imminent_threat_alerts_title" msgid="113476323956792952">"Показывать неминуемые угрозы"</string>
-    <string name="enable_cmas_imminent_threat_alerts_summary" msgid="5291579260539730417">"Показывать предупреждения системы CMAS о неминуемых угрозах"</string>
-    <string name="enable_cmas_amber_alerts_title" msgid="6624617083256370966">"Показывать оповещения системы AMBER"</string>
-    <string name="enable_cmas_amber_alerts_summary" msgid="4780708170217369192">"Показывать оповещения AMBER (сообщения о похищении детей)"</string>
-    <string name="enable_cmas_test_alerts_title" msgid="3460083005355598489">"Показывать тестовые трансляции"</string>
-    <string name="enable_cmas_test_alerts_summary" msgid="8198111409000885403">"Показывать ежемесячные тестовые трансляции системы CMAS"</string>
-    <string name="category_brazil_settings_title" msgid="6343130548572319922">"Настройки для Бразилии"</string>
-    <string name="enable_channel_50_alerts_title" msgid="2818924064446974167">"Показать трансляции канала 50"</string>
-    <string name="enable_channel_50_alerts_summary" msgid="7507770011325273009">"Канал 50 используется в Бразилии для аварийного оповещения"</string>
-  <string-array name="alert_sound_duration_entries">
-    <item msgid="5353482200312892037">"2 секунды"</item>
-    <item msgid="5656092384277009212">"4 секунды"</item>
-    <item msgid="253564899252909788">"6 секунд"</item>
-    <item msgid="7514102744524534421">"8 секунд"</item>
-    <item msgid="6062562309271376642">"10 секунд"</item>
-  </string-array>
+    <string name="app_label">Широковещательная передача сообщений</string>
+    <string name="sms_cb_settings">Настройки широковещательной передачи сообщений</string>
+    <string name="button_dismiss">ОК</string>
+    <string name="no_cell_broadcasts">There are no active alerts in your area. You can change the Alert settings using the Settings menu option.</string>
+    <string name="menu_preferences">Настройки</string>
+    <string name="menu_delete_all">Удалить трансляции</string>
+    <string name="message_options">Message options</string>
+    <string name="menu_view">Просмотреть трансляцию</string>
+    <string name="menu_delete">Удалить трансляцию</string>
+    <string name="confirm_dialog_title">Удаление</string>
+    <string name="confirm_delete_broadcast">Широковещательное сообщение будет удалено.</string>
+    <string name="confirm_delete_all_broadcasts">Все полученные широковещательные сообщения будут удалены.</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="etws_earthquake_warning">Предупреждение о землетрясении</string>
+    <string name="etws_tsunami_warning">Предупреждение о цунами</string>
+    <string name="etws_earthquake_and_tsunami_warning">Предупреждение о землетрясении и цунами</string>
+    <string name="etws_test_message">Тестовое сообщение системы предупреждения</string>
+    <string name="etws_other_emergency_type">Предупреждение о чрезвычайных ситуациях</string>
+    <string name="cmas_presidential_level_alert">Оповещение от президента</string>
+    <string name="cmas_extreme_alert">Аварийное оповещение: чрезвычайная ситуация</string>
+    <string name="cmas_severe_alert">Аварийное оповещение: критическая ситуация</string>
+    <string name="cmas_amber_alert">Похищение ребенка (Жёлтая тревога)</string>
+    <string name="cmas_required_monthly_test">Ежемесячное тестирование аварийного оповещения</string>
+    <string name="cmas_exercise_alert">Аварийное оповещение (Тренировка)</string>
+    <string name="cmas_operator_defined_alert">Аварийное оповещение (Оператор)</string>
+    <string name="pws_other_message_identifiers">Аварийное оповещение</string>
+    <string name="cb_other_message_identifiers">Широковещательная передача сообщений</string>
+    <string name="emergency_alert_settings_title">Настройки аварийного оповещения</string>
+    <string name="enable_emergency_alerts_title">Включить оповещения</string>
+    <string name="enable_emergency_alerts_summary">Показывать трансляции аварийного оповещения</string>
+    <string name="alert_sound_duration_title">Длительность звукового сигнала</string>
+    <string name="enable_alert_speech_title">Произносить аварийные сообщения</string>
+    <string name="enable_alert_speech_summary">Использовать функцию преобразования текста в речь для создания аварийных сообщений</string>
+    <string name="category_etws_settings_title">Настройки системы предупреждения о землетрясении</string>
+    <string name="enable_etws_test_alerts_title">Показывать тестовые трансляции</string>
+    <string name="enable_etws_test_alerts_summary">Показывать тестовые трансляции для системы предупреждения о землетрясении и цунами</string>
+    <string name="enable_cmas_extreme_threat_alerts_title">Показать экстримальные угрозы</string>
+    <string name="enable_cmas_extreme_threat_alerts_summary">Показать оповещения с угрозой для жизни</string>
+    <string name="enable_cmas_severe_threat_alerts_title">Показать серьезные угрозы</string>
+    <string name="enable_cmas_severe_threat_alerts_summary">Показать оповещения с угрозой для жизни</string>
+    <string name="category_cmas_settings_title">Настройки системы CMAS</string>
+    <string name="enable_cmas_imminent_threat_alerts_title">Показывать неминуемые угрозы</string>
+    <string name="enable_cmas_imminent_threat_alerts_summary">Показывать предупреждения системы CMAS о неминуемых угрозах</string>
+    <string name="enable_cmas_amber_alerts_title">Показывать оповещения системы AMBER</string>
+    <string name="enable_cmas_amber_alerts_summary">Показывать оповещения AMBER (сообщения о похищении детей)</string>
+    <string name="enable_cmas_test_alerts_title">Показывать тестовые трансляции</string>
+    <string name="enable_cmas_test_alerts_summary">Показывать ежемесячные тестовые трансляции системы CMAS</string>
+    <string name="category_brazil_settings_title">Настройки для Бразилии</string>
+    <string name="enable_channel_50_alerts_title">Показать трансляции канала 50</string>
+    <string name="enable_channel_50_alerts_summary">Канал 50 используется в Бразилии для аварийного оповещения</string>
+    <string name="category_dev_settings_title">Опции разработчика</string>
+    <string name="cmas_category_heading">Категории:</string>
+    <string name="cmas_category_geo">Геофизические</string>
+    <string name="cmas_category_met">Метеорологические</string>
+    <string name="cmas_category_safety">Безопасность</string>
+    <string name="cmas_category_security">Охрана</string>
+    <string name="cmas_category_rescue">Спасение</string>
+    <string name="cmas_category_fire">Огонь</string>
+    <string name="cmas_category_health">Здоровье</string>
+    <string name="cmas_category_env">Окружающая среда</string>
+    <string name="cmas_category_transport">Транспорт</string>
+    <string name="cmas_category_infra">Инфраструктура</string>
+    <string name="cmas_category_cbrne">Химия/Биология/Ядерная Физика/Взрывотехника</string>
+    <string name="cmas_category_other">Другое</string>
+    <string name="cmas_response_heading">Тип отзыва:</string>
+    <string name="cmas_response_shelter">Укрыться</string>
+    <string name="cmas_response_evacuate">Эвакуировать</string>
+    <string name="cmas_response_prepare">Приготовиться</string>
+    <string name="cmas_response_execute">Выполнить действие</string>
+    <string name="cmas_response_monitor">Наблюдать за информацией</string>
+    <string name="cmas_response_avoid">Избегайть опасность</string>
+    <string name="cmas_response_assess">Оценивать</string>
+    <string name="cmas_response_none">Нет действия</string>
+    <string name="cmas_severity_heading">Уровень:</string>
+    <string name="cmas_severity_extreme">Экстримал</string>
+    <string name="cmas_severity_severe">Суровый</string>
+    <string name="cmas_urgency_heading">Неотложность:</string>
+    <string name="cmas_urgency_immediate">Сделать немедленно</string>
+    <string name="cmas_urgency_expected">Сделать в течение часа</string>
+    <string name="cmas_certainty_heading">Определенность:</string>
+    <string name="cmas_certainty_observed">Наблюдаемые</string>
+    <string name="cmas_certainty_likely">Понравившиеся</string>
+    <string name="notification_multiple">%s непрочитанных оповещений.</string>
+    <string name="notification_multiple_title">Новые оповещения</string>
 </resources>
