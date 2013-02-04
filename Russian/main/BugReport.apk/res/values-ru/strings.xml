@@ -19,7 +19,7 @@
     <string name="err_type_suggestion">Предложения</string>
     <string name="err_type_data_lost">Потеря данных</string>
     <string name="status_msg_pending_upload">%d отчетов загружается…</string>
-    <string name="status_msg_collecting_log">Хранение логов</string>
+    <string name="status_msg_collecting_log">Сохранение логов</string>
     <string name="action_submit">Подтвердить</string>
     <string name="section_err_type">Тип отчета</string>
     <string name="section_description">Описание</string>

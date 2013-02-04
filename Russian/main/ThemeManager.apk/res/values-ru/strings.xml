@@ -76,7 +76,7 @@
     <string name="title_component">Совмещенные</string>
     <string name="title_system_resource">Системные ресурсы</string>
     <string name="title_download_resource">Загруженные ресурсы</string>
-    <string name="long_ringtone_resource">Длинные\n(&lt;5сек)</string>
+    <string name="long_ringtone_resource">Длинные\n(&gt;5сек)</string>
     <string name="short_ringtone_resource">Короткие\n(&lt;5сек)</string>
     <string name="all_ringtone_resource">Все</string>
     <string name="resource_preview">Предпоказ</string>

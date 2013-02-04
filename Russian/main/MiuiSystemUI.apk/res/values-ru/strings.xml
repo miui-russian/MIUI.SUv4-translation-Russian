@@ -129,7 +129,7 @@
     <string name="accessibility_rotation_lock_off">Экран будет поворавиваться автоматически.</string>
     <string name="accessibility_rotation_lock_on_landscape">Установлена ландшафтная ориентация экрана.</string>
     <string name="accessibility_rotation_lock_on_portrait">Установлена портретная ориентация экрана.</string>
-    <string name="share">Общий доступ</string>
+    <string name="share">Отправить</string>
     <string name="description_direction_up">Сдвиньте вверх для %s.</string>
     <string name="description_direction_down">Сдвиньте вниз для %s.</string>
     <string name="description_direction_left">Сдвиньте влево для %s.</string>

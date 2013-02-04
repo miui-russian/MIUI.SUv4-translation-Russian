@@ -77,8 +77,8 @@
     <string name="failed_to_send_activate_email">Ошибка при отправке активационного письма</string>
     <string name="access_denied">Доступ запрещен</string>
     <string name="micloud_on_pc_notice">Посетите i.xiaomi.com\n для управления данными</string>
-    <string name="sync_on">Вкл</string>
-    <string name="sync_off">Откл</string>
+    <string name="sync_on">ВКЛ</string>
+    <string name="sync_off">ВЫК</string>
     <string name="btn_activate">Активировать</string>
     <string name="no_sim">Отсутствует SIM карта. Сервис недоступен</string>
     <string name="sim_changed_notification_content">SIM карта не активна, переактивируйте</string>
