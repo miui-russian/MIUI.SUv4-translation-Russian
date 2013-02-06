@@ -251,7 +251,7 @@
     <string name="low_temp_msg">Невозможно использовать вспышку при низкой температуре</string>
     <string name="user_profile_title">Профиль пользователя</string>
     <string name="preview_file_received_title">Просмотреть полученный файл</string>
-    <string name="network_title">Обмениваться фотографиями при\n подключении WLAN Direct</string>
+    <string name="network_title">Обмениваться фотографиями при\n подключении Wi-Fi Direct</string>
     <string name="network_title_chn">Получать снимки в то время, когда сеть Wi-Fi активна.</string>
     <string name="done">Готово</string>
     <string name="refresh">Сети Wi-Fi</string>
@@ -316,8 +316,8 @@
     <string name="wifi_dialog_text">Требуется подключение Wi-Fi</string>
     <string name="wifi_dialog_text_chn">Необходимо Wi-Fi соединение.</string>
     <string name="wifi_direct_dialog_title">Обмен фотографиями</string>
-    <string name="wifi_direct_dialog_text">Функция обмена фотографиями позволяет поделиться фотографиями с другими пользователями с помощью WLAN Direct. Требуется подключение WLAN Direct</string>
-    <string name="wifi_direct_dialog_text_chn">Share shot enables you to share photos with other users via WLAN Direct. WLAN Direct connection required</string>
+    <string name="wifi_direct_dialog_text">Функция обмена фотографиями позволяет поделиться фотографиями с другими пользователями с помощью Wi-Fi Direct. Требуется подключение WLAN Direct</string>
+    <string name="wifi_direct_dialog_text_chn">Share shot enables you to share photos with other users via Wi-Fi Direct. Wi-Fi Direct connection required</string>
 	<string name="wifi_dialog_yes">OK</string>
     <string name="wifi_dialog_no">Отмена</string>
     <string name="sharing_devices">Устройства для обмена</string>

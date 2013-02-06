@@ -623,7 +623,7 @@
 	<string name="all_volume_title">Громкость</string>
 	<string name="musicfx_title">Звуковые эффекты</string>
 	<string name="ring_volume_title">Громкость звонка</string>
-	<string name="vibrate_in_silent_title">Вибро в режиме \"Без звука\"</string>
+	<string name="vibrate_in_silent_title">В режиме \"Без звука\"</string>
     <string name="vibrate_on_ring_title">Вибрация и звук</string>
 	<string name="notification_sound_title">Уведомление по умолчанию</string>
 	<string name="notification_pulse_title">Индикатор событий</string>
@@ -1759,11 +1759,11 @@
 	<string name="menu_key">Клавиша меню</string>
 	<string name="enable_assist_key_long_press">Удерживайте для открытия голосового помошника</string>
 	<string name="back_long_press">Клавиша назад</string>
-	<string name="enable_back_long_press">Удерживайте для закрытия приложения</string>
+	<string name="enable_back_long_press">Удержание для закр.приложения</string>
 	<string name="back_long_press_timeout">Время задержки</string>
-	<string name="enable_snapshot_screenlock">Удерживайте клавишу на экране блокировки для скриншота</string>
+	<string name="enable_snapshot_screenlock">Удержание на экр.для скриншота</string>
 	<string name="power_key">Клавиша питания</string>
-	<string name="disable_power_key_long_press_under_keyguard">Отключить на экране блокировки</string>
+	<string name="disable_power_key_long_press_under_keyguard">Откл. на экране блокировки</string>
 	<string name="media_button">Клавиша медиа</string>
 	<string name="preferred_media_app_summary">Выберите музыкальный плеер</string>
 	<string name="no_media_button_receiver">Нет</string>
@@ -1784,7 +1784,7 @@
 	<string name="trackball_wake_title">Пробуждение трекболом</string>
 	<string name="trackball_settings">Трекбол</string>
 	<string name="pref_volume_category_title">Громкость</string>
-	<string name="pref_volume_wake_title">Пробуждение клавишей громкости</string>
+	<string name="pref_volume_wake_title">Пробуждение клав. громкости</string>
 	<string name="pref_volume_wake_summary">Нажатие клавиши громкости пробуждает устройство. Рекомендуется для устройств с проблемной клавишей блокировки.</string>
 	<string name="status_bar_settings">Строка состояния</string>
 	<string name="complete_settings">Все настройки</string>
@@ -1843,7 +1843,7 @@
 	<string name="default_input_method">Выберите способ ввода по умолчанию</string>
 	<string name="volume_category_title">Громкость</string>
 	<string name="vibrate_category_title">Вибрация</string>
-	<string name="vibrate_in_normal_title">Вибро в обычном режиме</string>
+	<string name="vibrate_in_normal_title">В обычном режиме</string>
     <string name="wifi_wapi_fail_to_init">Невозможно открыть WAPI сертификаты\nВозможно хранилища учетных данных не активированы.</string>
     <string name="wifi_wapi_fail_to_auth">Ошибка аутентификации WAPI\nПожалуйста, проверьте сертификаты.</string>
     <string name="wifi_wapi_psk_type">Тип пароля</string>

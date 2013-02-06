@@ -202,8 +202,8 @@ d MMMM yyyy"</string>
     <string name="settings_toggle_position_reset">Упорядочить по умолчанию</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="settings_notification_icon">Уведомления в строке состояния</string>
-    <string name="settings_screenshot_notification_disabled">Не уведомлять об успешном снимке экрана</string>
-    <string name="settings_show_network_speed">Показывать скорость соединения</string>
+    <string name="settings_screenshot_notification_disabled">Не уведом. о скриншоте</string>
+    <string name="settings_show_network_speed">Отобр. скорость соединения</string>
     <string name="settings_expanded_view">Расширенный вид уведомлений</string>
     <string name="settings_expandable_under_keyguard">Расширенный вид блокировки</string>
     <string name="settings_expandable_under_keyguard_summary">Работает только при небезопасной блокировке клавиатуры</string>
@@ -276,10 +276,10 @@ d MMMM yyyy"</string>
     <string name="recent_apps_key">Клавиша "Недавние приложения"</string>
     <string name="recent_apps_key_show">Показать клавишу "Недавние приложения"</string>
     <string name="key_position_custom">Настроить расположение клавиш</string>
-    <string name="screen_key_menu">Клавиша Меню</string>
-    <string name="screen_key_home">Клавиша Домой</string>
-    <string name="screen_key_recent_apps">Клавиша "Недавние приложения"</string>
-    <string name="screen_key_back">Клавиша Назад</string>
+    <string name="screen_key_menu">Клавиша \"Меню\"</string>
+    <string name="screen_key_home">Клавиша \"Домой\"</string>
+    <string name="screen_key_recent_apps">Клавиша \"Недавние приложения\"</string>
+    <string name="screen_key_back">Клавиша \"Назад\"</string>
     <string name="status_bar_network_flow_today">Сегодня:%1$s</string>
     <string name="status_bar_network_flow">"Сегодня:%1$s    Осталось:%2$s    Пакетов:%3$s"</string>
     <string name="status_bar_network_flow_exceed">"Сегодня:%1$s    Превышено:%2$s    Пакетов:%3$s"</string>

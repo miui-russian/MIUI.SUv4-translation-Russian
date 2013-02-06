@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>-->
 <resources>
     <string name="confirm">Подтвердить</string>
     <string name="cancel">Отменить</string>
@@ -93,8 +92,7 @@
     <string name="frequentlyplayed_title">Часто воспроизводится</string>
     <string name="sdcard_missing_message">Не вставлена карта памяти.</string>
     <string name="sdcard_missing_message_nosdcard">Не подключен USB накопитель.</string>
-    <string name="sdcard_busy_message">"Карта памяти занята.
- Пожалуйста, проверьте состояние карты памяти."</string>
+    <string name="sdcard_busy_message">Карта памяти занята.\n Пожалуйста, проверьте состояние карты памяти.</string>
     <string name="sdcard_busy_message_nosdcard">USB накопитель занят.</string>
     <string name="sdcard_error_message">На карте памяти произошла ошибка.</string>
     <string name="sdcard_error_message_nosdcard">На USB накопителе произошла ошибка.</string>
@@ -229,7 +227,7 @@
     <string name="correct_id3_open_other_connect">Пожалуйста, включите корректировку ID3 с использованием мобильного интернета.</string>
     <string name="correct_id3_not_support">Коррекция ID3 не поддерживает этот тип файла.</string>
     <string name="batch_correct_id3_completed">Групповая коррекция ID3 завершена.</string>
-     <string name="notification_artist_album">"%2$s %1$s"</string>
+    <string name="notification_artist_album">"%2$s %1$s"</string>
     <string name="durationformatshort">%2$d:%5$2d</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>

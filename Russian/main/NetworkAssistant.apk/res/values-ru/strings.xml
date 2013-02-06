@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="empty" />
 	<string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
 	<string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>
 	<string name="mobile_type">2G/3G</string>
@@ -8,10 +7,7 @@
 	<string name="process_kernel_label">Android OS</string>
 	<string name="mobile_traffic">2G/3G: %s</string>
 	<string name="wifi_traffic">Wi-Fi: %s</string>
-	<string name="warning_settings_toast">&quot;%1$d%%  %2$d МБ&quot;</string>
-	<string name="widget_color_exceed_warn">\#F9882C</string>
-	<string name="widget_color_uesd_none_exceed_warn">\#579D00</string>
-	<string name="widget_color_used_all">\#C00203</string>
+	<string name="warning_settings_toast">"%1$d%%  %2$d МБ"</string>
 	<string name="app_name">Монитор</string>
 	<string name="used_flux">Трафик</string>
 	<string name="sorted_flux">Статистика</string>
@@ -114,7 +110,7 @@
 	<string name="cannot_find_sms_cmd">Не удается найти SMS команду</string>
 	<string name="sms_template_match_fail">Ошибка сопоставления шаблона SMS</string>
 	<string name="traffic_settings_error">Eсть ошибка в настройках Вашего ежемесячного бесплатного трафика. Согласно настройки, ежемесячный бесплатный трафик: %1$s и остается трафик: %2$s.</string>
-	<string name="app_traffic_detail">&quot; трафик(%s)&quot;</string>
+	<string name="app_traffic_detail">" трафик(%s)"</string>
 	<string name="sms_match_fail">ошибка SMS</string>
 	<string name="pref_network_status_bar">Панель уведомлений</string>
 	<string name="pref_network_speed_settings">Показывать скорость сети в панели уведомлений</string>
@@ -144,7 +140,7 @@
 	<string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти?</string>
 	<string name="carrier_settings_button">Настройки оператора</string>
 	<string name="sync_traffic_no_cmd_title">Нет шаблона</string>
-	<string name="sync_traffic_no_cmd_detail">&quot;Укажите ваши данные в форме по адресу: http://www.miui.com/forum-172-1.html.Спасибо.&quot;</string>
+	<string name="sync_traffic_no_cmd_detail">"Укажите ваши данные в форме по адресу: http://www.miui.com/forum-172-1.html.Спасибо."</string>
     <string name="version_label">Версия:</string>
     <string name="sms_template_updated_label">"Обновлено: "</string>
     <string name="unknown">неизвестно</string>

@@ -118,7 +118,7 @@
 	<string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
 	<string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
 	<string name="bluetooth_notif_title">Запрос на сопряжение</string>
-	<string name="bluetooth_notif_message">Нажмите для подключения к устройству \&quot;%1$s\&quot;</string>
+	<string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
 	<string name="bluetooth_show_received_files">Полученные файлы</string>
 	<string name="device_picker">Выбор устройства Bluetooth</string>
 	<string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
@@ -131,8 +131,8 @@
 	<string name="bluetooth_turning_off">Отключение Bluetooth…</string>
 	<string name="bluetooth_auto_connect">Автоматическое подключение</string>
 	<string name="bluetooth_connection_permission_request">Запрос на подключение по каналу Bluetooth</string>
-	<string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \&quot;%1$s\&quot;</string>
-	<string name="bluetooth_connection_dialog_text">Подключиться к устройству \&quot;%1$s\&quot;?</string>
+	<string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
+	<string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
 	<string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
 	<string name="bluetooth_pb_acceptance_dialog_text">%1$s хочет получить доступ к контактам и журналу вызавов. Разрешить %2$s доступ?</string>
 	<string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
@@ -274,16 +274,16 @@
 	<string name="owner_info_settings_edit_text_hint">Введите текст для показа на экране блокировки</string>
 	<string name="location_settings_title">Мое местоположение</string>
 	<string name="security_settings_title">Безопасность</string>
-	<string name="security_settings_summary">Настройка функции \&quot;Мое местоположение\&quot;, разблокировка экрана и блокировка хранилища регистрационных данных</string>
-	<string name="cdma_security_settings_summary">Настройка функции \&quot;Мое местоположение\&quot;, разблокировка экрана и блокировка хранилища регистрационных данных</string>
+	<string name="security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
+	<string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
 	<string name="security_passwords_title">Пароли</string>
 	<string name="crypt_keeper_settings_title">Шифрование</string>
 	<string name="crypt_keeper_encrypt_title">Encrypt device</string>
 	<string name="crypt_keeper_encrypt_summary">Password required to decrypt device each time you turn it on</string>
 	<string name="crypt_keeper_encrypted_summary">Зашифровать телефон</string>
-	<string name="crypt_keeper_desc">&quot;Вы можете зашифрова аккаунты, пароли, загруженные приложения и их данные. Если вы зашифруете устройство, будет запрошен пароль при каждом включении.
+	<string name="crypt_keeper_desc">"Вы можете зашифрова аккаунты, пароли, загруженные приложения и их данные. Если вы зашифруете устройство, будет запрошен пароль при каждом включении.
 
-Шифрование может длиться час и более. Перед началом зарядите батарею и подключите зарядное устройство, не отключайте до окончания шифрования. Прерывание процесса может привести к потере данных&quot;</string>
+Шифрование может длиться час и более. Перед началом зарядите батарею и подключите зарядное устройство, не отключайте до окончания шифрования. Прерывание процесса может привести к потере данных"</string>
 	<string name="crypt_keeper_button_text">Шифрование устройства</string>
 	<string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку</string>
 	<string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку</string>
@@ -332,7 +332,7 @@
 	<string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
 	<string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
 	<string name="lockpassword_pin_too_short">ПИН-код должен содержать не менее %d символов</string>
-	<string name="lockpassword_press_continue">После завершения нажмите \&quot;Продолжить\&quot;</string>
+	<string name="lockpassword_press_continue">После завершения нажмите \"Продолжить\"</string>
 	<string name="lockpassword_continue_label">Продолжить</string>
 	<string name="lockpassword_password_too_long">В пароле должно быть не более %d символом</string>
 	<string name="lockpassword_pin_too_long">В PIN-код должен быть не более %d знаков</string>
@@ -400,7 +400,7 @@
 	<string name="bluetooth_disconnect_headset_profile">%s будет отключен от Bluetooth hands-free устройства</string>
 	<string name="bluetooth_disconnect_hid_profile">%s будет отключен от устройства ввода</string>
 	<string name="bluetooth_disconnect_pan_user_profile">Internet доступ через %1$s будет отключен</string>
-	<string name="bluetooth_disconnect_pan_nap_profile">&quot;%1$s будет отключен от общего доступа к интернету через&quot;</string>
+	<string name="bluetooth_disconnect_pan_nap_profile">"%1$s будет отключен от общего доступа к интернету через"</string>
 	<string name="bluetooth_device_advanced_title">Подключенные Bluetooth устройства</string>
 	<string name="bluetooth_device_advanced_online_mode_title">Подключить</string>
 	<string name="bluetooth_device_advanced_online_mode_summary">Подключить к Bluetooth устройству</string>
@@ -443,10 +443,10 @@
 	<string name="wifi_error">Ошибка</string>
 	<string name="wifi_in_airplane_mode">Автономный режим</string>
 	<string name="wifi_fail_to_scan">Ошибка поиска сетей</string>
-	<string name="wifi_wapi_fail_to_init">&quot;Ошибка открытия сертификатов WAPI
-Возможно, хранилище не активировано&quot;</string>
-	<string name="wifi_wapi_fail_to_auth">&quot;Ошибка WAPI аутентификации
-Пожалуйста, проверьте подлинность сертификатов&quot;</string>
+	<string name="wifi_wapi_fail_to_init">"Ошибка открытия сертификатов WAPI
+Возможно, хранилище не активировано"</string>
+	<string name="wifi_wapi_fail_to_auth">"Ошибка WAPI аутентификации
+Пожалуйста, проверьте подлинность сертификатов"</string>
 	<string name="wifi_notify_open_networks">Уведомляь о новых сетях</string>
 	<string name="wifi_notify_open_networks_summary">Уведомлять меня, когда доступна открытая сеть</string>
 	<string name="wifi_enable_watchdog_service">Игнорировать сети с плохим сигналом</string>
@@ -776,7 +776,7 @@
 	<string name="sd_mount_summary" />
 	<string name="sd_format">Format USB storage</string>
 	<string name="sd_format_sd">Format SD card</string>
-	<string name="sd_format_summary">&quot;Erases all data on device's USB storage, such as music and photos&quot;</string>
+	<string name="sd_format_summary">"Erases all data on device's USB storage, such as music and photos"</string>
 	<string name="sd_format_summary_sd">Deletes all data on SD card, including music and photos</string>
 	<string name="read_only">(Read-only)</string>
 	<string name="dlg_confirm_unmount_title">Unmount SD card?</string>
@@ -836,15 +836,15 @@
 	<string name="restore_default_apn_completed">APN settings reset to default</string>
 	<string name="master_clear_title">Factory data reset</string>
 	<string name="master_clear_summary">Erases all data on phone</string>
-	<string name="master_clear_desc">&quot;This will erase all data from your phone's &quot; &quot;, including:
+	<string name="master_clear_desc">"This will erase all data from your phone's " ", including:
 
-&quot; &quot;
-&quot; &quot;
-&quot;</string>
+" "
+" "
+"</string>
 	<string name="master_clear_accounts">You are currently signed in to the following accounts:</string>
-	<string name="master_clear_desc_also_erases_external">&quot;
-&quot; &quot;
-&quot;</string>
+	<string name="master_clear_desc_also_erases_external">"
+" "
+"</string>
 	<string name="master_clear_desc_erase_external_storage">Clear SD card to delete music, pictures, and other user data</string>
 	<string name="erase_external_storage">Format USB storage</string>
 	<string name="erase_external_storage_sd">Format SD card</string>
@@ -881,14 +881,14 @@
 	<string name="usb_tethering_button_text">USB tethering</string>
 	<string name="usb_tethering_available_subtext">USB connected. Tick to tether</string>
 	<string name="usb_tethering_active_subtext">Tethered</string>
-	<string name="usb_tethering_storage_active_subtext">&quot;Can't tether when USB storage is in use&quot;</string>
+	<string name="usb_tethering_storage_active_subtext">"Can't tether when USB storage is in use"</string>
 	<string name="usb_tethering_unavailable_subtext">No USB device connected</string>
 	<string name="usb_tethering_errored_subtext">USB tethering error</string>
 	<string name="bluetooth_tether_checkbox_text">Bluetooth tethering</string>
-	<string name="bluetooth_tethering_available_subtext">&quot;Sharing this phone's Internet connection&quot;</string>
-	<string name="bluetooth_tethering_device_connected_subtext">&quot;Sharing this phone's Internet connection to 1 device&quot;</string>
-	<string name="bluetooth_tethering_devices_connected_subtext">&quot;Sharing this phone's Internet connection to %1$d devices&quot;</string>
-	<string name="bluetooth_tethering_off_subtext">&quot;Not sharing this device's internet connection&quot;</string>
+	<string name="bluetooth_tethering_available_subtext">"Sharing this phone's Internet connection"</string>
+	<string name="bluetooth_tethering_device_connected_subtext">"Sharing this phone's Internet connection to 1 device"</string>
+	<string name="bluetooth_tethering_devices_connected_subtext">"Sharing this phone's Internet connection to %1$d devices"</string>
+	<string name="bluetooth_tethering_off_subtext">"Not sharing this device's internet connection"</string>
 	<string name="bluetooth_tethering_errored_subtext">Bluetooth tethering error</string>
 	<string name="bluetooth_tethering_overflow_error">Unable to tether to more than %d devices</string>
 	<string name="bluetooth_untether_blank">%s will be untethered</string>
@@ -909,7 +909,7 @@
 	<string name="location_use_pdr">Enhance positioning and save power using sensors</string>
 	<string name="location_use_pdr_off">Enhance positioning and save power using sensors</string>
 	<string name="location_pdr_diag_desc">Sensors enhance pedestrian positioning and save battery power. When indoors or underground, sensors work best if handset is aligned with direction of movement. Distorted magnetic fields will affect performance</string>
-	<string name="location_pdr_diag_dont_ask">&quot;Don't ask again&quot;</string>
+	<string name="location_pdr_diag_dont_ask">"Don't ask again"</string>
 	<string name="about_settings">О телефоне</string>
 	<string name="about_settings_summary">Просмотреть юридическую информацию, статус телефона, версию ПО</string>
 	<string name="legal_information">Legal information</string>
@@ -969,9 +969,9 @@
 	<string name="skip_button_label">Cancel</string>
 	<string name="next_button_label">Next</string>
 	<string name="lock_title">Securing your phone</string>
-	<string name="lock_intro_message">&quot;Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
+	<string name="lock_intro_message">"Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
 
-Ready to start? Touch Next.&quot;</string>
+Ready to start? Touch Next."</string>
 	<string name="manageapplications_settings_title">Manage applications</string>
 	<string name="manageapplications_settings_summary">Manage and remove installed apps</string>
 	<string name="applications_settings">Applications</string>
@@ -1026,11 +1026,11 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="sd_card_storage">SD card</string>
 	<string name="recompute_size">Recomputing size…</string>
 	<string name="clear_data_dlg_title">Delete app data?</string>
-	<string name="clear_data_dlg_text">&quot;All of this application's data will be deleted permanently. This includes all files, settings, accounts, databases etc.&quot;</string>
+	<string name="clear_data_dlg_text">"All of this application's data will be deleted permanently. This includes all files, settings, accounts, databases etc."</string>
 	<string name="dlg_ok">OK</string>
 	<string name="dlg_cancel">Cancel</string>
 	<string name="app_not_found_dlg_title" />
-	<string name="app_not_found_dlg_text">&quot;The app wasn't found in the list of installed apps.&quot;</string>
+	<string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
 	<string name="clear_data_failed">Unable to clear application data</string>
 	<string name="app_factory_reset_dlg_title">Uninstall updates?</string>
 	<string name="app_factory_reset_dlg_text">All updates to this Android system app will be uninstalled</string>
@@ -1046,9 +1046,9 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="move_app_to_sdcard">Move to SD card</string>
 	<string name="moving">Moving…</string>
 	<string name="insufficient_storage">Not enough storage space</string>
-	<string name="does_not_exist">&quot;App doesn't exist.&quot;</string>
+	<string name="does_not_exist">"App doesn't exist."</string>
 	<string name="app_forward_locked">App is copy-protected.</string>
-	<string name="invalid_location">&quot;Install location isn't valid.&quot;</string>
+	<string name="invalid_location">"Install location isn't valid."</string>
 	<string name="system_package">System updates cannot be installed on external memory</string>
 	<string name="force_stop_dlg_title">Force stop?</string>
 	<string name="force_stop_dlg_text">If you force stop an app, it may cause errors</string>
@@ -1223,7 +1223,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="awake">Device awake time</string>
 	<string name="wifi_on_time">Wi-Fi use</string>
 	<string name="bluetooth_on_time">Wi-Fi use</string>
-	<string name="usage_name_percent">&quot;%1$s -  %2$s%%&quot;</string>
+	<string name="usage_name_percent">"%1$s -  %2$s%%"</string>
 	<string name="history_details_title">History details</string>
 	<string name="details_title">Use details</string>
 	<string name="details_subtitle">Use details</string>
@@ -1425,8 +1425,8 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="settings_backup_summary">Back up my settings</string>
 	<string name="sync_menu_sync_now">Sync Now</string>
 	<string name="sync_menu_sync_cancel">Cancel sync</string>
-	<string name="sync_one_time_sync">&quot;Tap to sync now
-%s&quot;</string>
+	<string name="sync_one_time_sync">"Tap to sync now
+%s"</string>
 	<string name="sync_gmail">Gmail</string>
 	<string name="sync_calendar">Calendar</string>
 	<string name="sync_contacts">Contacts</string>
@@ -1521,10 +1521,10 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="data_usage_limit_dialog">%1$s data connection will be disabled when specified limit is reached. Data usage is measured by your device, and your service provider may account for usage differently, so consider using a conservative limit</string>
 	<string name="data_usage_restrict_background_title">Restrict background data?</string>
 	<string name="data_usage_restrict_background">Restricting background data will stop some apps and services from working unless device is connected to a Wi-Fi network</string>
-	<string name="data_usage_sweep_warning">&quot;
-&quot;</string>
-	<string name="data_usage_sweep_limit">&quot;
-&quot;</string>
+	<string name="data_usage_sweep_warning">"
+"</string>
+	<string name="data_usage_sweep_limit">"
+"</string>
 	<string name="data_usage_uninstalled_apps">Removed apps</string>
 	<string name="data_usage_received_sent">%1$s received, %2$s sent</string>
 	<string name="data_usage_total_during_range">%2$s: about %1$s used</string>
@@ -1644,9 +1644,9 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="driving_mode_settings_title">Driving mode settings</string>
 	<string name="driving_mode_settings_summary">Select applications to use TTS while Driving mode is on</string>
 	<string name="incoming_call">Входящий вызов</string>
-	<string name="incoming_call_notification_summary">&quot;Read out callers' information when receiving incoming calls&quot;</string>
+	<string name="incoming_call_notification_summary">"Read out callers' information when receiving incoming calls"</string>
 	<string name="message">Message</string>
-	<string name="message_notification_summary">&quot;Read out senders' information and message contents when new messages arrive&quot;</string>
+	<string name="message_notification_summary">"Read out senders' information and message contents when new messages arrive"</string>
 	<string name="new_email">New emails</string>
 	<string name="new_email_notification_summary">Read out number of new emails received</string>
 	<string name="new_voicemail">New voicemail</string>
@@ -1689,7 +1689,7 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="remote_controls">Remote functions</string>
 	<string name="remote_controls_summary">Allows phone to be locked, tracked, and data to be wiped remotely</string>
 	<string name="remote_controls_mbody">Remote controls</string>
-	<string name="link_samsung_dive">&quot;Remote Controls' was checked. Visit %s&quot;</string>
+	<string name="link_samsung_dive">"Remote Controls' was checked. Visit %s"</string>
 	<string name="remove_samsung_account">Delete Samsung account first</string>
 	<string name="do_not_show">Do not show for 90 days</string>
 	<string name="introduction_remote_controls">Introduction to remote controls</string>
@@ -1731,18 +1731,18 @@ Ready to start? Touch Next.&quot;</string>
 	<string name="flight_mode_disable_popup">Airplane mode will be disabled</string>
 	<string name="sdcard_decrypt_title">Decrypt SD card</string>
 	<string name="sdcard_decrypt_discription">Decrypt SD card when you insert encrypted SD card.</string>
-	<string name="sdcard_encrypt_text">&quot;You can encrypt your data in SD card.
+	<string name="sdcard_encrypt_text">"You can encrypt your data in SD card.
 Encryption could take over one hour in background. Time depends on the amount of data in SD card.
-So, we recommend to plug in your charger.&quot;</string>
-	<string name="sdcard_decrypt_text">&quot;You can decrypt your data in SD card.
+So, we recommend to plug in your charger."</string>
+	<string name="sdcard_decrypt_text">"You can decrypt your data in SD card.
 Decryption could take over one hour in background. Time depends on the amount of data in SD card.
-So, we recommend to plug in your charger.&quot;</string>
+So, we recommend to plug in your charger."</string>
 	<string name="sdcard_encrypt_initiate">Encrypt SD card</string>
 	<string name="sdcard_decrypt_initiate">Decrypt SD card</string>
-	<string name="sdcard_encrypt_confirm_text">&quot;Encrypt SD card? This operation is irreversible.
-Encryption could takes an hour or more. But it will progress in background.&quot;</string>
-	<string name="sdcard_decrypt_confirm_text">&quot;Decrypt SD card? This operation is irreversible.
-Decryption could takes an hour or more. But it will progress in background.&quot;</string>
+	<string name="sdcard_encrypt_confirm_text">"Encrypt SD card? This operation is irreversible.
+Encryption could takes an hour or more. But it will progress in background."</string>
+	<string name="sdcard_decrypt_confirm_text">"Decrypt SD card? This operation is irreversible.
+Decryption could takes an hour or more. But it will progress in background."</string>
 	<string name="sdcard_encrypt_confirm_title">Confirm encryption</string>
 	<string name="sdcard_decrypt_confirm_title">Confirm decryption</string>
 	<string name="sdcard_encrypt_title">Encrypt SD card</string>
@@ -1836,10 +1836,10 @@ Decryption could takes an hour or more. But it will progress in background.&quot
 	<string name="power_saving_tips_gps">Приложения, использующие данные расположение по GPS расходуют батарею. Отключение GPS может продлить срок службы батареи</string>
 	<string name="power_saving_tips_sync">Такие приложения, как Gmail, Calendar, и Twitter, автоматически синхронизироваться с помощью беспроводной сети через определенные промежутки времени. Синхронизация данных вручную может продлить срок службы батареи</string>
 	<string name="power_saving_tips_brightness">Уменьшение яркости экрана может продлить срок службы батареи. Выбор автоматической яркости будет регулировать яркость экрана автоматически</string>
-	<string name="power_saving_tips_system">&quot;Установите системные функции ниже
+	<string name="power_saving_tips_system">"Установите системные функции ниже
 1. Dual core max
 2. Яркость
-3. Скорость отрисовки UI&quot;</string>
+3. Скорость отрисовки UI"</string>
 	<string name="power_saving_tips_etc">1. Отключение использования Данных (Настройка&gt; Беспроводные и сети&gt; Мобильная сеть) позволяет увеличить время работы батареи. Вы не сможете получать MMS-сообщения</string>
 	<string name="power_saving_tips_etc2">2. Отключение Автосинхронизации (Настройки&gt; Аккаунты) позволяет увеличить время работы аккумулятора</string>
 	<string name="power_saving_mode_on_summary_10">10%% батареи</string>
@@ -1977,7 +1977,7 @@ Decryption could takes an hour or more. But it will progress in background.&quot
 	<string name="bluetooth_authorize_ticker">Bluetooth authorization request</string>
 	<string name="bluetooth_authorize_title">Authorization request</string>
 	<string name="bluetooth_authorize_message">Select to authorise connection with %s</string>
-	<string name="bluetooth_confirm_just_works_passkey_msg">Confirm password to pair with \&quot;%1$s\&quot;</string>
+	<string name="bluetooth_confirm_just_works_passkey_msg">Confirm password to pair with \"%1$s\"</string>
 	<string name="accessdlg_title">Запрос доступа через Bluetooth</string>
 	<string name="accessdlg_message">%1$s запрашивает разрешение для %2$s</string>
 	<string name="accessdlg_action_default">%s запрашивает разрешение для подключения к вашему устройству</string>
@@ -2037,7 +2037,7 @@ Decryption could takes an hour or more. But it will progress in background.&quot
 	<string name="bluetooth_services">Services</string>
 	<string name="bt_scan_on_active_call_disallowed">Unable to search for devices during call</string>
 	<string name="bluetooth_summary_connected_to_hid">Connected to HID device</string>
-	<string name="bluetooth_enter_keyboard_pin_msg">Enter PIN %1$s to pair with \&quot;%2$s\&quot;</string>
+	<string name="bluetooth_enter_keyboard_pin_msg">Enter PIN %1$s to pair with \"%2$s\"</string>
 	<string name="bluetooth_pointing_device_connected_title">Bluetooth pointing device connected</string>
 	<string name="bluetooth_pointing_device_connected_confirmation_text">%1$s paired. Tap OK to connect. Time remaining: %3$d seconds</string>
 	<string name="bluetooth_hid_advanced_online_mode_summary">Pair and connect to HID device</string>
@@ -2066,10 +2066,10 @@ Decryption could takes an hour or more. But it will progress in background.&quot
 	<string name="wifi_no_usim">No USIM card. USIM card need to be inserted</string>
 	<string name="wifi_not_support_usim">This USIM card does not support. try to connect T wifi zone</string>
 	<string name="agps_using_consent_title_in_setting">Use assisted GPS</string>
-	<string name="agps_using_consent_in_setting">&quot;As using assisted GPS data, a user's position can be acquired more quickly. Please be informed that data fee may be incurred for use of data. Do you use A-GPS function?&quot;</string>
+	<string name="agps_using_consent_in_setting">"As using assisted GPS data, a user's position can be acquired more quickly. Please be informed that data fee may be incurred for use of data. Do you use A-GPS function?"</string>
 	<string name="warning">Warning</string>
-	<string name="date_and_time_settings_confirm_reboot">&quot;Changing to automatic mode requires system reboot.
-Do you want to continue?&quot;</string>
+	<string name="date_and_time_settings_confirm_reboot">"Changing to automatic mode requires system reboot.
+Do you want to continue?"</string>
 	<string name="date_and_time_settings_automode_reboot">Rebooting the system…</string>
 	<string name="date_and_time_settings_timezone_toast">Select time zone prior to setting time</string>
 	<string name="wimax_settings" />

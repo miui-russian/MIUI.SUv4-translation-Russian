@@ -140,7 +140,6 @@
     <string name="unknownName">Без имени</string>
     <string name="localPhoneName">Мое имя</string>
     <string name="defaultnumber">000000</string>
-    <string name="hello">Hello World, TestActivity</string>
     <string name="app_name">Передача по Bluetooth</string>
 	<string name="insert_record">Вставить запись</string>
 	<string name="update_record">Подтвердить запись</string>

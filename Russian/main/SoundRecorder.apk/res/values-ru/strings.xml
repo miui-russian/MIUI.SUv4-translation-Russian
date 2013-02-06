@@ -7,7 +7,7 @@
 	<string name="max_length_reached">Достигнута максимальная длина</string>
 	<string name="insert_sd_card">Вставьте SD-карту</string>
 	<string name="button_ok">ОК</string>
-	<string formatted="false" name="timer_format">%02d:%02d</string>
+	<string name="timer_format" formatted="false">%02d:%02d</string>
 	<string name="audio_db_title_format">гггг-ММ-дд ЧЧ:мм:сс</string>
 	<string name="audio_db_artist_name">Ваши записи</string>
 	<string name="audio_db_album_name">Аудиозаписи</string>

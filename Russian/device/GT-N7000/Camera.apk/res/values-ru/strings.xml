@@ -236,7 +236,7 @@
     <string name="plugged_low_batt_msg">Невозможно использовать вспышку. Аккумулятор разряжен</string>
     <string name="user_profile_title">Профиль пользователя</string>
     <string name="preview_file_received_title">Просмотреть полученный файл</string>
-    <string name="network_title">Обмениваться фотографиями при\n подключении WLAN Direct</string>
+    <string name="network_title">Обмениваться фотографиями при\n подключении Wi-Fi Direct</string>
     <string name="done">Готово</string>
     <string name="refresh">Сети Wi-Fi</string>
     <string name="add_photo_title">Добавить фото</string>

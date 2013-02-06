@@ -51,8 +51,8 @@
     <string name="frame_movie">Фильм</string>
 	<string name="app_name">Галерея</string>
 	<string name="gadget_title">Рамка фотографии</string>
-	<string formatted="false" name="details_ms">%1$02d:%2$02d</string>
-	<string formatted="false" name="details_hms">%1$d:%2$02d:%3$02d</string>
+	<string name="details_ms" formatted="false">%1$02d:%2$02d</string>
+	<string name="details_hms" formatted="false">%1$d:%2$02d:%3$02d</string>
 	<string name="movie_view_label">Видео плеер</string>
 	<string name="loading_video">Загрузка видео</string>
 	<string name="loading_image">Загрузка изображения</string>
@@ -80,11 +80,11 @@
 	<string name="camera_setas_wallpaper">Фон рабочего стола</string>
 	<string name="delete">Удалить</string>
 	<string name="confirm_delete">Вы уверены, что хотите удалить %s?</string>
-	<string formatted="false" name="confirm_delete_album">Вы уверены, что хотите удалить %s альбомов (включая %s штук)?</string>
+	<string name="confirm_delete_album" formatted="false">Вы уверены, что хотите удалить %s альбомов (включая %s штук)?</string>
 	<string name="confirm_delete_system_album"> %s является системным альбомом, удалить?</string>
 	<string name="confirm_delete_folders_and_pictures">Удалить %s?</string>
     <string name="confirm_delete_pictures"> %s изображений</string>
-    <string formatted="false" name="confirm_delete_folders_including"> %s папок (включая %s)</string>
+    <string name="confirm_delete_folders_including" formatted="false">" %s папок (включая %s)"</string>
     <string name="confirm_delete_videos"> %s видео</string>
     <string name="confirm_delete_including_null">0 штук</string>
 	<string name="cancel">Отмена</string>
@@ -93,7 +93,7 @@
 	<string name="deselect_all">Отменить все</string>
 	<string name="slideshow">Слайдшоу</string>
 	<string name="details">Детали</string>
-	<string formatted="false" name="details_title">%1$d из %2$d:</string>
+	<string name="details_title" formatted="false">%1$d из %2$d:</string>
 	<string name="close">Закрыть</string>
 	<string name="switch_to_camera">Переключиться на камеру</string>
 	<string name="show_on_map">Показать на карте</string>
@@ -134,9 +134,9 @@
 	<string name="sd_explorer">Устройства хранения</string>
 	<string name="cloud_albums">Альбомы онлайн</string>
 	<string name="home_my_captured_items">Мои фотографии</string>
-	<string name="all_media">&quot;Все фотографии&quot;</string>
+	<string name="all_media">Все фотографии</string>
 	<string name="done">Завершено</string>
-	<string formatted="false" name="sequence_in_set">%1$d из %2$d позиций:</string>
+	<string name="sequence_in_set" formatted="false">%1$d из %2$d позиций:</string>
 	<string name="title">Заголовок</string>
 	<string name="description">Описание</string>
 	<string name="time">Время</string>
@@ -170,7 +170,7 @@
 	<string name="free_space_format">%s свободно</string>
 	<string name="size_below">%1$s или меньше</string>
 	<string name="size_above">%1$s или больше</string>
-	<string formatted="false" name="size_between">%1$s до %2$s</string>
+	<string name="size_between" formatted="false">%1$s до %2$s</string>
 	<string name="Import">Импорт</string>
 	<string name="import_complete">Импорт завершен</string>
 	<string name="import_fail">Не удалось выполнить импорт</string>
@@ -195,9 +195,9 @@
 	<string name="remove_recent_album">Удалить альбом из Избранного</string>
 	<string name="set_hidden_album">Скрыть альбом</string>
 	<string name="remove_hidden_album">Отображать альбом</string>
-	<string name="all_albums_desc">Альбом(ы)</string>
+	<string name="all_albums_desc">Альбомы</string>
 	<string name="all_albums_loading">Загрузка…</string>
-	<string name="all_recent_albums_desc">Избранный(е) альбом(ы)</string>
+	<string name="all_recent_albums_desc">Избранные альбомы</string>
 	<string name="all_album">Все</string>
 	<string name="all_recent">Избранное</string>
 	<string name="photos">Фото</string>
@@ -211,7 +211,7 @@
 	<string name="cloud_gallery_setting">настройки онлайн альбома</string>
 	<string name="sync_history_power_on">Синхронизировать историю изображений только во время зарядки</string>
 	<string name="sync_history_power_on_summary">Рекоммендуется включить, иначе устройство будет разряжаться значительно быстрее.</string>
-	<string name="sync_only_in_wifi">Загрузка только через WiFi</string>
+	<string name="sync_only_in_wifi">Загрузка только через Wi-Fi</string>
 	<string name="sync_only_in_wifi_summary">Рекоммендуется включить, иначе значительно возрастет потребление мобильного трафика.</string>
 	<string name="alert_message_sync_histoy_power_on">История изображений бкдт сихронизироваться только во время зарядки.</string>
 	<string name="alert">Уведомление</string>
@@ -283,8 +283,8 @@
 	<string name="cloudfolder_already_exists">такая облачная папка уже существует</string>
 	<string name="other_category">Другие настройки</string>
 	<string name="show_hidden_album">Показывать скрытые альбомы</string>
-	<string name="auto_create_recent_album">Автосоздание Избранных альбомов</string>
-	<string name="auto_create_recent_album_over_ten_times">Автоматическое создание Избранного альбома, если он открыт более 10 раз</string>
+	<string name="auto_create_recent_album">Автосоздание избранных альбомов</string>
+	<string name="auto_create_recent_album_over_ten_times">Автоматическое создание избранного альбома, если он открыт более 10 раз</string>
 	<string name="not_auto_create_recent_album">Отменить автоматическое создание Избранных альбомов</string>
 	<string name="auto_create_recent_album_confirm">После отключения этой функции, Галерея очистит накопленные данные. Избранные альбомы назначенные пользователем затронуты не будут. Вы можете добавить в альбом в Избранное нажав и удерживая палец на нем.</string>
 	<string name="expand_album_in_home_page">Развернуть альбом на Домашней странице</string>

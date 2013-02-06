@@ -146,7 +146,7 @@
     <string name="comment_invalid">Пожалуйста коснитесь звезд, чтобы дать оценку</string>
     <string name="comment_version_name">(%1$s версия)</string>
     <string name="account">Аккаунт</string>
-    <string name="account_hint_text">Email/Номер телефона</string>
+    <string name="account_hint_text">E-mail/Номер телефона</string>
     <string name="login">Войти</string>
     <string name="basic_info">Основная информация</string>
     <string name="next">Следующее</string>
@@ -163,7 +163,7 @@
     <string name="micloud_error_empty_username">Не введено имя пользователя</string>
     <string name="micloud_error_empty_pwd">Невведен пароль</string>
     <string name="micloud_error_illegal_pwd">Неверный пароль</string>
-    <string name="micloud_input_email_prompt">Введите свой email</string>
+    <string name="micloud_input_email_prompt">Введите свой e-mail</string>
     <string name="micloud_email">Адрес Email</string>
     <string name="micloud_input_password_prompt">Введите пароль</string>
     <string name="micloud_password_confirm_hint">Подтвердите пароль</string>

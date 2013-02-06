@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, VideoPlayerActivity!</string>
     <string name="app_name">Видео</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Извините, видео не поддерживается</string>
     <string name="vp_VideoView_error_text_unknown">Невозможно воспроизвести видео</string>
@@ -11,8 +10,6 @@
     <string name="menu_item_switch_width_height_label">Соотношение сторон</string>
     <string name="menu_item_about_label">О программе</string>
     <string name="about_title">О программе</string>
-    <string name="about_app_name">MiPlayer</string>
-    <string name="about_version">V4.0</string>
     <string name="menu_wh_item_auto_select_label">Автовыбор</string>
     <string name="menu_wh_item_full_screen_label">На весь экран</string>
     <string name="menu_wh_item_adapt_width_label">Вместить по ширине</string>
@@ -21,7 +18,7 @@
     <string name="menu_wh_item_using_4_3_label">Принудительно 4:3</string>
     <string name="video_info_length_label">Длительность:</string>
     <string name="video_info_resolution_label">Разрешение:</string>
-    <string name="video_info_video_coding_label">Видео кодек: </string>
+    <string name="video_info_video_coding_label">Видео кодек:</string>
     <string name="video_info_audio_coding_label">Аудио кодек:</string>
     <string name="video_info_audio_bitrate_label">Битрейт аудио:</string>
     <string name="video_info_audio_null">Нет</string>

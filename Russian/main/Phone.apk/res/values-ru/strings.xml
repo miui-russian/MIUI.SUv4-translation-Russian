@@ -515,10 +515,10 @@
     <string name="xdivert_status">Статус X-Divert</string>
     <string name="xdivert_active">Активен</string>
     <string name="xdivert_not_active">Не активен</string>
-    <string name="xdivert_imsi_not_read">Sim Initialization happening.Please try after some time.</string>
+    <string name="xdivert_imsi_not_read">Инициализация SIM карты. Повторите попытку позже.</string>
 	<string name="network_message">Сообщение сети</string>
 	<string name="ota_title_activate">Активировать телефон</string>
-	<string name="ota_touch_activate">Необходим специальный звонок для активации службы телефона. \n\nПосле нажатия кнопки \Активировать\ прослушайте инструкции по активации телефона.</string>
+	<string name="ota_touch_activate">Необходим специальный звонок для активации службы телефона. \n\nПосле нажатия кнопки \"Активировать\" прослушайте инструкции по активации телефона.</string>
     <string name="ota_touch_activate_new">"Нажмите \"Активировать\" чтобы подключить ваш телефон к сети оператора для совершения звонков и передачи данных."</string>
 	<string name="ota_skip_activation_dialog_title">Пропустить активацию?</string>
 	<string name="ota_skip_activation_dialog_message">Если вы пропустите активацию, вы не сможете совершать вызовы и подключаться к мобильным сетям передачи данных (хотя вы сможете подключаться к сетям Wi-Fi). Пока вы не активируете свой телефон, запрос активации будет отображаться при каждом его включении.</string>
@@ -850,7 +850,6 @@
 	<string name="carrier_related_setting_catory_miui">Настройки оператора</string>
 	<string name="cdma_system_select_choices_auto_miui">Автоматически</string>
 	<string name="cdma_system_select_choices_home_only_miui">Только домашняя</string>
-
 	<string name="cfb_title_miui">Если занят</string>
 	<string name="cfnrc_title_miui">Если недоступен</string>
 	<string name="cfnry_title_miui">Если не отвечает</string>

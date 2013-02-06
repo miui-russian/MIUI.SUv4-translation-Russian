@@ -36,7 +36,6 @@
 	<string name="download_line1">От: \"%1$s\"</string>
 	<string name="download_line2">Файл: %1$s</string>
 	<string name="download_line3">Размер файла: %1$s</string>
-	<string name="download_line4" />
 	<string name="download_line5">Получение файла…</string>
 	<string name="download_cancel">Остановить</string>
 	<string name="download_ok">Скрыть</string>
@@ -152,7 +151,6 @@
 	<string name="unknownName">Без имени</string>
 	<string name="localPhoneName">Мое имя</string>
 	<string name="defaultnumber">000000</string>
-	<string name="hello">Hello World, TestActivity</string>
 	<string name="app_name">Передача по Bluetooth</string>
 	<string name="insert_record">Вставить запись</string>
 	<string name="update_record">Подтвердить запись</string>

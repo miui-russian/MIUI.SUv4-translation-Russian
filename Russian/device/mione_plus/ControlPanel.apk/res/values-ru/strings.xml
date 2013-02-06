@@ -21,8 +21,7 @@
   <string name="cpu_set_on_boot_summary">Применить настройки автоматически после перезагрузки системы</string>
   <string name="cpu_settings">Управление CPU</string>
   <string name="cpu_summary">Настроить параметры CPU</string>
-  <string name="cpu_zram_summary">"Сжимать память для увеличения объема виртуальной
-Текущие настройки: "</string>
+  <string name="cpu_zram_summary">"Сжимать память для увеличения объема виртуальной\nТекущие настройки: "</string>
   <string name="cpu_zram_title">zRam</string>
   <string name="current">Текущие</string>
   <string name="custom_carrier_label_summary">Введите текст для своего названия оператора</string>
@@ -45,11 +44,7 @@
   <string name="interface_summary">Контролировать внешний вид и работу</string>
   <string name="nativeandroid_settings">Настройки Android</string>
   <string name="nativeandroid_summary">Коллекция скрытых и иногда трудно находимыж параметров Android OS</string>
-  <string name="no_root">"Lennox Control не смог получить привилегии суперпользователя.
-
-Некоторые параметры могут работать не правильно, или не работать совсем.
-
-Убедитесь, что у вас есть рут доступ прежде чем пытаться снова."</string>
+  <string name="no_root">Lennox Control не смог получить привилегии суперпользователя.\n\nНекоторые параметры могут работать не правильно, или не работать совсем.\n\nУбедитесь, что у вас есть рут доступ прежде чем пытаться снова.</string>
   <string name="no_root_accept">Выход</string>
   <string name="onscreenkeys_category">Софт кнопки</string>
   <string name="onscreenkeys_custom">Настраиваемые кнопки</string>
@@ -103,9 +98,7 @@
   <string name="transition_animations_summary">Скорость анимации при смене экранов</string>
   <string name="transition_animations_title">Анимация переходов</string>
   <string name="usage_statistics">Статистика использования</string>
-  <string name="usage_statistics_summary" />
   <string name="wifi_testing">Информация Wi-Fi</string>
-  <string name="wifi_testing_summary" />
   <string name="window_animations_summary">Скорость анимации в отдельных окнах</string>
   <string name="window_animations_title">Анимация окон</string>
 </resources>

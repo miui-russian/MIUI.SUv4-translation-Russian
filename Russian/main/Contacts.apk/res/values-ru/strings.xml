@@ -137,7 +137,7 @@
 	<string name="type_missed">Пропущенный вызов</string>
 	<string name="type_voicemail">Голосовая почта</string>
 	<string name="callBack">Перезвонить</string>
-	<string formatted="false" name="callDetailsDurationFormat">%s мин %s сек</string>
+	<string name="callDetailsDurationFormat" formatted="false">%s мин %s сек</string>
 	<string name="favoritesFrequentContacted">Часто набираемые</string>
 	<string name="favoritesFrequentCalled">Часто вызываемые</string>
 	<string name="add_contact_dlg_title">Добавить контакт</string>
@@ -179,7 +179,7 @@
 	<string name="select_vcard_title">Выберите файл vCard</string>
 	<string name="caching_vcard_title">Кэширование файлов vCard в локальное временное хранилище</string>
 	<string name="caching_vcard_message">Импортер кэширует файлы vCard в локальное временное хранилище. Фактический импорт начнется в ближайшее время.</string>
-	<string formatted="false" name="progress_notifier_message">Импорт %s/%s: %s</string>
+	<string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
 	<string name="importing_vcard_description">Импорт: %s</string>
 	<string name="reading_vcard_failed_title">Ошибка чтения vCard-файла</string>
 	<string name="importing_vcard_finished_title">Импорт файла vCard %s завершен</string>
@@ -207,7 +207,7 @@
 	<string name="composer_failed_to_get_database_infomation">Не удалось получить сведения из базы данных</string>
 	<string name="composer_has_no_exportable_contact">Нет контактов для экспорта. Если в вашем телефоне имеются контакты, возможно, их экспорт был заблокирован поставщиком данных.</string>
 	<string name="composer_not_initialized">Редактор vCard запущен некорректно</string>
-	<string formatted="false" name="fail_reason_could_not_open_file">Не удалось открыть %s: %s</string>
+	<string name="fail_reason_could_not_open_file" formatted="false">Не удалось открыть %s: %s</string>
 	<string name="cancel_import_confirmation_title">Отмена импорта vCard</string>
 	<string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
 	<string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
@@ -465,7 +465,7 @@
 	<string name="send_contact_shortcut_todesktop_success">Контакт(ы) добавлен(ы) на рабочий стол</string>
 	<string name="summary_kind_title">Основная информация</string>
 	<string name="callrecordview_item_newcontact">Новый контакт</string>
-	<string formatted="false" name="callrecordview_item_op_time_minutes_seconds">%d мин %d сек</string>
+	<string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин %d сек</string>
 	<string name="callrecordview_item_op_time_only_minutes">%d мин</string>
 	<string name="callrecordview_item_op_time_only_seconds">%d сек</string>
 	<string name="callrecordview_item_op_time_short_outgoing">Исходящий: </string>
@@ -620,9 +620,7 @@
 	<string name="import_to_xiaomi_account_progress_finish">Импорт выполнен</string>
 	<string name="import_to_xiaomi_account_title">Вы хотите импортировать выбранные контакты в аккаунт Xiaomi?</string>
 	<string name="menu_batch_delete">Пакетное удаление контактов</string>
-	<string name="batch_delete_msg">Вы уверены, что хотите удалить выбранные %d контакты(ов)? 
-
- Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
+	<string name="batch_delete_msg">Вы уверены, что хотите удалить выбранные %d контакты(ов)? \n\n Если вы пользуетесь сервисом синхронизации контактов, контакты в облаке также будут удалены.</string>
 	<string name="listTotalAllContactsZero">Нет контактов</string>
 	<string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
 	<string name="listTotalAllContactsZeroGroup">Нет контактов в %s</string>
@@ -634,7 +632,7 @@
     <string name="option_edit_contact">Редактировать</string>
     <string name="option_delete_contact">Удалить</string>
     <string name="option_send_to_desktop">Послать на раб.стол</string>
-    <string name="option_send_to_others">Send to others</string>	
+    <string name="option_send_to_others">Послать</string>	
     <string name="option_not_star">Удалить из избранного</string>	
     <string name="option_not_in_group">Удалить</string>
     <string name="preference_smart_group_title">Умная группировка</string>

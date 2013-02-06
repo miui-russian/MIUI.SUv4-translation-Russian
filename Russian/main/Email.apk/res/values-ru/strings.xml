@@ -392,7 +392,7 @@
     <string name="general_preference_text_zoom_huge">Огромный</string>
     <string name="general_preference_reply_all_label">Ответить всем</string>
     <string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
-    <string name="general_preferences_clear_trusted_senders_title">Восстановить значение по умолчанию для параметра \"Показать изображения\"</string>
+    <string name="general_preferences_clear_trusted_senders_title">Сброс параметра \"Показать изображения\"</string>
     <string name="general_preferences_clear_trusted_senders_summary">Восстановить значения по умолчанию для всех отправителей (отключить автоматический показ их изображений)</string>
     <string name="trusted_senders_cleared">Показ изображений отключен.</string>
     <string name="position_of_count" formatted="false">%1$d из %2$s</string>

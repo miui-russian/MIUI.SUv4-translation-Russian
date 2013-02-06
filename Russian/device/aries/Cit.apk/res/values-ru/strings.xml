@@ -168,7 +168,7 @@
   <string name="cit_tool_log_ril">RIL отчет</string>
   <string name="cit_tool_log_toast">Лог был сохранен как %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Генерируется отчет об ошибке (это займет около 10 секунд)</string>
-  <string name="cit_tool_wifi">Инструменты WLAN</string>
+  <string name="cit_tool_wifi">Инструменты Wi-Fi</string>
   <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
   <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
   <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
