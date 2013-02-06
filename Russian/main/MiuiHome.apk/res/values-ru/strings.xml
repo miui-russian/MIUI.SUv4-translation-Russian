@@ -81,7 +81,7 @@
 	<string name="transformation_type_classic">Классический</string>
 	<string name="transformation_type_classic_no_overshoot">Классический (Без прокрутки)</string>
 	<string name="transformation_type_crossfade">Угасание</string>
-	<string name="transformation_type_falldown">Поворот</string>
+	<string name="transformation_type_falldown">Перекатывание</string>
 	<string name="transformation_type_cube">3D куб</string>
 	<string name="transformation_type_leftpage">Страницы</string>
 	<string name="transformation_type_stack">Каскад</string>

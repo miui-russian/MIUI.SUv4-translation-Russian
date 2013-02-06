@@ -1903,8 +1903,8 @@
 	<string name="master_clear_erase_application_progress">Удаление приложений…</string>
 	<string name="erase_internal_storage">Очистить внутренний накопитель</string>
 	<string name="erase_internal_storage_description">Удалить все данные на внутреннем накопителе, такие как музыка или фотографии</string>
-	<string name="bluetooth_default_name">Xiaom iаппарат</string>
-	<string name="bluetooth_profile_name">%1$s Xiaomi аппарат</string>
+	<string name="bluetooth_default_name">Устройство Xiaomi</string>
+	<string name="bluetooth_profile_name">%1$s устройство Xiaomi</string>
 	<string name="usage_log">Статистика использования приложений</string>
 	<string name="usb_msd_title">Накопитель</string>
 	<string name="usb_msd_summary">Позволяет передавать файлы на Windows и Mac</string>
