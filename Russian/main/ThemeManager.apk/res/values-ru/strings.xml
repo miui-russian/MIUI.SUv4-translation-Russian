@@ -3,7 +3,7 @@
     <string name="app_name">Темы</string>
     <string name="theme_activity_label">Темы</string>
     <string name="theme_activity_lable">Темы</string>
-	<string name="theme_import_activity_label">Обновление темы</string>
+	<string name="theme_import_activity_label">Обновления тем</string>
     <string name="theme_changing_dialog_title">Применение темы. Подождите…</string>
     <string name="theme_changed_message">Успешно установлена %1$s.</string>
     <string name="theme_changed_failed_message">Ошибка применения темы %1$s</string>
@@ -98,7 +98,7 @@
 	<string name="theme_update_request_content">Необходимо переконвертировать тему в новый формат, это может занять много времени. Траффик не будет использоваться. Нажмите OK для начала обработки.</string>
 	<string name="theme_import_preparing">Сканирование локальных тем</string>
 	<string name="theme_import_importing">Обновление.. осталось %1$d</string>
-	<string name="theme_import_normal">Обновление темы</string>
+	<string name="theme_import_normal">Обновления тем</string>
 	<string name="theme_sdcard_importing">Импорт</string>
 	<string name="theme_import_stoping">Прерывание…</string>
 	<string name="theme_import_oper_stop">Остановить</string>

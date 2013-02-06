@@ -35,8 +35,6 @@
   <string name="no_channel_selected">Выберите хотя бы один пункт</string>
   <string name="normal_frequency">Нормальная частота</string>
   <string name="notify">U1 FM-радио поддерживается только в версии 0.7 HW или выше</string>
-  <string name="number_2">2</string>
-  <string name="number_30">30</string>
   <string name="ok">OK</string>
   <string name="remove">Удалить</string>
   <string name="rename">Переименовать</string>
@@ -82,7 +80,7 @@
   <string name="toast_fm_not_played">Невозможно включить радио</string>
   <string name="toast_initial_access">Запуск автосканирования …</string>
   <string name="toast_no_channel_found">Канал не найден</string>
-  <string name="toast_no_fav_channel">No favourite channels saved</string>
+  <string name="toast_no_fav_channel">Нет сохраненных избранных каналов</string>
   <string name="toast_on_alert">Включите Радио</string>
   <string name="toast_one_channel_found">1 канал найден при сканировании</string>
   <string name="toast_rename_error">Невозможно переименовать</string>
