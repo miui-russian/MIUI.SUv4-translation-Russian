@@ -17,11 +17,11 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
     <string-array name="search_engines">
-		<item>yandex</item>
+        <item>yandex</item>
         <item>google</item>
         <item>yahoo</item>
         <item>bing</item>
-    </string-array>	
+    </string-array>    
     <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
@@ -69,9 +69,9 @@
     </array>
     <string-array name="bookmarks">
         <item>MIUI.SU</item>
-        <item>http://miui.su/</item>	
+        <item>http://miui.su/</item>    
         <item>Яндекс</item>
-        <item>http://www.yandex.ru/?clid=1788326</item>		
+        <item>http://www.yandex.ru/?clid=1788326</item>        
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>Picasa</item>

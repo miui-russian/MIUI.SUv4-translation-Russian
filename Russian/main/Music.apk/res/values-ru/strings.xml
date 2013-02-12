@@ -27,7 +27,7 @@
     <string name="download_lyric_summary">Не сильно повлияет на объём загружаемых данных. Рекомендуется включить.</string>
     <string name="listen_to_music_online_settings">Слушать музыку онлайн</string>
     <string name="listen_to_online_summary">Увеличится объём загружаемых данных. Рекомендуется выключить.</string>
-	<string name="correct_id3_settings">Корректирование ID3</string>
+    <string name="correct_id3_settings">Корректирование ID3</string>
     <string name="correct_id3_summary">Может увеличить расходы на связь. Рекомендуется выключить.</string>
     <string name="player_display_settings">ЭКРАН ПЛЕЕРА</string>
     <string name="lyric_display_settings">Показать тексты песен</string>
@@ -39,7 +39,7 @@
     <string name="lyric_and_album">ТЕКСТЫ ПЕСЕН И АЛЬБОМЫ</string>
     <string name="android_album_settings">Использовать встроенные обложки</string>
     <string name="android_album_summary">Привязано к имени файла. Может вызывать ошибки. Рекомендуется выключить.</string>
-	<string name="auto_correct_id3_settings">Автокорректировка ID3</string>
+    <string name="auto_correct_id3_settings">Автокорректировка ID3</string>
     <string name="auto_correct_id3_summary">Автокоррекция ID3 при проигрывании через сервис Baidu.</string>
     <string name="music_filter">Фильтр файлов</string>
     <string name="filter_by_size">По размеру</string>
@@ -220,7 +220,7 @@
     <string name="detail_genre">"Жанр: "</string>
     <string name="detail_size">"Размер: "</string>
     <string name="detail_format">"Тип: "</string>
-	<string name="correct_id3_by_internet">Автокорректировка ID3 через интернет</string>
+    <string name="correct_id3_by_internet">Автокорректировка ID3 через интернет</string>
     <string name="correct_id3_start">Начать корректировку ID3 через интернет.</string>
     <string name="correct_id3_success">Корректировка ID3 завершена.</string>
     <string name="correct_id3_failed">Ошибка корректироваки ID3.</string>

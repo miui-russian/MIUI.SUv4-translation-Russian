@@ -41,5 +41,5 @@
     <string name="toast_message_continue_play_minute">м&#160;</string>
     <string name="toast_message_continue_play_second_and_play">с</string>
     <string name="temp_play_history_button_label">Показать историю плеера</string>
-	<string name="vp_VideoView_error_network_not_available">Соединение отсутствует</string>
+    <string name="vp_VideoView_error_network_not_available">Соединение отсутствует</string>
 </resources>

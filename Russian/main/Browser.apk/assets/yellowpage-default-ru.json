@@ -21,10 +21,10 @@
                 }
             ]
         },
-	    {
+        {
             "cat":"Cool Sites",
             "sites":[
-				{
+                {
                     "title":"VKontakte",
                     "url":"http://vk.com/"
                 },
@@ -60,7 +60,7 @@
                 {
                     "title":"Instagram",
                     "url":"http://instagram.com/"
-                },				
+                },                
             ]
         },
         {

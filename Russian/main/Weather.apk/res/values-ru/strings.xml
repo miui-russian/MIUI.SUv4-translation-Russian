@@ -38,7 +38,7 @@
     <string name="menu_reload">Обновить</string>
     <string name="menu_share">Поделиться</string>
     <string name="menu_chart">Диаграмма</string>
-	<string name="menu_settings">Настройки</string>
+    <string name="menu_settings">Настройки</string>
     <string name="menu_about">О программе</string>
     <string name="share_weather_title">Поделиться данными о погоде</string>
     <string name="share_sina">Отправить через Sina Weibo</string>
@@ -47,10 +47,10 @@
     <string name="install_tencent">Нажмите для установки Tencent Weibo</string>
     <string name="save_screen_shot_failed">Ошибка сохранения скриншота</string>
     <string name="chart_weather_title">Диаграмма погоды</string>
-	<string name="settings_weather_title">Настройки</string>
+    <string name="settings_weather_title">Настройки</string>
     <string name="settings_weather_animation">Анимация погоды</string>
-    <string name="settings_weather_play_ani_title">Воспроизвести анимацию</string>	
-    <string name="settings_weather_play_ani_summary">Показывать анимацию на главном экране</string>	
+    <string name="settings_weather_play_ani_title">Воспроизвести анимацию</string>    
+    <string name="settings_weather_play_ani_summary">Показывать анимацию на главном экране</string>    
     <string name="settings_weather_about">About</string>
     <string name="settings_weather_pre_title">Погода</string>
     <string name="settings_weather_preview">Просмотр анимации погоды</string>
@@ -72,11 +72,11 @@
     <string name="location_allow_err">Открытие определения местонахождение не удалось</string>
     <string name="format_date_wmd">M/d EEE</string>
     <string name="format_date_md">M/d kk:mm</string>
-	<string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
-	<string name="act_weather_main_aqi_title">Чистота воздуха</string>
-	<string name="aqi_quality_index_good">Хорошо</string>
-	<string name="aqi_quality_index_light_pollution">Световое загрязнение</string>
-	<string name="aqi_quality_index_unhealthy">Вредный</string>
-	<string name="aqi_quality_index_dangerous">Опасный</string>
-	<string name="aqi_quality_index_hazardous">Зараженный</string>
+    <string name="act_weather_aqi_title">Индекс чистоты воздуха</string>
+    <string name="act_weather_main_aqi_title">Чистота воздуха</string>
+    <string name="aqi_quality_index_good">Хорошо</string>
+    <string name="aqi_quality_index_light_pollution">Световое загрязнение</string>
+    <string name="aqi_quality_index_unhealthy">Вредный</string>
+    <string name="aqi_quality_index_dangerous">Опасный</string>
+    <string name="aqi_quality_index_hazardous">Зараженный</string>
 </resources>
