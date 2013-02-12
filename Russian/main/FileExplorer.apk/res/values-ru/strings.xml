@@ -217,7 +217,7 @@
 	<string name="trans_task">Передача по сети</string>
 	<string name="des_running_trans">Еще %1$d файлов нужно передать</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Нажмите&lt;/a&gt;чтобы очистить корзину</string>
-	<string name="storage_internal">Внутренняя память</string>
+	<string name="storage_internal">ВНУТРЕННЯЯ ПАМЯТЬ</string>
 	<string name="storage_sd_card">SD-карта</string>
 	<string name="storage_usb">USB-накопитель</string>	
 	<string name="bind_account">Привязать к аккаунту KuaiPan</string>

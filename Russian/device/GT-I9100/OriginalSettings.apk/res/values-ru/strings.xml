@@ -47,7 +47,7 @@
 	<string name="large_font">Большой</string>
 	<string name="font_size_preview_text">Подавать этого человека к пиву с киви</string>
 	<string name="font_size_save">OK</string>
-	<string name="sdcard_setting">Внутренняя память</string>
+	<string name="sdcard_setting">ВНУТРЕННЯЯ ПАМЯТЬ</string>
 	<string name="sdcard_setting_sd">SD-карта</string>
 	<string name="battery_info_status_label">Состояние батареи:</string>
 	<string name="battery_info_power_label">Зарядное устройсво подключено:</string>
@@ -85,7 +85,7 @@
 	<string name="bluetooth">Bluetooth</string>
 	<string name="bluetooth_visibility">Видимость</string>
 	<string name="bluetooth_is_discoverable">Время видимости для устройств Bluetooth: %1$s</string>
-	<string name="bluetooth_is_discoverable_always">Отображать для ближайших устройств Bluetooth</string>
+	<string name="bluetooth_is_discoverable_always">Отображать для устройств Bluetooth</string>
 	<string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth-устройств</string>
 	<string name="bluetooth_only_visible_to_paired_devices">Отображать только для подключенных устройств</string>
 	<string name="bluetooth_not_discoverable">Сделать устройство видимым</string>
@@ -1067,9 +1067,9 @@ Ready to start? Touch Next."</string>
 	<string name="no_running_services">No services in use</string>
 	<string name="service_started_by_app">Started by application</string>
 	<string name="service_client_name">%s</string>
-	<string name="service_background_processes">%s free</string>
-	<string name="service_foreground_processes">%s used</string>
-	<string name="memory">RAM</string>
+	<string name="service_background_processes">%s свободно</string>
+	<string name="service_foreground_processes">%s используется</string>
+	<string name="memory">Оперативная память</string>
 	<string name="service_process_name">%s</string>
 	<string name="running_processes_item_description_s_s">%1$d process and %2$d service</string>
 	<string name="running_processes_item_description_s_p">%1$d process and %2$d services</string>
@@ -1080,7 +1080,7 @@ Ready to start? Touch Next."</string>
 	<string name="runningservicedetails_services_title">Services</string>
 	<string name="runningservicedetails_processes_title">Processes</string>
 	<string name="service_stop">Stop</string>
-	<string name="service_manage">Settings</string>
+	<string name="service_manage">Настройки</string>
 	<string name="service_stop_description">Service started by application. Stopping service may cause application to fail</string>
 	<string name="heavy_weight_stop_description">This app cannot be stopped safely. If you stop it, you may lose some of your current work</string>
 	<string name="background_process_stop_description">Old application process kept for better speed in case it is needed again. There is usually no reason to stop it</string>

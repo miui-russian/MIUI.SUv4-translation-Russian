@@ -140,8 +140,7 @@
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">H:mm</string>
     <string name="status_bar_time_format_12_simple">H:mm</string>
-  <string name="status_bar_date_format">"EEEE
-d MMMM yyyy"</string>
+    <string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
     <string name="status_bar_recent_memory_info_format">%d MB</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="usb_mode_notification">USB-накопитель</string>
@@ -149,14 +148,14 @@ d MMMM yyyy"</string>
     <string name="usb_mode_mount_storage_title">Открыть сейчас USB-накопитель?</string>
     <string name="mount_storage">Да</string>
     <string name="dismount_storage">Нет</string>
-    <string name="usb_notification">Подключено по USB</string>
+    <string name="usb_notification">Подключ. по USB</string>
     <string name="usb_notification_mtp_info">Доступ к данным с компьютера</string>
     <string name="usb_notification_ptp_info">Доступ к фото с компьютера</string>
     <string name="usb_notification_mtp_problem">Помощь ></string>
     <string name="usb_ptp_text">Фото</string>
     <string name="usb_mtp_text">Файлы</string>
-    <string name="usb_notification_mtp_ticker_text">Connected to USB(Files)</string>
-    <string name="usb_notification_ptp_ticker_text">Connected to USB(Photos)</string>
+    <string name="usb_notification_mtp_ticker_text">Подключение по USB (Файлы)</string>
+    <string name="usb_notification_ptp_ticker_text">Подключение по USB (Фото)</string>
     <string name="move_data_to_sdcard_title">Экспорт внутренних данных на SD-карту</string>
     <string name="move_data_to_sdcard_message">"Перемещение данных таких как снимки экрана, изображения и т.п. из внутренней памяти на SD-карту. Используйте SD-карту для достижения лучшего опыта пользования смартфоном."</string>
     <string name="user_guide_for_notification">Получено новое уведомление，потяните вниз статусную строку для получения деталей</string>
@@ -202,7 +201,7 @@ d MMMM yyyy"</string>
     <string name="settings_toggle_position_reset">Упорядочить по умолчанию</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="settings_notification_icon">Уведомления в строке состояния</string>
-    <string name="settings_screenshot_notification_disabled">Не уведом. о скриншоте</string>
+    <string name="settings_screenshot_notification_disabled">Не уведомлять о скриншоте</string>
     <string name="settings_show_network_speed">Отобр. скорость соединения</string>
     <string name="settings_expanded_view">Расширенный вид уведомлений</string>
     <string name="settings_expandable_under_keyguard">Расширенный вид блокировки</string>
@@ -212,7 +211,7 @@ d MMMM yyyy"</string>
     <string name="settings_show_flow_info">Показать инфо-поток</string>
     <string name="notification_icon_filter_settings">Уведомление</string>
     <string name="notification_icon_filter_settings_loading">Идёт загрузка, пожалуйста подождите</string>
-    <string name="notification_icon_filter">Настройка уведомлений строки состояния</string>
+    <string name="notification_icon_filter">Настройка уведомлений</string>
     <string name="notification_icon_filter_title">Скрыть уведомление</string>
     <string name="notification_icon_filter_summary">При отключении этой опции уведомления всех приложений будут показываться в верхней левой части строки состояния.</string>
     <string name="notification_icon_filter_mode">Режим контроля</string>

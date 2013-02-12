@@ -88,7 +88,7 @@
     <string name="preferences_dialog_select_account_tips">Выберите аккаунт Google для синхронизации</string>
     <string name="preferences_toast_cannot_change_account">Синхронизация в процессе, невозможно изменить аккаунт</string>
     <string name="preferences_toast_success_set_accout">Аккаунт %1$s был установлен для синхронизации</string>
-    <string name="preferences_bg_random_appear_title">Случайный цвет</string>
+    <string name="preferences_bg_random_appear_title">Случайный цвет заметок</string>
     <string name="call_record_folder_name">Заметка разговора</string>
     <string name="hint_foler_name">Ввести имя</string>
     <string name="search_label">Поиск заметок</string>

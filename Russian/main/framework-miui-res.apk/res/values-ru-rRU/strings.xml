@@ -486,7 +486,7 @@
     <string name="status_bar_toggle_privacy_mode">Гость</string>
     <string name="status_bar_toggle_reboot">Перезагрузка</string>
     <string name="status_bar_toggle_rotate">Автоповорот</string>
-    <string name="status_bar_toggle_screen_button">Отключить кнопки</string>
+    <string name="status_bar_toggle_screen_button">Откл. кнопки</string>
     <string name="status_bar_toggle_screenshot">Скриншот</string>
     <string name="status_bar_toggle_shutdown">Выключение</string>
     <string name="status_bar_toggle_sync">Синхронизация</string>
