@@ -137,7 +137,7 @@
     <string name="pref_summary_auto_delete">Удалять старые сообщения по достижении макс. количества</string>
     <string name="pref_summary_delete_limit">Сообщений в цепочке: %1$s</string>
     <string name="pref_title_mms_delivery_reports">Отчеты о доставке</string>
-    <string name="pref_title_mms_read_reports">Отчеты о прочтении</string>
+    <string name="pref_title_mms_read_reports">Отчет о прочтении</string>
     <string name="pref_title_sms_delivery_reports">Отчеты о доставке</string>
     <string name="pref_title_auto_delete">Удалять старые</string>
     <string name="pref_title_sms_delete">Макс. количество SMS</string>
@@ -377,7 +377,7 @@
     <string name="pref_summary_show_recent_contacts">Показать список последних контактов при создании нового сообщения</string>
     <string name="pref_title_hide_festival">Скрыть панель рекомендаций</string>
     <string name="pref_summary_hide_festival">Скрыть панель рекомендаций для латиницы</string>
-    <string name="pref_key_append_signature_title">Опции подписи</string>
+    <string name="pref_key_append_signature_title">Подпись</string>
     <string name="pref_key_append_signature_summary">Автоматически вставлять подпись в конец сообщения</string>
     <string name="pref_key_edit_signature_title">Редактировать подпись</string>
     <string name="pref_key_signature_summary">Введите тут свою подпись</string>

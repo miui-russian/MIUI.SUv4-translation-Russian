@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="permission_read_attachment_label">Открывать прикрепленные файлы</string>
     <string name="permission_read_attachment_desc">Приложение получит доступ к прикрепленным файлам в сообщениях эл. почты.</string>
     <string name="permission_access_provider_label">Доступ к данным сервиса эл. почты</string>
@@ -54,12 +53,6 @@
     <string name="notification_to_account">Кому: %1$s</string>
     <string name="notification_multiple_new_messages_fmt">Новых сообщений: %1$d</string>
     <string name="account_name_display_all">Все аккаунты</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Junk</string>
     <string name="mailbox_name_display_inbox">Входящие</string>
     <string name="mailbox_name_display_outbox">Исходящие</string>
     <string name="mailbox_name_display_drafts">Черновики</string>
@@ -67,8 +60,8 @@
     <string name="mailbox_name_display_sent">Отправленные</string>
     <string name="mailbox_name_display_junk">Спам</string>
     <string name="mailbox_name_display_unread">Непрочитанные</string>
-    <string name="picker_mailbox_name_all_unread">Входящие (непрочитанные)</string>
-    <string name="picker_mailbox_name_all_inbox">Входящие (все)</string>
+    <string name="picker_mailbox_name_all_unread">Входящие (Непрочитанные)</string>
+    <string name="picker_mailbox_name_all_inbox">Входящие (Все)</string>
     <string name="picker_combined_view_fmt">Комбинированный вид (%s)</string>
     <string name="debug_version_fmt">Версия: %s</string>
     <string name="debug_enable_debug_logging_label">Включить журнал дополнительной отладки?</string>
@@ -123,7 +116,7 @@
     <string name="message_compose_attachment_size">Файл имеет слишком большой размер и не может быть приложен.</string>
     <string name="message_compose_insert_quick_response_list_title">Вставка быстрого ответа</string>
     <string name="message_compose_display_name" formatted="false">%1$s и ещё %2$d</string>
-    <string name="message_view_to_label">На:</string>
+    <string name="message_view_to_label">Кому:</string>
     <string name="message_view_cc_label">Копия:</string>
     <string name="message_view_bcc_label">Скрытая копия:</string>
     <string name="message_view_date_label">Дата:</string>
@@ -166,23 +159,22 @@
     <string name="attachment_info_policy">Политика безопасности аккаунта не позволяет сохранять подобные файлы.</string>
     <string name="attachment_info_wifi_only">Файл слишком большой для загрузки через мобильную сеть. Чтобы сохранить его, нужно подключиться к сети Wi-Fi.</string>
     <string name="attachment_info_no_intent">Неподдерживаемый формат. Чтобы открыть файл, установите подходящее приложение из Android Маркета.</string>
-    <string name="attachment_info_sideload_disabled">Прикрепленный файл является приложением. Чтобы его можно было установить, в разделе \"Настройки > Приложения\" выберите \"Неизвестные источники\".</string>
+    <string name="attachment_info_sideload_disabled">Прикрепленный файл является приложением. Чтобы его можно было установить, в разделе \"Настройки\" &gt; \"Приложения\" выберите \"Неизвестные источники\".</string>
     <string name="attachment_info_apk_install_disabled">Приложения нельзя устанавливать непосредственно из электронной почты. Сохраните файл, перейдите в \"Загрузки\" и выполните установку.</string>
     <string name="attachment_not_found">Не удалось загрузить файл.</string>
     <string name="message_decode_error">При расшифровке сообщения произошла ошибка.</string>
-    <string name="eml_view_title">Просмотр файла %s</string>
-    <string name="message_delete_dialog_title" />
-    <string name="message_discarded_toast">Черновик удален.</string>
-    <string name="message_saved_toast">Черновик сообщения сохранен.</string>
-    <string name="message_view_display_attachment_toast">Невозможно отобразить прикрепленный файл.</string>
-    <string name="message_view_load_attachment_failed_toast">Не удалось загрузить файл \"%s\".</string>
+    <string name="eml_view_title">Просмотр файла \"%s\"</string>
+    <string name="message_discarded_toast">Черновик удален</string>
+    <string name="message_saved_toast">Черновик сообщения сохранен</string>
+    <string name="message_view_display_attachment_toast">Невозможно отобразить прикрепленный файл</string>
+    <string name="message_view_load_attachment_failed_toast">Не удалось загрузить файл \"%s\"</string>
     <string name="message_view_parse_message_toast">Сообщение открывается…</string>
-    <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов.</string>
+    <string name="forward_download_failed_ticker">Сбой при пересылке прикрепленных файлов</string>
     <string name="forward_download_failed_title">Не удалось переслать вложение</string>
-    <string name="login_failed_ticker">Ошибка авторизации %s.</string>
+    <string name="login_failed_ticker">Ошибка авторизации \"%s\"</string>
     <string name="login_failed_title">Не удалось войти в аккаунт</string>
     <string name="message_view_move_to_newer">След.</string>
-    <string name="message_view_move_to_older">След.</string>
+    <string name="message_view_move_to_older">Пред.</string>
     <string name="message_list_subject_snippet_divider">" – "</string>
     <string name="account_setup_basics_title">Настройка аккаунта</string>
     <string name="account_setup_basics_exchange_title">Добавить аккаунт Exchange</string>
@@ -223,9 +215,9 @@
     <string name="account_setup_incoming_port_label">Порт</string>
     <string name="account_setup_incoming_security_label">Тип безопасности</string>
     <string name="account_setup_incoming_security_none_label">Нет</string>
-    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
+    <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Принимать все сертификаты)</string>
     <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
-    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
+    <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (Принимать все сертификаты)</string>
     <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
     <string name="account_setup_incoming_delete_policy_label">Удалять сообщения с сервера</string>
     <string name="account_setup_incoming_delete_policy_never_label">Никогда</string>
@@ -291,15 +283,15 @@
     <string name="account_setup_failed_auth_required">Методы аутентификации не поддерживаются сервером.</string>
     <string name="account_setup_failed_security">Не удалось установить подключение к серверу из-за ошибки безопасности.</string>
     <string name="account_setup_failed_ioerror">Не удалось подключиться к серверу.</string>
-    <string name="account_setup_failed_protocol_unsupported">Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается в Email.</string>
+    <string name="account_setup_failed_protocol_unsupported">Введен неправильный адрес сервера или сервер запрашивает версию протокола, которая не поддерживается в E-mail.</string>
     <string name="account_setup_failed_access_denied">У вас нет разрешений на синхронизацию с этим сервером. За дополнительной информацией обратитесь к администратору сервера.</string>
     <string name="account_setup_security_required_title">Удаленное управление безопасностью</string>
     <string name="account_setup_security_policies_required_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android. Завершить настройку этого аккаунта?</string>
     <string name="account_setup_failed_security_policies_unsupported">Ваше Android-устройство не поддерживает обязательные для сервера функции защиты: %s</string>
     <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт.</string>
-    <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование вашего устройства для приложения Email приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
+    <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование вашего устройства для приложения \"Почта\" приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами.</string>
     <string name="account_security_dialog_title">Обновления безопасности</string>
-    <string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности.</string>
+    <string name="account_security_dialog_content_fmt">Для аккаунта \"%s\" требуется обновить настройки безопасности.</string>
     <string name="security_notification_ticker_fmt">Аккаунт \"%s\" требует обновления настроек безопасности.</string>
     <string name="security_notification_content_title">Обновите систему безопасности</string>
     <string name="account_security_title">Безопасность устройства</string>
@@ -392,7 +384,7 @@
     <string name="general_preference_text_zoom_huge">Огромный</string>
     <string name="general_preference_reply_all_label">Ответить всем</string>
     <string name="general_preference_reply_all_summary">Всегда отвечать всем участникам переписки</string>
-    <string name="general_preferences_clear_trusted_senders_title">Сброс параметра \"Показать изображения\"</string>
+    <string name="general_preferences_clear_trusted_senders_title">Сброс знач.\"Показать изображения\"</string>
     <string name="general_preferences_clear_trusted_senders_summary">Восстановить значения по умолчанию для всех отправителей (отключить автоматический показ их изображений)</string>
     <string name="trusted_senders_cleared">Показ изображений отключен.</string>
     <string name="position_of_count" formatted="false">%1$d из %2$s</string>

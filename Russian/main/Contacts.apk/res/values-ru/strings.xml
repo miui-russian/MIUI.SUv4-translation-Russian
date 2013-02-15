@@ -600,7 +600,7 @@
     <string name="pref_key_rebuild_t9_index_title">Перестроить индексы Т9</string>
     <string name="pref_key_rebuild_t9_index_message">Исправление ошибок при поиске контактов с помощью Т9</string>
     <string name="pref_key_photo">Фото</string>
-    <string name="pref_key_photo_word_title">Автоматический выбор фото для контактов</string>
+    <string name="pref_key_photo_word_title">Автовыбор фото для контактов</string>
     <string name="pref_key_photo_word_summary">Авто отображение фото для контактов без фото</string>
     <string name="raw_contact_list_title">Этот контакт включает в себя следующие %1$d основные контакты, выберите контакт для редактирования</string>
     <string name="raw_contact_account_label">Аккаунт:%1$s</string>

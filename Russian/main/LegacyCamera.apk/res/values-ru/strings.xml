@@ -22,7 +22,6 @@
     <string name="switch_camera_id">Переключить камеру</string>
     <string name="time_lapse_title">Запись временного отрезка</string>
     <string name="pref_camera_id_title">Выбрать камеру</string>
-    <string name="pref_camera_id_default">0</string>
     <string name="pref_camera_id_entry_back">Назад</string>
     <string name="pref_camera_id_entry_front">Вперед</string>
     <string name="pref_camera_recordlocation_title">Сохранить положение</string>
@@ -87,7 +86,6 @@
     <string name="switch_to_camera_label">Переключить в режим фото</string>
     <string name="switch_to_video_label">Переключить в режим видео</string>
     <string name="switch_to_panorama_label">Переключить в режим панорамы</string>
-    <string name="setting_increment" />
     <string name="setting_decrement">&lt;</string>
     <string name="share_picture_via">Поделиться фотографией с</string>
     <string name="share_video_via">Поделиться видео с</string>
