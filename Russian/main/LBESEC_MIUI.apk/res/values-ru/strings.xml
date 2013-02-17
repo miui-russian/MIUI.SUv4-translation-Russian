@@ -63,12 +63,12 @@
     <string name="HIPS_Perm_MobileNetwork">Мобильный интернет</string>
     <string name="HIPS_Perm_MobileNetwork_Desc">Мобильный интернет</string>
     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s приложениям разрешено получать доступ в интернет через мобильную сеть</string>
-    <string name="HIPS_Perm_WIFINetwork">Сети WIFI</string>
-    <string name="HIPS_Perm_WIFINetwork_Desc">Сети WIFI</string>
-    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложениям разрешено получать доступ в интернет через сети WIFI</string>
+    <string name="HIPS_Perm_WIFINetwork">Сети Wi-Fi</string>
+    <string name="HIPS_Perm_WIFINetwork_Desc">Сети Wi-Fi</string>
+    <string name="HIPS_Perm_WIFINetwork_Hint">%1$s приложениям разрешено получать доступ в интернет через сети Wi-Fi</string>
     <string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
     <string name="HIPS_Perm_Network_MobileEvent">Мобильный интернет включён</string>
-    <string name="HIPS_Perm_Network_WIFIEvent">WIFI включён</string>
+    <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi включён</string>
     <string name="HIPS_Perm_Network_Accept">разрешить соединение от %1$s</string>
     <string name="HIPS_Perm_Network_Connect">подключиться к %1$s</string>
     <string name="HIPS_Perm_Network_Listen">ждать сигнала от порта %1$s</string>
@@ -130,7 +130,7 @@
     <string name="HIPS_SecurityPrompt_AcceptRoot">Разрешить</string>
     <string name="HIPS_SecurityPrompt_Next">Следующий</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Важное предупреждение</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step1">Вы хотите предоставить ROOT для %1$d?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">Вы хотите предоставить ROOT для %1$s?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT может привести к нестабильности системы</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step3">Ваша персональная информация, такая как аккаунты, пароли и сообщения могут быть скомпрометированы</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">Также возможны необратимые повреждения аппаратной части телефона</string>
