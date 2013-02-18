@@ -438,7 +438,7 @@
     <string name="screen_on_proximity_sensor_hint">Принудительный выход: нажмите \"Назад\"+\"Громкость вверх\"</string>
     <string name="screen_on_proximity_sensor_summary">Не закрывайте верх экрана</string>
     <string name="screen_on_proximity_sensor_title">Режим предотвращения ошибок</string>
-    <string name="wake_alarm_message">Следующее срабатывание будильника в %s</string>
+    <string name="wake_alarm_message">Следующее срабатывание будильника %s</string>
     <string name="description_downloadtime">Загрузка:</string>
     <string name="alarm_message_12_hour_formate">h:mm aa</string>
     <string name="permlab_accessNote">Доступ к заметкам</string>

@@ -200,7 +200,7 @@
     <string name="all_recent_albums_desc">Избранные альбомы</string>
     <string name="all_album">Все</string>
     <string name="all_recent">Избранное</string>
-    <string name="photos">Фото</string>
+    <string name="photos">" фото"</string>
     <string name="no_recent_album">Вы можете добавить часто просматриваемые альбомы в Избранное для быстрого доступа.</string>
     <string name="tab_lockscreen_text">Обои экарана блокировки</string>
     <string name="tab_wallpaper_text">Обои рабочего стола</string>
@@ -302,7 +302,7 @@
     <string name="rename_failed">Не удалось переименовать</string>
     <string name="rename_failed_duplicated_name">Такое имя уже существует, не удалось переименовать</string>
     <string name="warn">Предупреждение</string>
-    <string name="send_multiple_files_hint_format">Отправить несколько файлов (%s)</string>
+    <string name="send_multiple_files_hint_format">Отправка файлов (%s)</string>
     <string name="no_file">Файлы не обнаружены</string>
     <string name="no_files">Папка пуста</string>
     <string name="send">Отправить</string>

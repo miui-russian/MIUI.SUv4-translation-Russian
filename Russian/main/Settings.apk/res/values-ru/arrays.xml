@@ -83,11 +83,6 @@
     <item>Нет подключения</item>
     <item>Сбой</item>
   </string-array>
-  <string-array name="wifi_eap_method">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-  </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Push-кнопка</item>
     <item>PIN-код с обнаруженного устройства</item>
@@ -132,11 +127,6 @@
     <item>Подсчитать</item>
     <item>Название приложения</item>
   </string-array>
-  <string-array name="wifi_eap_entries">
-    <item>PEAP</item>
-    <item>TLS</item>
-    <item>TTLS</item>
-  </string-array>
   <string-array name="wifi_phase2_entries">
     <item>Нет</item>
     <item>PAP</item>
@@ -168,11 +158,6 @@
     <item>PAP</item>
     <item>CHAP</item>
     <item>PAP или CHAP</item>
-  </string-array>
-  <string-array name="apn_protocol_entries">
-    <item>IPv4</item>
-    <item>IPv6</item>
-    <item>IPv4/IPv6</item>
   </string-array>
   <string-array name="bearer_entries">
     <item>LTE</item>
