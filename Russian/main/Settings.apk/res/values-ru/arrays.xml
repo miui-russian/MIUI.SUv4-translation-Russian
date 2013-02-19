@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string-array name="timezone_filters">
     <item>Америка</item>
@@ -326,27 +326,27 @@
     <item>Энергосбережение</item>
   </string-array>    
     <string-array name="msd_pc_system_install_start_summary">
-    <item>For Windows XP or older versions,\nthe driver needs to be manually installed</item>
-    <item>For Windows Vista or newer versions,\nthe MI 2 music player will appear on your computer</item>
-    <item>For Mac OS operating system,\nthe driver software needs to be manually installed</item>
+    <item>Для Windows XP или версий старее,\nдрайвер следует установить вручную</item>
+    <item>Для Windows Vista или версий новее,\nмузыкальный проигрыватель MI 2 появится на вашем компьютере автоматически</item>
+    <item>Для Mac OS X,\nдрайвер следует установить вручную</item>
     <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-    <item>(Please ignore the Setup Wizard s screen pop up)\nXIAOMI storage device will appear on your computer\nOpen and select Setup.exe for installation</item>
+    <item>(Пожалуйста проигнорируйте всплывающее собщение установщика)\nУстройство хранения Xiaomi появится на ващем компьютере\nОткройте его и выберите для установки Setup.exe</item>
     <item></item>
-    <item>XIAOMI storage device will appear on your computer\nOpen and select AndroidFileTransfer.dmg for installation</item>
+    <item>Устройство хранения Xiaomi появится на ващем компьютере\nОткройте и выберите для установки AndroidFileTransfer.dmg </item>
     <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
-    <item>2.MI 2 mobile storage device will appear on your computer\nYou can now transfer files</item>
+    <item>2.Память телефона MI 2 автоматически появится на вашем компьютере\nТеперь вы можете переносить файлы</item>
     <item></item>
-    <item>Computer will auto open and read phone data\nYou can now transfer files</item>
+    <item>Компьютер автоматически откроет и прочитает данные телефона\nТеперь вы можете перемещать файлы</item>
     <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-    <item>If you install this driver\nMI 2 mobile storage device should appear on the computer</item>
-    <item>For Windows Vista or newer versions,\nthe MI 2 music player will appear on your computer</item>
-    <item>If you install this driver\nComputer will auto open and read phone data</item>
+    <item>Если вы установите этот драйвер\nпамять телефона MI 2 появится на компьютере</item>
+    <item>В Windows Vista или версях поновее,\nмузыкальный проигрыватель MI 2 появится на вашем компьютере автоматически</item>
+    <item>Если вы установите этот драйвер\nкомпьютер автоматически откроет и прочитает память телефона</item>
     <item></item>
     </string-array>
     <string-array name="msd_install_status">
