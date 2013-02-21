@@ -1005,6 +1005,9 @@
     <string name="permissions_format">%1$s, %2$s</string>
     <string name="no_permissions">Не требуется разрешений</string>
     <string name="perms_description_app">Предоставлено %1$s</string>
+    <string name="perms_hide">Скрыть</string>
+    <string name="perms_show_all">Показать все</string>
+    <string name="perms_new_perm_prefix">"НОВОЕ: "</string>
     <string name="usb_storage_activity_title">Запоминающее устройство USB</string>
     <string name="usb_storage_title">USB накопитель подключен</string>
     <string name="usb_storage_message">Вы соединены с компьютером по USB. Нажмите кнопку ниже, если вы хотите скопировать файлы с компьютера на внутренний USB накопитель.</string>
