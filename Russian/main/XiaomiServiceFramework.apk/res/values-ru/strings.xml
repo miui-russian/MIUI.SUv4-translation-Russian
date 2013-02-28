@@ -70,7 +70,7 @@
     <string name="login_notice">Выполняется вход…</string>
     <string name="login_retry">Повтор</string>
     <string name="data_sync_notice">Используйте ваш аккаунт для синхронизации сообщений, контактов и личных данных</string>
-    <string name="sync_dspt">Включить синхронизацию и облачные сервисы</string>
+    <string name="sync_dspt">Синхр. и облачные сервисы</string>
     <string name="sync_sub_dspt">для активации услуги может быть отправлено SMS</string>
     <string name="send_sms_for_sync_title">Синхронизация не активирована</string>
     <string name="send_sms_for_sync_notice">Для активации необходимо отправить SMS. Продолжить?</string>
@@ -103,7 +103,7 @@
     <string name="find_device_disabled_notice">вы можете включить его снова в\nНастройки &lt; Аккаунты &lt;\n- Аккаунты Xiaomi</string>
     <string name="user_agreement_p1">Для входа вы соглашаетесь с\n</string>
     <string name="user_agreement_p2">с правилами пользования сервисами Xiaomi</string>
-    <string name="user_agreement_p3"> и </string>
+    <string name="user_agreement_p3">" и "</string>
     <string name="user_agreement_p4">политикой конфиденциальности.</string>
     <string name="user_agreement_p5">Для входа вы должны согласиться с\n</string>
     <string name="skip_setup_account_title">Пропустить настройки аккаунта</string>

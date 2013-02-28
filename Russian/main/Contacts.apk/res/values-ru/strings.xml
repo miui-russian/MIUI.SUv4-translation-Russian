@@ -468,8 +468,8 @@
     <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d мин %d сек</string>
     <string name="callrecordview_item_op_time_only_minutes">%d мин</string>
     <string name="callrecordview_item_op_time_only_seconds">%d сек</string>
-    <string name="callrecordview_item_op_time_short_outgoing">Исходящий: </string>
-    <string name="callrecordview_item_op_time_short_incoming">Входящий: </string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Исходящий: "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"Входящий: "</string>
     <string name="callrecordview_item_op_time_missed">Не соединено</string>
     <string name="callrecordview_item_op_time_rejected">Отклонен</string>
     <string name="no_contact_name">Имя контакта не сохранено</string>
