@@ -1623,7 +1623,7 @@
     <string name="accessibility_tutorial_title">Руководство по использованию</string>
     <string name="accessibility_tutorial_next">Далее</string>
     <string name="accessibility_tutorial_back">Назад</string>
-    <string name="accessibility_tutorial_finish">Конец</string>
+    <string name="accessibility_tutorial_finish">Закрыть</string>
     <string name="accessibility_tutorial_skip">Пропустить руководство</string>
     <string name="accessibility_tutorial_lesson_1_title">Урок 1: Экран</string>
     <string name="accessibility_tutorial_lesson_1_text_1">После того, как вы включили "подсказки при нажатии", поставьте палец на нужный объект для того, чтобы получить его описание. Например, этот экран содержит иконки приложений. Найдите одну из них, водя пальцем по экрану.</string>
@@ -1976,7 +1976,7 @@
     <string name="dolby_roomsize_normal">" Нормально"</string>
     <string name="dolby_roomsize_high">" Сильно"</string>
     <string name="dolby_equalizer">Эквалайзер</string>
-    <string name="dolby_eq_flat">Квартира</string>
+    <string name="dolby_eq_flat">По умолчанию</string>
     <string name="dolby_eq_rock">Рок</string>
     <string name="dolby_eq_jazz">Джаз</string>
     <string name="dolby_eq_pop">Поп</string>
