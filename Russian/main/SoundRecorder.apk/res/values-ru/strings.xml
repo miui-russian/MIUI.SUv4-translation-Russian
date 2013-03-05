@@ -48,8 +48,8 @@
     <string name="dialog_send">Отправить</string>
     <string name="dialog_delete">Удалить</string>
     <string name="dialog_warning">Опасность</string>
-    <string name="alert_message_delete_record">Вы хотите удалить выбранную запись??</string>
-    <string name="unknown_caller">Неизветный вызов</string>
+    <string name="alert_message_delete_record">Вы хотите удалить выбранную запись?</string>
+    <string name="unknown_caller">Неизвестный номер</string>
     <string name="record_saving">Сохранение записи. Подождите, пожалуйста.</string>
     <string name="preparing_playback">Загрузка записи. Подождите, пожалуйста.</string>
     <string name="loading_duration">Загружается длительность…</string>
