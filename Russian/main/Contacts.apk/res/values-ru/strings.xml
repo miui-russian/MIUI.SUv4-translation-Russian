@@ -546,8 +546,8 @@
     <string name="menu_group_sms">SMS группе</string>
     <string name="menu_group_ringtone">Рингтон группы</string>
     <string name="recent_contacts_label">Последние</string>
-    <string name="pick_favorites_list_title">Всего избранных номеров контактов: %1$d</string>
-    <string name="pick_recent_list_title">Всего последних номеров контактов: %1$d</string>
+    <string name="pick_favorites_list_title">Всего избранных номеров: %1$d</string>
+    <string name="pick_recent_list_title">Всего последних номеров: %1$d</string>
     <string name="noRecentContacts">Нет последних контактов</string>
     <string name="hint_search_contacts">%d контакт(ов)</string>
     <string name="hint_search_phone_numbers">%d номер(ов) контакт(ов)</string>
