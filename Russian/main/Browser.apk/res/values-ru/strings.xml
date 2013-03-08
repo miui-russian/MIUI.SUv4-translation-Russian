@@ -447,7 +447,7 @@
     <string name="search_google">Google</string>
     <string name="search_yahoo">Yahoo</string>
     <string name="search_bing">Bing</string>
-    <string name="MIUI_homepage">MIUI Home</string>
+    <string name="MIUI_homepage">Стартовая страница</string>
     <string name="manage_feature_permissions">Управление разрешениями</string>
     <string name="find_on_page">Найти на странице</string>
 </resources>
