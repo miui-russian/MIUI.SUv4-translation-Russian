@@ -28,7 +28,7 @@
     <string name="sdcard_is_not_present_dialog_title">SD карта не найдена</string>
     <string name="sdcard_has_no_space_dialog_body">Заканчивается место на SD карте. Удалите ненужные файлы</string>
     <string name="sdcard_has_no_space_dialog_title">Заканчивается место на SD карте</string>
-    <string name="current_version_text">Текущая версия </string>
+    <string name="current_version_text">"Текущая версия "</string>
     <string name="current_version_update_monthly_build">Текущая версия (Ежемесячное обновление)</string>
     <string name="apply_update_dialog_update_button">Обновить</string>
     <string name="apply_update_dialog_cancel_button">Отмена</string>
@@ -43,10 +43,10 @@
     <string name="file_not_found_error_message">Запрошенный файл не найден</string>
     <string name="apply_upload_info_message_manually">После перезагрузки, вы можете вручную зайти в Recovery для применения обновления %s с SD карты. Если вы хотите создать резервную копию, вы можете выполнить его и вернуться к обновлению системы</string>
     <string name="apply_upload_info_message">Нажатие \"Обновить сейчас\" автоматичеки перезагружает аппарат после применения обновления</string>
-    <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить сейчас\"</string>
+    <string name="apply_buddy_update_info_message">Для обновления нажмите \"Обновить сейчас\", для отмены нажмите \"Приминить позже\".</string>
     <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
     <string name="system_backup_cancel_text">Перезагрузка для обновления</string>
-    <string name="system_backup_ok_text">Резервное копирование</string>
+    <string name="system_backup_ok_text">Бэкап</string>
     <string name="sytemt_backup_helper">Обновление не очищает пользовательские данные. Однако рекомендуется делать резервную копию перед обновлением</string>
     <string name="system_backup_error_message">Резервная копия MIUI не найдена, сделайте вручную</string>
     <string name="md5_check_cancelled">Проверка MD5 прервана</string>
