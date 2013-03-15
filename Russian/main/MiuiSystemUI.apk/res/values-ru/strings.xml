@@ -266,11 +266,11 @@
     <string name="ext_media_unmountable_notification_title">Повреждённый USB-накопитель</string>
     <string name="ext_media_unmountable_notification_message">USB-накопитель повреждён. Возможно придётся отформатировать его.</string>
     <string name="ext_media_badremoval_notification_title">USB-накопитель неожиданно отсоединён</string>
-    <string name="ext_media_badremoval_notification_message">Чтобы избежать потери данных извлеките USB-накопитель перед отсоединением.</string>
+    <string name="ext_media_badremoval_notification_message">Извлеките накопитель перед отсоединением.</string>
     <string name="ext_media_safe_unmount_notification_title">USB-накопитель можно отсоединить</string>
     <string name="ext_media_safe_unmount_notification_message">Вы можете безопасно отсоединить USB-накопитель.</string>
     <string name="ext_media_nomedia_notification_title">USB-накопитель отсоединён</string>
-    <string name="ext_media_nomedia_notification_message">USB-накопитель отсоединён. Подключите новый носитель.</string>
+    <string name="ext_media_nomedia_notification_message">USB-накопитель отсоединён.</string>
     <string name="screen_button_custom">Настроить положение экранных клавиш</string>
     <string name="recent_apps_key">Клавиша \"Недавние приложения\"</string>
     <string name="recent_apps_key_show">Показать клавишу \"Недавние приложения\"</string>
