@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Зазвонит меньше, чем через 1 мин.</item>
-        <item>Зазвонит через %1$s.</item>
-        <item>Зазвонит через %2$s.</item>
-        <item>Зазвонит через %1$s и %2$s.</item>
-        <item>Зазвонит через %3$s.</item>
-        <item>Зазвонит через %1$s и %3$s.</item>
-        <item>Зазвонит через %2$s и %3$s.</item>
-        <item>Зазвонит через %1$s, %2$s, и %3$s.</item>
+        <item>Зазвонит меньше, чем через 1 мин</item>
+        <item>Зазвонит через %1$s</item>
+        <item>Зазвонит через %2$s</item>
+        <item>Зазвонит через %1$s и %2$s</item>
+        <item>Зазвонит через %3$s</item>
+        <item>Зазвонит через %1$s и %3$s</item>
+        <item>Зазвонит через %2$s и %3$s</item>
+        <item>Зазвонит через %1$s, %2$s, и %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>5 мин.</item>
