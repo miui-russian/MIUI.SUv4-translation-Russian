@@ -29,12 +29,12 @@
         <item quantity="one">" папка"</item>
     </plurals>
     <plurals name="Ntracks_batch_selection">
-        <item quantity="other">выбрано %d песен</item>
-        <item quantity="one">выбрана %d песня</item>
+        <item quantity="other">выбрано песен: %d</item>
+        <item quantity="one">выбрана 1 песня</item>
     </plurals>
     <plurals name="Nalbums_batch_selection">
-        <item quantity="other">выбрано %d альбомов</item>
-        <item quantity="one">выбран %d альбом</item>
+        <item quantity="other">выбрано альбомов: %d</item>
+        <item quantity="one">выбран 1 альбом</item>
     </plurals>
     <plurals name="Nartists_batch_selection">
         <item quantity="other">выбраны %d исполнителя</item>
