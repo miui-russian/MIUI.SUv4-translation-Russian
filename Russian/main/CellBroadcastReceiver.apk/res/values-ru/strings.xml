@@ -6,7 +6,7 @@
     <string name="no_cell_broadcasts">There are no active alerts in your area. You can change the Alert settings using the Settings menu option.</string>
     <string name="menu_preferences">Настройки</string>
     <string name="menu_delete_all">Удалить трансляции</string>
-    <string name="message_options">Message options</string>
+    <string name="message_options">Опции сообщения</string>
     <string name="menu_view">Просмотреть трансляцию</string>
     <string name="menu_delete">Удалить трансляцию</string>
     <string name="confirm_dialog_title">Удаление</string>
@@ -83,6 +83,6 @@
     <string name="cmas_certainty_heading">Определенность:</string>
     <string name="cmas_certainty_observed">Наблюдаемые</string>
     <string name="cmas_certainty_likely">Понравившиеся</string>
-    <string name="notification_multiple">%s непрочитанных оповещений.</string>
+    <string name="notification_multiple">Непрочитанных оповещений: %s</string>
     <string name="notification_multiple_title">Новые оповещения</string>
 </resources>

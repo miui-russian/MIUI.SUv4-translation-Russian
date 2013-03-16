@@ -67,7 +67,7 @@
     <string name="response_yes">Да</string>
     <string name="response_maybe">Может быть</string>
     <string name="response_no">Нет</string>
-    <string name="email_guests_label">E-mail</string>
+    <string name="email_guests_label">E-mail гостей</string>
     <string name="email_picker_label">E-mail с</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="quick_response_settings">Быстрые ответы</string>
@@ -93,7 +93,7 @@
     <string name="delete_label">Удалить</string>
     <string name="save_label">Готово</string>
     <string name="discard_label">Отмена</string>
-    <string name="snooze_all_label">Напомнить</string>
+    <string name="snooze_all_label">Отложить все</string>
     <string name="dismiss_all_label">Удалить все</string>
     <string name="snooze_label">Отложить</string>
     <string name="does_not_repeat">Однократное мероприятие</string>
@@ -105,7 +105,7 @@
     <string name="yearly_plain">Ежегодно</string>
     <string name="monthly_on_day">Ежемесячно (%s числа)</string>
     <string name="yearly">Ежегодно (%s)</string>
-    <string name="custom">Особое… (настраивается только на сайте)</string>
+    <string name="custom">Особое (Настраивается только на телефоне)</string>
     <string name="modify_event">Изменить только это мероприятие</string>
     <string name="modify_all">Изменить все мероприятия в серии</string>
     <string name="modify_all_following">Изменить это и будущие мероприятия</string>
