@@ -1895,11 +1895,11 @@
     <string name="erase_optional">Опциональное удаление</string>
     <string name="erase_application">Удалить приложения</string>
     <string name="erase_application_description">Удалить установленные приложения</string>
-    <string name="confirm_erase">Подтверждение удаления</string>
-    <string name="master_clear_personal_data">Вы уверены, что хотите удалить личные данные?\nВнимание! Операция необратима!</string>
-    <string name="master_clear_personal_data_application">Вы уверены, что хотите удалить личные данные и установленные приложения?\nВнимание! Операция необратима!</string>
-    <string name="master_clear_personal_data_sdcard">Вы уверены, что хотите удалить личные данные и отформатировать SD карту?\nВнимание! Операция необратима!</string>
-    <string name="master_clear_all">Вы уверены, что хотите вернуться к заводским установкам?\nВнимание! Операция необратима!</string>
+    <string name="confirm_erase">Удалить</string>
+    <string name="master_clear_personal_data">Удалить личные данные?\nВнимание! Операция необратима!</string>
+    <string name="master_clear_personal_data_application">Удалить личные данные и установленные приложения?\nВнимание! Операция необратима!</string>
+    <string name="master_clear_personal_data_sdcard">Удалить личные данные и отформатировать SD-карту?\nВнимание! Операция необратима!</string>
+    <string name="master_clear_all">Вернуться к заводским установкам?\nВнимание! Операция необратима!</string>
     <string name="master_clear_erase_application_progress">Удаление приложений…</string>
     <string name="erase_internal_storage">Очистить внутренний накопитель</string>
     <string name="erase_internal_storage_description">Удалить все данные на внутреннем накопителе, такие как музыка или фотографии</string>

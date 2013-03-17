@@ -72,11 +72,11 @@
     <string name="label_notes">Примечания</string>
     <string name="label_sip_address">Интернет-вызов</string>
     <string name="ghostData_company">Компания</string>
-    <string name="ghostData_title">Название</string>
+    <string name="ghostData_title">Должность</string>
     <string name="invalidContactMessage">Контакт не существует.</string>
     <string name="pickerNewContactHeader">Создать новый контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
-    <string name="emailLabelsGroup">Адрес электронной почты</string>
+    <string name="emailLabelsGroup">Электронная почта</string>
     <string name="imLabelsGroup">Чат</string>
     <string name="postalLabelsGroup">Адрес</string>
     <string name="photoPickerNotFoundText">В телефоне нет картинок.</string>
