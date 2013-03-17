@@ -4,8 +4,8 @@
     <string name="download_title">Загрузки</string>
     <string name="download_title_sorted_by_date">Сортировать по дате</string>
     <string name="download_title_sorted_by_size">Сортировать по размеру</string>
-    <string name="no_downloads">Загрузки отсутствуют</string>
-    <string name="missing_title">Неизвестно</string>
+    <string name="no_downloads">Нет загрузок</string>
+    <string name="missing_title">&lt;Неизвестно&gt;</string>
     <string name="button_sort_by_size">Сортировать по размеру</string>
     <string name="button_sort_by_date">Сортировать по дате</string>
     <string name="download_queued">В очереди</string>
@@ -28,10 +28,10 @@
     <string name="delete_download">Удалить</string>
     <string name="keep_queued_download">Продолжить</string>
     <string name="cancel_running_download">Отменить</string>
-    <string name="retry_download">Попробовать еще раз</string>
+    <string name="retry_download">Повторить</string>
     <string name="deselect_all">Снять выделение</string>
     <string name="select_all">Выбрать все</string>
-    <string name="selected_count" formatted="false">Выбрать %1$d из %2$d</string>
+    <string name="selected_count" formatted="false">Выбрано %1$d из %2$d</string>
     <string name="download_share_dialog">Отправить через</string>
     <string name="pause_download_when_wifi_disconnected">Загружать только через Wi-Fi</string>
     <string name="download_when_network_connected">Загрузить, используя мобильную сеть</string>
@@ -55,7 +55,7 @@
     <string name="confirm_delete_the_download_item_message">Вы действительно хотите удалить выбранное?</string>
     <string name="delete_the_downloaded_file">Удалить загруженные элементы.</string>
     <string name="downloads_operating">Загрузка…</string>
-    <string name="confirm_disable_download_only_in_wifi_message">Выключение Загрузка только через Wi-Fi возможно приведет к дополнительным затратам. Вы уверены, что хотите выключить?</string>
+    <string name="confirm_disable_download_only_in_wifi_message">Выключение \"Загрузка только по Wi-Fi\" возможно приведет к дополнительным затратам. Вы уверены, что хотите выключить?</string>
     <string name="select_operation_items">Пожалуйста, выберите элементы</string>
     <string name="preferences_title">Настройки</string>
     <string name="pref_download_settings_title">Лимит трафика</string>
