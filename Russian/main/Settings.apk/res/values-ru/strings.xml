@@ -715,7 +715,7 @@
     <string name="firmware_version">Версия Android:</string>
     <string name="model_number">Модель:</string>
     <string name="fcc_equipment_id">ID оборудования</string>
-    <string name="baseband_version">Прошивка модуля связи</string>
+    <string name="baseband_version">Радиомодуль</string>
     <string name="kernel_version">Версия ядра</string>
     <string name="build_number">Номер сборки</string>
     <string name="device_info_not_available">Недоступно</string>
@@ -723,7 +723,7 @@
     <string name="device_status">Общая информация</string>
     <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
     <string name="device_additional_status_summary">Номер телефона, уровень сигнала, IMEI и т.д.</string>
-    <string name="device_additional_status">Additional Status Info</string>
+    <string name="device_additional_status">Доп. инф. о статусе</string>
     <string name="storage_settings">Память</string>
     <string name="storage_settings_title">Настройки хранилища</string>
     <string name="storage_settings_summary">Отключение SD-карты, сведения о доступной памяти</string>
