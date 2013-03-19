@@ -1,4 +1,4 @@
-	<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="meeting_accepted">Принято: %s</string>
     <string name="meeting_declined">Отклонено: %s</string>
