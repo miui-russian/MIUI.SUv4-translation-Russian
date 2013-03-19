@@ -37,7 +37,6 @@
     <string name="policy_text_truncation">Ограничивать размер текстовых писем</string>
     <string name="policy_html_truncation">Ограничивать размер писем в формате HTML</string>
     <string name="policy_max_attachment_size">Ограничивать размер прикрепленных файлов</string>
-    <string name="policy_require_manual_sync_roaming">В роуминге только синхронизация вручную</string>
     <string name="policy_require_encryption">Обязательное шифрование устройства</string>
     <string name="policy_require_sd_encryption">Обязательное шифрование SD-карты</string>
     <string name="account_setup_options_mail_window_auto">Автоматически</string>
