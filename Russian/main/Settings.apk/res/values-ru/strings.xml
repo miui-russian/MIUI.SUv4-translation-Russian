@@ -715,8 +715,8 @@
     <string name="firmware_version">Версия Android:</string>
     <string name="model_number">Модель:</string>
     <string name="fcc_equipment_id">ID оборудования</string>
-    <string name="baseband_version">Радиомодуль</string>
-    <string name="kernel_version">Версия ядра</string>
+    <string name="baseband_version">Радиомодуль:</string>
+    <string name="kernel_version">Версия ядра:</string>
     <string name="build_number">Номер сборки</string>
     <string name="device_info_not_available">Недоступно</string>
     <string name="device_status_activity_title">Общая информация</string>
@@ -1682,7 +1682,7 @@
     <string name="user_remove_user_menu">Удаление пользователя</string>
     <string name="user_new_user_name">Защита от детей</string>
     <string name="user_confirm_remove_title">Удалить пользователя?</string>
-    <string name="user_confirm_remove_message">Вы уверены ,что хотите удалить пользователя и все данные, связанные с ним?</string>
+    <string name="user_confirm_remove_message">Удалить пользователя и все данные, связанные с ним?</string>
     <string name="app_notifications_switch_label">Показывать уведомления</string>
     <string name="help_label">Помощь</string>
     <string name="cell_broadcast_settings">Широковещательные сообщения</string>

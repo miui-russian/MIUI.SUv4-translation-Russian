@@ -44,7 +44,7 @@
     <string name="download_failed">Загрузка прервана</string>
     <string name="download_preview_failed">Ошибка предпросмотра</string>
     <string name="invalid_url">Неверный URL:</string>
-    <string name="resource_delete_confirm">Вы уверены, что хотите удалить эти ресурсы?</string>
+    <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
     <string name="all_resources">Все</string>
     <string name="resource_default_name">Ресурсы</string>
     <string name="resource_detail">Детали</string>
@@ -386,7 +386,7 @@
     <string name="never">Никогда</string>
     <string name="solar_calendar">Григорианский календарь</string>
     <string name="resource_selected_number">Выбрано ресурсов: %1$d </string>
-    <string name="resource_delete_all">Вы уверены, что хотите удалить %1$d выбранных ресурсов?</string>
+    <string name="resource_delete_all">Выбрано ресурсов (%1$d шт.). Удалить?</string>
     <string name="resource_can_not_selected">%1$s невозможно выбрать!</string>
     <string name="resource_system_title">Системные ресурсы</string>
     <string name="resource_downloaded_title">Загруженные ресурсы</string>
@@ -430,7 +430,7 @@
     <string name="perm_payment_lab">Сервис оплаты Xiaomi</string>
     <string name="perm_payment_dspt">Разрешить приложению оплату через сервисы Xiaomi</string>
     <string name="activate_fail_notification_title">Повтор активации служб Xiaomi</string>
-    <string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется послать SMS, продолжить?</string>
+    <string name="sim_changed_reactivate_notice">Текущая SIM не активирована. Для активации требуется отправить SMS, продолжить?</string>
     <string name="error_title">Ошибка синхронизации для %s</string>
     <string name="error_unauthorized">Слишком много ошибок авторизации. Синхронизация отключена.</string>
     <string name="error_forbidden">Обнаружены ошибки аккаунта. Синхронизация отключена.</string>
@@ -457,7 +457,7 @@
     <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
     <string name="status_bar_toggle_sync_manual">Ручн.синхр</string>
     <string name="status_bar_toggle_syncing">Синхронизация</string>
-    <string name="status_bar_toggle_power_low">Сбережение энергии</string>
+    <string name="status_bar_toggle_power_low">Экономия энергии</string>
     <string name="status_bar_toggle_power_mid">Нормально</string>
     <string name="status_bar_toggle_power_high">Производительность</string>
     <string name="status_bar_toggle_data">Интернет</string>

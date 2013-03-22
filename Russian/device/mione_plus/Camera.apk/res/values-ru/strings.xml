@@ -90,7 +90,7 @@
     <string name="pref_camera_autoexposure_entry_centerweighted">Центровзвешенный</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Усредненный</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
-    <string name="pref_camera_autoexposure_title">Выберите режим экспозамера</string>
+    <string name="pref_camera_autoexposure_title">Режим экспозамера</string>
     <string name="pref_camera_coloreffect_entry_aqua">Вода</string>
     <string name="pref_camera_coloreffect_entry_bluetint">Синий оттенок</string>
     <string name="pref_camera_coloreffect_entry_emboss">Тиснение</string>

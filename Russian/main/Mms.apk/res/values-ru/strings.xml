@@ -432,8 +432,8 @@
     <string name="timed_message_to">кому</string>
     <string name="timed_message_in_total">… (Всего %d)</string>
     <string name="processing">Обработка…</string>
-    <string name="title_date_type">Время сообщений</string>
-    <string name="summary_date_type">Время сообщений</string>
+    <string name="title_date_type">Время</string>
+    <string name="summary_date_type">Время</string>
     <string name="dialog_title_date_type">Время для отображения</string>
     <string name="generating_mms_to_forward">Создание Mms для отправки…</string>
     <string name="mi_msg">Облачные сообщения</string>
@@ -454,7 +454,7 @@
     <string name="mx_auto_resend_mms_summary">Отправить как MMS когда облачные сообщения недоступны.</string>
     <string name="msg_type_hint_sms">Текстовое сообщение</string>
     <string name="msg_type_hint_mms">Мультимедийное сообщение</string>
-    <string name="msg_type_hint_mx">Облачное сообщение</string>
+    <string name="msg_type_hint_mx">Облачные сообщение</string>
     <string name="mx_reactivate">Повторная активация</string>
     <string name="mx_activate_error_title">Ошибка активации облачных сообщений</string>
     <string name="mx_activate_error_sim_change">SIM изменилось, активируйте облачные сообщения заново</string>
