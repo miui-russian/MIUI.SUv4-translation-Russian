@@ -15,7 +15,7 @@
     <string name="operation_copy">Копировать</string>
     <string name="operation_paste">Вставить</string>
     <string name="operation_move">Вырезать</string>
-    <string name="operation_send">Послать</string>
+    <string name="operation_send">Отправить</string>
     <string name="operation_rename">Переименовать</string>
     <string name="operation_delete">Удалить</string>
     <string name="operation_info">Сведения</string>

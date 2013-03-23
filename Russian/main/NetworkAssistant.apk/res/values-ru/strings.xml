@@ -27,7 +27,7 @@
     <string name="warning_title">Предупреждение</string>
     <string name="close_txt">Закрыть</string>
     <string name="cancel_txt">Отмена</string>
-    <string name="disable_background_connect_warning">При ограничении объёма трафика некоторые приложения не смогут работать через сеть. Закрыть?</string>
+    <string name="disable_background_connect_warning">При ограничении объёма трафика некоторые приложения не смогут работать через сеть. Закрыть доступ?</string>
     <string name="menu_refresh">Обновить</string>
     <string name="menu_sort">Сортировка</string>
     <string name="menu_display_wifi">Показать трафик Wi-Fi</string>
@@ -68,7 +68,7 @@
     <string name="unknown_free_traffic_title">Неизвестен порог бесплатного трафика</string>
     <string name="unknown_free_traffic_hint">Если вы не знаете об объемах пакетов трафика и о их стоимости, пожалуйста обратитесь к своему оператору</string>
     <string name="i_known_button">OK</string>
-    <string name="traffic_none">Не исп.</string>
+    <string name="traffic_none">Не использовалось</string>
     <string name="disable_background_mobile_connect">Отключить фоновые соединения</string>
     <string name="control_app_internet">Контроль трафика</string>
     <string name="fire_rule_program_list">Список приложений</string>
@@ -80,7 +80,7 @@
     <string name="app_detail_version">Версия: %s</string>
     <string name="app_detail_internet_control_category">Управление соединениями</string>
     <string name="app_detail_internet_background">​​В фоновом режиме</string>
-    <string name="app_detail_internet_background_traffic">Foreground: %1$s Background: %2$s</string>
+    <string name="app_detail_internet_background_traffic">Трафик: %1$s В фоне: %2$s</string>
     <string name="stop_app_button">Закрыть</string>
     <string name="detail_app_button">Инф. о прил.</string>
     <string name="plate_traffic_already_used">Использовано (%s)</string>

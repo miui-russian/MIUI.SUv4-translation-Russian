@@ -68,8 +68,8 @@
     <string name="old_format_convert_tip2">Или удалите и загрузите новую версию.</string>
     <string name="wrong_title">Ошибка</string>
     <string name="theme_format_wrong_content">Неверный формат темы</string>
-    <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка</string>
-    <string name="apply_font_btn_reboot">Применить и перезагрузить</string>
+    <string name="apply_font_tip">Тема содержит шрифт. Требуется перезагрузка.</string>
+    <string name="apply_font_btn_reboot">Перезагрузить</string>
     <string name="apply_font_btn_exclude">Применить без шрифтов</string>
     <string name="title_local">Локальные</string>
     <string name="title_online">Онлайн</string>
