@@ -692,9 +692,9 @@
     <string name="emailTypeHome">Домашняя</string>
     <string name="emailTypeWork">Рабочая</string>
     <string name="emailTypeOther">Другая</string>
-    <string name="emailTypeMobile">Мобильный</string>
+    <string name="emailTypeMobile">Мобильная</string>
     <string name="postalTypeCustom">Свой ярлык</string>
-    <string name="postalTypeHome">Домашняя</string>
+    <string name="postalTypeHome">Домашний</string>
     <string name="postalTypeWork">Рабочая</string>
     <string name="postalTypeOther">Другая</string>
     <string name="imTypeCustom">Свой ярлык</string>
