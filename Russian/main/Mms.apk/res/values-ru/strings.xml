@@ -191,8 +191,8 @@
     <string name="error_code_label">Код ошибки: </string>
     <string name="menu_edit">Изменить</string>
     <string name="menu_delete_messages">Удалить сообщения</string>
-    <string name="menu_lock">Заблокировать</string>
-    <string name="menu_unlock">Разблокировать</string>
+    <string name="menu_lock">В избранное</string>
+    <string name="menu_unlock">Из избранного</string>
     <string name="sim_copy_to_phone_memory">Копировать в память телефона</string>
     <string name="sim_delete">Удалить</string>
     <string name="sim_view">Просмотр</string>
@@ -340,7 +340,7 @@
     <string name="pref_messaging_list_title">Список</string>
     <string name="bookmark_list_title">Избранное (%1$d)</string>
     <string name="bookmark_attr_format">%1$s , %2$s</string>
-    <string name="delete_bookmark">Удалено из избранного</string>
+    <string name="delete_bookmark">Удалить из избранного</string>
     <string name="view_bookmark">Показать оригинальное сообщение</string>
     <string name="bookmark_confirm_delete_message">Выбранное сообщение будет удалено из избранного</string>
     <string name="phrase_list_title">Шаблоны</string>
