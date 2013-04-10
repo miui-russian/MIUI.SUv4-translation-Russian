@@ -105,9 +105,9 @@
 	<string name="timer_message_with_hour">%1$d часов и %2$d минут</string>
 	<string name="timer_message">%1$d минут</string>
 	<string name="timer_tutorial">Установка таймера</string>
-	<string name="alarm_duration">Интервал срабатывания (Мин)</string>
-	<string name="alarm_duration_title">Настройки интервалов</string>
-	<string name="alarm_count">Количество срабатываний (Раз)</string>
+	<string name="alarm_duration">Интервал повтора (Мин)</string>
+	<string name="alarm_duration_title">Настройка повтора</string>
+	<string name="alarm_count">Количество повторов (Раз)</string>
 	<string name="alarm_duration_summary">Повтор через каждые %d мин</string>
 	<string name="alarm_count_summary">, выключение после %d срабатываний</string>
 	<string name="alarm_count_never_summary">, не отключать</string>
