@@ -221,8 +221,8 @@
     <string name="notification_icon_filter_hide">Не показывать уведомления в строке состояния</string>
     <string name="notification_icon_filter_list_empty_summary">Текущий список пуст</string>
     <string name="notification_icon_filter_other_list">Список приложений</string>
-    <string name="notification_icon_filter_menu_item_show">Показать уведомления этого приложения в строке состояния</string>
-    <string name="notification_icon_filter_menu_item_hide">Не показать уведомления этого приложения в строке состояния</string>
+    <string name="notification_icon_filter_menu_item_show">Показывать уведомления этого приложения в строке состояния</string>
+    <string name="notification_icon_filter_menu_item_hide">Не показывать уведомления этого приложения в строке состояния</string>
     <string name="settings_separator">,</string>
     <string name="incoming_call_vibrate_hint">Входящий вызов</string>
     <string name="notification_vibrate_hint">Уведомление</string>
