@@ -99,7 +99,7 @@
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">Нет SIM.</string>
-    <string name="accessibility_bluetooth_tether">Привязка bluetooth.</string>
+    <string name="accessibility_bluetooth_tether">Привязка Bluetooth.</string>
     <string name="accessibility_airplane_mode">В самолете</string>
     <string name="accessibility_battery_level">Заряд аккумулятора %d</string>
     <string name="accessibility_settings_button">Системные настройки.</string>
@@ -126,7 +126,7 @@
     <string name="status_bar_notification_inspect_item_title">О приложении</string>
     <string name="notifications_off_title">Уведомления выключены</string>
     <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления.</string>
-    <string name="accessibility_rotation_lock_off">Экран будет поворавиваться автоматически.</string>
+    <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически.</string>
     <string name="accessibility_rotation_lock_on_landscape">Установлена ландшафтная ориентация экрана.</string>
     <string name="accessibility_rotation_lock_on_portrait">Установлена портретная ориентация экрана.</string>
     <string name="share">Отправить</string>
@@ -228,7 +228,7 @@
     <string name="notification_vibrate_hint">Уведомление</string>
     <string name="mms_vibrate_hint">Сообщение</string>
     <string name="not_all_vibrate_hint">В соответствии с Вашими настройками, %1$s Вибрация включена, %2$s Вибрация выключена, Вы можете изменить это в настройках > Звук > Вибрация</string>
-    <string name="no_vibrate_hint">В соответствии с Вашими настройками, вибрация отключена при входящем вызове и sms, включение вибрации не будет иметь эффекта</string>
+    <string name="no_vibrate_hint">В соответствии с Вашими настройками, вибрация отключена при входящем вызове и SMS, включение вибрации не будет иметь эффекта</string>
     <string name="to_vibrate_settings">Настройки вибрации</string>
     <string name="camera_key_action_title">Кнопка MI</string>
     <string name="camera_key_action_setting_title">Кнопка MI</string>
@@ -282,5 +282,5 @@
     <string name="status_bar_network_flow_today">Сегодня:%1$s</string>
     <string name="status_bar_network_flow">Сегодня:%1$s Остаток:%2$s Тариф:%3$s</string>
     <string name="status_bar_network_flow_exceed">Сегодня:%1$s Превышено:%2$s Тариф:%3$s</string>
-    <string name="drive_mode_tip">Вы за рулем автомобиля. Будте осторожны!</string>
+    <string name="drive_mode_tip">Вы за рулем автомобиля. Будьте осторожны!</string>
 </resources>

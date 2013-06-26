@@ -60,8 +60,8 @@
     <string name="load_data_failed">Не удалось загрузить данные, проверьте состояние соединения</string>
     <string name="loading_video">Загрузка видео…</string>
     <string name="loading">Идёт загрузка…</string>
-    <string name="no_filter_media">Отсутвуют файлы, отвечающие фильтрации</string>
-    <string name="no_search_result">Поиск не дал результатов. Попробуйте использовать друние ключевые слова.</string>
+    <string name="no_filter_media">Отсутствуют файлы, отвечающие фильтрации</string>
+    <string name="no_search_result">Поиск не дал результатов. Попробуйте использовать другие ключевые слова.</string>
     <string name="no_media">Пусто</string>
     <string name="no_reviews">Отсутствуют отзывы</string>
     <string name="no_special_subject">Без темы</string>
