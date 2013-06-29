@@ -140,7 +140,7 @@
     <string name="notify_traffic_settings_cancel_hint">Уведомления и контроль трафика будут отключены. Выйти?</string>
     <string name="carrier_settings_button">Настройки оператора</string>
     <string name="sync_traffic_no_cmd_title">Нет шаблона</string>
-    <string name="sync_traffic_no_cmd_detail">"Укажите ваши данные в форме по адресу: http://www.miui.com/forum-172-1.html.Спасибо."</string>
+    <string name="sync_traffic_no_cmd_detail">"Укажите ваши данные в форме по адресу: http://www.miui.com/forum-172-1.html. Спасибо."</string>
     <string name="version_label">Версия:</string>
     <string name="sms_template_updated_label">"Обновлено: "</string>
     <string name="unknown">неизвестно</string>
