@@ -53,13 +53,13 @@
     <string name="cab_widget_selection_text">Выбран 1 виджет</string>
     <string name="cab_folder_selection_text">Выбрана 1 папка</string>
     <string name="cab_shortcut_selection_text">Выбран 1 ярлык</string>
-    <string name="permlab_install_shortcut">устанавливать ярлыки</string>
+    <string name="permlab_install_shortcut">Устанавливать ярлыки</string>
     <string name="permdesc_install_shortcut">Приложение сможет самостоятельно добавлять ярлыки.</string>
-    <string name="permlab_uninstall_shortcut">удалять ярлыки</string>
+    <string name="permlab_uninstall_shortcut">Удалять ярлыки</string>
     <string name="permdesc_uninstall_shortcut">Приложение сможет самостоятельно удалять ярлыки.</string>
-    <string name="permlab_read_settings">считывать настройки и ярлыки главного экрана</string>
+    <string name="permlab_read_settings">Считывать настройки и ярлыки главного экрана</string>
     <string name="permdesc_read_settings">Приложение получит доступ к данным о настройках и ярлыках на главном экране.</string>
-    <string name="permlab_write_settings">изменять настройки и ярлыки главного экрана</string>
+    <string name="permlab_write_settings">Изменять настройки и ярлыки главного экрана</string>
     <string name="permdesc_write_settings">Приложение сможет изменять настройки и ярлыки на главном экране.</string>
     <string name="gadget_error_text">Не удалось загрузить виджет</string>
     <string name="uninstall_system_app_text">Это системное приложение, его нельзя удалить.</string>
